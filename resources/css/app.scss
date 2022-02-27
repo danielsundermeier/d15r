@@ -1,0 +1,30 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.js-cookie-consent {
+    @apply fixed bottom-12 right-4 flex items-end justify-center px-4 py-6 sm:p-6 bg-white max-w-sm w-full bg-white shadow-lg rounded-lg pointer-events-auto ring-1 ring-black ring-opacity-5 overflow-hidden
+}
+
+.js-cookie-consent span {
+}
+
+.js-cookie-consent button {
+    @apply underline
+}
+
+#post {
+
+    h1 {
+        @apply mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl
+    }
+
+    h2 {
+        @apply text-2xl font-bold my-3
+    }
+
+    img {
+        @apply w-full rounded-lg
+    }
+
+}
