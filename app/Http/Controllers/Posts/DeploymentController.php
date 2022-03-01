@@ -41,12 +41,6 @@ class DeploymentController extends Controller
         echo $process->getOutput();
 
         $payload = json_decode($githubPayload, true);
-        $payload = [
-            'added' => [],
-            'modified' => [
-                '2022-01-19 Lebensstil.md',
-            ],
-        ];
         foreach ($payload['added'] as $filename) {
             Post::updateOrcreateFromFile('blog/' . $filename);
         }
