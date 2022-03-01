@@ -41,11 +41,11 @@ class DeploymentController extends Controller
         echo $process->getOutput();
 
         $payload = json_decode($githubPayload, true);
-        foreach ($payload['added'] as $filename) {
+        foreach ($payload['head_commit']['added'] as $filename) {
             Post::updateOrcreateFromFile('blog/' . $filename);
         }
 
-        foreach ($payload['modified'] as $filename) {
+        foreach ($payload['head_commit']['modified'] as $filename) {
             Post::updateOrcreateFromFile('blog/' . $filename);
         }
     }
