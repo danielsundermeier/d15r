@@ -23,7 +23,11 @@ Route::get('/impressum', function () {
 
 Route::post('/contact', [ App\Http\Controllers\ContactController::class, 'store' ])->name('contact.store');
 
+Route::post('/blog/deploy', [ App\Http\Controllers\Posts\DeploymentController::class, 'store' ])->name('posts.deploy.store');
+
 Route::get('/blog', [ App\Http\Controllers\Posts\PostController::class, 'index' ])->name('posts.index');
 Route::get('/blog/{post:slug}', [ App\Http\Controllers\Posts\PostController::class, 'show' ])->name('posts.show');
+
+
 
 // require __DIR__.'/auth.php';
