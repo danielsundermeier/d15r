@@ -27,7 +27,7 @@ class DeploymentController extends Controller
         //     return abort(404);
         // }
 
-        $command = 'cd '. Storage::path('blog') . ' && git pull';
+        $command = 'git -C '. Storage::path('blog') . ' pull';
         dump($command);
         $process = Process::fromShellCommandline($command);
 
