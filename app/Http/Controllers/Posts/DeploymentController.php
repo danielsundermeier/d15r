@@ -28,7 +28,7 @@ class DeploymentController extends Controller
         // }
 
         $command = 'git -C '. Storage::path('blog') . ' pull';
-        dump($command);
+        echo $command . PHP_EOL;
         $process = Process::fromShellCommandline($command);
 
         $process->run();
