@@ -16,6 +16,8 @@ class DeploymentController extends Controller
         $githubPayload = $request->getContent();
         $githubHash = $request->header('X-Hub-Signature');
 
+        var_dump($request->all());
+
         $localToken = config('app.deploy_secret');
         $localHash = 'sha1=' . hash_hmac('sha1', $githubPayload, $localToken, false);
 
