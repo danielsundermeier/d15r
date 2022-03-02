@@ -10,7 +10,7 @@
     <!-- Favicon -->
     <link rel="icon" href="/favicon.ico">
 
-    <title>D15r</title>
+    <title>D15r @if(View::hasSection('title')) @yield('title') @endif</title>
 
     <!-- Scripts -->
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.7.0/dist/alpine.js" defer></script>
