@@ -55,11 +55,13 @@ class PostController extends Controller
         $next_post = Post::where('id', '!=', $post->id)
             ->where('published_at', '>=', $post->published_at)
             ->orderBy('published_at', 'ASC')
+            ->orderBy('id', 'ASC')
             ->first();
 
         $previous_post = Post::where('id', '!=', $post->id)
             ->where('published_at', '<=', $post->published_at)
             ->orderBy('published_at', 'DESC')
+            ->orderBy('id', 'DESC')
             ->first();
 
         return view('posts.show')
