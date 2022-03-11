@@ -29,7 +29,9 @@
                     <h3 class="text-xl font-bold my-3">{{ $post->published_at->monthName }}</h2>
                 @endif
 
-                <a href="{{ route('posts.show', ['post' => $post->slug]) }}" class="block underline hover:text-indigo-600">{{ $post->published_at->format('d.m.Y') }} {{ $post->title }}</a>
+                <a href="{{ route('posts.show', ['post' => $post->slug]) }}" class="text-gray-600 hover:bg-gray-50 hover:text-gray-900 flex items-center py-2 text-sm font-medium rounded-md">
+                    <span class="truncate">{{ $post->published_at->format('d.m.Y') }} {{ $post->title }}</span>
+                </a>
 
             @endforeach
 
