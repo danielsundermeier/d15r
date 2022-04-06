@@ -42,11 +42,21 @@ class DeploymentController extends Controller
 
         $payload = json_decode($githubPayload, true);
         foreach ($payload['head_commit']['added'] as $filename) {
-            Post::updateOrcreateFromFile('blog/' . $filename);
+            $this->updateOrcreatePost($filename);
         }
 
         foreach ($payload['head_commit']['modified'] as $filename) {
-            Post::updateOrcreateFromFile('blog/' . $filename);
+            $this->updateOrcreatePost($filename);
         }
+    }
+
+    protected function updateOrcreatePost(string $filename)
+    {
+        // if not in root directory
+        if ($filename != basename($filename)) {
+            return;
+        }
+
+        Post::updateOrcreateFromFile('blog/' . $filename);
     }
 }
