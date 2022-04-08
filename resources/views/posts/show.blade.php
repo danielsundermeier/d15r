@@ -4,6 +4,8 @@
     {{ $post->title }}
 @endsection
 
+@section('canonical', route('posts.show', ['post' => $post->slug]))
+
 @section('content')
 
     <div id="post" class="relative py-16 bg-white overflow-hidden">

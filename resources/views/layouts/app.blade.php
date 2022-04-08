@@ -12,6 +12,8 @@
 
     <title>D15r @if(View::hasSection('title')) @yield('title') @endif</title>
 
+    @if(View::hasSection('title')) <link rel=”canonical” href=”@yield('canonical')”/> @endif
+
     <!-- Scripts -->
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.7.0/dist/alpine.js" defer></script>
 
