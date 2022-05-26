@@ -2,25 +2,38 @@
 
 @section('content')
 
+<header class="py-16 sm:text-center">
+	<div class="px-4 sm:px-6 lg:px-8">
+		<h1 class="mb-4 text-3xl sm:text-4xl tracking-tight text-slate-900 font-extrabold">Herzlich Willkommen</h1>
+		<p class="text-lg text-slate-700">Ich bin Daniel und schreibe hier über Persönlichkeitsentwicklung, meine Gedanken und die Zukunft.</p>
+	</div>
+</header>
+
 <div id="post" class="relative pb-16 bg-white overflow-hidden">
 	<div class="relative px-4 sm:px-6 lg:px-8">
-		<div class="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
-    		@foreach ($posts as $post)
-
-				<a class="text-4xl font-weight-bold" href="{{ route('posts.show', ['post' => $post->slug]) }}">{{ $post->title }}</a>
-				<div class="text-base">{{ $post->published_at->format('d.m.Y') }}</div>
-
-				{!! $post->excerpt !!}
-
-				<div class="">
-					<a href="{{ route('posts.show', ['post' => $post->slug]) }}">weiterlesen</a>
-				</div>
-
-				<hr class="my-6 border-b-2 border-gray-200">
-
+		<div class="mt-6 prose prose-sky prose-lg text-gray-500 mx-auto">
+			@foreach ($posts as $post)
+				<article class="relative group">
+					<div class="absolute -inset-y-2.5 -inset-x-4 md:-inset-y-4 md:-inset-x-6 sm:rounded-2xl group-hover:bg-slate-50/70"></div>
+					<svg viewBox="0 0 9 9" class="hidden absolute right-full mr-6 top-2 text-slate-200 md:mr-12 w-[calc(0.5rem+1px)] h-[calc(0.5rem+1px)] overflow-visible sm:block"><circle cx="4.5" cy="4.5" r="4.5" stroke="currentColor" class="fill-white" stroke-width="2"></circle></svg>
+					<div class="relative">
+						<h3 class="text-base font-bold tracking-tight text-slate-900 pt-8 lg:pt-0">{{ $post->title }}</h3>
+						<div class="mt-2 mb-4 prose prose-slate prose-a:relative prose-a:z-10 line-clamp-2">
+							{!! $post->excerpt !!}
+						</div>
+						<dl class="absolute left-0 top-0 lg:left-auto lg:right-full lg:mr-[calc(6.5rem+1px)]">
+							<dt class="sr-only">Datum</dt>
+							<dd class="whitespace-nowrap text-sm leading-6">
+								<time datetime="{{ $post->published_at }}">{{ $post->published_at->format('d.m.Y') }}</time>
+							</dd>
+						</dl>
+					</div>
+					<a class="flex items-center text-sm text-sky-500 font-medium" href="{{ route('posts.show', ['post' => $post->slug]) }}"><span class="absolute -inset-y-2.5 -inset-x-4 md:-inset-y-4 md:-inset-x-6 sm:rounded-2xl"></span><span class="relative">weiterlesen<span class="sr-only"></span></span><svg class="relative mt-px overflow-visible ml-2.5 text-sky-300" width="3" height="6" viewBox="0 0 3 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M0 0L3 3L0 6"></path></svg></a>
+				</article>
 			@endforeach
-			<div class="text-center">
-				<a href="{{ route('posts.index')}}">Alle Beiträge</a>
+
+			<div class="mt-8 text-center">
+				<a class="text-sky-500" href="{{ route('posts.index')}}">Alle Beiträge</a>
 			</div>
 		</div>
 	</div>

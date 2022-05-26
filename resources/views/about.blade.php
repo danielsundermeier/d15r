@@ -9,11 +9,11 @@
             <span class="mt-2 block text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Hi, ich bin Daniel</span>
           </h1>
           <p class="mt-8 text-xl text-gray-500 leading-8">
-            Es macht mir Spaß mein Leben mit <a href="#software" class="underline hover:text-gray-500 hover:bg-gray-100">Software</a> und <a href="#automation" class="underline hover:text-gray-500 hover:bg-gray-100">Automatisierungen</a> zu vereinfachen.
-            Ich möchte alles automatisieren, damit sich jeder auf seine Leidenschaft konzentrieren kann (<a href="https://danielsundermeier.gitbook.io/knowledge/masterplan/masterplan" class="underline hover:text-gray-500 hover:bg-gray-100">Masterplan</a>).
-            Ich versuche mein <a href="https://danielsundermeier.gitbook.io/knowledge/leben/leben" class="underline hover:text-gray-500 hover:bg-gray-100">Leben</a> so unkompliziert und angenehm wie möglich zu gestalten.
-            Ich veröffentliche meine Gedanken in meinen <a href="https://danielsundermeier.gitbook.io/knowledge/" class="underline hover:text-gray-500 hover:bg-gray-100">Notizen</a>. Du bist herzlich eingeladen mit mir darüber zu <a href="#contact" class="underline hover:text-gray-500 hover:bg-gray-100">diskutieren</a>.
-            Meine anderen Projekte findest Du bei <a href="https://github.com/danielsundermeier" class="underline hover:text-gray-500 hover:bg-gray-100">Github</a>.
+            Es macht mir Spaß mein Leben mit <a href="#software" class="underline text-sky-500 hover:text-sky-600">Software</a> und <a href="#automation" class="underline text-sky-500 hover:text-sky-600">Automatisierungen</a> zu vereinfachen.
+            Ich möchte alles automatisieren, damit sich jeder auf seine Leidenschaft konzentrieren kann (<a href="https://danielsundermeier.gitbook.io/knowledge/masterplan/masterplan" class="underline text-sky-500 hover:text-sky-600">Masterplan</a>).
+            Ich versuche mein <a href="https://danielsundermeier.gitbook.io/knowledge/leben/leben" class="underline text-sky-500 hover:text-sky-600">Leben</a> so unkompliziert und angenehm wie möglich zu gestalten.
+            Ich veröffentliche meine Gedanken in meinen <a href="https://danielsundermeier.gitbook.io/knowledge/" class="underline text-sky-500 hover:text-sky-600">Notizen</a>. Du bist herzlich eingeladen mit mir darüber zu <a href="#contact" class="underline text-sky-500 hover:text-sky-600">diskutieren</a>.
+            Meine anderen Projekte findest Du bei <a href="https://github.com/danielsundermeier" class="underline text-sky-500 hover:text-sky-600">Github</a>.
           </p>
         </div>
       </div>
@@ -22,7 +22,7 @@
     <div class="bg-white" id="software">
       <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-24 lg:px-8 lg:grid lg:grid-cols-3 lg:gap-x-8">
         <div>
-          <h2 class="text-base font-semibold text-indigo-600 uppercase tracking-wide">Programmieren</h2>
+          <h2 class="text-base font-semibold text-sky-600 uppercase tracking-wide">Programmieren</h2>
           <p class="mt-2 text-3xl font-extrabold text-gray-900">Auswahl meiner Projekte</p>
           <p class="mt-4 text-lg text-gray-500"></p>
         </div>
@@ -80,7 +80,7 @@
     <div class="bg-gray-300" id="automation">
       <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-24 lg:px-8 lg:grid lg:grid-cols-3 lg:gap-x-8">
         <div>
-          <h2 class="text-base font-semibold text-indigo-600 uppercase tracking-wide">Automation</h2>
+          <h2 class="text-base font-semibold text-sky-600 uppercase tracking-wide">Automation</h2>
           <p class="mt-2 text-3xl font-extrabold text-gray-900">Tools, die ich nutze</p>
           <p class="mt-4 text-lg text-gray-500"></p>
         </div>
@@ -128,7 +128,7 @@
                 Ich bin sehr an deiner Weltsicht und Vision für die Zukunft interessiert! Hast Du Lust dich mit mir darüber zu unterhalten?
             </p>
             <p class="mt-3 text-lg leading-6 text-gray-500">
-                <a href="https://notes.d15r.de/zukunft/vision" class="underline hover:text-gray-500 hover:bg-gray-100" target="_blank">Hier</a> findest Du meine.
+                <a href="https://notes.d15r.de/zukunft/vision" class="underline text-sky-500 hover:text-sky-600" target="_blank">Hier</a> findest Du meine.
             </p>
           </div>
         </div>
@@ -139,27 +139,27 @@
 
               <div>
                 <label for="name" class="sr-only">Name</label>
-                <input type="text" name="name" id="name" autocomplete="name" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-indigo-500 focus:border-indigo-500 border-gray-300 rounded-md" placeholder="Name">
+                <input type="text" name="name" id="name" autocomplete="name" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-sky-500 focus:border-sky-500 border-gray-300 rounded-md" placeholder="Name">
                 @error('name')
                     <p class="mt-2 text-sm text-red-600" id="email-error">{{ $message }}</p>
                 @enderror
               </div>
               <div>
                 <label for="mail" class="sr-only">E-Mail</label>
-                <input id="mail" name="mail" type="email" autocomplete="email" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-indigo-500 focus:border-indigo-500 border-gray-300 rounded-md" placeholder="E-Mail">
+                <input id="mail" name="mail" type="email" autocomplete="email" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-sky-500 focus:border-sky-500 border-gray-300 rounded-md" placeholder="E-Mail">
                 @error('mail')
                     <p class="mt-2 text-sm text-red-600" id="email-error">{{ $message }}</p>
                 @enderror
               </div>
               <div>
                 <label for="message" class="sr-only">Nachricht</label>
-                <textarea id="message" name="message" rows="4" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-indigo-500 focus:border-indigo-500 border-gray-300 rounded-md" placeholder="Nachricht"></textarea>
+                <textarea id="message" name="message" rows="4" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-sky-500 focus:border-sky-500 border-gray-300 rounded-md" placeholder="Nachricht"></textarea>
                 @error('message')
                     <p class="mt-2 text-sm text-red-600" id="email-error">{{ $message }}</p>
                 @enderror
               </div>
               <div>
-                <button type="submit" class="inline-flex justify-center py-3 px-6 border border-transparent shadow-sm text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                <button type="submit" class="inline-flex justify-center py-3 px-6 border border-transparent shadow-sm text-base font-medium rounded-md text-white bg-sky-600 hover:bg-sky-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-sky-500">
                   Abschicken
                 </button>
               </div>
