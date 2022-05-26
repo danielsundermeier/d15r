@@ -52,6 +52,7 @@
         <div class="hidden md:flex md:space-x-10">
           <a href="{{ route('home') }}" class="font-medium text-gray-500 hover:text-gray-900">Home</a>
           <a href="{{ route('posts.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Blog</a>
+          <a href="{{ route('about.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Über mich</a>
           <a href="https://notes.d15r.de" target="_blank" class="font-medium text-gray-500 hover:text-gray-900">Notizen</a>
           <a href="https://github.com/danielsundermeier" target="_blank" class="font-medium text-gray-500 hover:text-gray-900">Github</a>
         </div>
@@ -89,6 +90,7 @@
           <div class="px-2 pt-2 pb-3" role="none">
             <a href="{{ route('home') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Home</a>
             <a href="{{ route('posts.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Blog</a>
+            <a href="{{ route('about.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Über mich</a>
             <a href="https://notes.d15r.de" target="_blank" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Notizen</a>
             <a href="https://github.com/danielsundermeier" target="_blank" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Github</a>
           </div>

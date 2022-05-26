@@ -8,13 +8,17 @@
 
 @section('content')
 
-    <div id="post" class="relative py-16 bg-white overflow-hidden">
+    <div id="post" class="relative pb-16 bg-white overflow-hidden">
         <div class="relative px-4 sm:px-6 lg:px-8">
+            <div class="text-lg py-16 max-w-prose mx-auto text-center">
+                <h1>
+                    <span class="mt-2 block text-4xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">{{ $post->title }}</span>
+                </h1>
+                <div class="text-base text-gray-500">{{ $post->published_at->format('d.m.Y') }}</div>
+            </div>
             <div class="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
 
-                <a href="{{ route('posts.index')}}">Übersicht</a>
-
-                {!! $post->body !!}
+				{!! $post->content !!}
 
                 <nav class="border-t border-gray-200 px-4 flex items-center justify-between sm:px-0">
                     @isset($previous_post)

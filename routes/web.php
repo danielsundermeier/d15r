@@ -13,9 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-})->name('home');
+Route::get('/', [ App\Http\Controllers\WelcomeController::class, 'index' ])->name('home');
 
 Route::get('/impressum', function () {
     return view('impressum');
@@ -24,6 +22,8 @@ Route::get('/impressum', function () {
 Route::post('/contact', [ App\Http\Controllers\ContactController::class, 'store' ])->name('contact.store');
 
 Route::post('/blog/deploy', [ App\Http\Controllers\Posts\DeploymentController::class, 'store' ])->name('posts.deploy.store');
+
+Route::get('/about', [ App\Http\Controllers\AboutController::class, 'index' ])->name('about.index');
 
 Route::get('/blog', [ App\Http\Controllers\Posts\PostController::class, 'index' ])->name('posts.index');
 Route::get('/blog/{post:slug}', [ App\Http\Controllers\Posts\PostController::class, 'show' ])->name('posts.show');
