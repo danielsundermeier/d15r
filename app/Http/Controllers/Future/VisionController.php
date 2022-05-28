@@ -58,6 +58,7 @@ class VisionController extends Controller
             ->with('title', $title)
             ->with('content', Markdown::convertToHtml($markdown_content))
             ->with('previous', $previous ?? null)
-            ->with('next', $next ?? null);
+            ->with('next', $next ?? null)
+            ->with('github_edit_url', 'https://github.com/danielsundermeier/blog/edit/main/future/vision/' . $markdownfilename . '.md');
     }
 }
