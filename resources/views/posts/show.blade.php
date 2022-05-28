@@ -10,7 +10,7 @@
 
 <div class="max-w-8xl mx-auto"><div class="flex px-4 pt-8 pb-10 lg:px-8"><a class="group flex font-semibold text-sm leading-6 text-slate-700 hover:text-slate-900" href="{{ route('posts.index') }}"><svg viewBox="0 -9 3 24" class="overflow-visible mr-3 text-slate-400 w-auto h-6 group-hover:text-slate-600"><path d="M3 0L0 3L3 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Übersicht</a></div></div>
 
-<div id="post" class="relative pb-16 bg-white overflow-hidden">
+<div id="post" class="pb-16 bg-white overflow-hidden">
     <div class="relative px-4 sm:px-6 lg:px-8">
         <div class="text-lg py-16 max-w-prose mx-auto text-center">
             <h1>

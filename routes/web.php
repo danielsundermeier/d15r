@@ -25,6 +25,9 @@ Route::post('/blog/deploy', [ App\Http\Controllers\Posts\DeploymentController::c
 
 Route::get('/about', [ App\Http\Controllers\AboutController::class, 'index' ])->name('about.index');
 
+Route::get('/future/masterplan/{markdownfilename?}', [ App\Http\Controllers\Future\MasterplanController::class, 'show' ])->name('future.masterplan.show');
+Route::get('/future/vision/{markdownfilename?}', [ App\Http\Controllers\Future\VisionController::class, 'show' ])->name('future.vision.show');
+
 Route::get('/blog', [ App\Http\Controllers\Posts\PostController::class, 'index' ])->name('posts.index');
 Route::get('/blog/{post:slug}', [ App\Http\Controllers\Posts\PostController::class, 'show' ])->name('posts.show');
 
