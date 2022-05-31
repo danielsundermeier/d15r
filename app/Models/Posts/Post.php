@@ -18,6 +18,8 @@ class Post extends Model
 
     const ROUTE_NAME = 'posts';
 
+    const WORDS_PER_MINUTE = 200;
+
     protected $appends = [
         //
     ];
@@ -149,5 +151,15 @@ class Post extends Model
     public function getGithubEditUrlAttribute(): string
     {
         return 'https://github.com/danielsundermeier/blog/edit/main/' . $this->filename;
+    }
+
+    public function getWordCountAttribute(): int
+    {
+        return str_word_count($this->markdown_body);
+    }
+
+    public function getReadingTimeAttribute(): int
+    {
+        return ceil($this->word_count / self::WORDS_PER_MINUTE);
     }
 }
