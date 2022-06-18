@@ -2,18 +2,21 @@
 
 namespace App\Models\Posts;
 
-use App\Support\Markdown;
 use Carbon\Carbon;
-use D15r\ModelPath\Traits\HasModelPath;
 use D15r\Traits\HasPath;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
+use App\Support\Markdown;
+use App\Traits\HasMarkdown;
+
+use Illuminate\Support\Str;
+use D15r\ModelPath\Traits\HasModelPath;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Storage;
-use Illuminate\Support\Str;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
 
 class Post extends Model
 {
     use HasFactory,
+        HasMarkdown,
         HasModelPath;
 
     const ROUTE_NAME = 'posts';
@@ -105,61 +108,8 @@ class Post extends Model
         ];
     }
 
-    public function getBodyAttribute(): string
-    {
-        if (is_null($this->markdown_body)) {
-            return '';
-        }
-
-        return Markdown::convertToHtml($this->markdown_body);
-    }
-
-    public function getMarkdownContentAttribute(): string
-    {
-        return trim(substr($this->markdown_body, strpos($this->markdown_body, "\n") + 1));
-    }
-
-    public function getContentAttribute(): string
-    {
-        if (is_null($this->markdown_body)) {
-            return '';
-        }
-
-        return Markdown::convertToHtml($this->markdown_content);
-    }
-
-    public function getMarkdownExcerptAttribute()
-    {
-        $body = trim(substr($this->markdown_body, strpos($this->markdown_body, "\n") + 1));
-
-        $needle = "\n\n";
-        $pos1 = strpos($body, $needle);
-        $pos2 = strpos($body, $needle, $pos1 + strlen($needle));
-
-        return trim(substr($body, 0, $pos2)) . '...';
-    }
-
-    public function getExcerptAttribute()
-    {
-        if (empty($this->markdown_excerpt)) {
-            return '';
-        }
-
-        return Markdown::convertToHtml($this->markdown_excerpt);
-    }
-
     public function getGithubEditUrlAttribute(): string
     {
         return 'https://github.com/danielsundermeier/blog/edit/main/' . $this->filename;
-    }
-
-    public function getWordCountAttribute(): int
-    {
-        return str_word_count($this->markdown_body);
-    }
-
-    public function getReadingTimeAttribute(): int
-    {
-        return ceil($this->word_count / self::WORDS_PER_MINUTE);
     }
 }
