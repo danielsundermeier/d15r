@@ -31,6 +31,8 @@ Route::get('/future/vision/{markdownfilename?}', [ App\Http\Controllers\Future\V
 Route::get('/blog', [ App\Http\Controllers\Posts\PostController::class, 'index' ])->name('posts.index');
 Route::get('/blog/{post:slug}', [ App\Http\Controllers\Posts\PostController::class, 'show' ])->name('posts.show');
 
+Route::get('/guides', [ App\Http\Controllers\Guides\GuideController::class, 'index' ])->name('guides.index');
+Route::get('/guides/{guide:slug}/{file?}', [ App\Http\Controllers\Guides\GuideController::class, 'show' ])->name('guides.show');
 
 
 // require __DIR__.'/auth.php';
