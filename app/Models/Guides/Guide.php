@@ -17,7 +17,7 @@ class Guide extends Model
 
     const FILES = [
         'spickzettel' => 'Spickzettel',
-        'umsetzung' => 'Umsetzung',
+        'umsetzung' => 'Meine Umsetzung',
         'integration' => 'Integration',
         'handbuch' => 'Handbuch',
     ];
@@ -128,6 +128,11 @@ class Guide extends Model
     public function getGithubEditUrlAttribute(): string
     {
         return 'https://github.com/danielsundermeier/blog/edit/main/' . str_replace('blog/', '', $this->directory);
+    }
+
+    public function getNotesUrlAttribute(): string
+    {
+        return 'https://notes.d15r.de/leben/' . str_replace('blog/guides/', '', $this->directory);
     }
 
 

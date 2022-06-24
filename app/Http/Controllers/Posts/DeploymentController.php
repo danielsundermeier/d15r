@@ -5,6 +5,7 @@ namespace App\Http\Controllers\Posts;
 use App\Models\Posts\Post;
 use D15r\Deployment\Http\Controllers\Controller;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\Storage;
 use Symfony\Component\Process\Exception\ProcessFailedException;
 use Symfony\Component\Process\Process;
@@ -48,6 +49,8 @@ class DeploymentController extends Controller
         foreach ($payload['head_commit']['modified'] as $filename) {
             $this->updateOrcreatePost($filename);
         }
+
+        Artisan::call('guides:import');
     }
 
     protected function updateOrcreatePost(string $filename)

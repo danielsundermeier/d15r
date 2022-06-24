@@ -21,7 +21,7 @@ class ImportCommand extends Command
      *
      * @var string
      */
-    protected $description = 'Erstellt und aktialisiert Guides aus Dateien';
+    protected $description = 'Erstellt und aktualisiert Guides aus Dateien';
 
     /**
      * Create a new command instance.

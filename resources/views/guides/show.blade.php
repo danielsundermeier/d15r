@@ -25,6 +25,8 @@
                     @foreach ($guide->available_files as $slug => $name)
                         <a href="{{ route('guides.show', ['guide' => $guide, 'file' => $slug]) }}" class="@if($slug == $file) bg-sky-100 text-sky-700 @else text-gray-500 hover:text-gray-700 @endif px-3 py-2 font-medium text-sm rounded-md">{{ $name }}</a>
                     @endforeach
+
+                    <a target="_blank" href="{{ $guide->notes_url }}" class="text-gray-500 hover:text-gray-700 px-3 py-2 font-medium text-sm rounded-md">Notizen</a>
                 </nav>
             </div>
         </div>
