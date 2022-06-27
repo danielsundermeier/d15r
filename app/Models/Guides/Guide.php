@@ -2,6 +2,7 @@
 
 namespace App\Models\Guides;
 
+use Illuminate\Support\Arr;
 use Illuminate\Support\Str;
 use D15r\ModelPath\Traits\HasModelPath;
 use Illuminate\Database\Eloquent\Model;
@@ -91,10 +92,10 @@ class Guide extends Model
     public function updateFromDirectory(array $attributes): self
     {
         $this->update([
-            'has_spickzettel' => $attributes['has_spickzettel'],
-            'has_integration' => $attributes['has_integration'],
-            'has_umsetzung' => $attributes['has_umsetzung'],
-            'has_handbuch' => $attributes['has_handbuch'],
+            'has_spickzettel' => Arr::get($attributes, 'has_spickzettel', false),
+            'has_integration' => Arr::get($attributes, 'has_integration', false),
+            'has_umsetzung' => Arr::get($attributes, 'has_umsetzung', false),
+            'has_handbuch' => Arr::get($attributes, 'has_handbuch', false),
         ]);
 
         return $this;
