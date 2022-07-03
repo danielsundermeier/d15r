@@ -76,6 +76,7 @@
               </div>
             </div>
             <a href="{{ route('guides.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Guides</a>
+            <a href="{{ route('contact.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Kontakt</a>
           </div>
         </nav>
       </div>
@@ -104,6 +105,7 @@
               <a href="{{ route('posts.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Blog</a>
               <a href="{{ route('about.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Über mich</a>
               <a href="{{ route('guides.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Guides</a>
+              <a href="{{ route('contact.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Kontakt</a>
             </div>
           </div>
         </div>
@@ -118,6 +120,11 @@
 <footer class="bg-gray-800">
 	<div class="max-w-7xl mx-auto py-12 px-4 overflow-hidden sm:px-6 lg:px-8">
 		<nav class="-mx-5 -my-2 flex flex-wrap justify-center" aria-label="Footer">
+
+			<div class="px-5 py-2">
+				<a href="{{ route('contact.index')}}" class="text-base text-gray-300 hover:text-white"> Kontakt </a>
+			</div>
+
 			<div class="px-5 py-2">
 				<a href="https://notes.d15r.de" target="_blank" class="text-base text-gray-300 hover:text-white"> Wissenssammlung </a>
 			</div>
