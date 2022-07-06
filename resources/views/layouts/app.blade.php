@@ -11,7 +11,10 @@
 	<!-- Favicon -->
 	<link rel="icon" href="/favicon.ico">
 
-	<title>D15r @if(View::hasSection('title')) @yield('title') @endif</title>
+	<title>D15r @if(View::hasSection('title'))@yield('title')@endif</title>
+	@if(View::hasSection('description'))
+		<meta name="description" content="@yield('description')" />
+	@endif
 
 	@if(View::hasSection('title'))
 		<link rel=”canonical” href=”@yield('canonical')” />

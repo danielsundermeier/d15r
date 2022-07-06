@@ -3,7 +3,6 @@
 namespace App\Traits;
 
 use App\Support\Markdown;
-use Illuminate\Support\Str;
 
 trait HasMarkdown
 {
@@ -38,7 +37,7 @@ trait HasMarkdown
         $pos1 = strpos($body, $needle);
         $pos2 = strpos($body, $needle, $pos1 + strlen($needle));
 
-        return trim(substr($body, 0, $pos2)) . '...';
+        return trim(substr($body, 0, $pos2));
     }
 
     public function getExcerptAttribute()

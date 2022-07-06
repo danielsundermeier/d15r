@@ -1,10 +1,8 @@
 @extends('layouts.app')
 
-@section('title')
-    {{ $post->title }}
-@endsection
-
+@section('title', $post->title)
 @section('canonical', route('posts.show', ['post' => $post->slug]))
+@section('description', $post->description)
 
 @section('content')
 

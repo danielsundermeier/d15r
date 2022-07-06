@@ -3,8 +3,6 @@
 namespace App\Models\Posts;
 
 use Carbon\Carbon;
-use D15r\Traits\HasPath;
-use App\Support\Markdown;
 use App\Traits\HasMarkdown;
 
 use Illuminate\Support\Str;
@@ -94,7 +92,6 @@ class Post extends Model
         return $this;
     }
 
-
     public function isDeletable() : bool
     {
         return true;
@@ -106,6 +103,11 @@ class Post extends Model
             'index_path',
             'path',
         ];
+    }
+
+    public function getDescriptionAttribute(): string
+    {
+        return trim(preg_replace('/\s+/', ' ', strip_tags($this->excerpt)));
     }
 
     public function getGithubEditUrlAttribute(): string
