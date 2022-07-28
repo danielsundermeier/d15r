@@ -13,15 +13,16 @@
 
 	<title>D15r @if(View::hasSection('title'))@yield('title')@endif</title>
 	@if(View::hasSection('description'))
-		<meta name="description" content="@yield('description')" />
+	<meta name="description" content="@yield('description')" />
 	@endif
 
 	@if(View::hasSection('title'))
-		<link rel=”canonical” href=”@yield('canonical')” />
+	<link rel=”canonical” href=”@yield('canonical')” />
 	@endif
 
 	<!-- Scripts -->
-	<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.7.0/dist/alpine.js" defer></script>
+	<script defer src="https://unpkg.com/@alpinejs/persist@3.x.x/dist/cdn.min.js"></script>
+	<script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 
 	<!-- Fonts -->
 	<link rel="dns-prefetch" href="//fonts.gstatic.com">
@@ -36,7 +37,7 @@
 	</style>
 </head>
 
-<body class="relative">
+<body class="relative" x-data="{'shouldShow': $persist(0), 'isModalOpen': false}" x-on:keydown.escape="isModalOpen=false" x-init="$nextTick(() => { isModalOpen=(shouldShow == 0 || Date.now() > shouldShow + (1000*60*60*24*30)); shouldShow=Date.now(); });">
 
 	<div class="bg-gray-50" x-data="{ open: false }">
 		<div class="py-4">
@@ -188,6 +189,32 @@
 		</div>
 	</div>
 	@endif
+
+	<div class="relative z-10" role="dialog" aria-modal="true" x-show="isModalOpen" x-cloak x-transition:enter="ease-out duration-300" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave="ease-in duration-200" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0">
+		<div class="fixed inset-0 bg-gray-500 bg-opacity-25 transition-opacity"></div>
+
+		<div class="fixed inset-0 z-10 overflow-y-auto p-4 sm:p-6 md:p-20">
+			<div x-on:click.away="isModalOpen = false" class="mx-auto max-w-4xl transform divide-y divide-gray-100 overflow-hidden rounded-xl bg-white shadow-2xl ring-1 ring-black ring-opacity-5 transition-all" x-transition:enter="ease-out duration-300" x-transition:enter-start="opacity-0 scale-95" x-transition:enter-end="opacity-100 scale-100" x-transition:leave="ease-in duration-200" x-transition:leave-start="opacity-100 scale-100" x-transition:leave-end="opacity-0 scale-95">
+
+				<div class="relative bg-white">
+					<div class="h-56 bg-sky-600 sm:h-72 lg:absolute lg:left-0 lg:h-full lg:w-1/2">
+						<img class="w-full h-full object-cover" src="{{ Storage::disk('public')->url('daniel.jpg') }}" alt="Daniel auf einem Sofa">
+					</div>
+					<div class="relative max-w-7xl mx-auto px-4 py-8 sm:py-12 sm:px-6 lg:py-16">
+						<div class="max-w-2xl mx-auto lg:max-w-none lg:mr-0 lg:ml-auto lg:w-1/2 lg:pl-10">
+							<h2 class="mt-6 text-3xl font-extrabold text-gray-900 sm:text-4xl">Dem Glück auf die Sprünge helfen</h2>
+							<p class="mt-6 text-lg text-gray-500">Hi, ich bin Daniel und würde mich gerne mit dir über deine Weltsicht und Lebensphilosophie unterhalten.</p>
+							<p class="mt-6 text-lg text-gray-500">Hast Du Lust auf ein 30-minütiges Gespräch indem wir uns kennenlernen?</p>
+							<div class="mt-8 overflow-hidden">
+								<a href="{{ route('contact.index') }}" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-sky-600 hover:bg-sky-700"> Kontakt </a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
 
 </body>
 </script>
