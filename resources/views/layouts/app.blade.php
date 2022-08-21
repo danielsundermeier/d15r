@@ -207,6 +207,7 @@
 							<p class="mt-6 text-lg text-gray-500">Hast Du Lust auf ein 30-minütiges Gespräch indem wir uns kennenlernen?</p>
 							<div class="mt-8 overflow-hidden">
 								<a href="{{ route('contact.index') }}" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-sky-600 hover:bg-sky-700"> Kontakt </a>
+								<button @click="isModalOpen = false" class="ml-3 inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-gray-400 bg-white hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:shadow-outline focus:border-blue-300 active:bg-gray-50 active:text-gray-400 transition ease-in-out duration-150"> Schließen </button>
 							</div>
 						</div>
 					</div>
