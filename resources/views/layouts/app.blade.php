@@ -80,7 +80,6 @@
 								</div>
 							</div>
 						</div>
-						<a href="{{ route('guides.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Guides</a>
 						<a href="{{ route('contact.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Kontakt</a>
 					</div>
 				</nav>
@@ -109,7 +108,6 @@
 							<a href="{{ route('home') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Home</a>
 							<a href="{{ route('posts.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Blog</a>
 							<a href="{{ route('about.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Über mich</a>
-							<a href="{{ route('guides.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Guides</a>
 							<a href="{{ route('contact.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Kontakt</a>
 						</div>
 					</div>
