@@ -37,7 +37,7 @@
 	</style>
 </head>
 
-<body class="relative" x-data="{'shouldShow': $persist(0), 'isModalOpen': false}" x-on:keydown.escape="isModalOpen=false" x-init="$nextTick(() => { isModalOpen=(shouldShow == 0 || Date.now() > shouldShow + (1000*60*60*24*30)); shouldShow=Date.now(); });">
+<body class="relative" x-data="{'shouldShow': $persist(0), 'isModalOpen': false, 'pageCount': $persist(0)}" x-on:keydown.escape="isModalOpen=false" x-init="$nextTick(() => { pageCount++; isModalOpen=((pageCount % 3 == 0) && (shouldShow == 0 || Date.now() > shouldShow + (1000*60*60*24*30))); if (isModalOpen) { pageCount = 0; shouldShow=Date.now();  } });">
 
 	<div class="bg-gray-50" x-data="{ open: false }">
 		<div class="py-4">
