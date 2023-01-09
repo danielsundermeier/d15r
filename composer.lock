@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a57cbd198a27d0503d8be5906deabb46",
+    "content-hash": "b6a89b2fcba535bf73eb35b0b88d5a5f",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -124,16 +124,16 @@
         },
         {
             "name": "danielsundermeier/laravel-deploy",
-            "version": "0.1.0",
+            "version": "0.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/danielsundermeier/laravel-deploy.git",
-                "reference": "752221c58e2cccf49b6cbd9fd3ff3c0c3dae3ced"
+                "reference": "83ad7c4618eda0be7eea537ce3a5b986056b7659"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/danielsundermeier/laravel-deploy/zipball/752221c58e2cccf49b6cbd9fd3ff3c0c3dae3ced",
-                "reference": "752221c58e2cccf49b6cbd9fd3ff3c0c3dae3ced",
+                "url": "https://api.github.com/repos/danielsundermeier/laravel-deploy/zipball/83ad7c4618eda0be7eea537ce3a5b986056b7659",
+                "reference": "83ad7c4618eda0be7eea537ce3a5b986056b7659",
                 "shasum": ""
             },
             "require-dev": {
@@ -165,9 +165,9 @@
             "description": "Description.",
             "support": {
                 "issues": "https://github.com/danielsundermeier/laravel-deploy/issues",
-                "source": "https://github.com/danielsundermeier/laravel-deploy/tree/0.1.0"
+                "source": "https://github.com/danielsundermeier/laravel-deploy/tree/0.2.0"
             },
-            "time": "2020-10-22T04:48:59+00:00"
+            "time": "2023-01-07T02:29:01+00:00"
         },
         {
             "name": "danielsundermeier/laravel-model-path",
@@ -8456,5 +8456,5 @@
         "php": "^7.3|^8.0"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.3.0"
 }
