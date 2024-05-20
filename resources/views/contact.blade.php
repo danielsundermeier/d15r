@@ -4,7 +4,7 @@
 
 @section('content')
 
-    <div class="py-8 bg-white">
+    <div class="pt-16 pb-8 bg-white">
         <div class="px-4 sm:px-6 lg:px-8">
             <div class="text-lg max-w-prose mx-auto text-center">
                 <h1>

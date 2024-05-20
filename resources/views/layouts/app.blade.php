@@ -60,6 +60,8 @@
 						</div>
 					</div>
 					<div class="hidden md:flex md:space-x-10">
+						<a href="{{ route('challenge.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Herausforderung</a>
+						<a href="{{ route('how.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Plan</a>
 						<a href="{{ route('posts.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Blog</a>
 						<a href="{{ route('about.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Über mich</a>
 						<div x-data="{ open: false }" class="relative">

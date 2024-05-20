@@ -24,8 +24,6 @@ class ContactController extends Controller
         $ist_send = Mail::to(config('mail.from.address'))
             ->send(new \App\Mail\Contact($attributes));
 
-
-
         return back()->with('status', [
             'type' => 'success',
             'text' => 'Nachricht verschickt.',
