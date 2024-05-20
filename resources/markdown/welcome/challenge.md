@@ -30,13 +30,13 @@ Es fühlt sich alles noch nach einer Probe an und ich warte auf die Aufführung.
 
 Ich habe Angst Fehler zu machen und neige dazu vor Herausforderungen wegzulaufen.
 
-Ich schäme mich dafür, wenn ich nicht das leiste, was ich von mir selbst erwarte und möchte verhindern Schwäche zu zeigen.
+Ich schäme mich dafür, wenn ich nicht das leiste, was ich von mir selbst erwarte und möchte, verhindern Schwäche zu zeigen.
 
 Es fällt mir schwer, Entscheidung zu treffen, weil ich mich selbst unglaublich unter Druck setze. Es fühlt sich an, als ob es immer um Leben und Tod geht.
 
 Bloß nichts falsch machen!
 
-Deshalb verbringe ich so viel Zeit in meinem Kopf anstatt zu handeln. Ich habe Angst die falsche Entscheidung zu treffen. Ich erwarte von mir, dass sie perfekt ist.
+Deshalb verbringe ich so viel Zeit in meinem Kopf, anstatt zu handeln. Ich habe Angst die falsche Entscheidung zu treffen. Ich erwarte von mir, dass sie perfekt ist.
 
 Ich versuche das Gedankenkarussell zu verlassen, indem ich mehr denke. Es ist ein Teufelskreis.
 
@@ -44,17 +44,19 @@ Ich erwarte von mir in allem gut zu sein und gestatte mir nicht Neues auszuprobi
 
 Ich habe meinen Selbstwert an meine Leistung und die Ergebnisse geknüpft.
 
-Deshalb wirkt jede Entscheidung und jede Situation so wichtig. Wenn ich versage oder Fehler mache, bedeutet es für mich, dass ich nicht gut genug bin und mich mehr anstrengen muss.
+Deshalb wirken jede Entscheidung und jede Situation so wichtig. Wenn ich versage oder Fehler mache, bedeutet es für mich, dass ich nicht gut genug bin und mich mehr anstrengen muss.
 
-Ich lasse Menschen nicht wirklich an mich heran, weil ich Angst habe, dass sie hinter meine Maske blicken könnten und feststellen, dass ich nicht perfekt bin.
+Ich lasse Menschen nicht an mich heran, weil ich Angst habe, dass sie hinter meine Maske blicken könnten und feststellen, dass ich nicht perfekt bin.
 
 Ich ziehe mich zurück, um meine Schwächen zu verbergen und das Bild einer Person, die alles im Griff hat, nicht zu gefährden.
 
-Es fällt mir daduchr sehr schwer autehntisch zu sein und mich nicht selbst zu zensieren.
+Es fällt mir dadurch sehr schwer authentisch zu sein und mich nicht selbst zu zensieren.
 
-Ich möchte den Anschein erwecken, dass mir alles leicht fällt.
+Ich möchte den Anschein erwecken, dass mir alles leichtfällt.
 
-Ich glaube das, wenn ich noch ein bisschen besser werde endlich das bekomme, was mir fehlt.
+Ich nehme Enttäuschungen, Ablehnung und Kritik sehr persönlich und fühle mich dadurch schnell verletzt. Es wirft mich aus der Bahn.
+
+Ich glaube das, wenn ich noch ein bisschen besser werde, endlich das bekomme, was mir fehlt.
 
 Ich stehe mir selbst im Weg und mache mir das Leben schwerer, als es sein müsste.
 
@@ -76,7 +78,7 @@ Ich fühle mich gehetzt und getrieben.
 
 Ich schwanke von einem Extrem zum anderen. Es fällt mir schwer, eine Balance zu finden.
 
-Solange alles nach Plan läuft, schaffe ich mein Pensum sogar. Sobald aber irgendetwas dazwischenkommt wird es zu viel und ich fühle mich gestresst und überfordert. Ich möchte weglaufen, alles hinschmeißen und von vorne anfangen.
+Solange alles nach Plan läuft, schaffe ich mein Pensum sogar. Sobald aber irgendetwas dazwischenkommt, wird es zu viel und ich fühle mich gestresst und überfordert. Ich möchte weglaufen, alles hinschmeißen und von vorne anfangen.
 
 ich bin immer am Limit, weil ich glaube immer besser werden zu müssen. Keine Zeit verschwenden, immer alles optimieren, alles so effizient wie möglich erledigen.
 

@@ -2,7 +2,7 @@
 
 Ich habe festgestellt und akzeptiert, dass mich mein Selbstwertgefühl davon abhält das Leben zu führen, das ich mir wünsche.
 
-Damit ich mich wirklich mit dem Thema auseinandersetze und nicht wieder davor weglaufe, dokumentiere ich hier meine Ziele, Pläne und Fortschritte.
+Damit ich mich mit dem Thema auseinandersetze und nicht wieder davor weglaufe, dokumentiere ich hier meine Ziele, Pläne und Fortschritte.
 
 ## Warum ich das mache
 
@@ -12,7 +12,7 @@ Insbesondere neige ich dazu mich vor Herausforderungen zu drücken und weglaufen
 
 Obwohl ich das weiß, habe ich mich lange Zeit nicht getraut und geweigert, das wirklich anzuerkennen und das Thema anzugehen.
 
-Es erschien mir leichter, immer noch etwas mehr zu tun, noch schneller zu rennen. Immer in der Hoffnung, irgendwann an einen Punkt zu kommen, an dem es reicht und ich mich endlich gut genug fühle. Endlich das zu Erreichen, was die Leere in mir füllen kann. Das Ziel schien immer in greifbarer Nähe. Nur noch ein bisschen mehr.
+Es erschien mir leichter, immer noch etwas mehr zu tun, noch schneller zu rennen. Immer in der Hoffnung, irgendwann an einen Punkt zu kommen, an dem es reicht und ich mich endlich gut genug fühle. Endlich das zu erreichen, was die Leere in mir füllen kann. Das Ziel schien immer in greifbarer Nähe. Nur noch ein bisschen mehr.
 
 Es ist eine sehr anstrengende Art zu Leben.
 
@@ -22,7 +22,7 @@ Ich habe mich also dazu entschlossen mich nicht länger vor der wirklichen Arbei
 
 Das Ziel dieser Seite ist, dass ich es durchziehe und dranbleibe.
 
-Ich möchte es wirklich ernst nehmen und mich darum kümmern, mein Leben in die Hand zu nehmen.
+Ich möchte es ernst nehmen und mich darum kümmern, mein Leben in die Hand zu nehmen.
 
 Ich denke, dass diese öffentliche Ankündigung den nötigen Anreiz erzeugt.
 

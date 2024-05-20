@@ -23,7 +23,7 @@ Ich fühle mich oft nicht gut genug, um das zu tun, was dazu führen würde, das
 
 Ich nehme meine besten Tage dazu als Vorlage und integriere alle Dinge, die die Tage so gut gemacht haben.
 
-Meine Tage entwickeln sich mit mir während ich mich immer besser kennenlerne.
+Meine Tage entwickeln sich mit mir, während ich mich immer besser kennenlerne.
 
 Besonders wichtig ist, dass ich die Dinge, die zu weniger optimale Tagen führen, sein lasse.
 
@@ -39,7 +39,7 @@ Sie zeigen mir, dass es mir etwas bedeutet und ich mich in die richtige Richtung
 
 Wenn ich nichts fühlen würde, ist es auch nichts, was ich wirklich möchte.
 
-Es ist ein Unterschied, ob ich irgendjemanden nach dem Weg frage, oder meine Traumfrau anspreche. Mein Reaktion weißt mir den Weg.
+Es ist ein Unterschied, ob ich irgendjemanden nach dem Weg frage, oder meine Traumfrau anspreche. Meine Reaktion weist mir den Weg.
 
 Immer, wenn ich etwas machen möchte und bemerke, dass ich versuche es mir selbst auszureden, ist das ein Zeichen, dass ich es erst recht mache.
 
@@ -59,7 +59,7 @@ In dem ich die Dinge tue, vor denen ich mich drücke, stelle ich mich meinen Än
 
 Ich möchte mich für positives Verhalten feiern und so mein Selbstbild stärken.
 
-Ich möchte mir selbst den Druck nehmen indem ich mein Leben als großes Experiment sehe.
+Ich möchte mir selbst den Druck nehmen, indem ich mein Leben als großes Experiment sehe.
 
 Es fällt mir leichter Entscheidungen zu treffen, weil ich nicht mehr das Gefühl habe, dass es um Leben und Tod geht.
 
@@ -89,21 +89,21 @@ Je besser ich mich kenne, umso selbstsicherer werde ich.
 
 Wenn ich mich dabei erwische, dass ich zu viel nachdenke, möchte ich mich fragen, was ich jetzt tun kann, um ins Handeln zu kommen.
 
-Ich übernehme die Verantwortung für mein Leben und verlasse die Opferrolle. Statt mich zu beschweren oder zu meckern frage ich mich, was jetzt zu tun ist und gehe es an. Ich übernehme so die Kontrolle und die Verantwortung für mein Leben.
+Ich übernehme die Verantwortung für mein Leben und verlasse die Opferrolle. Statt mich zu beschweren oder zu meckern, frage ich mich, was jetzt zu tun ist und gehe es an. Ich übernehme so die Kontrolle und die Verantwortung für mein Leben.
 
 Ich möchte mich auch meinen Gefühlen stellen und sie nicht unterdrücken. Ich möchte sie zulassen und verarbeiten.
 
-Sobald ich in mich spüre und auch die unangenehmen Gefühle zulasse, verschwinden sie meistens von alleine. Es ist nur meine Angst vor ihnen, die sie so stark macht.
+Sobald ich in mich spüre und auch die unangenehmen Gefühle zulasse, verschwinden sie meistens von allein. Es ist nur meine Angst vor ihnen, die sie so stark macht.
 
 ## Erfolg oder Gelegenheit zum Lernen
 
 Ich möchte meinen Selbstwert von Ergebnissen trennen und mich nicht über sie definieren.
 
-Dazu möchte ich alles alles Experiment sehen. Ich möchte herausfinden, was passiert und daraus lernen.
+Dazu möchte ich alles Experiment sehen. Ich möchte herausfinden, was passiert und daraus lernen.
 
 Entweder erreiche ich das, was ich möchte, oder ich lerne, was ich beim nächsten Mal anders machen kann.
 
-Die Reaktion der anderen Menschen hat nicht zwabgsläufig etwas mit mir zu tun. Es gibt unendlich viele Gründe für die Reaktion, die nichts mit mir zu tun haben.
+Die Reaktion der anderen Menschen hat nicht zwangsläufig etwas mit mir zu tun. Es gibt unendlich viele Gründe für die Reaktion, die nichts mit mir zu tun haben.
 
 Ich habe meinen Teil getan und kann stolz darauf sein. Ich habe mein Bestes gegeben und das ist alles, was ich tun kann.
 
@@ -117,7 +117,7 @@ Ich möchte sie wie ein Wissenschaftler sehen, der herausfinden möchte, was pas
 
 ## Selbstmitgefühl
 
-Bei Rückschlägen werde ich Selbstmitgefühl praktizieren indem ich mich daran erinnere, dass es nicht an mir liegt, sondern menschlich ist Fehler zu machen.
+Bei Rückschlägen werde ich Selbstmitgefühl praktizieren, indem ich mich daran erinnere, dass es nicht an mir liegt, sondern menschlich ist Fehler zu machen.
 
 Ich öffne mich und rede über meine Gefühle und Gedanken. ich gehe das Risiko ein, mich verletzlich zu machen. Scham hat nur so lange Macht über mich, bis ich es ausspreche.
 
@@ -129,7 +129,7 @@ Alle diese Ideen dienen dazu ins Handeln zu kommen.
 
 Sobald ich etwas tun möchte, soll die zweite Regel greifen und mich dazu bringen, es zu tun.
 
-Die Angst und die Ausreden wachsen dabei mit der Zeit, die versteicht, bis ich es tue. Je schneller ich handle, umso leichter ist es.
+Die Angst und die Ausreden wachsen dabei mit der Zeit, die verstreicht, bis ich es tue. Je schneller ich handle, umso leichter ist es.
 
 Aus den Erfahrungen kann ich lernen und bessere Entscheidungen treffen.
 
@@ -139,7 +139,7 @@ Ich bekomme auch Feedback, durch das ich mich immer besser kennenlerne und herau
 
 Ich möchte dadurch eine Aufwärtsspirale in Gang setzen, die mich immer weiter nach oben bringt.
 
-Ich achte darauf welche Tätigkeiten und Menschen mir Energie verleihen und möchte diese öfter machen. Alles, was mir Energie raubt möchte ich vermeiden. Dieses System soll als mein Kompass dienen und mir eine Richtung und Orientierung geben.
+Ich achte darauf welche Tätigkeiten und Menschen mir Energie verleihen und möchte diese öfter machen. Alles, was mir Energie raubt, möchte ich vermeiden. Dieses System soll als mein Kompass dienen und mir eine Richtung und Orientierung geben.
 
 Ich möchte mit Rückschlägen rechnen und wissen, dass es ein schwieriger Prozess wird, aber daran glauben, dass ich es schaffen werde.
 
