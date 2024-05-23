@@ -71,6 +71,8 @@ Ich kann so meinen Selbstwert von den Ergebnissen trennen.
 
 Die Ergebnisse sind dann nicht mehr so wichtig, sondern das, was ich daraus lerne.
 
+Wenn mir ein Fehler unterläuft, möchte ich ihn nicht immer wieder in meinem Kopf durchspielen, sondern mir ab dem Punkt, als er passiert ist, vorstellen, dass ich die optimale Entscheidung getroffen habe und das verstärken.
+
 ## Gedanken und Gefühle verarbeiten
 
 Ich möchte das Gedankenkarussel verlassen und am Leben teilnehmen.
@@ -108,6 +110,8 @@ Die Reaktion der anderen Menschen hat nicht zwangsläufig etwas mit mir zu tun. 
 Ich habe meinen Teil getan und kann stolz darauf sein. Ich habe mein Bestes gegeben und das ist alles, was ich tun kann.
 
 Ihre Reaktion ist nicht mehr in meiner Hand und ich kann sie nicht beeinflussen.
+
+Ich möchte Enttäuschungen, Ablehnung und Kritik als Gelegenheit zum Üben nutzen, um zu lernen besser mit ihnen umzugehen.
 
 Fehler und Rückschläge sind dabei neutrale Daten, aus denen ich lernen kann, um beim nächsten Mal eine bessere Entscheidung treffen zu können.
 

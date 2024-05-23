@@ -3,7 +3,6 @@
 namespace App\Http\Controllers\Guides;
 
 use App\Support\Markdown;
-use Illuminate\Support\Str;
 use App\Models\Guides\Guide;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
@@ -11,11 +10,6 @@ use Illuminate\Support\Facades\Storage;
 
 class GuideController extends Controller
 {
-    /**
-     * Display a listing of the resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
     public function index(Request $request)
     {
         $guides = Guide::orderBy('title', 'ASC')->get();

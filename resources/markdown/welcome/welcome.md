@@ -43,6 +43,7 @@ Es wird schwer und wir müssen mit Rückschlägen rechnen, um es zu erreichen, e
 - Ich möchte mich Herausforderung stellen und mich auf sie freuen
 - Ich möchte Fehler und Rückschläge als Daten sehen und sie als Möglichkeiten etwas zu lernen betrachten
 - Ich möchte mich meinen Ängsten und Unsicherheiten stellen und sie als Orientierung nutzen
+- Ich möchte Dinge, tun, weil ich möchte, nicht weil ich muss
 - Ich möchte das Leben führen können, das ich wirklich möchte
 
 [Mein Plan](/how)

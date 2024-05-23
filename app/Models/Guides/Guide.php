@@ -17,6 +17,7 @@ class Guide extends Model
     const ROUTE_NAME = 'guides';
 
     const FILES = [
+        'theorie' => 'Theorie',
         'spickzettel' => 'Spickzettel',
         'umsetzung' => 'Meine Umsetzung',
         'integration' => 'Integration',
@@ -92,6 +93,7 @@ class Guide extends Model
     public function updateFromDirectory(array $attributes): self
     {
         $this->update([
+            'has_theorie' => Arr::get($attributes, 'has_theorie', false),
             'has_spickzettel' => Arr::get($attributes, 'has_spickzettel', false),
             'has_integration' => Arr::get($attributes, 'has_integration', false),
             'has_umsetzung' => Arr::get($attributes, 'has_umsetzung', false),
