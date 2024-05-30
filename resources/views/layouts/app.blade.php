@@ -64,6 +64,7 @@
 						<a href="{{ route('how.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Plan</a>
 						<a href="{{ route('posts.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Blog</a>
 						<a href="{{ route('about.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Über mich</a>
+						<a href="{{ route('guides.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Guides</a>
 						<div x-data="{ open: false }" class="relative">
 							<!-- Item active: "text-gray-900", Item inactive: "text-gray-500" -->
 							<button @click="open = ! open" type="button" class="text-gray-500 group inline-flex items-center text-base font-medium hover:text-gray-900" aria-expanded="false">
@@ -111,6 +112,9 @@
 							<a href="{{ route('posts.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Blog</a>
 							<a href="{{ route('about.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Über mich</a>
 							<a href="{{ route('contact.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Kontakt</a>
+							<a href="{{ route('challenge.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Herausforderungen</a>
+							<a href="{{ route('how.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Plan</a>
+							<a href="{{ route('guides.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Guides</a>
 						</div>
 					</div>
 				</div>
