@@ -12,10 +12,20 @@ class GuideController extends Controller
 {
     public function index(Request $request)
     {
-        $guides = Guide::orderBy('title', 'ASC')->get();
+        $guides = Guide::orderBy('category_slug', 'ASC')->orderBy('sort', 'ASC')->get()->keyBy('category_slug');
+
+        $categories = [
+            'antifragiles_selbstvertrauen' => 'Antifragiles Selbstvertrauen',
+            'fundament' => 'Fundament',
+        ];
+
+        $filled_categories = array_filter($categories, function ($category) use ($guides) {
+            return $guides->has($category);
+        }, ARRAY_FILTER_USE_KEY);
 
         return view('guides.index')
-            ->with('guides', $guides);
+            ->with('guides', $guides)
+            ->with('categories', $filled_categories);
     }
 
     public function show(Request $request, Guide $guide, string $file = 'spickzettel')

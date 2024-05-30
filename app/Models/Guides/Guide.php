@@ -39,6 +39,9 @@ class Guide extends Model
     protected $fillable = [
         'directory',
         'slug',
+        'sort',
+        'category_slug',
+        'notes_url',
         'title',
         'has_spickzettel',
         'has_integration',
@@ -64,9 +67,12 @@ class Guide extends Model
     public static function attributesFromDirectory(string $directory): array
     {
         $slug = basename($directory);
+        $directories = array_reverse(explode('/', $directory));
+        $category_slug = $directories[1];
 
         $attributes = [
             'directory' => $directory,
+            'categorie_slug' => $category_slug,
             'title' => Str::headline($slug),
             'slug' => $slug,
         ];
