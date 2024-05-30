@@ -12,7 +12,7 @@ class GuideController extends Controller
 {
     public function index(Request $request)
     {
-        $guides = Guide::orderBy('category_slug', 'ASC')->orderBy('sort', 'ASC')->get()->keyBy('category_slug');
+        $guides = Guide::orderBy('category_slug', 'ASC')->orderBy('sort', 'ASC')->get()->groupBy('category_slug');
 
         $categories = [
             'antifragiles_selbstvertrauen' => 'Antifragiles Selbstvertrauen',
