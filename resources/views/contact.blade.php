@@ -15,7 +15,7 @@
     </div>
 
     <div class="max-w-7xl mx-auto pb-8 px-4 sm:px-6 lg:py-24 lg:px-8">
-        <form action="{{ route('contact.store')}}" method="POST" class="grid grid-cols-1 gap-y-6">
+        <form action="{{ route('contact.store')}}" method="POST" class="grid grid-cols-1 gap-y-6" id="contact_form">
             @csrf
 
             <div>
@@ -40,12 +40,24 @@
                 @enderror
             </div>
             <div>
-                <button type="submit" class="inline-flex justify-center py-3 px-6 border border-transparent shadow-sm text-base font-medium rounded-md text-white bg-sky-600 hover:bg-sky-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-sky-500">
+                <button class="g-recaptcha inline-flex justify-center py-3 px-6 border border-transparent shadow-sm text-base font-medium rounded-md text-white bg-sky-600 hover:bg-sky-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-sky-500"
+                    data-sitekey="6Lc39ZQUAAAAAIFyGNka3wZ_ALnNsUOze4PBiDwA"
+                    data-callback='onSubmit'
+                    data-action='submit'
+                >
                     Abschicken
                 </button>
             </div>
         </form>
     </div>
 </div>
+
+<script src="https://www.google.com/recaptcha/api.js"></script>
+
+<script>
+   function onSubmit(token) {
+     document.getElementById('contact_form').submit();
+   }
+ </script>
 
 @endsection
