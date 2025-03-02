@@ -35,7 +35,8 @@ Route::get('/blog/{post:slug}', [ App\Http\Controllers\Posts\PostController::cla
 Route::get('/guides', [ App\Http\Controllers\Guides\GuideController::class, 'index' ])->name('guides.index');
 Route::get('/guides/{guide:slug}/{file?}', [ App\Http\Controllers\Guides\GuideController::class, 'show' ])->name('guides.show');
 
-Route::get('/challenge', [ App\Http\Controllers\ChallengeController::class, 'index' ])->name('challenge.index');
-Route::get('/how', [ App\Http\Controllers\HowController::class, 'index' ])->name('how.index');
+Route::get('/automation', [ App\Http\Controllers\AutomationController::class, 'index' ])->name('automation.index');
+Route::get('/flourishing', [ App\Http\Controllers\FlourishingController::class, 'index' ])->name('flourishing.index');
+Route::get('/integration', [ App\Http\Controllers\IntegrationController::class, 'index' ])->name('integration.index');
 
 // require __DIR__.'/auth.php';

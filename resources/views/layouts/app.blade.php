@@ -60,29 +60,10 @@
 						</div>
 					</div>
 					<div class="hidden md:flex md:space-x-10">
-						<a href="{{ route('challenge.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Herausforderung</a>
-						<a href="{{ route('how.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Plan</a>
+						<a href="{{ route('automation.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Automatisieren</a>
+						<a href="{{ route('flourishing.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Aufblühen</a>
+						<a href="{{ route('integration.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Integration</a>
 						<a href="{{ route('posts.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Blog</a>
-						<a href="{{ route('about.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Über mich</a>
-						<a href="{{ route('guides.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Guides</a>
-						<div x-data="{ open: false }" class="relative">
-							<!-- Item active: "text-gray-900", Item inactive: "text-gray-500" -->
-							<button @click="open = ! open" type="button" class="text-gray-500 group inline-flex items-center text-base font-medium hover:text-gray-900" aria-expanded="false">
-								<span>Zukunft</span>
-								<svg class="text-gray-400 ml-2 h-5 w-5 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-									<path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
-								</svg>
-							</button>
-
-							<div x-show="open" x-cloak @click.away="open = false" x-transition:enter="duration-150 ease-out" x-transition:enter-start="opacity-0 scale-95" x-transition:enter-end="opacity-100 scale-100" x-transition:leave="duration-100 ease-in" x-transition:leave-start="opacity-100 scale-100" x-transition:leave-end="opacity-0 scale-95" class="absolute z-90 left-1/2 transform -translate-x-1/2 mt-3 px-2 w-screen max-w-md sm:px-0">
-								<div class="rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 overflow-hidden">
-									<div class="relative grid gap-6 bg-white px-5 py-6 sm:gap-8 sm:p-8">
-										<a href="{{ route('future.vision.show') }}" class="-m-3 p-3 flex items-start rounded-lg hover:bg-gray-50">Vision</a>
-										<a href="{{ route('future.masterplan.show') }}" class="-m-3 p-3 flex items-start rounded-lg hover:bg-gray-50">Masterplan</a>
-									</div>
-								</div>
-							</div>
-						</div>
 						<a href="{{ route('contact.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Kontakt</a>
 					</div>
 				</nav>
@@ -109,12 +90,11 @@
 					<div role="menu" aria-orientation="vertical" aria-labelledby="main-menu">
 						<div class="px-2 pt-2 pb-3" role="none">
 							<a href="{{ route('home') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Home</a>
+							<a href="{{ route('automation.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Automatisieren</a>
+							<a href="{{ route('flourishing.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Aufblühen</a>
+							<a href="{{ route('integration.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Integration</a>
 							<a href="{{ route('posts.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Blog</a>
-							<a href="{{ route('about.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Über mich</a>
 							<a href="{{ route('contact.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Kontakt</a>
-							<a href="{{ route('challenge.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Herausforderungen</a>
-							<a href="{{ route('how.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Plan</a>
-							<a href="{{ route('guides.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Guides</a>
 						</div>
 					</div>
 				</div>
