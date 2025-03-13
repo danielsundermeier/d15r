@@ -36,6 +36,8 @@ Für ein erfülltes Leben setzen wir unsere Stärken zum Wohle von etwas größe
 
 Wir können unserer Neugier folgen und unsere eigenen Probleme lösen. Dadurch erschaffen wir nach und nach unser Traumleben.
 
+Wir finden den Flaschenhals, der uns am meisten zurückhält und arbeiten daran. Das ist unsere Bestimmung.
+
 Durch Experimente und Projekte sammeln wir Erfahrungen, lernen uns selbst besser kennen und erlangen neue Fähigkeiten.
 
 Es ist wichtig, dass wir unser Wissen nutzen und einen Grund haben etwas zu lernen. Dabei helfen uns Ziele.
@@ -118,23 +120,25 @@ Es ist wichtig, es wir über uns selbst denken. Es beeinflusst, wie wir uns verh
 
 Wir treffen Entscheidungen, die unserem Selbstbild entsprechen. Deshalb ist Veränderung so schwierig.
 
-Wir brauchen viel Energie, um auf ein neues Gleichgewicht zu kommen.
+Ein gutes Leben besteht aus Arbeit und Beziehungen.
+
+Wir brauchen aber auch viel Energie, um als die beste Version von uns aufzutreten.
 
 Deshalb starten wir hier.
 
-Wir können unser Leben in drei Bereiche einhalten.
+Wir teilen unser Leben in drei Bereiche ein:
 
-Energie, Arbeit, Beziehungen
+- Energie
+- Arbeit
+- Beziehungen
 
-Für jeden dieser Bereiche legen wir dann eine Identität fest.
+Für jeden dieser Bereiche legen wir eine Identität fest. Ein Ideal, das wir anstreben. Wir fragen uns:
 
-Was ist die beste Version von uns in diesem Bereich?
+- Was ist die beste Version von uns in diesem Bereich?
+- Welche Werte sind ihr wichtig?
+- Wie verhält sie sich und was tut sie?
 
-Welche Werte sind ihr wichtig?
-
-Wie verhält sie sich und was tut sie?
-
-Anschließend fangen an so zu leben, wie unser Ideal.
+Anschließend fangen wir an, so zu leben, wie unser Ideal.
 
 Durch unser Handeln verstärken wir die Identität und nehmen sie schließlich an.
 
