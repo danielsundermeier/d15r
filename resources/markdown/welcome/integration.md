@@ -120,11 +120,11 @@ Wir sehen so, was wir wirklich tun.
 
 Wir erkennen beispielsweise, wenn wir zunehmen. Wir können dann im Verlauf nachgucken, was sich verändert hat und das tun, was zu den Ergebnissen geführt hat, die wir wollen. Wir tracken unser Gewicht, verbrauchte Kalorien und die Ernährung. So können wir Experimente machen, wie ein Wissenschaftler. Wir haben genau Aufzeichnungen und können daraufhin die Prozesse optimieren (Ähnlich wie es die Optimierungsmanufaktur mit Unternehmen macht).
 
-Zusätzlich ist es ein Spiel, wie schnell wir uns dem Widerstand stellen können. Sobald wir merken, dass wir uns vor etwas drücken, ist das ein Zeichen zu handeln.
+Unser innerer Widerstand zeigt uns den Weg. Wir machen ein Spial daraus, wie schnell wir uns ihm stellen können. Sobald wir merken, dass wir uns vor etwas drücken, ist das ein Zeichen zu handeln. Die Aufgabe ist, die Zeit zu verkürzen, bis wir handeln.
 
 Wir können den Herausforderungen Level geben und Tätigkeiten zuordnen. Wir können so sehen, was wir tun wollen, uns aber nicht trauen. Die Tätigkeiten verraten uns, wie oft wir daran arbeiten, dienen aber auch als kleine Schritte, um die Herausforderung im Kleinen angehen zu können und ihr den Schrecken zu nehmen.
 
-Wenn wir uns der Herausforderung gestellt haben, können wir unseren "Loot" einsammeln, indem wir aufschreiben, was wir daraus gelernt haben. Wir erkennen so, dass uns Herausforderungen stärker machen und wir von ihnen profitieren.
+Wenn wir uns der Herausforderung gestellt haben, können wir unseren "Loot" einsammeln, indem wir aufschreiben, was wir daraus gelernt haben. Wir erkennen so, dass uns Herausforderungen stärker machen und wir von ihnen profitieren. Ein Hindernis wird so zu einem Schatz, ein Werkzeug, das uns weiterbringt.
 
 Sie dienen auch als Erinnerung, was wir alles geschafft haben und motivieren uns für die nächsten.
 
@@ -133,6 +133,8 @@ Wir werden herausfinden, dass die Level (=Schwierigkeitsgrad) der Herausforderun
 Wir brauchen immer ein Ziel und eine Herausforderung. Wir kommen so in den Flow. Wir müssen aber darauf achten, dass wir im Flow Kanal bleiben und uns nicht unter- oder überfordern.
 
 Es ist eine Ausbildung für das gute Leben und ein Akzelerator. Wir streben nach Eudaimonia. Wir erreichen es, indem wir unserem Ideal immer näherkommen.
+
+Wenn wir die Lücke zwischen dem, was wir tun und dem, was wir tun wollen, schließen, sind wir glücklich. Wir sind im Einklang mit uns selbst und der Welt.
 
 Wir helfen den Menschen dabei zu erkennen, was wirklich wichtig ist. Es ist nicht Geld, Ruhm oder Macht, sondern zu der besten Version von uns selbst zu werden. Unsere Stärken zum Wohle anderer einzusetzen und uns unseren Herausforderungen zu stellen.
 

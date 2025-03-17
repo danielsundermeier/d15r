@@ -290,17 +290,27 @@ Die Qualität unserer Produktivität und unserer Erfahrungen steigt, je mehr uns
 
 ### Dankbarkeit
 
-Wir können lernen, die Realität zu akzeptieren. Wir können nicht ändern, was bereits passiert ist. Wir können aber das Beste daraus machen.
+Wir fangen mit Akzeptanz an.
+
+- Uns selbst
+- Die Realität
+- Fehler & Rückschläge
+
+Wir können nicht ändern, was bereits passiert ist. Wir können aber das Beste daraus machen.
 
 Wenn wir mit der Realität streiten, können wir nur verlieren und fügen uns selbst mehr Schaden zu, als nötig.
 
 Wenn es uns gelingt, in jeder Situation etwas Positives zu sehen, sind wir unaufhaltsam.
 
+Der nächste Schritt ist Dankbarkeit.
+
 Dankbarkeit kann unsere Zufriedenheit steigern. Sie richtet unsere Aufmerksamkeit auf das, was wir haben.
 
-Wenn wir uns unzufrieden fühlen, können wir uns umsehen und finden Dinge, für die wir dankbar sind.
+Wenn wir uns unzufrieden fühlen, können wir uns umsehen und finden Dinge, für die wir dankbar sind. Dadurch fühlen wir uns besser. Wir können nicht gleichzeitig dankbar und unzufrieden sein.
 
-Dadurch fühlen wir uns besser. Wir können nicht dankbar und unzufrieden gleichzeitig sein.
+Menschen und Dinge, die wir würdigen und schätzen, werden wertvoller für uns.
+
+Das ist ein guter Weg, um zu vermeiden, sie als selbstverständlich zu betrachten und der hedonischen Anpassung entgegenzuwirken.
 
 ### Florieren
 
