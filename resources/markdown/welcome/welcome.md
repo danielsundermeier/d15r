@@ -32,7 +32,7 @@ Tauche ein in diese Vision. Lass uns eine Welt schaffen, in der wir beides verei
 
 ## Brücke zu dieser Welt
 
-### LifeOS
+### Eidaimonica
 
 Zum einen ist es eine Software, die uns durch den Tag führt. Wir gestalten Tage als Meisterwerke, die dazu führen, dass wir uns immer besser fühlen. Wir tun, das, was uns guttut und immer weniger von dem, was schlecht für uns ist.
 
@@ -54,7 +54,7 @@ Sie ist der Motor, der den Aufbau der anderen Projekte finanziert.
 
 ### Die Weiterentwicklungen
 
-#### Der Ort für Persönlichkeitsentwicklung (LifeOS)
+#### Der Ort für Persönlichkeitsentwicklung (Eidaimonica)
 
 Die Reise der Persönlichkeitsentwicklung ist oft einsam und schwierig. Wir brauchen einen Ort, an dem wir uns gegenseitig unterstützen und inspirieren können.
 

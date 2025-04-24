@@ -72,7 +72,7 @@ Mit dem Gründerzentrum schaffen wir uns selbst neue Kundschaft in Form von neue
 
 Ziel ist alles zu automatisieren und damit die Lebenshaltungskosten immer weiter zu senken.
 
-Mit LifeOS schaffen wir disziplinierte Menschen, die genug Energie haben, die wissen, was sie wollen und sich ihren Herausforderungen stellen. Sie sind im Einklang mit ihrer Intuition und wissen, was wirklich wichtig ist.
+Mit Eidaimonica schaffen wir disziplinierte Menschen, die genug Energie haben, die wissen, was sie wollen und sich ihren Herausforderungen stellen. Sie sind im Einklang mit ihrer Intuition und wissen, was wirklich wichtig ist.
 
 Mit dem Elysium gibt es zusätzlich eine Gemeinschaft und einen Ort mit Gleichgesinnten. Es ist alles vorhanden, was wir für den nächsten Schritt und zum Umsetzen unserer Projekte brauchen.
 
@@ -90,7 +90,7 @@ Das System wird besser und kann mehr Menschen helfen, die dann wiederum das Syst
 
 ## Aufblühen
 
-### LifeOS
+### Eidaimonica
 
 _Wie würde dein Leben aussehen, wenn du tatsächlich das tun würdest, was Du dir vorgenommen hast?_
 
@@ -101,6 +101,12 @@ Es ist eine Software, die uns durch den Tag führt und uns hilft, das zu tun, wo
 Wir erstellen uns Tage als Meisterwerke, die dazu führen, dass wir uns immer besser fühlen, gesünder werden und mehr Mensch werden.
 
 Wir bauen uns Tage als Meisterwerke. Die Software führt uns durch den Tag. Wir haken ab, was wir gemacht haben und sehen, was als nächstes ansteht.
+
+Wir sammeln so automatisch Daten über unser Leben und können nachvollziehen, was funktioniert und was nicht.
+
+Beim Programmieren wird jede Änderung in einer Versionverwaltung gespeichert. So können wir immer wieder an einen Punkt gehen, an dem es noch funktioniert hat. Wir können so ohne Angst Fehler zu machen experimentieren und sehen, was passiert.
+
+Wir integrieren die Daten von Services und Produkten, die wir jetzt schon nutzen, wie Apple Health, Zwift und andere. Wir sammlen alle unsere Daten an einem Ort und können so Verbindungen zwischen unserem Handeln und den Ergebnissen erkennen.
 
 Wir lernen uns selbst besser kennen und finden heraus, was wir wollen.
 
@@ -146,7 +152,9 @@ In der Diät ist es auch hilfreich, gerade zum Ende regelmäßige Refeed-Tage ei
 
 Ich könnte mir auch vorstellen, dass es (tägliche) Gruppencoachings gibt.
 
-Eine weitere Idee ist einen Coaching-Zugang zu haben. Ein Coach kann dann die Daten seiner Klienten sehen und Anpassungen machen.
+Wir können alle Unterstützung und Motivation gebrauchen.
+
+Eine weitere Idee ist einen Coaching-Zugang zu haben. Ein Coach kann die Daten seiner Klienten sehen und Anpassungen an den Plänen vornehmen. Durch die Daten haben wir eine objektive Grundlage, um zu sehen, was funktioniert und was nicht.
 
 Aktuell wird das oft über WhatsApp geregelt. Das ist aber umständlich und ungenau. Es gibt keine Historie und keine Statistiken.
 
