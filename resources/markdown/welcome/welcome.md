@@ -1,4 +1,4 @@
-# Ich möchte helfen die Welt zu automatisieren, damit die Menschlichkeit an erster Stelle steht
+# Vom Human Doing zum Human Being
 
 ## Stell dir eine Welt vor, in der Mensch und Maschine Seite an Seite arbeiten
 
