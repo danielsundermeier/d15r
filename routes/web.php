@@ -39,4 +39,9 @@ Route::get('/automation', [ App\Http\Controllers\AutomationController::class, 'i
 Route::get('/flourishing', [ App\Http\Controllers\FlourishingController::class, 'index' ])->name('flourishing.index');
 Route::get('/integration', [ App\Http\Controllers\IntegrationController::class, 'index' ])->name('integration.index');
 
+Route::get('/philosophy', [ App\Http\Controllers\PhilosophyController::class, 'index' ])->name('philosophy.index');
+
+Route::get('/eudaimonica', [ App\Http\Controllers\EudaimonicaController::class, 'index' ])->name('eudaimonica.index');
+Route::get('/eudaimonica/{section}', [ App\Http\Controllers\EudaimonicaController::class, 'show' ])->name('eudaimonica.show');
+
 // require __DIR__.'/auth.php';

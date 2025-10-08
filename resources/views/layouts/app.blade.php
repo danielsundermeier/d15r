@@ -60,9 +60,8 @@
 						</div>
 					</div>
 					<div class="hidden md:flex md:space-x-10">
-						<a href="{{ route('automation.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Automatisieren</a>
-						<a href="{{ route('flourishing.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Aufblühen</a>
-						<a href="{{ route('integration.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Integration</a>
+						<a href="{{ route('philosophy.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Philosophie</a>
+						<a href="{{ route('eudaimonica.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Eudaimonica</a>
 						<a href="{{ route('posts.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Blog</a>
 						<a href="{{ route('contact.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Kontakt</a>
 					</div>
@@ -90,9 +89,8 @@
 					<div role="menu" aria-orientation="vertical" aria-labelledby="main-menu">
 						<div class="px-2 pt-2 pb-3" role="none">
 							<a href="{{ route('home') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Home</a>
-							<a href="{{ route('automation.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Automatisieren</a>
-							<a href="{{ route('flourishing.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Aufblühen</a>
-							<a href="{{ route('integration.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Integration</a>
+							<a href="{{ route('philosophy.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Philosophie</a>
+							<a href="{{ route('eudaimonica.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Eudaimonica</a>
 							<a href="{{ route('posts.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Blog</a>
 							<a href="{{ route('contact.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Kontakt</a>
 						</div>

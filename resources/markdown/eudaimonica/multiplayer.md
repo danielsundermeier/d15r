@@ -1,0 +1,206 @@
+# Multiplayer
+
+Wir wollen eine Umgebung gestalten, die uns dabei unterstützt, das Spiel des Lebens besser zu spielen.
+
+## Prinzipien
+
+### Menschlicher Maßstab
+
+Wir wollen Lebensräume schaffen, die auf den Menschen zugeschnitten sind. Das gilt für die Größe, aber auch für die Technologie.
+
+Die Bewohner sollen sich kennen und ein starkes Gemeinschaftsgefühl entwickeln.
+
+Wir wollen wieder echte Zugehörigkeit und Verbundenheit erleben.
+
+Wir wollen Teil von etwas Größerem sein.
+
+### Systeme Gestalten
+
+Die Stärke von Menschen liegt in der Kreativität, Zusammenarbeit, Empathie und das Lösen von Problemen.
+
+Diese Stärken wollen wir nutzen, um Systeme zu gestalten, die das Leben fördern und unterstützen.
+
+Wir wollen die laufenden Kosten und den Pflegeaufwand durch cleveres Design und Automatisierung minimieren.
+
+### Integration
+
+Wir nutzen das, was in den Kontext passt. Wir wollen verhindern eine Lösung für alles zu haben.
+
+Wir haben viele Werkzeuge zur Verfügung. Wir setzen das ein, was gerade am besten passt.
+
+## Experimente
+
+Auch hier gilt die generelle Spielmechanik der Evolution.
+
+Anstatt eine perfekte Lösung zu suchen, probieren wir viele Varianten gleichzeitig aus.
+
+Wir müssen uns immer wieder an die aktuelle Situation anpassen.
+
+Das gelingt uns am besten, wenn wir viele kleine Experimente machen.
+
+Das bedeutet aber auch, dass viele Experimente scheitern werden. Die müssen wir dann konsequent aussortieren.
+
+## Städte
+
+Wir wollen einen menschlichen Maßstab bewahren.
+
+Die Bewohner sollen sich kennen und ein starkes Gemeinschaftsgefühl entwickeln.
+
+Ziel ist es eine hohe Lebensqualität zu schaffen, die es uns ermöglicht, unsere Fähigkeiten zu entfalten und uns auf das Wesentliche zu konzentrieren.
+
+Die Bewohner sollen sich mit ihrer Stadt identifizieren und ein Interesse daran haben, sie weiterzuentwickeln und etwas beizutragen.
+
+Jede Stadt dient als Experimentierfeld, um neue Ideen und Konzepte auszuprobieren. Die Bewohner bestimmen die Regeln und die Art, wie sie leben wollen.
+
+Wir können uns dann aussuchen, was am besten zu uns passt und wo wir leben wollen.
+
+Deshalb organisieren wir uns in vielen kleinen statt wenigen großen Städten. Als Vorbild dient die 15-Minuten Stadt. Alles, was wir zum Leben brauchen, ist in 15 Minuten zu Fuß oder mit dem Fahrrad erreichbar.
+
+Die Fläche einer Stadt beträgt etwa 1 km².
+
+Jede Stadt ist von einem Waldgarten für die Nahrungsmittelproduktion umgeben. Die Flächen dienen gleichzeitig als Erholungsgebiet.
+
+Gebäude dürfen maximal 4 Stockwerke hoch sein.
+
+Der Aufbau ist ähnlich der Altstädte, die wir so gerne besuchen.
+
+Das ist sehr effizient. Wir haben eine hohe Bevölkerungsdichte und deutlich geringere Kosten als bei Einfamilienhäusern.
+
+Das ergibt ungefähr 10.000 Bewohner pro Stadt. So kennen sich alle und es entsteht ein starkes Gemeinschaftsgefühl.
+
+Wir entfernen dadurch viele Schichten der Abstraktion, wodurch einige der Probleme der modernen Gesellschaft gelöst werden.
+
+Wir können die Probleme so lokal lösen, wo sie entstehen.
+
+Gleichzeitig haben wir die Kapazität in die Bewohner zu investieren und sie bei ihrer Entwicklung zu unterstützen. Das ist auch im Interesse der Stadt, weil wir so bessere Mitspieler bekommen, die dann wieder etwas zurückgeben können.
+
+Wir gestalten unsere Umgebung so, dass sie uns beim Aufblühen unterstützt.
+
+Weil sie uns hilft, haben wir ein Interesse daran etwas zurückzugeben. Es ist in unserem eigenen Interesse die Stadt immer weiter zu verbessern.
+
+Wir investieren in etwas, das uns selbst und anderen hilft. Wir können unseren Beitrag direkt sehen.
+
+### Gebäude
+
+Das Land (und die Gebäude?) gehören der Stadt. Wir können sie für eine lange Zeit pachten, aber nicht besitzen.
+
+Die Bewohner eines Gebäudes bestimmen, wie sie leben wollen. Sie haben die Hoheit über das Land auf dem sie wohnen.
+
+Die Entwicklung der Stadt wird auch von den Bewohnern selbst gestaltet. Jeder kann Vorschläge machen und mitbestimmen.
+
+Neue Projekte werden von den Bewohnern bewertet und priorisiert. So entsteht eine Stadt, die den Bedürfnissen der Bewohner entspricht.
+
+Die Finanzierung kann durch Crowdfunding erfolgen (?).
+
+Die Gebäude sollen autark und nachhaltig sein. Generell wollen wir so wenig Pflegeaufwand wie möglich haben. Wir wollen Systeme gestalten, die von selbst funktionieren.
+
+Zum Beispiel Strohballenhäuser, die keine Heizung brauchen, weil sie so gut isoliert sind. Wir wollen uns zukünftige Arbeit durch cleveres Design ersparen.
+
+Die Bewohner aller Gebäude sind durchmischt. Arm und Reich, Jung und Alt, Singles und Familien leben zusammen. So entstehen vielfältige Gemeinschaften und wir verhindern Gentrifizierung.
+
+Niemand wird ausgegrenzt oder ausgeschlossen.
+
+Neben der kostenlosen Grundversorgung gibt es auch einen privaten Markt. Wir können zusätzliche Räume mieten, wenn wir sie brauchen.
+
+## Eudaimonium
+
+Im Zentrum jeder Stadt gibt es ein Eudaimonium. Einen Ort der Persönlichkeitsentwicklung.
+
+Es ist eine Kombination aus Universität, Kloster und Sportzentrum.
+
+Hier gibt es Büros, eine Bibliothek, ein Fitnessstudio, ein Schwimmbad, ... Es ist alles vorhanden, was wir für das gute Leben brauchen, aber nicht mehr.
+
+Es dient als Wohnzimmer für die Bewohner. [OodiHelsinki Central Library](https://oodihelsinki.fi/en/)
+
+## Versorgung
+
+### Energie
+
+- Nahwärmenetz, wir nutzen die Abwärme der Gebäude
+- Solarenergie auf den Dächern
+- Windenergie am Stadtrand
+- Energiespeicher in Form von Batterien
+
+- Unterirdische Wärmepumpe für die gesamte Stadt?
+- Biogasanlage in Kombination mit Kläranalage?
+- Mini-Atomkraftwerk?
+
+### Lebensmittel
+
+Anstatt alles selbst machen zu müssen, schaffen wir Systeme, die uns versorgen.
+
+Es gibt eine kostenlose Grundversorgung mit Nahrung, Lebensraum, Energie und so weiter.
+
+Wir essen gemeinsam in Kantinen, die in der Stadt verteilt sind. Unsere Ernährung wird von Ernährungsberatern geplant und von Köchen zubereitet.
+
+So bekommen wir genau die Ernährung, die wir brauchen, ohne uns darum kümmern zu müssen.
+
+Wir planen unsere Ressourcen für den schlechtesten Fall. So sind wir auf Krisen vorbereitet. In den meisten Fällen haben wir dann einen Überschuss, den wir anderen zur Verfügung stellen können.
+
+### Wohnraum
+
+Das Leben soll in der Stadt stattfinden. Wir wollen viele Gemeinschaftsräume haben. Orte der Begegnung und des Austauschs. Dadurch kann der private Wohnraum kleiner und günstiger sein.
+
+## Waldgarten
+
+Wir wollen Systeme gestalten, die sich selbst erhalten und wachsen.
+
+Deshalb verzichten wir auf konventionelle Landwirtschaft und setzen stattdessen auf Permakultur.
+
+Wir setzen daher auf Eier, Milch (-produkte), Fleisch, Fisch, Obst, Nüsse und Pilze.
+
+Für die Eierproduktion nutzen wir Gänse, weil die sich vollkommen von Gras ernähren können.
+
+Enten können bei den Teichen gehalten werden.
+
+Hühner und Schweine werden in der Kompostproduktion eingesetzt und fressen die Reste aus der Küche.
+
+Ziel ist es nach dem Aufbau des Systems so wenig Pflegeaufwand wie möglich zu haben und im besten Fall nur noch Ernten zu müssen.
+
+Der Waldgarten ist ein essbarer Wald, der die Stadt umgibt. Er besteht aus mehreren Schichten von Pflanzen, die zusammen ein funktionierendes Ökosystem bilden.
+
+Als Vorlage dient das Konzept "Restoration Agriculture" von Mark Shepard.
+
+Die Bäume werden in Reihen gepflanzt, um die Pflege und Ernte zu erleichtern. Dazwischen legen wir Wiesen für die Tierhaltung an.
+
+Die Tiere werden jeden Tag auf eine frische Weide getrieben. Das erhöht die Bodenfruchtbarkeit und immitiert das natürliche Verhalten der Tiere und Pflanzen.
+
+Mehrere Tierarten nutzen die selbe Fläche. Dadurch wird die Weide optimal genutzt.
+
+Bei den Bäumen sortieren wir konsequent aus. Wir wollen Pflanzen, um die wir uns nicht kümmern müssen. Dazu säen wir sehr viele Samen aus und entfernen die Pflanzen, die die nicht von allein wachsen können und nicht unseren Kriterien entsprechen.
+
+Der Waldgarten dient gleichzeitig als Erholungsgebiet. Es gibt viele Wege und Plätze, die zum Verweilen einladen, sowie Bereiche für Sport und Spiel.
+
+## Transport
+
+### Fuß und Fahrrad
+
+Innerhalb der Stadt bewegen wir uns zu Fuß oder mit dem Fahrrad. Alles, was wir zum Leben brauchen, ist in 15 Minuten zu Fuß oder mit dem Fahrrad erreichbar.
+
+### U-Bahn
+
+Die Städte sind durch eine U-Bahn miteinander verbunden. Sie ist im Zentrum jeder Stadt.
+
+Die Haltestellen sind so gestaltet, dass die Schienen bei der Einfahrt ansteigen und bei der Ausfahrt wieder abfallen. Dadurch wird die Energie für die Beschleunigung der Züge aus der potenziellen Energie gewonnen.
+
+Die Züge fahren autonom.
+
+### Logistik
+
+Neben den U-Bahnen gibt es Schienen für den Güterverkehr.
+
+Außerdem werden hier Leitungen für Wasser, Energie und Daten unterirdisch zwischen den Städten verlegt.
+
+Da die meisten MMenschen sowieso jeden Tag zum Eudaimonium gehen, können sie dort auch ihre Post und Pakete abholen und zurückgeben. Dadurch sparen wir uns viele Lieferfahrzeuge in der Stadt.
+
+## Regierung
+
+Die Städte sind selbstverwaltet.
+
+Es ist im Interesse der Regierung, dass die Menschen sich entfalten können und glücklich sind.
+
+Wenn die Bewohner unzufrieden sind, können sie umziehen und die Regierung hat niemanden mehr, den sie regieren kann.
+
+Gleichzeitig können die Probleme und Herausforderungen lokal gelöst werden. Die Menschen kennen sich und können gemeinsam an Lösungen arbeiten.
+
+[Übersicht](/eudaimonica)

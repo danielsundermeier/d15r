@@ -4,5 +4,5 @@ namespace App\Http\Controllers;
 
 class FlourishingController extends MarkdownController
 {
-    protected $markown_path = 'markdown/welcome/flourishing.md';
+    protected $markdown_path = 'markdown/welcome/flourishing.md';
 }
