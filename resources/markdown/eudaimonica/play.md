@@ -73,6 +73,20 @@ Wir machen Fehler, lernen daraus und verbessern unsere Lösung.
 
 Nachdem wir unser Ziel erreicht haben, teilen wir unsere Erfahrungen mit anderen.
 
+## Probleme lösen
+
+Wenn wir ein Problem in unserem Leben identifizieren, können wir direkt ein Projekt daraus machen. Wir setzen uns ein Ziel und fangen an, es zu lösen.
+
+Zuerst probieren wir verschiedene Ansätze aus, um herauszufinden, was funktioniert und was nicht.
+
+Wir lernen von anderen, um zu verstehen, wie sie das Problem gelöst haben.
+
+Wir sammeln Erfahrungen und verstehen das Prinzip.
+
+Wenn wir die Regeln verstanden haben, können wir unsere eigene Lösung gestalten.
+
+Die teilen wir dann mit anderen.
+
 ## Antifragilität
 
 Je mehr Kompetenzen wir aufbauen, umso größer wird unsere Komfortzone.
