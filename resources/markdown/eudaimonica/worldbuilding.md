@@ -182,4 +182,10 @@ Vielleicht ist es unsere Aufgabe Leben ins Universum zu bringen und dadurch ein 
 
 Wäre das dann noch von dem, was wir als Gott bezeichnen würden, zu unterscheiden?
 
+## Identität
+
+Wofür soll die Menschheit stehen? Ein Ziel, dass uns alle vereint.
+
+Ein großes Projekt hinter dem wir uns vereinen können. Etwas wie die Mondlandung oder dem Verbessern der Lebensqualität aller Menschen.
+
 [Übersicht](/eudaimonica)

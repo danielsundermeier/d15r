@@ -87,3 +87,13 @@ Wir nutzen das, was in den Kontext passt. Wir wollen verhindern eine Lösung fü
 Wir haben viele Werkzeuge zur Verfügung. Wir setzen das ein, was gerade am besten passt.
 
 Wir verlieren uns nicht in Ideologien, sondern bleiben pragmatisch und flexibel.
+
+## Balance
+
+Es gibt für alles ein Optimum. Überall gibt es ein zu wenig oder zu viel.
+
+Dieser Punkt liegt aber in der Regel nicht in der Mitte und ist indviduell. Außerdem verschiebt es sich mit der Zeit.
+
+Für Tugenden gibt es ein Mangel und ein Übermaß.
+
+Je größer etwas wird, umso mehr ist möglich, es steigt aber auch der Aufwand, um es zu erhalten.

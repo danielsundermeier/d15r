@@ -245,4 +245,14 @@ Wenn die Bewohner unzufrieden sind, können sie umziehen und die Regierung hat n
 
 Gleichzeitig können die Probleme und Herausforderungen lokal gelöst werden. Die Menschen kennen sich und können gemeinsam an Lösungen arbeiten.
 
+## Identität
+
+Unsere Städte stehen für etwas. Sie haben ihre eigene Identität. Etwas mit dem sich die Bewohner identifizieren können und hinter dem sie stehen.
+
+Etwas in das sie investieren und unterstützen wollen. Ein gemeinsames Projekt, dass allen Bewohnern dient.
+
+Früher wurden Kathedralen gebaut.
+
+Was ist unser Projekt? Jede Stadt kann ein eigenes haben, dass sie die Bewohner selbst aussuchen.
+
 [Übersicht](/eudaimonica)
