@@ -34,9 +34,13 @@ Das Leben auf unserem Planeten beruht auf Komplexität und Evolution. Das ist di
 
 ## Philosophie
 
-Die Philosophie des Spiels basiert auf der Idee, dass wir die Regeln und Mechaniken des Lebens verstehen und nutzen können, um besser zu spielen.
-
 Wenn wir die Spielwelt (Komplexität), die Spielmechanik (Evolution) und unseren Avatar (Körper) kennen und verstehen, können wir viele Probleme vermeiden und haben mehr Spaß beim Spielen.
+
+Es gibt uns eine Richtung und eine Struktur, um unser Leben zu gestalten. Einen Weg, dem wir folgen können.
+
+Die drei Ebenen der Philisophie, persönlich (Play), sozial (Multiplayer) und global (Worldbuilding) helfen mir dabei Muster zu erkennen und Lösungen zu finden.
+
+Sie beleuchten die Aspekte des Spiels auf unterschiedliche Weise. Dadurch geben sie mir eine neue Perspektive und lassen sie klarer werden.
 
 ### Play
 
@@ -48,7 +52,9 @@ Das Ziel ist die Entwicklung und das Wachstum. Wir wollen unsere Stärken zum Wo
 
 ### Multiplayer
 
-Wir können das Spiel des Lebens nicht alleine spielen. Es ist ein Multiplayer-Spiel, bei dem Zusammenarbeit und Kommunikation entscheidend sind. Indem wir uns mit anderen Spielern vernetzen, können wir voneinander lernen, uns unterstützen und gemeinsam Herausforderungen meistern.
+Beziehungen sind ein zentraler Bestandteil des Spiels und das höchste Gut.
+
+Wir können das Spiel des Lebens nicht allein spielen. Es ist ein Multiplayer-Spiel, bei dem Zusammenarbeit und Kommunikation entscheidend sind. Indem wir uns mit anderen Spielern vernetzen, können wir voneinander lernen, uns unterstützen und gemeinsam Herausforderungen meistern.
 
 Wir erschaffen eine Umgebung, die uns beim Spielen unterstützt. Gleichzeitig verbessern wir die Umgebung immer weiter.
 

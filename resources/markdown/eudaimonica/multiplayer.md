@@ -1,6 +1,12 @@
 # Multiplayer
 
+Wir sind soziale Wesen und brauchen andere Menschen, um zu wachsen und uns zu entwickeln.
+
+Beziehungen haben einen großen Einfluss auf unser Wohlbefinden und unsere Lebensqualität.
+
 Wir wollen eine Umgebung gestalten, die uns dabei unterstützt, das Spiel des Lebens besser zu spielen.
+
+Wir schaffen Räume für Begegnungen und Austausch, in denen Beziehungen wachsen können.
 
 ## Prinzipien
 
@@ -14,7 +20,7 @@ Wir wollen wieder echte Zugehörigkeit und Verbundenheit erleben.
 
 Wir wollen Teil von etwas Größerem sein.
 
-### Systeme Gestalten
+### Systeme gestalten
 
 Die Stärke von Menschen liegt in der Kreativität, Zusammenarbeit, Empathie und dem Lösen von Problemen.
 
@@ -34,9 +40,9 @@ Wir verlieren uns nicht in Ideologien, sondern bleiben pragmatisch und flexibel.
 
 ## Zufriedenheit
 
-Das Ziel ist die Lebensqualität aller Menschen zu verbessern und ihnen zu ermöglichen ihr volles Potenzial zu entfalten.
+Das Ziel ist die Lebensqualität aller Menschen zu verbessern und allen zu ermöglichen ihr volles Potenzial zu entfalten.
 
-Wir wollen eine Umgebung schaffen, die in der wir uns in einem sicheren Rahmen ausprobieren und weiterentwickeln können.
+Wir wollen eine Umgebung schaffen, in der wir uns in einem sicheren Rahmen ausprobieren und weiterentwickeln können.
 
 Das nimmt uns die Angst vor dem Scheitern und gibt uns die Freiheit, neue Wege zu gehen.
 
@@ -56,7 +62,7 @@ Wir können die schönen Dinge des Lebens genießen, sind aber nicht auf sie ang
 
 ## Experimente
 
-Auch hier gilt die generelle Spielmechanik der Evolution.
+Auch auf dieser Ebene gilt die generelle Spielmechanik der Evolution.
 
 Anstatt eine perfekte Lösung zu suchen, probieren wir viele Varianten gleichzeitig aus.
 
