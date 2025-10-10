@@ -30,7 +30,9 @@ Die Ameisen kommunizieren durch Duftstoffe. Wenn eine Ameise Futter findet, hint
 
 Es sind einfache Regeln, die zu komplexem Verhalten führen.
 
-Nur wir nutzen dieses Prinzip nicht. Wir versuchen, alles zu kontrollieren und zu planen.
+Moral, Empathie und Vertrauen sind lokale Phänomene. Sie entstehen, wenn Menschen sich kennen, sehen, fühlen, spüren. Wenn Strukturen so groß werden, dass diese Rückkopplung verschwindet, verliert das System seine Ethik.
+
+In kleinen Gemeinschaften reguliert sich Verhalten durch Beziehung. In anonymen Systemen braucht man Bürokratie, Kontrolle, Gesetze – und doch bricht Vertrauen weg. Das Ergebnis: ein kaltes, abstraktes, selbstreferenzielles System, das "funktioniert", aber nicht lebt.
 
 Wenn es uns gelingt, Systeme zu gestalten, die sich selbst organisieren, können wir viel effizienter und flexibler werden.
 
@@ -43,6 +45,12 @@ Wenn wir alle Informationen haben, die wir brauchen, können wir selbst entschei
 Es ist auch eine gute Vorbereitung für die Automatisierung.
 
 Es entstehen natürliche Hierarchien und Strukturen, die sich an die Bedürfnisse und Fähigkeiten der Menschen anpassen. Sie lösen sich aber auch wieder auf, wenn sie nicht mehr gebraucht werden.
+
+Egal wie sehr wir es versuchen, wir können andere nicht ändern. Kontrolle und Zwang gehen oft nach hinten los.
+
+Wir können aber als Vorbild voran gehen und nach der goldenen Regel leben: Behandle andere so, wie du selbst behandelt werden möchtest.
+
+Wenn wir alle vor der eigenen Haustür kehren, wird sich die Welt von selbst verändern.
 
 ## Open Source
 
@@ -143,6 +151,10 @@ Wir werden nicht auf eine Prüfung vorbereitet, sondern auf das Leben.
 Es kommt nicht darauf an, dass wir das Ziel erreichen, sondern auf den Prozess.
 
 So können wir uns ausprobieren, unsere Stärken entdecken und weiterentwickeln.
+
+Wir bauen eine einzigartige Kombination aus Fähigkeiten und Erfahrungen auf, können unseren eigenen Weg gehen und finden dadurch leichter unseren Platz in der Welt.
+
+Unser Leben wird zu einem einzigartigen Puzzleteil, das perfekt in das große Ganze passt.
 
 ## Verbundenheit
 
