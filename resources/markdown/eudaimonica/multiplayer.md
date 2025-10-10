@@ -12,9 +12,15 @@ Indem wir uns mit anderen in unserer Umgebung vernetzen, können wir voneinander
 
 Das gibt uns Sicherheit und Stabilität. Aber auch die Möglichkeit der Spezialisierung. Wir können uns auf unsere Stärken konzentrieren und andere Aufgaben abgeben.
 
-Die Einheit auf die wir uns hier konzentrieren, ist die Stadt.
+Wir leben in Familien und kleinen Gruppen. Diese schließen sich dann zu einer Stadt zusammen. Das ist die Einheit auf die wir uns hier konzentrieren.
 
-Wir wollen sie als Organismus betrachten und herausfinden, was sie braucht, um zu gedeihen, analog zu unserem Körper und Leben.
+Wir wollen sie wie einen Organismus betrachten und herausfinden, was sie braucht, um zu gedeihen, analog zu uns.
+
+Genau wie wir hat eine Stadt einen Körper (Infrastruktur), eine Identität und Stärken.
+
+Sie braucht Energie, es ist Arbeit nötig und es gibt Beziehungen zu anderen Städten.
+
+Es gibt auch Grundlagen, um die wir uns kümmern müssen, damit die Stadt aufblühen kann.
 
 ## Eudaimonologie
 
