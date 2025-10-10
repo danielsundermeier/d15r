@@ -12,7 +12,11 @@ Indem wir uns mit anderen in unserer Umgebung vernetzen, können wir voneinander
 
 Das gibt uns Sicherheit und Stabilität. Aber auch die Möglichkeit der Spezialisierung. Wir können uns auf unsere Stärken konzentrieren und andere Aufgaben abgeben.
 
-## Zufriedenheit
+Die Einheit auf die wir uns hier konzentrieren, ist die Stadt.
+
+Wir wollen sie als Organismus betrachten und herausfinden, was sie braucht, um zu gedeihen, analog zu unserem Körper und Leben.
+
+## Eudaimonologie
 
 Das Ziel ist die Lebensqualität aller Menschen zu verbessern und allen zu ermöglichen ihr volles Potenzial zu entfalten.
 
