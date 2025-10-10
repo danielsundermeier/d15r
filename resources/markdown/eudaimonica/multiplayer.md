@@ -96,15 +96,17 @@ Das ergibt ungefähr 10.000 Bewohner pro Stadt. So kennen sich alle und es entst
 
 Wir entfernen dadurch viele Schichten der Abstraktion, wodurch einige der Probleme der modernen Gesellschaft gelöst werden.
 
-Wir können die Probleme so lokal lösen, wo sie entstehen.
+Wir können die Probleme dort lösen, wo sie entstehen.
 
-Gleichzeitig haben wir die Kapazität in die Bewohner zu investieren und sie bei ihrer Entwicklung zu unterstützen. Das ist auch im Interesse der Stadt, weil wir so bessere Mitspieler bekommen, die dann wieder etwas zurückgeben können.
+Gleichzeitig haben wir die Kapazität wirklich in jeden Bewohner zu investieren und bei ihrer Entwicklung zu unterstützen. Das ist auch im Interesse der Stadt, weil wir so bessere Mitspieler bekommen, die dann wieder etwas zurückgeben können.
 
 Wir gestalten unsere Umgebung so, dass sie uns beim Aufblühen unterstützt.
 
 Weil sie uns hilft, haben wir ein Interesse daran etwas zurückzugeben. Es ist in unserem eigenen Interesse die Stadt immer weiter zu verbessern.
 
 Wir investieren in etwas, das uns selbst und anderen hilft. Wir können unseren Beitrag direkt sehen.
+
+Ich stelle mir eine Art Universitätscampus auf dem wir leben, lernen und arbeiten vor.
 
 ### Gebäude
 

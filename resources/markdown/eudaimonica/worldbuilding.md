@@ -70,9 +70,9 @@ Stattdessen wollen wir Arbeit schaffen, die uns erfüllt und die Welt verbessert
 
 Die Grundversorgung ist kostenlos und für jeden verfügbar.
 
-Für alles, was darüber hinausgeht, gibt es einen freien Markt. Hier nutzen wir das Geld als Tauschmittel.
+Für alles, was darüber hinausgeht, gibt es einen freien Markt. Hier nutzen wir Geld als Tauschmittel.
 
-Da die Menschen aber deutlich zufriedener sind und sich keine Sorgen mehr machen müssen, brauchen sie auch weniger Geld und die meisten Produkte werden nicht mehr gekauft.
+Da die Menschen aber deutlich zufriedener sind und sich keine Sorgen um die Grundversorgung machen müssen, brauchen sie auch weniger Geld und viele Produkte werden nicht mehr gekauft.
 
 Wenn wir einen Sinn im Leben haben und uns um die Gemeinschaft kümmern, sinkt das Bedürfnis nach materiellem Besitz und Konsum.
 
@@ -80,7 +80,9 @@ Anstatt ein Wirtschaftssystem für alles zu haben, gibt es viele kleine, spezial
 
 Es kommt auf den Kontext an. Wir setzen das ein, was gerade am besten passt.
 
-Lebensmittel oder Wasser sind eine andere Kategorie als Luxusgüter. Nicht alles muss auf die gleiche Weise gehandhabt werden.
+Lebensmittel oder Wasser sind etwas anderes als Luxusgüter. Nicht alles muss auf die gleiche Weise gehandhabt werden.
+
+Wir brauchen aber weiterhin ein Anreizsystem, damit Menschen motiviert sind, gute Arbeit zu leisten.
 
 ## Gesundheit
 
@@ -117,5 +119,55 @@ Jede Ebene kann sich selbst versorgen und organisieren, hat aber zusätzlich Ver
 Wir sind eigenständig, aber doch von einander abhängig. Wir unterstützen uns gegenseitig und profitieren voneinander.
 
 Wir nutzen die Stärken der einzelnen Bioregionen und gleichen die Schwächen aus.
+
+## Bildung
+
+Bildung ist ein lebenslanger Prozess. Wir lernen ständig dazu und entwickeln uns weiter.
+
+Wir lernen, wie wir unsere eigenen Probleme lösen und die Lösung dann mit anderen teilen können.
+
+Fehler sind dabei ein wichtiger Teil des Lernprozesses. Wir lernen durch Ausprobieren und Anpassen.
+
+Wir werden langsam an die Freiheit herangeführt, damit wir lernen, sie zu nutzen und verantwortungsvoll damit umzugehen.
+
+Wir bauen echte Kompetenzen auf, anstatt Fakten auswendig zu lernen.
+
+Der Klassenraum wird auf den Kopf gestellt. Die Theorie lernen wir durch Videos und Bücher. Die Zeit im Klassenraum nutzen wir, um das Gelernte anzuwenden und zu vertiefen.
+
+Dort gibt es auch Lehrer, die uns unterstützen und helfen, wenn wir nicht weiterkommen.
+
+Das Lernen ist projektbasiert. Wir setzen uns ein Ziel und lernen gezielt, was wir brauchen, um es zu erreichen.
+
+Wir werden nicht auf eine Prüfung vorbereitet, sondern auf das Leben.
+
+Es kommt nicht darauf an, dass wir das Ziel erreichen, sondern auf den Prozess.
+
+So können wir uns ausprobieren, unsere Stärken entdecken und weiterentwickeln.
+
+## Verbundenheit
+
+Wir sind alle miteinander verbunden. Wir sind Teil eines größeren Ganzen.
+
+Ein gemeinsames Ziel verbindet uns und gibt uns Orientierung.
+
+Zuerst könnte das Ziel lauten, die Lebensqualität von allen Menschen zu verbessern.
+
+Jeder soll Zugang zu den Ressourcen haben, die er braucht, um ein erfülltes Leben zu führen.
+
+Es gibt allein auf der Erde unendlich viel zu erforschen, zu erleben und zu entdecken. Die Möglichkeiten sind grenzenlos.
+
+## Bewusstsein
+
+Milliarden von Neuronen, die miteinander kommunizieren und zusammenarbeiten, führen zu einem Bewusstsein.
+
+Was passiert, wenn Milliarden von Menschen miteinander kommunizieren und zusammenarbeiten?
+
+Kann der Planet ein Bewusstsein entwickeln?
+
+Was ist mit dem Sonnensystem, der Galaxie oder dem ganzen Universum?
+
+Vielleicht ist es unsere Aufgabe Leben ins Universum zu bringen und dadurch ein allumfassendes Bewusstsein zu erschaffen.
+
+Wäre das dann noch von dem, was wir als Gott bezeichnen würden, zu unterscheiden?
 
 [Übersicht](/eudaimonica)
