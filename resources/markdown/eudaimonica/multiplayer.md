@@ -16,17 +16,43 @@ Wir wollen Teil von etwas Größerem sein.
 
 ### Systeme Gestalten
 
-Die Stärke von Menschen liegt in der Kreativität, Zusammenarbeit, Empathie und das Lösen von Problemen.
+Die Stärke von Menschen liegt in der Kreativität, Zusammenarbeit, Empathie und dem Lösen von Problemen.
 
 Diese Stärken wollen wir nutzen, um Systeme zu gestalten, die das Leben fördern und unterstützen.
 
 Wir wollen die laufenden Kosten und den Pflegeaufwand durch cleveres Design und Automatisierung minimieren.
+
+Wir schaffen Systeme, die uns Arbeit abnehmen und uns unterstützen.
 
 ### Integration
 
 Wir nutzen das, was in den Kontext passt. Wir wollen verhindern eine Lösung für alles zu haben.
 
 Wir haben viele Werkzeuge zur Verfügung. Wir setzen das ein, was gerade am besten passt.
+
+Wir verlieren uns nicht in Ideologien, sondern bleiben pragmatisch und flexibel.
+
+## Zufriedenheit
+
+Das Ziel ist die Lebensqualität aller Menschen zu verbessern und ihnen zu ermöglichen ihr volles Potenzial zu entfalten.
+
+Wir wollen eine Umgebung schaffen, die in der wir uns in einem sicheren Rahmen ausprobieren und weiterentwickeln können.
+
+Das nimmt uns die Angst vor dem Scheitern und gibt uns die Freiheit, neue Wege zu gehen.
+
+Wir wechseln vom Überlebensmodus in den Wachstumsmodus.
+
+Wir haben die Kapazitäten und die Ressourcen unserem Leben einen Sinn und eine Bedeutung zu geben.
+
+Wir finden die Ruhe auf unsere innere Stimme zu hören und unserem Herzen zu folgen.
+
+Das ist nicht immer einfach, aber es lohnt sich.
+
+Wenn wir uns selbst verwirklichen, fallen wir nicht auf die Ebene des Vergnügens und Konsumierens zurück.
+
+Wir gehen in dem auf, was wir tun und müssen uns nicht mehr unterhalten oder ablenken lassen.
+
+Wir können die schönen Dinge des Lebens genießen, sind aber nicht auf sie angewiesen. Wir nutzen sie nicht als Ersatz für ein erfülltes Leben.
 
 ## Experimente
 
@@ -140,6 +166,30 @@ Wir planen unsere Ressourcen für den schlechtesten Fall. So sind wir auf Krisen
 ### Wohnraum
 
 Das Leben soll in der Stadt stattfinden. Wir wollen viele Gemeinschaftsräume haben. Orte der Begegnung und des Austauschs. Dadurch kann der private Wohnraum kleiner und günstiger sein.
+
+## Überfluss
+
+Tony Seba von RethinkX schlägt das für die Energieversorgung vor. Wir planen die Größe der Solaranlage und der Batterien, damit wir auch am schlechtesten Tag im Jahr genug Energie haben.
+
+Das führt dazu, dass wir an den meisten Tagen einen Überschuss haben. Er nennt es Superpower.
+
+Diese Energie ist dann kostenlos verfügbar und kann für andere Zwecke genutzt werden.
+
+Wir können das Prinzip auf alle Ressourcen anwenden. Wir planen für den schlechtesten Fall und haben dann meistens einen Überschuss.
+
+Wir pflanzen mehr Bäume, als wir brauchen. Wir bauen mehr Häuser, als wir brauchen. Wir produzieren mehr Nahrung, als wir brauchen.
+
+Im All-Inclusive Urlaub können wir beobachten, wie sich der Überfluss auswirkt. Am Anfang nehmen wir so viel, wie wir können. Wir wollen nichts verpassen und haben Angst, dass es nicht reicht. Wir kommen aus dem Mangeldenken.
+
+Nach einer Weile merken wir aber, dass immer genug da ist und es auch zur nächsten Mahlzeit wieder etwas gibt.
+
+Wir müssen nicht mehr befürchten, dass wir nicht genug bekommen. Wir können uns entspannen und genießen.
+
+Durch den Überfluss lernen wir, wann wir genug haben. Wir müssen zuerst über das Ziel hinausschießen, um den Punkt zu finden.
+
+Wir merken dann, dass wir gar nicht so viel brauchen, wie wir dachten.
+
+Das gibt uns Sicherheit und wir fangen an, uns auf das Wesentliche zu konzentrieren.
 
 ## Waldgarten
 
