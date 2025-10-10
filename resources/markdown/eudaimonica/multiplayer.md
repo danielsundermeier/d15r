@@ -8,35 +8,9 @@ Wir wollen eine Umgebung gestalten, die uns dabei unterstützt, das Spiel des Le
 
 Wir schaffen Räume für Begegnungen und Austausch, in denen Beziehungen wachsen können.
 
-## Prinzipien
+Indem wir uns mit anderen in unserer Umgebung vernetzen, können wir voneinander lernen, uns unterstützen und gemeinsam Herausforderungen meistern.
 
-### Menschlicher Maßstab
-
-Wir wollen Lebensräume schaffen, die auf den Menschen zugeschnitten sind. Das gilt für die Größe, aber auch für die Technologie.
-
-Die Bewohner sollen sich kennen und ein starkes Gemeinschaftsgefühl entwickeln.
-
-Wir wollen wieder echte Zugehörigkeit und Verbundenheit erleben.
-
-Wir wollen Teil von etwas Größerem sein.
-
-### Systeme gestalten
-
-Die Stärke von Menschen liegt in der Kreativität, Zusammenarbeit, Empathie und dem Lösen von Problemen.
-
-Diese Stärken wollen wir nutzen, um Systeme zu gestalten, die das Leben fördern und unterstützen.
-
-Wir wollen die laufenden Kosten und den Pflegeaufwand durch cleveres Design und Automatisierung minimieren.
-
-Wir schaffen Systeme, die uns Arbeit abnehmen und uns unterstützen.
-
-### Integration
-
-Wir nutzen das, was in den Kontext passt. Wir wollen verhindern eine Lösung für alles zu haben.
-
-Wir haben viele Werkzeuge zur Verfügung. Wir setzen das ein, was gerade am besten passt.
-
-Wir verlieren uns nicht in Ideologien, sondern bleiben pragmatisch und flexibel.
+Das gibt uns Sicherheit und Stabilität. Aber auch die Möglichkeit der Spezialisierung. Wir können uns auf unsere Stärken konzentrieren und andere Aufgaben abgeben.
 
 ## Zufriedenheit
 

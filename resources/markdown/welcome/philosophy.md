@@ -49,3 +49,41 @@ Das Ziel ist nicht, jeden Tag perfekt zu machen,
 sondern **ihn bewusst zu leben** – mit allem, was dazugehört.
 Ein Tag, an dem wir neugierig bleiben, ehrlich fühlen, mutig handeln und uns weiterentwickeln,
 ist ein Meisterwerk.
+
+## Prinzipien
+
+### Holons
+
+Alles ist miteinander verbunden. Wir sind Teil eines größeren Ganzen.
+
+Das Universum besteht aus Holons – Einheiten, die gleichzeitig Ganzes und Teil eines größeren Systems sind.
+
+Das größere Ganze ist mehr als die Summe seiner Teile. Es entstehen neue Eigenschaften und Fähigkeiten.
+
+### Menschlicher Maßstab
+
+Wir wollen Lebensräume schaffen, die auf den Menschen zugeschnitten sind. Das gilt für die Größe, aber auch für die Technologie.
+
+Die Bewohner sollen sich kennen und ein starkes Gemeinschaftsgefühl entwickeln.
+
+Wir wollen wieder echte Zugehörigkeit und Verbundenheit erleben.
+
+Wir wollen Teil von etwas Größerem sein.
+
+### Systeme gestalten
+
+Die Stärke von Menschen liegt in der Kreativität, Zusammenarbeit, Empathie und dem Lösen von Problemen.
+
+Diese Stärken wollen wir nutzen, um Systeme zu gestalten, die das Leben fördern und unterstützen.
+
+Wir wollen die laufenden Kosten und den Pflegeaufwand durch cleveres Design und Automatisierung minimieren.
+
+Wir schaffen Systeme, die uns Arbeit abnehmen und uns unterstützen.
+
+### Integration
+
+Wir nutzen das, was in den Kontext passt. Wir wollen verhindern eine Lösung für alles zu haben.
+
+Wir haben viele Werkzeuge zur Verfügung. Wir setzen das ein, was gerade am besten passt.
+
+Wir verlieren uns nicht in Ideologien, sondern bleiben pragmatisch und flexibel.

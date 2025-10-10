@@ -42,11 +42,25 @@ Die drei Ebenen der Philisophie, persönlich (Play), sozial (Multiplayer) und gl
 
 Sie beleuchten die Aspekte des Spiels auf unterschiedliche Weise. Dadurch geben sie mir eine neue Perspektive und lassen sie klarer werden.
 
+Die niedrigere Ebene bildet die Grundlage für die Ebene darüber. Aus dem Zusammenschluss der Einzelteile entsteht die nächste Ebene.
+
+Die Aufgaben der höheren Ebene sind die Unterstützung und Verbesserung der darunterliegenden Ebene. Je besser die darunterliegende Ebene funktioniert, umso mehr profitiert die darüberliegende Ebene.
+
+Durch den Zusammenschluss der Einzelteile der unteren Ebene entsteht Komplexität und dadurch ergeben sich neue Möglichkeiten und Fähigkeiten.
+
+Personen > Gruppen > Städte > Bioregionen > Planet
+
 ### Play
 
 Wir alle wollen ein erfülltes Leben führen und uns zufrieden fühlen.
 
 Das Ziel ist die Entwicklung und das Wachstum. Wir wollen unsere Stärken zum Wohle aller einsetzen.
+
+Hier geht es darum, wie wir unser Leben gestalten können, um dieses Ziel zu erreichen.
+
+Unser Fundament ist unser Körper. Er ist die Basis, auf der alles andere aufbaut.
+
+Einzelne Personen bilden Familien und kleine Gruppen.
 
 [Mehr](/eudaimonica/play)
 
@@ -58,9 +72,19 @@ Wir können das Spiel des Lebens nicht allein spielen. Es ist ein Multiplayer-Sp
 
 Wir erschaffen eine Umgebung, die uns beim Spielen unterstützt. Gleichzeitig verbessern wir die Umgebung immer weiter.
 
+Die Referenz ist hier eine Stadt. Sie setzt sich aus vielen einzelnen Spielern, Familien und kleinen Gruppen zusammen.
+
+Durch den Zusammenschluss wird die Versorgung und Sicherheit für alle verbessert. Gemeinsam haben wir völlig neue Möglichkeiten.
+
 [Mehr](/eudaimonica/multiplayer)
 
 ### Worldbuilding
+
+Die Städte in den Bioregionen der Erde schließen sich zu einem globalen Netzwerk zusammen.
+
+Hier geht es um den Planeten als Ganzes.
+
+Die Zusammenarbeit aller Städte erhöht die Stabilität und Sicherheit noch einmal. Wir können unsere Ressourcen global verteilen und haben Zugriff auf das Wissen und die Fähigkeiten aller Spieler.
 
 Wir gestalten die Spielwelt aktiv mit. Indem wir uns für eine nachhaltige und gerechte Welt einsetzen, können wir das Spiel des Lebens für alle Spieler verbessern. Dabei geht es darum, Verantwortung zu übernehmen und bewusst zu handeln.
 
