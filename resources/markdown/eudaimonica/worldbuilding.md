@@ -1,6 +1,84 @@
 # Worldbuilding
 
-## Automatisierung
+Genau wie die Städte sich aus vielen Menschen bilden, besteht die Welt aus Städten die sich in Bioregionen organisieren.
+
+Wir könnnen also auch den Planten wie einen Organismus betrachten, der aus vielen Zellen besteht.
+
+Auch hier gelten ähnliche Prinzipien, wie auf den kleineren Ebenen.
+
+Es sind immer die gleichen Muster, die sich auf verschiedenen Ebenen wiederholen.
+
+Ich bin noch unsicher, ob das auch auf die Ebene des Planeten zutrifft. Ich möchte es nicht erzwingen, nur weil es auf den kleineren Ebenen funktioniert.
+
+## Eudaimonologie
+
+Wenn die Städte und Bioregionen gedeihen, geht es auch dem Planeten gut.
+
+Wir wollen die Menschheit vereinen.
+
+## Antifragilität
+
+Wie schaffen wir Systeme, die nicht nur robust sind, sondern durch Herausforderungen und Krisen stärker werden?
+
+Wir wollen dynamische Systeme, die sich an Veränderungen anpassen und daraus lernen können. Wir wollen aber verhindern, dass sie instabil werden und zusammenbrechen.
+
+Da wir unsere Produktion auf die schlechtesten Bedingungen auslegen, sind wir gegen viele Krisen gewappnet. Wir können Ressourcen und Wissen teilen, um uns gegenseitig zu unterstützen.
+
+## Identität
+
+Wofür soll die Menschheit stehen? Ein Ziel, dass uns alle vereint.
+
+Ein großes Projekt hinter dem wir uns vereinen können. Etwas wie die Mondlandung oder dem Verbessern der Lebensqualität aller Menschen.
+
+### Lebensbereiche
+
+#### Energie
+
+Wir wollen Systeme schaffen, die uns mit einem Überschuss an Energie versorgen.
+
+Wir passen die Energieversorgung an die lokalen Verhältnisse an. Es gibt nicht die eine Lösung für alle.
+
+Vorlage ist das Energiesystem von Tony Seba und RethinkX.
+
+Es ist günstiger als fossile Energie und produziert Überschüsse. Durch die ständige Verbesserung der Technologie werden die Kosten immer weiter sinken.
+
+Wir brauchen am Anfang eine Investition, um das System aufzubauen. Danach produzieren wir immer mehr Energie als wir verbrauchen. Was die kontinuierliche Verbesserung des Systems ermöglicht.
+
+Das System zahlt sich und die Verbesserung also von selbst und kann theoretisch für immer laufen.
+
+Das ist die Art von Systemen, die wir brauchen. Es ist nicht nur nachhaltig, sondern auch regenerativ.
+
+#### Arbeit
+
+Wie gestalten wir die Arbeit der Zukunft? Welche Werte sind uns wichtig?
+
+Jede Stadt und Bioregion hat besondere Stärken und Ressourcen. Wir setzen diese gezielt ein.
+
+Eine gewisse Grundversorgung sollte aber überall verfügbar sein. Das sorgt für Stabilität und Sicherheit.
+
+In Island ist die Energie aus Geothermie besonders günstig. Außerdem ist es kalt, was sich gut für Datenzentren eignet.
+
+In der Wüste gibt es viel Sonne, dort können Solarkraftwerke besonders effizient arbeiten. Es bietet sich also an hier Indutrieanlagen zu bauen, die viel Energie brauchen.
+
+Wir produzieren lokal, denken aber global. Wir teilen Ressourcen und Wissen, um uns gegenseitig zu unterstützen.
+
+Wir arbeiten gemeinsam an großen Projekten und teilen die Ergebnisse.
+
+Jeder kann sich an den Projekten beteiligen, die ihn interessieren und seine Stärken einbringen.
+
+#### Liebe
+
+Wir schaffen einen globalen Wettbewerb der Liebe. Es ist egal wer gewinnt, weil wir alle profitieren.
+
+Toleranz und Akzeptanz sind wichtige Werte, die wir fördern wollen.
+
+## Tage als Meisterwerke
+
+Wie können wir auf plantetarer Ebene Tage als Meisterwerke gestalten?
+
+## Struktur
+
+### Automatisierung
 
 Menschen sind nicht dafür gemacht, alle Aufgaben selbst zu erledigen. Wir brauchen Systeme und Technologien, die uns unterstützen und entlasten.
 
@@ -18,7 +96,7 @@ Dadurch haben wir die Möglichkeit uns auf die wirklich wichtigen Dinge zu konze
 
 Durch die Automatisierung und effiziente Gestaltung unserer Umgebung haben wir immer mehr Ressourcen zu immer günstigeren Preisen.
 
-## Selbstorganisation
+### Selbstorganisation
 
 In der Natur organisiert sich alles von selbst. Zellen, Organismen, Ökosysteme, Gesellschaften – alles entsteht durch Selbstorganisation.
 
@@ -52,7 +130,7 @@ Wir können aber als Vorbild voran gehen und nach der goldenen Regel leben: Beha
 
 Wenn wir alle vor der eigenen Haustür kehren, wird sich die Welt von selbst verändern.
 
-## Open Source
+### Open Source
 
 Alles, was wir erschaffen, soll offen und zugänglich sein. Wir wollen Wissen und Ressourcen teilen, damit jeder davon profitieren kann.
 
@@ -66,33 +144,7 @@ Es können sich Netzwerke und Gemeinschaften bilden, die gemeinsam an Lösungen 
 
 So können die Menschen entscheiden, welche Projekte sie unterstützen wollen und so die Richtung der Entwicklung mitbestimmen.
 
-## Wirtschaft
-
-Es gibt keine Schulden und keine Zinsen.
-
-Wir wollen verhindern, dass es lukrativer ist, Geld mit Geld zu verdienen als mit Arbeit.
-
-Geld soll ein Mittel zum Zweck sein, kein Selbstzweck.
-
-Stattdessen wollen wir Arbeit schaffen, die uns erfüllt und die Welt verbessert. Dann müssen wir uns keine Wege mehr überlegen, wie wir nicht mehr Arbeiten müssen.
-
-Die Grundversorgung ist kostenlos und für jeden verfügbar.
-
-Für alles, was darüber hinausgeht, gibt es einen freien Markt. Hier nutzen wir Geld als Tauschmittel.
-
-Da die Menschen aber deutlich zufriedener sind und sich keine Sorgen um die Grundversorgung machen müssen, brauchen sie auch weniger Geld und viele Produkte werden nicht mehr gekauft.
-
-Wenn wir einen Sinn im Leben haben und uns um die Gemeinschaft kümmern, sinkt das Bedürfnis nach materiellem Besitz und Konsum.
-
-Anstatt ein Wirtschaftssystem für alles zu haben, gibt es viele kleine, spezialisierte Systeme. Alle Theorien haben ihre Vor- und Nachteile. Es sind Werkzeuge, die für bestimmte Aufgaben geeignet sind.
-
-Es kommt auf den Kontext an. Wir setzen das ein, was gerade am besten passt.
-
-Lebensmittel oder Wasser sind etwas anderes als Luxusgüter. Nicht alles muss auf die gleiche Weise gehandhabt werden.
-
-Wir brauchen aber weiterhin ein Anreizsystem, damit Menschen motiviert sind, gute Arbeit zu leisten.
-
-## Gesundheit
+### Gesundheit
 
 Es gibt Ärzte, deren Aufgabe es ist uns gesund zu halten. Wir sammeln regelmäßig Daten über unseren Körper und unsere Gesundheit.
 
@@ -108,7 +160,7 @@ Wir haben einen Lebensstil, der uns gesund hält. Wir wissen, was uns guttut und
 
 Es gibt auch hier eine Datenbank mit allen Informationen, die wir brauchen, um unseren Körper besser zu verstehen, gesund zu halten und zu optimieren.
 
-## Bioregionen
+### Bioregionen
 
 Die Städte organisieren sich in Bioregionen. Das sind natürliche Einheiten, die auf geografischen und ökologischen Gegebenheiten basieren.
 
@@ -128,7 +180,7 @@ Wir sind eigenständig, aber doch von einander abhängig. Wir unterstützen uns 
 
 Wir nutzen die Stärken der einzelnen Bioregionen und gleichen die Schwächen aus.
 
-## Bildung
+### Bildung
 
 Bildung ist ein lebenslanger Prozess. Wir lernen ständig dazu und entwickeln uns weiter.
 
@@ -156,7 +208,7 @@ Wir bauen eine einzigartige Kombination aus Fähigkeiten und Erfahrungen auf, k�
 
 Unser Leben wird zu einem einzigartigen Puzzleteil, das perfekt in das große Ganze passt.
 
-## Verbundenheit
+### Verbundenheit
 
 Wir sind alle miteinander verbunden. Wir sind Teil eines größeren Ganzen.
 
@@ -168,7 +220,7 @@ Jeder soll Zugang zu den Ressourcen haben, die er braucht, um ein erfülltes Leb
 
 Es gibt allein auf der Erde unendlich viel zu erforschen, zu erleben und zu entdecken. Die Möglichkeiten sind grenzenlos.
 
-## Bewusstsein
+### Bewusstsein
 
 Milliarden von Neuronen, die miteinander kommunizieren und zusammenarbeiten, führen zu einem Bewusstsein.
 
@@ -182,10 +234,72 @@ Vielleicht ist es unsere Aufgabe Leben ins Universum zu bringen und dadurch ein 
 
 Wäre das dann noch von dem, was wir als Gott bezeichnen würden, zu unterscheiden?
 
-## Identität
+## Fundament
 
-Wofür soll die Menschheit stehen? Ein Ziel, dass uns alle vereint.
+### Ernährung
 
-Ein großes Projekt hinter dem wir uns vereinen können. Etwas wie die Mondlandung oder dem Verbessern der Lebensqualität aller Menschen.
+Unsere Ernährung ist hauptsächlich lokal und saisonal. Wir legen unsere Produktion so an, dass sie für die schlechtesten Bedingungen ausgelegt ist.
+
+Das bedeutet, dass wir auch in schlechten Jahren genug zu essen haben und den Rest der Zeit Überschüsse produzieren.
+
+Diese Überschüsse können wir anderen zur Verfügung stellen, die nicht genug produzieren können.
+
+Wir können sie natürlich auch verkaufen und so den Speiseplan der anderen Orte ergänzen. Die Frage ist aber, ob wir überall zu jeder Zeit alles zur Verfügung haben wollen oder ob die Saisonalität und Regionalität nicht auch Vorteile hat. Die Ernährung einer Stadt oder Region ist Teil der Kultur.
+
+Wir müssen aber nicht mehr ernten, als wir brauchen. Wir wollen keine Lebensmittel verschwenden und uns auch nicht mehr Arbeit machen als nötig. Die Überschüsse können von den Tieren verwertet werden oder sie düngen den Boden.
+
+Wir passen die Produktion an die Umgebung an. Wir bauen das an, was ohne zusätzliche Ressourcen gut wächst.
+
+### Bewegung
+
+Wir setzen auf Zugang statt Besitz. Das ermöglicht es uns uns frei in der Welt zu bewegen, ohne uns um den Besitz kümmern zu müssen.
+
+Es gibt keine Grenzen oder Nationalitäten mehr. Wir sind alle Menschen und Teil einer globalen Gemeinschaft.
+
+Wir haben freie Wahl, wo wir leben und arbeiten wollen. Wir können uns immer wieder neu orientieren und anpassen.
+
+Wenn es uns irgendwo nicht gefällt, ziehen wir einfach weiter.
+
+### Schlaf
+
+?
+
+### Atmung
+
+?
+
+### Aufmerksamkeit
+
+?
+
+### Zelebrieren
+
+?
+
+### Florieren
+
+Es gibt keine Schulden und keine Zinsen.
+
+Wir wollen verhindern, dass es lukrativer ist, Geld mit Geld zu verdienen als mit Arbeit.
+
+Geld soll ein Mittel zum Zweck sein, kein Selbstzweck.
+
+Stattdessen wollen wir Arbeit schaffen, die uns erfüllt und die Welt verbessert. Dann müssen wir uns keine Wege mehr überlegen, wie wir nicht mehr Arbeiten müssen.
+
+Die Grundversorgung ist kostenlos und für jeden verfügbar.
+
+Für alles, was darüber hinausgeht, gibt es einen freien Markt. Hier nutzen wir Geld als Tauschmittel.
+
+Da die Menschen aber deutlich zufriedener sind und sich keine Sorgen um die Grundversorgung machen müssen, brauchen sie auch weniger Geld und viele Produkte werden nicht mehr gekauft.
+
+Wenn wir einen Sinn im Leben haben und uns um die Gemeinschaft kümmern, sinkt das Bedürfnis nach materiellem Besitz und Konsum.
+
+Anstatt ein Wirtschaftssystem für alles zu haben, gibt es viele kleine, spezialisierte Systeme. Alle Theorien haben ihre Vor- und Nachteile. Es sind Werkzeuge, die für bestimmte Aufgaben geeignet sind.
+
+Es kommt auf den Kontext an. Wir setzen das ein, was gerade am besten passt.
+
+Lebensmittel oder Wasser sind etwas anderes als Luxusgüter. Nicht alles muss auf die gleiche Weise gehandhabt werden.
+
+Wir brauchen aber weiterhin ein Anreizsystem, damit Menschen motiviert sind, gute Arbeit zu leisten.
 
 [Übersicht](/eudaimonica)
