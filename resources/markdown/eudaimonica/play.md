@@ -189,6 +189,48 @@ Dabei geht es selten darum, was wir haben oder können, sondern immer um die Per
 
 Es geht darum, wie wir andere Menschen berührt und inspiriert haben.
 
+### Lebensbereiche
+
+#### Energie
+
+In diesem Lebensbereich kümmern wir uns um die Grundlagen, die uns Energie geben.
+
+#### Arbeit
+
+Wir müssen unsere Arbeit ganzheitlich denken.
+
+Wenn wir nur den gleichen ganz kleinen Schritt eines großen Prozesses machen, funktioniert das für Menschen nicht.
+
+Wir wollen gestalten und unsere Kreativität einsetzen.
+
+Natürlich ist das ein fließender Prozess.
+
+Wir haben erst eine abgeschlossene Tätigkeit, die ein Mensch ausführt. Diese teilen wir dann in immer kleinere Schritte ein, die am Anfang auch von Menschen ausgeführt werden müssen. Das ist aber kein dauerhafter Zustand.
+
+Unsere Aufgabe ist es, diese Schritte zu dokumentieren, weiter zu optimieren und im besten Fall zu eliminieren.
+
+Wenn das nicht gelingt, werden sie automatisiert.
+
+Maschinen sind dafür viel besser geeignet als Menschen. Sie sind schneller, genauer und zuverlässiger.
+
+Die Aufgabe von jedem von uns ist also, uns selbst überflüssig zu machen. Wege zu finden, Arbeit zu eliminieren oder zu automatisieren.
+
+Wir schaffen uns selbst immer wieder Freiräume, durch die wir neue Möglichkeiten entdecken können.
+
+Das gibt uns ein Gefühl der Kontrolle und der Autonomie. Unsere Aufgaben verändern sich ständig und dadurch haben wir Freude an ihnen.
+
+Es gibt immer wieder neue Herausforderungen. Immer wieder etwas Neues zu entdecken und zu optimieren.
+
+Das bedeutet auch, dass wir gezielt Dinge lernen können. Wir bleiben so nicht stehen und entwickeln uns kontinuierlich weiter.
+
+Wir setzen dadurch unsere Stärken ein und leisten einen echten Beitrag, anstatt nur ein Zahnrad im Getriebe zu sein.
+
+Wir haben Autonomie, Fortschritt und Sinn. Dass sind die drei wichtigsten Faktoren für Zufriedenheit bei der Arbeit.
+
+#### Liebe
+
+Beziehungen sind ein wichtiger Teil unseres Lebens. Wir sind soziale Wesen und brauchen den Kontakt zu anderen Menschen.
+
 ## Tage als Meisterwerke
 
 Unser Leben besteht aus vielen einzelnen Tagen. Jeder Tag ist eine Gelegenheit, ein kleines Meisterwerk zu erschaffen.
