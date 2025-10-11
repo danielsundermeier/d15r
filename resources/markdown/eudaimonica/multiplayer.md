@@ -22,9 +22,42 @@ Sie braucht Energie, es ist Arbeit nötig und es gibt Beziehungen zu anderen St�
 
 Es gibt auch Grundlagen, um die wir uns kümmern müssen, damit die Stadt aufblühen kann.
 
+Wir betrachten die Stadt als einen lebendigen Organismus. Es ist ein Zusammenschluss von vielen Menschen.
+
+Genau wie wir selbst aus vielen Zellen bestehen, die sich zu Organen zusammenschließen.
+
+So können wir die Prinzipen, die für einen Menschen gelten, auch auf die Stadt übertragen.
+
 ## Eudaimonologie
 
-Das Ziel ist die Lebensqualität aller Menschen zu verbessern und allen zu ermöglichen ihr volles Potenzial zu entfalten.
+Wir schließen uns in Städten zusammen, um unsere Lebensqualität zu verbessern. Das Zusammenleben ermöglicht es uns die Spezialisierung, wodurch alle profitieren.
+
+Zusammenarbeit ermöglicht Spezialisierung. Jeder Mensch trägt das bei, was er am besten kann, und wird dadurch Teil eines größeren Ganzen. Die Zufriedenheit der Menschen und der Erhalt wie auch die Weiterentwicklung der Infrastruktur bilden die Grundlagen einer gesunden Stadt.
+
+Auch eine Stadt braucht eine Identität – ein gemeinsames Ziel, das ihre Menschen verbindet. Wenn sie zu groß wird, verliert sie dieses verbindende Element. Anonymität ersetzt Zugehörigkeit, Verantwortung weicht Gleichgültigkeit. Ohne gemeinsame Identität gibt es nichts mehr, wofür wir einstehen oder kämpfen wollen.
+
+Darum sollten Städte menschliche Maßstäbe wahren – überschaubar, lebendig, verbunden. Eine Stadt mit etwa 10.000 Einwohnern auf rund einem Quadratkilometer – eine sogenannte 15-Minuten-Stadt – vereint das Beste beider Welten: Sie ist groß genug für Vielfalt und Zusammenarbeit, aber klein genug, um Beziehungen, Vertrauen und Verantwortung zu erhalten.
+
+Dadurch haben wir die Vorteile der großen Gruppe, aber nicht die Nachteile, einer zu großen Stadt.
+
+Das, was eine Stadt wirklich trägt, sind nicht ihre Gebäude oder Straßen, sondern die Beziehungen zwischen den Menschen. Diese Beziehungen machen das Ganze größer als die Summe seiner Teile.
+
+Heute ist dieses Gleichgewicht verloren gegangen. Unsere Städte sind zu groß, zu anonym, zu abstrakt geworden. Damit verlieren wir das, was uns im Kern menschlich macht: Verbindung, gegenseitige Verantwortung und den Sinn, Teil von etwas Bedeutendem zu sein. Es gibt keine soziale Kontrolle mehr. Dadurch geht die soziale Verantwortung und der Anstand verloren.
+
+Wenn Eudaimonia für den Menschen bedeutet, seine Potenziale zum Wohle des Ganzen zu entfalten, dann könnte man sagen:
+
+Eine Stadt lebt erfüllt, wenn sie die Entfaltung der Menschen ermöglicht, aus denen sie besteht.
+
+Das heißt:
+
+- Sie schafft Bedingungen, in denen Menschen ihre Stärken einsetzen können.
+- Sie ermöglicht Bildung, Gesundheit, Sicherheit und Sinn.
+- Sie bleibt wandelbar und lernt aus Krisen.
+- Sie blüht nicht auf Kosten anderer Städte oder Ökosysteme, sondern in Kooperation mit ihnen.
+
+Man könnte das als systemische Tugendhaftigkeit einer Stadt bezeichnen:
+Gerechtigkeit (faire Verteilung), Weisheit (Weitsicht in Entscheidungen), Mut (Innovationskraft), Mäßigung (Ressourcenschonung).
+Aristotelische Tugenden, übersetzt auf den kollektiven Maßstab.
 
 Wir wollen eine Umgebung schaffen, in der wir uns in einem sicheren Rahmen ausprobieren und weiterentwickeln können.
 
@@ -43,6 +76,363 @@ Wenn wir uns selbst verwirklichen, fallen wir nicht auf die Ebene des Vergnügen
 Wir gehen in dem auf, was wir tun und müssen uns nicht mehr unterhalten oder ablenken lassen.
 
 Wir können die schönen Dinge des Lebens genießen, sind aber nicht auf sie angewiesen. Wir nutzen sie nicht als Ersatz für ein erfülltes Leben.
+
+## Antifragilität
+
+Wie schaffen wir Städte, die nicht nur robust sind, sondern durch Herausforderungen und Krisen stärker werden?
+
+## Identität
+
+Unsere Städte stehen für etwas. Sie haben ihre eigene Identität. Etwas mit dem sich die Bewohner identifizieren können und hinter dem sie stehen.
+
+Etwas in das sie investieren und unterstützen wollen. Ein gemeinsames Projekt, dass allen Bewohnern dient.
+
+Früher wurden Kathedralen gebaut.
+
+Was ist unser Projekt? Jede Stadt kann ein eigenes haben, dass sie die Bewohner selbst aussuchen.
+
+Diese Identität entsteht aus den Beziehungen der Bewohner untereinander und zu ihrer Umgebung.
+
+Wenn sie zu groß werden, gehen diese Beziehungen verloren und die Identität verschwindet.
+
+Das schränkt das Wachstum der Städte ein. Anstatt immer größer zu werden, gründen wir neue kleine Städte mit eigener Identität.
+
+Wir nehmen uns auch hier die Natur zum Vorbild.
+
+Jede Stadt hat – wie ein Mensch – ein Temperament, eine Geschichte, eine Umgebung.
+Ihre „Stärken“ entstehen aus diesen Eigenheiten.
+
+Zum Beispiel:
+
+- Eine Hafenstadt lebt von Offenheit, Handel, Austausch.
+- Eine Bergstadt von Rückzug, Schutz, Beständigkeit.
+- Eine Universitätsstadt von Neugier und Erkenntnis.
+- Eine Handwerksstadt von Präzision und Tradition.
+
+Wenn sie ihre Stärken bewusst kultiviert und zum Wohle ihrer Bewohner und Nachbarn einsetzt, dann lebt sie in Harmonie mit ihrer Natur – wie ein Mensch, der seine Berufung lebt.
+
+Wenn jede Stadt eine eigene Identität hat, damit auch ein Experiment und völlig einzigartig ist, können wir, wenn wir unterschiedliche Städte besuchen, lernen, was uns gefällt und was nicht. Wir haben jedes Mal eine Gelegenheit, uns neu kennenzulernen.
+
+In dem Zusammenhang gefällt mir das Prinzip der Ausbildung aus dem Mittelalter sehr gut.
+
+Zuerst leben wir zu Hause und bekommen eine grundlegende Bildung und lernen, wie wir ein gutes Leben führen.
+
+Dann haben wir eine Zeit der Wanderschaft. In der wir uns selbst und unsere Stärken kennenlernen. Wir besuchen andere Städte, um andere Dinge auszuprobieren und zu erfahren.
+
+Dann können wir viel besser entscheiden, wie unser Leben aussehen soll.
+
+Wir können dann entweder die Ideen mit nach Hause bringen und dort umsetzen oder wir finden eine Stadt, die genau das hat, was wir uns wünschen.
+
+Die Grundversorgung ist in allen Städten garantiert. Es gibt eine Wohnung, etwas zu essen, einen Arbeitsplatz und so weiter.
+
+Wir brauchen also nicht viel mitnehmen. Umzuziehen ist einfach. Wir sind nicht so sehr an einen Ort gebunden, wenn wir das nicht wollen.
+
+Es ist alles, was wir für ein erfüllendes Leben brauchen, aber nicht mehr.
+
+Es ist ein gutes Leben, aber es sollte schon einen Anreiz geben, mehr zu wollen und sich weiter zu entwickeln.
+
+Durch die Wanderschaft lernen wir nach und nach, immer mehr mit unserer Freiheit umzugehen.
+
+Die Städte organisieren sich in Bioregionen. In einer Bioregion ist die Lebensweise sehr ähnlich. Was sich unterscheidet, sind Kleinigkeiten.
+
+Der grundsätzliche Lebensstil ist recht ähnlich. Wir können uns also langsam aus der Komfortzone bewegen.
+
+Wenn wir in einer anderen Bioregion sind, sind auch die Veränderungen im Lebensstil größer.
+
+Viele meiner Mitschüler sind nach dem Abitur in die großen Städte in Deutschland gezogen. Zum Gründen einer Familie sind viele wieder zurückgekommen. Dort gibt es Eltern, die uns unterstützen und ein bekanntes Umfeld in dem wir uns wohlfühlen.
+
+Vielleicht passen wir aber nicht in dieses Umfeld und fühlen uns in einer anderen Region oder Stadt viel wohler. Das finden wir aber nur heraus, wenn wir es ausprobieren.
+
+Ich sehe nicht, dass wir unbedingt wieder nach Hause kommen müssen. Wir haben aber immer die Gelegenheit.
+
+Außerdem ändern wir uns durch die Weiterentwicklung ständig. Vielleicht gibt es eine Stadt für jede Phase unseres Lebens.
+
+Vielleicht verdienen wir erst Geld in einer völlig anderen Region, lernen etwas dazu und kommen dann nach Hause, um eine Familie zu gründen und bringen das, was wir gelernt haben, mit, um die Kultur zu bereichern.
+
+Wie auch unser Leben, basiert die Stadt auf dem Prinzip der Evolution.
+
+Wir machen kleine, einfache und günstige Experimente, lernen daraus und nehmen dann Anpassungen vor.
+
+Wir fangen nicht an, alles in Beton zu gießen, sondern mit minimalen Veränderungen, die wir ohne großen Aufwand umsetzen, aber auch wieder rückgängig machen können.
+
+So bleiben wir flexibel, können es aber dauerhaft machen, wenn etwas funktioniert.
+
+Vielleicht will auch nicht jeder durch die Welt reisen, sondern ist in einer Stadt zufrieden, so wie es ist.
+
+Wir können nicht immer alles über den Haufen werfen und nur neue Dinge machen.
+
+Es ist eine Balance. Deshalb gibt es konservative und innovative Menschen. Das Zusammenspiel schafft die Magie.
+
+Wir sollten nicht sofort alles stehen und liegen lassen, wenn wir eine neue Idee haben, sondern kleine, langsame Anpassungen machen.
+
+Die Städte sollen als solides Fundament dienen. Die uns Sicherheit geben, von dem aus wir unsere Heldenreise starten können.
+
+Wenn die Stadt sich jedes Jahr komplett verändert, sorgt das für Chaos und nicht für Sicherheit.
+
+Vielleicht gibt es aber Städte, die das genauso machen.
+
+Das wäre ja auch ein Experiment. Andere bleiben immer gleich. Die meisten sind irgendwo dazwischen.
+
+Hier kommt wieder die Größe der Städte ins Spiel. Die Bewohner sollen auf allen Ebenen bestimmen können, wie sie leben wollen.
+
+Das bedeutet das andere nicht darüber bestimmen können, wie die Straße vor unserer Haustür verlaufen soll.
+
+Wir lösen Probleme lokal. Holen uns aber das Wissen der ganzen Welt.
+
+Wir können zum Beispiel den Verkehrsfluss mit Pylonen steuern, bevor wir Straßen umbauen.
+
+Wir können Räume für kurzfristige Experimente zur Verfügung stellen.
+
+Vielleicht einen Yogaraum oder eine Töpferwerkstatt.
+
+Wenn sich genug Menschen finden, die Interesse daran haben, kann daraus dann ein Yogastudio werden.
+
+Es funktioniert wie ein Inkubator oder ein Gründerzentrum.
+
+Wir probieren eine Idee im Kleinen aus. Wenn es funktioniert, wird sie ausgegründet und wird etwas Eigenes.
+
+Aber auch nur so lange, wie es funktioniert. Wir können das Yogastudio auch wieder schließen und etwas anderes daraus machen.
+
+Vielleicht wächst das Interesse an Yoga, aber auch so sehr, dass wir mehrere Studios brauchen oder ein sehr großes.
+
+Wichtig ist flexibel zu bleiben, aber nicht das Grundgerüst auseinanderzunehmen.
+
+Wir wollen Möglichkeiten schaffen, schnell einfache Experimente zu machen, um zu überprüfen, wie es ankommt, und dann eine Entscheidung zu treffen.
+
+Ich sehe Menschen als Gestalter. Mehr als Gärtner, die ein Umfeld erschaffen, in dem dann Ergebnisse aufblühen können.
+
+Anstatt Dinge zu erzwingen, ziehen wir sie durch die Gestaltung und das Design von System an.
+
+Wir sind alle Eudaimonia Architekten.
+
+Ich stelle mir eine Art Crowdfunding Plattform vor. Jeder kann Ideen vorschlagen, die dann diskutiert werden. Wir überlegen gemeinsam, wie sie ausprobiert werden können, setzen es um und schließlich kommt es auf die tatsächliche Nutzung an.
+
+Es reicht nicht, Menschen zu fragen, ob wir eine gute Idee haben und sie das Produkt kaufen würden. Es zählt nur der Kauf selbst.
+
+Oft wollen wir die Gefühle von anderen nicht verletzen und erzählen, wie gut die Idee ist und dass wir es auf jeden Fall nutzen würden.
+
+Sobald wir dann aber die Pistole auf die Brust gesetzt bekommen, ziehen wir uns zurück.
+
+Deshalb wird das Yogastudio nur aufgemacht, wenn tatsächlich regelmäßig Menschen dort teilnehmen.
+
+Wenn alle nur sagen, was für ne tolle Idee das ist, aber niemand auftaucht, wird sie aussortiert
+
+Das bedeutet aber nicht, dass niemals wieder ein Yogastudio aufgebaut werden kann.
+
+Die Ideen können immer wieder neu diskutiert werden.
+
+Ein wichtiger Punkt dabei ist die Transparenz. Jeder sollte alle Daten zur Verfügung haben.
+
+Ehrliche Kommunikation ist auch ein wichtiger Faktor.
+
+Wenn ich etwas unbedingt haben möchte aber keine Zustimmung finde, bin ich vielleicht in der falschen Umgebung
+
+Anstatt alles um mich herum ändern zu wollen, kann ich meine Umgebung wechseln.
+
+Vielleicht gibt es das, was ich möchte, schon längst woanders.
+
+Ich muss dann nicht anderen meinen Lebensstil aufzwingen, sondern suche mir eine Umgebung, die mir liegt.
+
+Aktuell neigen wir dazu alles um uns herum nach unserem Willen gestalten zu wollen. Das ist aber verkehrt herum
+
+Wir können uns an die Umgebung anpassen oder eine andere Umgebung finden. Das bedeutet nicht, dass die Umgebung in Stein gemeißelt ist.
+
+Wir müssen aber nicht gegen die Wand laufen, wenn es woanders offene Türen gibt.
+
+Da wir auf Versorgung und Zugang statt Besitz setzen, sind wir nicht so sehr an einzelne Orte gebunden und können einfacher die Umgebung wechseln.
+
+Wenn wir aber ein Experiment starten, übernehmen wir dafür auch Verantwortung und dürfen nicht einfach abhauen, wenn es nicht funktioniert.
+
+Da wir aber nur die Dinge umsetzen wollen, die uns wirklich wichtig sind, sollte das auch nicht passieren.
+
+Wahrscheinlich wird es irgendwo auf der Welt ein ähnliches Experiment geben wie das, was wir vorhaben.
+
+Wir können dann dort hingehen, unsere ersten Erfahrungen machen und so feststellen, ob wir es wirklich wollen oder ob uns nur die Idee gefällt.
+
+Dann kommen wir zurück und schlagen die Idee in unserer Stadt vor oder bleiben gleich dort.
+
+### Lebensbereiche
+
+#### Energie
+
+Jede Stadt sollte sich mit den Grundlagen selbst versorgen können.
+
+Dadurch entsteht auch eine einzigartige Identität und Kultur. Es gibt lokale und saisonale Besonderheiten.
+
+Das spiegelt sich dann in der Energieversorgung, der Ernährung, der Architektur und dem Lebensstil wider.
+
+Außerdem gibt es Sicherheit und Stabilität. Wir sind nicht von globalen Lieferketten abhängig.
+
+Gleichzeitig machen wir davon natürlich auch weiterhin Gebrauch. Wir leben in einer vernetzten Welt und profitieren von den Vorteilen.
+
+#### Arbeit
+
+In unserem Beruf spezialisieren wir uns immer weiter. Vielleicht haben wir es mit der Spezialisierung schon übertrieben.
+
+Die Spezialisierung war eine enorme evolutionäre Leistung – sie hat Produktivität, Innovation und Fortschritt ermöglicht. Aber sie hat auch Kosten:
+
+- Menschen und Disziplinen verlieren den Kontakt zueinander.
+- Systeme werden unüberschaubar, entkoppelt und ineffizient.
+- Wir sehen nur Teilprobleme, nicht das Ganze.
+
+Im Menschen selbst zeigt sich das als Fragmentierung: Arbeit, Privatleben, Körper, Geist – alles in getrennten Silos. Im städtischen System zeigt es sich als Trennung von Wohnen, Arbeiten, Lernen, Produzieren.
+
+In unserem Privatleben passiert genau das Gegenteil.
+
+In einem Bereich haben wir es vielleicht übertrieben und im anderen vernachlässigt.
+
+Wir sind für alles verantwortlich und zuständig. Wir müssen für alles Experte sein.
+
+Wir müssen einkaufen, kochen, waschen, sauber machen, reparieren, Finanzen regeln und noch viel mehr.
+
+In meinen Augen dient die Stadt dazu uns diese Aufgaben abzunehmen.
+
+Die Stadt ist nicht nur Infrastruktur – sie ist ein soziales Nervensystem, das Aufgaben und Ressourcen verteilt, sodass Menschen sich auf das Wesentliche konzentrieren können.
+
+Die Stadt übernimmt kollektive Aufgaben, damit der Mensch sich auf Sinn, Beziehung und Kreativität fokussieren kann.
+
+Das ist eigentlich ein evolutionärer Schritt nach vorne: Von der individuellen Selbstversorgerinfrastruktur zurück zur kollektiven Lebensinfrastruktur. Nur diesmal bewusst, gestaltet, mit Wissen und Technologie.
+
+Wenn man so denkt, wird die Stadt selbst zu einer Erweiterung des Körpers – eine Art Exoskelett der Menschheit, das die „alltäglichen Funktionen“ übernimmt, damit Bewusstsein und Kreativität wachsen können.
+
+Wir ersetzen Besitz durch Zugang, Individualität durch Gemeinschaft, Redundanz durch Qualität.
+
+Das führt zu mehreren Vorteilen:
+
+- Effizienz – weniger Ressourcenverbrauch.
+- Qualität – gemeinschaftlich finanzierte, besser ausgestattete Orte.
+- Verbindung – Begegnung, Austausch, soziales Leben.
+- Freiheit – weniger Ballast, weniger Wartung, mehr Fokus auf das Wesentliche.
+
+Das ist die Umkehr der bürgerlichen Idee vom „Haus als Rückzugsort“. Es ist eine Kultur, in der der öffentliche Raum der eigentliche Lebensraum ist – der Ort, an dem sich das Leben abspielt, nicht das Private.
+
+Wir schaffen öffentliche Orte für unsere Grundbedürfnisse:
+
+Eine Kantine zum Essen aller Mahlzeiten von einer Ernährungsberaterin geplant und einem Koch zubereitet.
+
+Klamotten sind dort verfügbar, wo sie benötigt werden. Sie werden gewaschen, gebügelt und wieder zurückgebracht.
+
+Durch die Orte, die für bestimmte Tätigkeiten vorhanden sind, haben wir viel bessere Möglichkeiten, als wenn wir zu Hause etwas eigenes nachbauen wollen.
+
+Wenn wir unsere Ressourcen zusammenlegen, können wir großartige Räume schaffen.
+
+Anstatt, dass jeder ein Fitnessstudio zu Hause hat, können wir ein großartiges für alle bauen.
+
+Nicht jeder braucht einen eigenen Pool. Ein richtig cooles Schwimmbad ist viel besser.
+
+Das gleiche gilt für Büros und unsere Freizeitgestaltung.
+
+#### Liebe
+
+Die Stadt sollte ein Ort der Begegnung sein. Wir sollten immer wieder Menschen über den Weg laufen, die wir bewundern oder in die wir uns verlieben können.
+
+Die Stadt existiert, um Beziehung zu ermöglichen. Alles andere – Arbeitsteilung, Infrastruktur, Gebäude – ist nur Mittel dafür.
+
+Sie ist das, was uns mehr als Individuen sein lässt. Ein Resonanzraum, in dem wir gemeinsam Sinn erzeugen.
+
+Wir können Orte für den Austausch und die Zusammenkunft schaffen. An denen wir abends gemeinsam am Lagerfeuer von unseren Abenteuern berichten.
+
+Das ist für mich der Sinn einer Stadt. Anstatt uns immer weiter zurückzuziehen, sollten wir das Gegenteil machen.
+
+Das bekämpft die Einsamkeit und führt zu Zusammenhalt. Wir sind alle daran interessiert, die Stadt zu verbessern, weil wir selbst davon profitieren.
+
+Die Stadt produziert nicht mehr primär Güter, sondern Lebensqualität, Sinn und Verbindung.
+
+## Tage als Meisterwerke
+
+Die Stadt kann uns dabei unterstützen, unsere Tage als Meisterwerke zu gestalten.
+
+Morgens gemeinsam in der Kantine frühstücken, anschließend im Eudaimonium arbeiten, zwischendurch im Waldgarten Sport machen, abends gemeinsam beim Lagerfeuer den Tag ausklingen lassen.
+
+So können unsere Strukturen und Gewohnheiten durch die Stadt unterstützt werden. Wenn wir die richtigen Rahmenbedingungen schaffen, fällt es uns leichter, das zu tun, was uns guttut.
+
+Wir müssen uns nicht mehr um alles kümmern, sondern können auf Bestehendes zurückgreifen. Es gibt schon einen Rahmen, der uns trägt.
+
+In Gesellschaft fällt es uns nochmal leichter. Wir müssen dabei nicht alle das gleiche tun, wir können uns aber gegenseitig inspirieren und motivieren.
+
+## Struktur
+
+Die Stadt gibt uns eine Struktur, die uns dabei unterstützt, unsere Tage als Meisterwerke zu gestalten.
+
+## Fundament
+
+### Ernährung
+
+Wir essen alle Mahlzeiten in einer Kantine. Unsere Ernährung wird von Ernährungsberatern geplant und von Köchen zubereitet.
+
+### Bewegung
+
+Der Waldgarten dient gleichzeitig als Erholungsgebiet. Es gibt viele Wege und Plätze, die zum Verweilen einladen, sowie Bereiche für Sport und Spiel.
+
+#### Fuß und Fahrrad
+
+Innerhalb der Stadt bewegen wir uns zu Fuß oder mit dem Fahrrad. Alles, was wir zum Leben brauchen, ist in 15 Minuten zu Fuß oder mit dem Fahrrad erreichbar.
+
+#### U-Bahn
+
+Die Städte sind durch eine U-Bahn miteinander verbunden. Sie ist im Zentrum jeder Stadt.
+
+Die Haltestellen sind so gestaltet, dass die Schienen bei der Einfahrt ansteigen und bei der Ausfahrt wieder abfallen. Dadurch wird die Energie für die Beschleunigung der Züge aus der potenziellen Energie gewonnen.
+
+Die Züge fahren autonom.
+
+#### Logistik
+
+Neben den U-Bahnen gibt es Schienen für den Güterverkehr.
+
+Außerdem werden hier Leitungen für Wasser, Energie und Daten unterirdisch zwischen den Städten verlegt.
+
+Da die meisten MMenschen sowieso jeden Tag zum Eudaimonium gehen, können sie dort auch ihre Post und Pakete abholen und zurückgeben. Dadurch sparen wir uns viele Lieferfahrzeuge in der Stadt.
+
+### Schlaf
+
+Wir nutzen unsere Wohnung hauptsächlich zum Schlafen. Der private Wohnraum kann dadurch kleiner und günstiger sein.
+
+Wir können ihn dann auch darauf optimieren.
+
+### Atmung
+
+Die Stadt sorgt für frische Luft und eine angenehme Atmosphäre. Es gibt viele Pflanzen und Bäume, die für ein gutes Klima sorgen.
+
+### Aufmerksamkeit
+
+Die Stadt bietet viele Orte der Ruhe und Entspannung. Orte, an denen wir uns zurückziehen und unsere Gedanken ordnen können.
+
+Unsere Aufmerksamkeit wird nicht durch Werbung oder andere Ablenkungen gestört.
+
+Die Technologie ist eher im Hintergrund präsent und unterstützt uns, anstatt uns zu dominieren.
+
+Kreativität und konzentriertes Arbeiten werden gefördert. Multitasking und ständige Unterbrechungen werden vermieden.
+
+Da es keine Autos in der Stadt gibt, ist es auch deutlich leiser.
+
+### Zelebrieren
+
+Die Stadt bietet viele Orte der Begegnung und des Austauschs. Orte, an denen wir gemeinsam feiern und das Leben genießen können.
+
+Sie unterstützt uns auf unserem Weg der Persönlichkeitsentwicklung, wofür wir Dankbarkeit empfinden können.
+
+Wir fühlen uns von der Stadt getragen und unterstützt. Dafür können wir sie wertschätzen und achten.
+
+Wir sehen unseren Beitrag und investieren in die Stadt, weil wir wissen, dass sie uns hilft.
+
+Es ist ein Geben und Nehmen. Eine Symbiose, von der alle profitieren.
+
+Wir wachsen gemeinsam und entwickeln uns weiter.
+
+### Florieren
+
+Es gibt eine kostenlose Grundversorgung. Die ist aber rudimentär.
+
+Es soll uns die Möglichkeit geben uns selbst zu entfalten, aber auch dazu anregen uns etwas aufzubauen und unseren Beitrag zu leisten.
+
+Sie dient als Sicherheitsnetz und als Startpunkt.
+
+Die Stadt hat ein Interesse daran in die Bewohner zu investieren. Je erfolgreicher und zufriedener sie sind, umso mehr Möglichkeiten ergeben sich für die Stadt und somit alle Bewohner.
+
+Das gilt für die Gesundheit genauso wie für die Bildung und die Freizeitgestaltung.
+
+Die Stadt soll lebenswert sein. Wenn es nicht gelingt die Bewohner zu halten, verliert die Stadt ihre Existenzgrundlage.
 
 ## Experimente
 
@@ -213,28 +603,6 @@ Bei den Bäumen sortieren wir konsequent aus. Wir wollen Pflanzen, um die wir un
 
 Der Waldgarten dient gleichzeitig als Erholungsgebiet. Es gibt viele Wege und Plätze, die zum Verweilen einladen, sowie Bereiche für Sport und Spiel.
 
-## Transport
-
-### Fuß und Fahrrad
-
-Innerhalb der Stadt bewegen wir uns zu Fuß oder mit dem Fahrrad. Alles, was wir zum Leben brauchen, ist in 15 Minuten zu Fuß oder mit dem Fahrrad erreichbar.
-
-### U-Bahn
-
-Die Städte sind durch eine U-Bahn miteinander verbunden. Sie ist im Zentrum jeder Stadt.
-
-Die Haltestellen sind so gestaltet, dass die Schienen bei der Einfahrt ansteigen und bei der Ausfahrt wieder abfallen. Dadurch wird die Energie für die Beschleunigung der Züge aus der potenziellen Energie gewonnen.
-
-Die Züge fahren autonom.
-
-### Logistik
-
-Neben den U-Bahnen gibt es Schienen für den Güterverkehr.
-
-Außerdem werden hier Leitungen für Wasser, Energie und Daten unterirdisch zwischen den Städten verlegt.
-
-Da die meisten MMenschen sowieso jeden Tag zum Eudaimonium gehen, können sie dort auch ihre Post und Pakete abholen und zurückgeben. Dadurch sparen wir uns viele Lieferfahrzeuge in der Stadt.
-
 ## Regierung
 
 Die Städte sind selbstverwaltet.
@@ -245,14 +613,6 @@ Wenn die Bewohner unzufrieden sind, können sie umziehen und die Regierung hat n
 
 Gleichzeitig können die Probleme und Herausforderungen lokal gelöst werden. Die Menschen kennen sich und können gemeinsam an Lösungen arbeiten.
 
-## Identität
 
-Unsere Städte stehen für etwas. Sie haben ihre eigene Identität. Etwas mit dem sich die Bewohner identifizieren können und hinter dem sie stehen.
-
-Etwas in das sie investieren und unterstützen wollen. Ein gemeinsames Projekt, dass allen Bewohnern dient.
-
-Früher wurden Kathedralen gebaut.
-
-Was ist unser Projekt? Jede Stadt kann ein eigenes haben, dass sie die Bewohner selbst aussuchen.
 
 [Übersicht](/eudaimonica)

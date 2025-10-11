@@ -327,7 +327,7 @@ Es hilft uns, wenn wir eine feste Schlafenszeit haben und jeden Tag zur gleichen
 
 Unser Schlaf ist auch eng mit der Sonne verbunden. Wir sollten versuchen, so viel wie möglich natürliches Licht zu bekommen und abends das blaue Licht zu vermeiden.
 
-### Atmen
+### Atmung
 
 - Durch die Nase einatmen
 - Tief in den Bauch atmen
@@ -345,7 +345,9 @@ Richtlinie: Wir atmen so oft durch den Mund, wie wir durch die Nase essen.
 - Akzeptanz
 - Dankbarkeit
 
-### Finanzen
+### Florieren
+
+Geld ist ein wichtiger Teil unseres Lebens. Es gibt uns Sicherheit und Freiheit. Wir können es nicht ignorieren, sondern müssen uns aktiv damit auseinandersetzen.
 
 ## Philosophie
 
