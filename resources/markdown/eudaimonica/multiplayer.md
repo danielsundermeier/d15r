@@ -500,7 +500,17 @@ Ich glaube ich bin noch zu sehr im aktuellen System. Ich erwarte, dass sich unse
 
 Der Sinn und die Bedeutung soll im Vordergrund stehen und nicht das Streben nach immer mehr Geld.
 
-Das Erben wird abgeschafft. Ziel ist es die Menschen zu ermutigen in die Städte und die Gemeinschaft zu investieren. So können sie ihren aber auch allen anderen Kindern eine gute Umgebung bieten, in der sie aufwachsen können.
+Das Erben wird abgeschafft.
+
+Ziel ist es die Menschen zu ermutigen in die Städte und die Gemeinschaft zu investieren. So können sie ihren aber auch allen anderen Kindern eine gute Umgebung bieten, in der sie aufwachsen können.
+
+Ich glaube, dass es wichtig ist, dass wir uns selbst etwas aufbauen und nicht nur von dem leben, was unsere Eltern oder Großeltern geschaffen haben. Gleichzeitig wollen wir es unseren Kindern ermöglichen ein gutes - in Wahrheit ein besseres - Leben zu führen. Es ihnen so einfach wie möglich zu machen.
+
+Es ist aber nicht förderlich ihnen alles in den Schoß zu legen. Zufriedenheit entsteht durch Wachstum und Entwicklung. Wir brauchen Herausforderungen und müssen auch das Scheitern lernen. Auch mal Dinge tun, die uns nicht so leicht fallen oder auf die wir keine Lust haben.
+
+Deshalb gibt es eine Grundversorgung und keine Erbschaften. Wir alle haben dadurch die gleichen Chancen und es gibt einen starken Anreiz in die Stadt zu investieren.
+
+Eltern sollen viel Zeit mit ihren Kindern verbringen und ihnen so den besten Start ins Leben ermöglichen. Werte und Fähigkeiten weitergeben und eine Infrastruktur schaffen, die ihnen hilft, sich zu entfalten.
 
 Wir wollen Geld im Umlauf halten und nicht horten. Es soll zirkulieren und nicht stagnieren. Die Städte sollen ihre Aufgaben immer besser erfüllen und so den Bewohnern dienen.
 
