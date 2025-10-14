@@ -97,3 +97,5 @@ Dieser Punkt liegt aber in der Regel nicht in der Mitte und ist indviduell. Auß
 Für Tugenden gibt es ein Mangel und ein Übermaß.
 
 Je größer etwas wird, umso mehr ist möglich, es steigt aber auch der Aufwand, um es zu erhalten.
+
+[Eudaimonica](/eudaimonica)
