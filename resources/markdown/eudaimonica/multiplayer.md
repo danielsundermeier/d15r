@@ -95,7 +95,7 @@ Etwas in das sie investieren und unterstützen wollen. Ein gemeinsames Projekt, 
 
 Früher wurden Kathedralen gebaut.
 
-Was ist unser Projekt? Jede Stadt kann ein eigenes haben, dass sie die Bewohner selbst aussuchen.
+Was ist unser Projekt? Jede Stadt kann ein eigenes haben, dass sich die Bewohner selbst aussuchen.
 
 Diese Identität entsteht aus den Beziehungen der Bewohner untereinander und zu ihrer Umgebung.
 
@@ -221,7 +221,7 @@ Sobald wir dann aber die Pistole auf die Brust gesetzt bekommen, ziehen wir uns 
 
 Deshalb wird das Yogastudio nur aufgemacht, wenn tatsächlich regelmäßig Menschen dort teilnehmen.
 
-Wenn alle nur sagen, was für ne tolle Idee das ist, aber niemand auftaucht, wird sie aussortiert
+Wenn alle nur sagen, was für eine tolle Idee das ist, aber niemand auftaucht, wird sie aussortiert
 
 Das bedeutet aber nicht, dass niemals wieder ein Yogastudio aufgebaut werden kann.
 
@@ -257,6 +257,8 @@ Wir können dann dort hingehen, unsere ersten Erfahrungen machen und so feststel
 
 Dann kommen wir zurück und schlagen die Idee in unserer Stadt vor oder bleiben gleich dort.
 
+Ähnlich wie in einem Open World Spiel haben wir alle Freiheiten, können aber auch langsam lernen, mit dieser Freiheit umzugehen. Es gibt geführte Quests, die uns langsam heranführen oder wir erkunden die Welt auf unsere Weise.
+
 ### Lebensbereiche
 
 #### Energie
@@ -273,7 +275,7 @@ Gleichzeitig machen wir davon natürlich auch weiterhin Gebrauch. Wir leben in e
 
 #### Arbeit
 
-In unserem Beruf spezialisieren wir uns immer weiter. Vielleicht haben wir es mit der Spezialisierung schon übertrieben.
+In unserem Beruf spezialisieren wir uns immer weiter.
 
 Die Spezialisierung war eine enorme evolutionäre Leistung – sie hat Produktivität, Innovation und Fortschritt ermöglicht. Aber sie hat auch Kosten:
 
@@ -283,11 +285,9 @@ Die Spezialisierung war eine enorme evolutionäre Leistung – sie hat Produktiv
 
 Im Menschen selbst zeigt sich das als Fragmentierung: Arbeit, Privatleben, Körper, Geist – alles in getrennten Silos. Im städtischen System zeigt es sich als Trennung von Wohnen, Arbeiten, Lernen, Produzieren.
 
-In unserem Privatleben passiert genau das Gegenteil.
+In einem Bereich haben wir es vielleicht übertrieben und in unserem Privatleben vernachlässigt.
 
-In einem Bereich haben wir es vielleicht übertrieben und im anderen vernachlässigt.
-
-Wir sind für alles verantwortlich und zuständig. Wir müssen für alles Experte sein.
+Hier passiert genau das Gegenteil. Wir sind für alles verantwortlich und zuständig. Wir müssen für alles Experte sein oder zumindest ungefähr wissen, wie es funktioniert.
 
 Wir müssen einkaufen, kochen, waschen, sauber machen, reparieren, Finanzen regeln und noch viel mehr.
 
@@ -299,7 +299,7 @@ Die Stadt übernimmt kollektive Aufgaben, damit der Mensch sich auf Sinn, Bezieh
 
 Das ist eigentlich ein evolutionärer Schritt nach vorne: Von der individuellen Selbstversorgerinfrastruktur zurück zur kollektiven Lebensinfrastruktur. Nur diesmal bewusst, gestaltet, mit Wissen und Technologie.
 
-Wenn man so denkt, wird die Stadt selbst zu einer Erweiterung des Körpers – eine Art Exoskelett der Menschheit, das die „alltäglichen Funktionen“ übernimmt, damit Bewusstsein und Kreativität wachsen können.
+Wenn wir so denken, wird die Stadt selbst zu einer Erweiterung des Körpers – eine Art Exoskelett der Menschheit, das die „alltäglichen Funktionen“ übernimmt, damit Bewusstsein und Kreativität wachsen können.
 
 Wir ersetzen Besitz durch Zugang, Individualität durch Gemeinschaft, Redundanz durch Qualität.
 
@@ -327,6 +327,8 @@ Anstatt, dass jeder ein Fitnessstudio zu Hause hat, können wir ein großartiges
 Nicht jeder braucht einen eigenen Pool. Ein richtig cooles Schwimmbad ist viel besser.
 
 Das gleiche gilt für Büros und unsere Freizeitgestaltung.
+
+Das gibt es zwar alles schon, aber es ist nicht unseres. Wir müssen für die Nutzung bezahlen und haben keinen Einfluss darauf, wie es gestaltet ist.
 
 #### Liebe
 
