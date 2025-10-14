@@ -34,6 +34,12 @@ Wir schließen uns in Städten zusammen, um unsere Lebensqualität zu verbessern
 
 Zusammenarbeit ermöglicht Spezialisierung. Jeder Mensch trägt das bei, was er am besten kann, und wird dadurch Teil eines größeren Ganzen. Die Zufriedenheit der Menschen und der Erhalt wie auch die Weiterentwicklung der Infrastruktur bilden die Grundlagen einer gesunden Stadt.
 
+Die Aufgabe der Stadt ist es in die Bewohner zu investieren. Ihnen zu ermöglichen sich zu entfalten und ihre Stärken einzubringen. Dadurch entsteht eine positive Rückkopplungsschleife, von der alle profitieren.
+
+Die Bewohner sollen so stark davon profitieren, dass sie in die Gemeinschaft investieren wollen.
+
+Wir wollen Anreize und Möglichkeiten schaffen, damit die Bewohner sich engagieren und einbringen.
+
 Auch eine Stadt braucht eine Identität – ein gemeinsames Ziel, das ihre Menschen verbindet. Wenn sie zu groß wird, verliert sie dieses verbindende Element. Anonymität ersetzt Zugehörigkeit, Verantwortung weicht Gleichgültigkeit. Ohne gemeinsame Identität gibt es nichts mehr, wofür wir einstehen oder kämpfen wollen.
 
 Darum sollten Städte menschliche Maßstäbe wahren – überschaubar, lebendig, verbunden. Eine Stadt mit etwa 10.000 Einwohnern auf rund einem Quadratkilometer – eine sogenannte 15-Minuten-Stadt – vereint das Beste beider Welten: Sie ist groß genug für Vielfalt und Zusammenarbeit, aber klein genug, um Beziehungen, Vertrauen und Verantwortung zu erhalten.
@@ -422,17 +428,117 @@ Wir wachsen gemeinsam und entwickeln uns weiter.
 
 ### Florieren
 
+Die Stadt hat ein Interesse daran in die Bewohner zu investieren. Je erfolgreicher und zufriedener sie sind, umso mehr Möglichkeiten ergeben sich für die Stadt und somit alle Bewohner.
+
+Das gilt für die Gesundheit genauso wie für die Bildung und die Freizeitgestaltung.
+
+Die Stadt soll lebenswert sein. Wenn es nicht gelingt die Bewohner zu halten, verliert die Stadt ihre Existenzgrundlage.
+
+Auf diese Weise stehen alle Städte in Konkurrenz zueinander. Die Bewohner können sich aussuchen, wo sie leben wollen. Es geht aber eher um die Art, wie sie leben wollen und nicht um den Preis oder die Ausstattung.
+
+Wir wollen verhindern, dass die Ungleichheit zu groß und die Gesellschaft destabilisiert wird.
+
+#### Grundversorgung
+
 Es gibt eine kostenlose Grundversorgung. Die ist aber rudimentär.
 
 Es soll uns die Möglichkeit geben uns selbst zu entfalten, aber auch dazu anregen uns etwas aufzubauen und unseren Beitrag zu leisten.
 
 Sie dient als Sicherheitsnetz und als Startpunkt.
 
-Die Stadt hat ein Interesse daran in die Bewohner zu investieren. Je erfolgreicher und zufriedener sie sind, umso mehr Möglichkeiten ergeben sich für die Stadt und somit alle Bewohner.
+Dadurch fallen alle anderen Sozialleistungen, wie Arbeitslosengeld oder die Rente weg.
 
-Das gilt für die Gesundheit genauso wie für die Bildung und die Freizeitgestaltung.
+#### Arbeit
 
-Die Stadt soll lebenswert sein. Wenn es nicht gelingt die Bewohner zu halten, verliert die Stadt ihre Existenzgrundlage.
+Unsere Arbeit soll uns so viel Freude bereiten, dass wir sie gerne machen und gar nicht in Rente gehen wollen.
+
+Wahrscheinlich werden wir auch viele unterschiedliche Jobs in unserem Leben machen. Vielleicht auch gleichzeitig. Wir entwickeln uns immer weiter und unsere Interessen ändern sich.
+
+Es wird immer wieder Phasen geben, in denen wir uns zurückziehen und uns auf uns selbst konzentrieren wollen. Auch die Erziehung unserer Kinder wird viel Zeit in Anspruch nehmen, die wir uns nehmen können und sollten.
+
+#### Geld
+
+Geld soll ein Tauschmittel sein und sich nicht von selbst vermehren können. Wir wollen verhindern, dass es sich in den Händen weniger konzentriert.
+
+Wir wollen eine Wirtschaft, die nicht auf Wachstum angewiesen ist. Wir schaffen nachhaltige Systeme, die auf Krisen, Fehler und Unsicherheiten ausgelegt sind. Sie sind so geplant, dass wir in der Regel einen Überfluss produzieren, den wir dann teilen oder in das System investieren können.
+
+Diversität garantiert, dass wir niemals komplett leer ausgehen. Die Natur dient uns dabei als Vorbild. Alles hat möglichst mehrere Funktionen und jede Aufgabe wird von vielen kleinen statt wenigen großen Elementen übernommen.
+
+Schulden, Zinsen, Inflation und Spekulation sind nicht teil des Systems.
+
+Das verhindert die Boom und Bust Zyklen, die wir aktuell haben.
+
+Außerdem wollen wir den extremen Fokus auf Geld vermeiden. Es soll nicht das einzige Ziel sein, sondern nur ein Mittel zum Zweck.
+
+##### Alternativen
+
+Da die Aufgabe von uns allen ist, Systeme zu schaffen, die sich selbst erhalten und verbessern, stellt sich die Frage, in wie weit Geld überhaupt noch sinnvoll ist.
+
+Wir brauchen die Anfangsfinanzierung, um die Infrastruktur aufzubauen. Im besten Fall können die entstehenden Kosten und die Weiterentwicklung durch den laufenden Betrieb gedeckt werden.
+
+Wenn Energie und Arbeit (durch Maschinen) kostenlos sind, sind auch die laufenden Kosten sehr gering bis nicht mehr vorhanden.
+
+Wenn diese beiden Ressourcen kostenlos sind, können wir alles andere auch kostenlos produzieren. Zusätzlich werden die Technologien durch die Forschung und Entwicklung immer leistungsfähiger und effizienter.
+
+##### Luxusartikel
+
+Vielleicht bekommen wir Anteile an der Stadt, wenn wir uns engagieren und einbringen. Je mehr Anteile wir haben, umso höher ist unsere Grundversorgung. Das hat aber Konfliktpotenzial, weil es die Ungleichheit wieder vergrößert.
+
+Generell gefällt mir aber der Gedanke, statt Geld mehr Zugang zu bekommen. So verbessert sich unser Leben durch unsere Arbeit und unseren Beitrag zur Gemeinschaft. Wir sind dann aber auch nah einer einer gesteuerten und kontrollierten Wirtschaft. Das wollen wir verhindern.
+
+Vielleicht investieren wir in die Unternehmen bzw. die Projekte, die von den Unternehmen umgesetzt werden und bekommen so Zugang zu den Dingen, die wir wollen, statt einer Rendite oder Dividenden.
+
+So entscheiden die Bewohner, was produziert wird und wie sich die Stadt entwickelt. Crowdfunding für die Stadt und Unternehmen.
+
+So hätten wir eine Verbindung zu unserer Heimat und einen weiteren Grund, dass es der Stadt gut geht.
+
+Es handelt sich auch immer nur um Luxusartikel. Die Grundversorgung ist immer gewährleistet und wird weiter ausgebaut.
+
+Ich glaube ich bin noch zu sehr im aktuellen System. Ich erwarte, dass sich unsere Einstellung, Vorlieben, Prioritäten, Bedürfnisse und unser Leben stark ändern werden.
+
+#### Erben
+
+Der Sinn und die Bedeutung soll im Vordergrund stehen und nicht das Streben nach immer mehr Geld.
+
+Das Erben wird abgeschafft. Ziel ist es die Menschen zu ermutigen in die Städte und die Gemeinschaft zu investieren. So können sie ihren aber auch allen anderen Kindern eine gute Umgebung bieten, in der sie aufwachsen können.
+
+Wir wollen Geld im Umlauf halten und nicht horten. Es soll zirkulieren und nicht stagnieren. Die Städte sollen ihre Aufgaben immer besser erfüllen und so den Bewohnern dienen.
+
+#### Unternehmen
+
+Unternehmen haben einen Zweck. Wir gründen sie, um ein Problem zu lösen oder einen Bedarf zu decken. Unsere Aufgabe ist es das Problem nachhaltig zu lösen oder die Produktion zu automatisieren. Wenn das erledigt ist, ist der Zweck erfüllt und das Unternehmen kann aufgelöst werden.
+
+Aus diesem Grund gehören Unternehmen sich selbst. Wir wollen, dass sie sich selbst überflüssig machen und es keinen anderen Grund gibt, sie weiterzuführen.
+
+#### Steuern
+
+Mit Steuern und Gesetzen können wir Anreize setzen. Wir können so vermitteln, was uns wichtig ist.
+
+Einkommen zu besteuern ist kontraproduktiv, weil es die Arbeit bestraft. Wir wollen aber auch verhindern, dass Menschen sich in dem Streben nach immer mehr Geld verlieren.
+
+Es gibt daher eine progressive Einkommenssteuer. Es gibt einen hohen Freibetrag mit dem wir zusätzlich zu der Grundversorgung ein gutes Leben führen können.
+
+Darüberhinaus steigt die Steuerprogression an, vielleicht auch bis zu 100%. So gibt es einen Deckel, wie viel wir verdienen können.
+
+Wir setzen auf Zugang statt Besitz. Eine Vermögenssteuer ist daher nicht sinnvoll.
+
+Die Städte finanzieren sich über Landbesitz. Das Land (und die Gebäude?) gehören der Stadt. Wir können sie für eine lange Zeit pachten, aber nicht besitzen.
+
+Die Bewohner bestimmen aber, was auf dem Land passiert.
+
+Zusätzlich gibt es eine Gewinn- oder Umsatzsteuer für Unternehmen. Ich sehe es aber eher als eine Gewinn- oder Umsatzbeteiligung. Eine Provision für die Teilnahme am Markt. Die Stadt hat intensiv in die Infrastruktur und die Menschen investiert. Deshalb sollte sie auch an den Gewinnen beteiligt werden.
+
+Die Berechnung soll sehr einfach sein, damit wir keine große Bürokratie brauchen.
+
+Ziel soll sein, dass die Menschen gerne in die Stadt investieren, weil sie davon profitieren. Steuern zu zahlen sollte uns mit stolz erfüllen. Vielleicht kann das zu einem neuen Statussymbol werden.
+
+Wir wollen aber echte Investitionen in Infrastruktur, Bildung, Forschung und Entwicklung. Wir wollen die Lebensqualität immer weiter steigern. Zusätzlich könnte es interessant sein Künstler zu fördern, wie in der Renaissance.
+
+Ich bin unsicher, ob die gleichen Regeln für alle Städte gelten sollten oder ob sie sich selbst aussuchen können, wie sie sich finanzieren wollen. Eine Regel für alle widerspricht der Philosophie der Vielfalt und Experimente. Auf der anderen Seite ist es etwas, dass im Hintergrund läuft und nicht ständig geändert werden sollte. Es ist ein Rahmen, der uns Sicherheit gibt und über den wir nicht ständig nachdenken müssen.
+
+Das gleiche gilt auch für die Gesundheitsversorgung, Verpflegung und Versicherungen. Der Standard sollte überall gleich hoch sein.
+
+Der Fokus soll nicht auf dem Geld, sondern auf der Arbeit und der Entwicklung liegen. Wir wollen unsere Projekte ohne großartige Bürokratie umsetzen können. Wir wollen den Widerstand so gering wie möglich halten.
 
 ## Experimente
 
