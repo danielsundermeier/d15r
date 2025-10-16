@@ -83,6 +83,17 @@ Das Spiel des Lebens funktioniert nach den Prinzipien der Evolution: Konstante W
 
 Das Spiel des Lebens erfordert eine aktive Teilnahme. Wir können nicht einfach zuschauen, sondern müssen mitmachen.
 
+Wir wollen vom NPC (Non-Player Character) zum Helden und dann zum Guide werden.
+
+Das gelingt uns, indem wir uns folgende Fragen stellen:
+
+- Was möchte ich?
+- Was ist jetzt zu tun?
+
+Und dann einfach anfangen.
+
+Wir übernehmen so Verantwortung für unser Leben und gestalten es aktiv. Wir werden zum Gestalter unseres eigenen Spiels.
+
 Unser Körper zeigt uns den Weg. Unzufriedenheit und Langeweile sind die Signale, dass wir eine neue Herausforderung brauchen.
 
 Neugier und unsere Ängste sind unser Kompass. Sie führen uns zu unserer nächsten Aufgabe.

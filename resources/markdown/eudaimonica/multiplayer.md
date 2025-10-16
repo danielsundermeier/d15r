@@ -30,9 +30,9 @@ So können wir die Prinzipen, die für einen Menschen gelten, auch auf die Stadt
 
 ## Eudaimonologie
 
-Wir schließen uns in Städten zusammen, um unsere Lebensqualität zu verbessern. Das Zusammenleben ermöglicht es uns die Spezialisierung, wodurch alle profitieren.
+Wir schließen uns in Städten zusammen, um unsere Lebensqualität zu verbessern.
 
-Zusammenarbeit ermöglicht Spezialisierung. Jeder Mensch trägt das bei, was er am besten kann, und wird dadurch Teil eines größeren Ganzen. Die Zufriedenheit der Menschen und der Erhalt wie auch die Weiterentwicklung der Infrastruktur bilden die Grundlagen einer gesunden Stadt.
+Zusammenarbeit ermöglicht Spezialisierung. Jeder trägt das bei, was er am besten kann, und wird dadurch Teil eines größeren Ganzen. Die Zufriedenheit der Bewohner und der Erhalt wie auch die Weiterentwicklung der Infrastruktur bilden die Grundlagen einer gesunden Stadt.
 
 Die Aufgabe der Stadt ist es in die Bewohner zu investieren. Ihnen zu ermöglichen sich zu entfalten und ihre Stärken einzubringen. Dadurch entsteht eine positive Rückkopplungsschleife, von der alle profitieren.
 
@@ -211,7 +211,7 @@ Anstatt Dinge zu erzwingen, ziehen wir sie durch die Gestaltung und das Design v
 
 Wir sind alle Eudaimonia Architekten.
 
-Ich stelle mir eine Art Crowdfunding Plattform vor. Jeder kann Ideen vorschlagen, die dann diskutiert werden. Wir überlegen gemeinsam, wie sie ausprobiert werden können, setzen es um und schließlich kommt es auf die tatsächliche Nutzung an.
+Ich stelle mir eine Art Crowdfunding Plattform vor. Jeder kann Ideen vorschlagen, die dann diskutiert werden. Wir überlegen gemeinsam, wie sie ausprobiert werden können, setzen sie um und schließlich kommt es auf die tatsächliche Nutzung an.
 
 Es reicht nicht, Menschen zu fragen, ob wir eine gute Idee haben und sie das Produkt kaufen würden. Es zählt nur der Kauf selbst.
 
@@ -430,7 +430,15 @@ Wir wachsen gemeinsam und entwickeln uns weiter.
 
 ### Florieren
 
-Die Stadt hat ein Interesse daran in die Bewohner zu investieren. Je erfolgreicher und zufriedener sie sind, umso mehr Möglichkeiten ergeben sich für die Stadt und somit alle Bewohner.
+Auch in der Natur gibt es ein Wirtschaftssystem. Statt Geld ist Energie die Währung. Leben bekommt es hin immer mehr Energie im gesamten System zur Verfügung zu machen. Dadurch entsteht ein Ökosystem. Es wächst aber nicht endlos, sondern nur bis zu einem Optimum. Es ist egal, wie viel Energie einzelne anhäufen, weil nach ihrem Tod alles wieder ins System zurückfließt.
+
+Wir nehmen uns das als Vorbild für unser Wirtschaftssystem. Das Ziel ist das gute Leben und nicht möglichst viel Geld anzuhäufen. Unser Drang zu horten entsteht aus Angst, dass nicht genug da ist. Einem Gefühl von Mangel.
+
+Je mehr wir haben, umso größer wird diese Angst. Es wird immer lukrativer für andere es uns wegzunehmen.
+
+Wir wollen Überfluss, Vertrauen und soziale Netze schaffen, damit diese Angst verschwindet.
+
+Die Stadt hat ein Interesse daran in ihre Bewohner zu investieren. Je erfolgreicher und zufriedener sie sind, umso mehr Möglichkeiten ergeben sich für die Stadt und somit alle Bewohner.
 
 Das gilt für die Gesundheit genauso wie für die Bildung und die Freizeitgestaltung.
 
