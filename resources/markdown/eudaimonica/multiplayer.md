@@ -368,6 +368,14 @@ Die Stadt gibt uns eine Struktur, die uns dabei unterstützt, unsere Tage als Me
 
 Wir essen alle Mahlzeiten in einer Kantine. Unsere Ernährung wird von Ernährungsberatern geplant und von Köchen zubereitet.
 
+Nach dem zweiten Weltkrieg haben die Deutschen Schweine gehalten, um die Küchenabfälle zu verwerten.
+
+Um die Kantinen gibt es einen Schweinegarten. Dort leben Schweine und Hühner. Zusätzlich wird dort Grünschnitt abgeladen.
+
+Im Zusammenspiel mit den Tieren entsteht Kompost. Die Hühner verteilen ihn und die Schweine graben ihn um. Zusätzlich wird es durch ihre Ausscheidungen angereichert.
+
+Wir produzieren so aus unseren Abfällen Fleisch, Eier und Kompost. Die Tiere leben ein gutes Leben und wir haben eine nachhaltige Kreislaufwirtschaft.
+
 ### Bewegung
 
 Der Waldgarten dient gleichzeitig als Erholungsgebiet. Es gibt viele Wege und Plätze, die zum Verweilen einladen, sowie Bereiche für Sport und Spiel.
