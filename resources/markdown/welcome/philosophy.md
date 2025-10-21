@@ -88,7 +88,7 @@ Wir haben viele Werkzeuge zur Verfügung. Wir setzen das ein, was gerade am best
 
 Wir verlieren uns nicht in Ideologien, sondern bleiben pragmatisch und flexibel.
 
-## Balance
+### Balance
 
 Es gibt für alles ein Optimum. Überall gibt es ein zu wenig oder zu viel.
 
@@ -97,5 +97,17 @@ Dieser Punkt liegt aber in der Regel nicht in der Mitte und ist indviduell. Auß
 Für Tugenden gibt es ein Mangel und ein Übermaß.
 
 Je größer etwas wird, umso mehr ist möglich, es steigt aber auch der Aufwand, um es zu erhalten.
+
+### Veränderung
+
+Wir können andere Menschen nicht verändern, sondern nur uns selbst. Veränderung geschieht durch Vorbild und Inspiration.
+
+Wenn wir anders handeln, denken und fühlen, beeinflussen wir unser Umfeld. Dadurch entsteht Veränderung.
+
+Sie entsteht von unten nach oben und von innen nach außen.
+
+> Be the change you want to see in the world.
+
+Das ist der einzige Weg.
 
 [Eudaimonica](/eudaimonica)

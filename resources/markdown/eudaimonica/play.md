@@ -81,7 +81,7 @@ So überwinden wir unsere Ängste und erweitern unsere Komfortzone.
 
 Das Spiel des Lebens funktioniert nach den Prinzipien der Evolution: Konstante Weiterentwicklung.
 
-Das Spiel des Lebens erfordert eine aktive Teilnahme. Wir können nicht einfach zuschauen, sondern müssen mitmachen.
+Es erfordert eine aktive Teilnahme. Wir können nicht einfach zuschauen, sondern müssen mitmachen.
 
 Wir wollen vom NPC (Non-Player Character) zum Helden und dann zum Guide werden.
 
@@ -98,11 +98,42 @@ Unser Körper zeigt uns den Weg. Unzufriedenheit und Langeweile sind die Signale
 
 Neugier und unsere Ängste sind unser Kompass. Sie führen uns zu unserer nächsten Aufgabe.
 
+Auch hier gilt wieder auf die Zeichen unseres Körpers zu hören. Er belohnt uns mit einem guten Gefühl, wenn wir auf dem richtigen Weg sind.
+
+Wir spüren Enthusiasmus, Leichtigkeit und Freude. Die Tätigkeiten verleihen uns Energie und wir fühlen uns lebendig.
+
 Wenn wir unsere Herausforderungen an unsere Fähigkeiten anpassen, kommen wir in den Flow-Zustand.
 
 Ist die Herausforderung zu groß, blockieren wir und fühlen uns überfordert. Ist sie zu klein, langweilen wir uns.
 
 So wissen wir immer, ob wir auf dem richtigen Weg sind.
+
+Um diesen Kontakt zu unserem Körper herzustellen, ist es wichtig, regelmäßig Pausen zu machen und innezuhalten. Wir müssen zu Ruhe kommen und uns auf uns selbst konzentrieren.
+
+Nur so können wir unserer inneren Stimme lauschen und stellen eine Verbindung zu unserer Intuition her. Dadurch können wir uns dann von unserem besten Selbst leiten lassen.
+
+Die Griechen haben es als Daimon, die gute Seele, bezeichnet. Es ist unsere innere Führung, die uns den besten Weg zeigt.
+
+Die Römer haben es als Genius bezeichnet. Immer, wenn sie etwas großartiges geleistet haben, haben sie gesagt, dass sie von ihrem Genius geleitet wurden.
+
+Diese innere Stimme ist unser Coach und Sparringspartner, der uns unterstützt und uns hilft, unser volles Potenzial zu entfalten.
+
+Der beste Mitspieler, den wir uns wünschen können. Es ist der Guide, der uns durch das Abenteuer des Lebens führt. Uns leise zuflüstert, was wir als nächstes tun sollen.
+
+Wir neigen aber dazu, uns abzulenken und ständig beschäftigt zu sein. Dadurch verlieren wir den Kontakt zu ihm, uns selbst und unseren Bedürfnissen.
+
+Insbesondere in stressigen Situationen ist es wichtig auf ihn zu hören. Aber genau dann fällt es uns am schwersten. Wir wollen dem Stress entkommen und suchen Ablenkung.
+
+Wir essen, scrollen, rauchen oder trinken etwas, um uns besser zu fühlen. Wir wollen weglaufen und unseren Problemen entkommen. Dadurch verschlimmern wir die Situation aber nur.
+
+Wenn wir uns ihnen stellen und die Gefühle zulassen, können wir sie überwinden und daran wachsen. Je eher wir das machen, umso leichter wird es.
+
+Das ist nicht immer angenehm, aber es ist notwendig, um voranzukommen. Der einzige Weg zu einem erfüllten Leben führt durch Herausforderungen hindurch.
+
+Danach fühlen wir uns stärker und selbstbewusster. Wir haben etwas gemeistert und sind daran gewachsen. Der Druck fällt von uns ab und wir können wieder durchatmen.
+
+Das ist aber das letzte, was wir in der Situation tun wollen. Wenn wir aber lernen auf sie zuzugehen und als Chance zu sehen, werden wir immer besser darin.
+
 
 Das Leben stellt uns vor immer neue Herausforderungen. Es ist genau das, was wir brauchen, um zu wachsen und uns weiterzuentwickeln, auch wenn es nicht immer das ist, was wir uns wünschen.
 
