@@ -216,6 +216,30 @@ Das bedeutet auch, dass es keine perfekten Lösungen gibt. Wir müssen immer wie
 
 Wenn wir unsere Handlungen verändern, verändern wir auch die Spielwelt. Die wirkt sich dann wieder auf unsere und die Handlungen anderer aus. Überall gibt es Rückkopplungsschleifen. Alles hängt miteinander zusammen. Wir können nichts isoliert betrachten.
 
+## Entropie
+
+Das Universum neigt zur Entropie, was bedeutet, dass es immer chaotischer und ungeordneter wird. Energie verteilt sich gleichmäßig und Strukturen zerfallen im Laufe der Zeit.
+
+Um dem entgegenzuwirken, entstehen immer wieder lokale Ordnungen und Strukturen. Leben ist ein Beispiel dafür. Es organisiert Energie und Materie, um komplexe Strukturen zu schaffen.
+
+Dabei verbraucht es Energie und erhöht die Entropie in der Umgebung. Leben ist also ein Prozess, der der Entropiezunahme entgegenwirkt, indem es lokal Ordnung schafft, insgesamt aber die Entropie erhöht.
+
+Wir müssen immer das gesamte System betrachten, wenn es um die Entropie geht. Wir bekommen nutzbare Energie von der Sonne, die durch Photosynthese in chemische Energie umgewandelt wird. Diese Energie nutzen wir, um Ordnung zu schaffen und unsere Lebensprozesse aufrechtzuerhalten.
+
+Der Planet gibt diese Energie wieder als Wärme ins All ab. Die ist aber weniger nutzbar, wodurch die Gesamtentropie des Universums zunimmt.
+
+Es gilt: Je höher die Entropie, desto weniger nutzbare Energie ist verfügbar.
+
+Entropie wird oft als Maß für Unordnung oder Zufälligkeit in einem System definiert.
+
+Es ist aber ein Maß für Wahrscheinlichkeit. Systeme neigen dazu, in Zustände mit höherer Wahrscheinlichkeit überzugehen.
+
+Wenn alles geordnet ist, gibt es nur wenige Möglichkeiten, wie die Teile angeordnet sein können. Wenn alles ungeordnet ist, gibt es viele Möglichkeiten.
+
+Theoretisch könnte sich Milch und Kaffee spontan von selbst trennen, aber die Wahrscheinlichkeit ist extrem gering. Es ist viel wahrscheinlicher, dass sie sich vermischen.
+
+Deshalb scheint die Zeit auch immer in eine Richtung zu fließen: Von Ordnung zu Unordnung. Theoretisch ist das aber nicht zwingend so. Es ist nur viel wahrscheinlicher.
+
 ## Kontext
 
 Im Laufe der Evolution haben sich bestimmte Fähigkeiten entwickelt, die für die aktuelle Situation besonders gut geeignet sind.
@@ -295,5 +319,21 @@ Diese soziale Natur war ein Überlebensvorteil in der Vergangenheit und ist es a
 Viele Gruppen von Jägern und Sammlern haben Freundschaften mit anderen Gruppen gepflegt. Dadurch konnten sie Ressourcen und Wissen austauschen und sich gegenseitig unterstützen.
 
 Sie konnten frei zwischen den Gruppen wechseln, was zu einer größeren genetischen Vielfalt und besseren Anpassungsfähigkeit führte.
+
+## Muster
+
+Im Universum scheint es aus wiederkehrenden Mustern auf verschiedenen Skalen zu bestehen.
+
+- Entstehen und Vergehen.
+- Trennen und Verbinden.
+- Aktion und Reaktion.
+- Fibonacci-Folge und Goldener Schnitt.
+- Energieerhaltung.
+- Symmetrie.
+
+Es ist wie ein Puls, der sich durch das Universum zieht. Ein Herzschlag, der alles durchdringt.
+
+Alles folgt diesen Mustern wie ein Fraktal. Es ist nicht immer gleich, reimt sich aber.
+
 
 [Übersicht](/eudaimonica)
