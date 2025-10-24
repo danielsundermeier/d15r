@@ -1,5 +1,57 @@
 # Avatar
 
+## Aufbau
+
+Unser Körper besteht aus Zellen, die sich zu Geweben, Organen, die den Organismus bilden.
+
+### Zellen
+
+Eine Zelle ist die kleinste Einheit des Lebens. Sie hat eine Membran, die sie von der Umgebung abgrenzt, und enthält verschiedene Organellen, die spezifische Funktionen erfüllen.
+
+- Zellkern: Enthält die DNA und steuert die Zellaktivitäten.
+- Mitochondrien: Produzieren Energie für die Zelle.
+- Ribosomen: Stellen Proteine her.
+- Endoplasmatisches Retikulum: Transportiert und verarbeitet Moleküle.
+- Golgi-Apparat: Verpackt und versendet Moleküle.
+- Lysosomen: Bauen Abfallstoffe ab.
+- Zellmembran: Regelt den Austausch von Stoffen mit der Umgebung.
+- Zytoplasma: Flüssigkeit, in der die Organellen eingebettet sind.
+- Zytoskelett: Stützt die Zelle und ermöglicht Bewegung.
+- Vesikel: Transportieren Moleküle innerhalb der Zelle.
+- Peroxisomen: Bauen Fettsäuren ab und entgiften die Zelle.
+- Zentriolen: Beteiligen sich an der Zellteilung.
+
+### Gewebe
+
+Zellen gleichen Typs schließen sich zu Geweben zusammen. Es gibt vier Haupttypen von Geweben im menschlichen Körper:
+
+- Epithelgewebe: Bedeckt Oberflächen und bildet Drüsen.
+- Binde- und Stützgewebe: Verbindet und stützt andere Gewebe.
+- Muskelgewebe: Ermöglicht Bewegung.
+- Nervengewebe: Überträgt elektrische Signale.
+
+### Organe
+
+Verschiedene Gewebe arbeiten zusammen, um Organe zu bilden. Jedes Organ hat eine spezifische Funktion im Körper.
+
+- Herz: Pumpt Blut durch den Körper.
+- Lunge: Ermöglicht den Gasaustausch.
+- Leber: Entgiftet den Körper und produziert Galle.
+- Nieren: Filtern Abfallstoffe aus dem Blut.
+- Gehirn: Steuert Körperfunktionen und verarbeitet Informationen.
+- Magen: Zersetzt Nahrung.
+- Haut: Schützt den Körper und reguliert die Temperatur.
+- Darm: Nimmt Nährstoffe auf und scheidet Abfallstoffe aus.
+- Knochen: Stützen den Körper und schützen Organe.
+- Muskeln: Ermöglichen Bewegung und Stabilität.
+- Blutgefäße: Transportieren Blut durch den Körper.
+- Nerven: Übertragen Signale zwischen Gehirn und Körper.
+- Hormondrüsen: Produzieren Hormone zur Regulation von Körperfunktionen.
+- Immunsystem: Schützt den Körper vor Krankheitserregern.
+- Lymphsystem: Unterstützt das Immunsystem und transportiert Flüssigkeiten.
+- Fortpflanzungsorgane: Ermöglichen die Fortpflanzung.
+- Sinnesorgane: Nehmen Reize aus der Umgebung wahr.
+
 ## Biomechanik
 
 Unser Körper hat sich perfekt an das aufrechte Gehen angepasst. Alles ist darauf ausgelegt optimal mit der Schwerkraft zu arbeiten.
@@ -130,5 +182,77 @@ Das RAS ist entscheidend für das allgemeine Bewusstsein und die Wachheit des ge
 
 **Selektive Wahrnehmung:**
 Die Filterfunktion des RAS ist nicht objektiv. Unsere Einstellungen und Überzeugungen beeinflussen, welche Informationen wir wahrnehmen und welche wir ignorieren, was zu selektiver Wahrnehmung führt.
+
+## Homeostase
+
+Homeostase ist der Prozess, durch den der Körper ein stabiles inneres Milieu aufrechterhält, trotz äußerer Veränderungen. Dies umfasst die Regulierung von Temperatur, pH-Wert, Flüssigkeits- und Elektrolythaushalt sowie anderen physiologischen Parametern.
+
+Es ist sehr wichtig, dass der pH-Wert im Blut konstant bei etwa 7,4 gehalten wird. Kleine Abweichungen können schwerwiegende Auswirkungen auf die Enzymaktivität und den Stoffwechsel haben.
+
+Prozesse der Homeostase:
+
+- Thermoregulation: Aufrechterhaltung der Körpertemperatur.
+- Blutzuckerregulation: Kontrolle des Glukosespiegels im Blut.
+- Flüssigkeits- und Elektrolythaushalt: Regulierung von Wasser- und Salzgehalt.
+- Säure-Basen-Haushalt: Aufrechterhaltung des pH-Werts im Blut.
+- Blutdruckregulation: Kontrolle des Blutdrucks.
+
+## Metabolismus
+
+Der Metabolismus umfasst alle biochemischen Prozesse, die in unserem Körper ablaufen, um Energie zu gewinnen, aufzubauen und zu reparieren. Er besteht aus zwei Hauptprozessen:
+
+- Katabolismus (Abbau von Molekülen zur Energiegewinnung)
+- Anabolismus (Aufbau von Molekülen für Wachstum und Reparatur)
+
+Viele der Reaktionen können in beide Richtungen ablaufen, abhängig von den Bedürfnissen des Körpers. Je nachdem, ob Energie benötigt wird oder ob sie gespeichert werden soll, werden die entsprechenden Prozesse aktiviert.
+
+Es gibt aber auch spezielle Stoffwechselwege, die nur in eine Richtung ablaufen. Zum Beispiel die Glykolyse, bei der Glukose in Pyruvat umgewandelt wird, um Energie zu gewinnen.
+
+Um diese umzukehren, muss der Körper andere Wege nutzen, wie die Glukoneogenese, bei der Glukose aus Nicht-Kohlenhydrat-Quellen hergestellt wird.
+
+### Katabolismus (Energiestoffwechsel)
+
+Im Katabolismus werden komplexe Moleküle wie Kohlenhydrate, Fette und Proteine in einfachere Moleküle zerlegt. Dabei wird Energie freigesetzt, die der Körper für verschiedene Funktionen nutzt. Zum Beispiel wird Glukose in einem Prozess namens Glykolyse abgebaut, um ATP (Adenosintriphosphat) zu produzieren, die Hauptenergiequelle für Zellen.
+
+#### Zitronensäurezyklus
+
+Der Zitronensäurezyklus, auch Krebszyklus oder Citratzyklus genannt, ist ein zentraler Stoffwechselweg im Katabolismus. Er findet in den Mitochondrien der Zellen statt und dient der vollständigen Oxidation von Acetyl-CoA, das aus Kohlenhydraten, Fetten und Proteinen stammt.
+
+Der Zitronensäurezyklus besteht aus einer Reihe von enzymatisch katalysierten Reaktionen, die Acetyl-CoA in Kohlendioxid (CO2) und energiereiche Elektronenträger (NADH und FADH2) umwandeln. Diese Elektronenträger werden dann in der Atmungskette verwendet, um ATP zu produzieren.
+
+#### ATP-Produktion
+
+ATP (Adenosintriphosphat) ist die primäre Energiequelle für zelluläre Prozesse. Es wird durch verschiedene Stoffwechselwege produziert, darunter Glykolyse, der Zitronensäurezyklus (Krebszyklus) und die oxidative Phosphorylierung in den Mitochondrien.
+
+##### Kreatinphosphat-System
+
+Das Kreatinphosphat-System ist ein schneller Weg zur ATP-Produktion, der in den ersten Sekunden intensiver körperlicher Aktivität genutzt wird. Kreatinphosphat (CP) gibt seine Phosphatgruppe an ADP ab, um ATP zu regenerieren.
+
+Wir können etwa 10-15 Sekunden lang ATP durch dieses System bereitstellen, bevor es erschöpft ist. Das Kreatinphosphat-System ist besonders wichtig für kurze, explosive Bewegungen wie Sprinten oder Gewichtheben.
+
+### Anabolismus (Baustoffwechsel)
+
+Im Anabolismus werden einfache Moleküle verwendet, um komplexe Moleküle aufzubauen, die für das Wachstum und die Reparatur von Geweben notwendig sind. Zum Beispiel werden Aminosäuren zu Proteinen zusammengesetzt, die für den Aufbau von Muskeln und anderen Geweben benötigt werden.
+
+#### ATP-Verbrauch
+
+ATP wird im Anabolismus verbraucht, um Energie für den Aufbau von Molekülen bereitzustellen. Zum Beispiel wird ATP benötigt, um Aminosäuren zu Proteinen zu verknüpfen oder Fettsäuren zu Lipiden zusammenzusetzen.
+
+Dabei wird ATP in ADP (Adenosindiphosphat) und anorganisches Phosphat (Pi) gespalten, wobei Energie freigesetzt wird, die für die Syntheseprozesse genutzt wird.
+
+#### Muskelkontraktionen
+
+Muskelkontraktionen sind ein wichtiger anabolischer Prozess, der Energie benötigt. ATP wird verwendet, um die Interaktion zwischen Aktin- und Myosinfilamenten in den Muskeln zu ermöglichen, was zu Bewegung führt.
+
+#### Proteinbiosynthese
+
+Die Proteinbiosynthese ist der Prozess, durch den Zellen Proteine herstellen. Sie besteht aus zwei Hauptschritten: Transkription und Translation.
+
+- Transkription: Die DNA wird in eine mRNA (messenger RNA) umgeschrieben.
+- Translation: Die mRNA wird in eine Aminosäurekette übersetzt, die zu einem Protein gefaltet wird.
+
+#### Enzymproduktion
+
+Enzyme sind Proteine, die biochemische Reaktionen im Körper katalysieren. Sie sind entscheidend für den Stoffwechsel, da sie die Geschwindigkeit von Reaktionen erhöhen, ohne dabei selbst verbraucht zu werden.
 
 [Übersicht](/eudaimonica)
