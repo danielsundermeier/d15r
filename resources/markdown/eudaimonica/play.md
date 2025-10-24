@@ -142,7 +142,7 @@ Am Besten gelingt uns das, wenn wir inne halten und tief durchatmen.
 
 Die Antworten sind in uns. Wir müssen nur lernen, auf unsere innere Stimme zu hören.
 
-### Innerer Schweinehund
+### Gegenspieler
 
 Die Lösungen für die meisten Probleme sind bekannt. Wir müssen sie nur umsetzen.
 
@@ -227,6 +227,32 @@ Wir treffen die besten Entscheidungen, wenn wir es schaffen, dass alle Beteiligt
 Wenn das nicht der Fall ist, reagieren die einzelnen Familienmitglieder aus ihren Emotionen heraus und wir tun Dinge, die wir später bereuen.
 
 Wir haben in jedem Moment die Wahl, ob wir unserem inneren Schweinehund folgen oder einen Schritt in Richtung Wachstum machen.
+
+In der Regel halten uns zwei Dinge davon ab:
+
+### Angst
+
+Angst wird stärker, je länger wir ihr aus dem Weg gehen.
+
+Sie ist wie ein Muskel, der trainiert wird. Je öfter wir vor ihr weglaufen, umso größer und stärker wird sie.
+
+Wir reden uns ein, dass wir nicht gut genug sind oder es nicht der richtige Zeitpunkt ist.
+
+Wir finden immer eine Ausrede, um nicht anzufangen.
+
+Wenn wir aber den ersten Schritt machen, merken wir, dass die Angst gar nicht so schlimm ist, wie wir gedacht haben.
+
+Deshalb ist es wichtig den Widerstand anzufangen so gering wie möglich zu halten.
+
+### Bequemlichkeit
+
+Bequemlichkeit ist wie ein Sog, der uns immer weiter in die Komfortzone zieht.
+
+Wir warten auf die Motivation, die uns antreibt. Die kommt aber meistens erst, wenn wir angefangen haben.
+
+Wir können uns kleine Ziele setzen. Wir geben uns die Chance nach ein paar Minuten aufzuhören. Das senkt die Hemmschwelle und macht es leichter anzufangen.
+
+Wenn wir erst angefangen haben, machen wir in der Regel weiter.
 
 ### Freier Wille
 
@@ -430,9 +456,71 @@ Wir können dafür sorgen, dass wir schon morgens die ersten Erfolge feiern und 
 
 ## Struktur
 
-- Gewohnheiten
-- Etablieren
-- Löschen
+### Gewohnheiten
+
+Die meisten unserer Handlungen sind Gewohnheiten. Sie sind die Autopilot-Programme unseres Gehirns, die uns helfen, Energie zu sparen.
+
+Die Basalganglien sind der Teil unseres Gehirns, der für die Steuerung von Gewohnheiten zuständig ist. Sie ermöglichen es uns, komplexe Handlungen automatisch auszuführen, ohne darüber nachdenken zu müssen.
+
+Ihnen ist aber egal, ob die Gewohnheit gut oder schlecht für uns ist. Sie führen sie einfach aus, wenn der Auslöser da ist.
+
+Immer wenn wir etwas tun, wird es beim näcchsten Mal etwas leichter wieder die gleiche Entscheidung zu treffen. Das ist der Grund, warum wir mit jeder Handlung auch unseren Charakter formen. Wir werden zu der Person, die wir durch unsere Handlungen repräsentieren.
+
+Wir etablieren Gewohnheiten über unsere Wiederholungen. Deshalb ist die Beständigkeit so wichtig. Wenn wir eine Gewohnheit an einem Tag nicht ausgeführt haben, setzen wir alles daran, sie am nächsten Tag wieder auszuführen.
+
+Sie zwei Tage in Folge ausfallen zu lassen ist Gewohnheitsselbstmord.
+
+Gewohnheiten bestehen aus drei Teilen:
+
+- Auslöser
+- Verhalten
+- Belohnung
+
+### Verhaltensforschung
+
+Handlung = Motivation + Fähigkeit + Auslöser
+
+Wir können es in einen Diagramm darstellen. Auf der X-Achse ist die Fähigkeit von schwer bis leicht und auf der Y-Achse die Motivation von niedrig bis hoch.
+
+Dadurch ergibt sich eine Aktionszone, in der die Handlung ausgeführt wird. Alles über der Linie wird gemacht, alles darunter nicht.
+
+Je höher die Motivation und die Fähigkeit sind, umso wahrscheinlicher ist es, dass wir die Handlung ausführen, sobald der Auslöser da ist.
+
+Aus diesem Grund setzen wir uns lächerlich kleine Ziele für unsere Gewohnheiten.
+
+- 1 Liegestütz
+- Meditieren für 1 Atemzug
+- 1 Satz lesen
+
+An den meisten Tagen werden wir mehr tun, weil wir schon angefangen haben. Entscheidend ist aber, dass wir die Strähne nicht unterbrechen. Wir können unsere Gewohnheiten auf diese Weise auch an den schlechtesten Tagen durchziehen.
+
+Direkt nachdem wir eine Gewohnheit ausgeführt haben, belohnen wir uns dafür. Wir feiern unseren Erfolg, um unser Gehirn zu trainieren. Das ist unsere Belohnung. Das macht es leichter, die Gewohnheit zu etablieren und beizubehalten.
+
+Auch wenn es sich merkwürdig anfühlt, ist es wichtig, dass wir uns dafür loben. Wir stärken dadurch die Verbindung zwischen Verhalten und Belohnung.
+
+### Etabieren
+
+Wir etablieren eine Gewohnheit, indem wir sie regelmäßig ausführen. Je öfter wir sie wiederholen, umso stärker wird die Verbindung in unserem Gehirn.
+
+Der erste Schritt ist den Auslöser so offensichtlich wie möglich zu machen. Wenn wir zum Beispiel mehr Wasser trinken wollen, stellen wir eine Flasche Wasser auf unseren Schreibtisch.
+
+Wenn wir maditeiren wollen, legen wir unsere Meditationskissen an einen Ort an dem wir darüber stolpern.
+
+### Ablegen
+
+Sobald wir eine Gewohnheit etabliert haben, ist sie für immer in unseren Basalganglien gespeichert. Wir bleiben also anfällig dafür, sie wieder auszuführen, wenn der Auslöser da ist.
+
+Um eine Gewohnheit abzulegen, tun wir das Gegenteil von dem, was wir beim Etablieren gemacht haben.
+
+Wir müssen den Auslöser identifizieren und ihn vermeiden. Am besten entfernen wir ihn vollständig aus unserem Umfeld.
+
+Ohne ihn kommt es zu keiner Handlung.
+
+Unsere Umgebung ist hier der wichtigste Faktor. Wenn der Auslöser nicht da ist, können wir die Gewohnheit nicht ausführen. Deshalb werden wir leichter rückfällig, wenn wir in einer Umgebung sind, die uns an die Gewohnheit erinnert.
+
+Wir können auch eine andere Handlung mit einem bestehenden Auslöser verknüpfen. Der Drang etwas zu tun ist schon da und wir nutzen ihn, um eine neue Gewohnheit zu etablieren.
+
+Bewusstsein ist auch ein wichtiger Faktor. In Studien ist es den Teilnehmern leichter gefallen, wenn sie bewusst geraucht haben. Sie sind aus dem Autopilot-Modus herausgekommen und konnten die Situation reflektieren.
 
 ## Fundament
 
@@ -443,6 +531,14 @@ Von einem soliden Fundament aus können wir unsere Abenteuer starten.
 Es gibt uns die Sicherheit und Energie, die wir brauchen, um die Herausforderungen des Lebens zu meistern.
 
 Es ist unser Sicherheitsnetz, das uns auffängt, wenn wir fallen.
+
+Wir fangen mit der Sache an, von der wir wissen, dass sie uns am meisten bringt.
+
+Den größten Hebel haben wir aber bei den Dingen, von denen wir wissen, dass sie unseeren Zielen im Weg stehen. Wenn wir diese eliminieren, gewinnen wir am meisten.
+
+Sobald wir mit dem ersten Bereich angefangen haben, fühlen wir uns besser und haben mehr Energie. Dadurch fällt es uns leichter, uns um die anderen Bereiche zu kümmern.
+
+Wir starten eine Aufwärtsspirale, die uns immer weiter nach oben führt.
 
 ### Ernährung
 
