@@ -440,7 +440,7 @@ Wir wachsen gemeinsam und entwickeln uns weiter.
 
 ### Florieren
 
-Auch in der Natur gibt es ein Wirtschaftssystem. Statt Geld ist Energie die Währung. Leben bekommt es hin immer mehr Energie im gesamten System zur Verfügung zu machen. Dadurch entsteht ein Ökosystem. Es wächst aber nicht endlos, sondern nur bis zu einem Optimum. Es ist egal, wie viel Energie einzelne anhäufen, weil nach ihrem Tod alles wieder ins System zurückfließt.
+Auch in der Natur gibt es ein Wirtschaftssystem. Statt Geld ist Energie die Währung. Leben bekommt es hin immer mehr Energie im gesamten System zur Verfügung zu stellen. Dadurch entsteht ein Ökosystem. Es wächst aber nicht endlos, sondern nur bis zu einem Optimum. Es ist egal, wie viel Energie einzelne anhäufen, weil nach ihrem Tod alles wieder ins System zurückfließt.
 
 Wir nehmen uns das als Vorbild für unser Wirtschaftssystem. Das Ziel ist das gute Leben und nicht möglichst viel Geld anzuhäufen. Unser Drang zu horten entsteht aus Angst, dass nicht genug da ist. Einem Gefühl von Mangel.
 
