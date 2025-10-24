@@ -126,6 +126,40 @@ Die Entwicklung von den ersten einfachen Zellen zu eukaryotische Zellen, die ein
 
 Danach hat sich das Leben in verschiedene Domänen aufgeteilt: Bakterien, Archaeen und Eukaryoten. Eukaryoten sind komplexere Zellen mit einem Zellkern, aus denen Pflanzen, Tiere und Pilze entstanden sind.
 
+Die Landbesiedlung durch Pflanzen und Tiere begann vor etwa 450 Millionen Jahren. Die ersten Landpflanzen waren Moose und Farne, gefolgt von Insekten und später Wirbeltieren.
+
+Es gab mehrere große Ereignisse in der Geschichte des Lebens, wie die Kambrische Explosion vor etwa 540 Millionen Jahren, bei der viele neue Tierarten entstanden sind.
+
+Das Leben hat auch mehrere Massensterben überstanden, bei denen ein großer Teil der Arten ausgelöscht wurde. Das bekannteste ist das Aussterben der Dinosaurier vor etwa 65 Millionen Jahren, wahrscheinlich durch einen Meteoriteneinschlag verursacht.
+
+Weitere Massensterben wurden durch vulkanische Aktivitäten, Klimaveränderungen und andere Umweltfaktoren ausgelöst.
+
+Nach jedem Massensterben entstanden aber auch wieder neue Arten, die die frei gewordenen Nischen besetzten. Wären die Dinosaurier nicht ausgestorben, hätten sich die Säugetiere wahrscheinlich nicht so stark entwickeln können.
+
+## Menschheit
+
+Die ersten anatomisch modernen Menschen (Homo sapiens) entstanden vor etwa 300.000 Jahren in Afrika. Sie unterschieden sich von früheren Hominiden durch ihre größere Gehirnkapazität und komplexere Werkzeuge.
+
+Im Laufe der Zeit breiteten sich die Menschen über den gesamten Planeten aus und passten sich an verschiedene Umgebungen an. Wir entwickelten Sprache, Kunst und Kultur, was uns von anderen Arten unterschied.
+
+Andere Lebewesen bringen in unterschiedlichen Umgebungen neue Arten hervor, während wir durch unsere Intelligenz und Kreativität neue Werkzeuge und Technologien entwickeln können und uns so über die ganze Erde verteilen.
+
+Neben uns gab es weitere Menschenarten, die im Laufe der Evolution entstanden sind, wie Neandertaler und Denisova-Menschen. Diese Arten lebten zeitweise mit den modernen Menschen zusammen und beeinflussten sich gegenseitig.
+
+Die Zeit war von großen Veränderungen geprägt, sowohl klimatisch als auch ökologisch. Teilweise war ein Drittel der Erde von Gletschern bedeckt. Eis- und Warmzeiten wechselten sich ab.
+
+Die meiste Zeit haben wir als Jäger und Sammler in kleinen egalitären Gruppen gelebt. Wir haben uns aber von Anfang an mit anderen Gruppen ausgetauscht und kooperiert. Wir haben Handel betrieben, Wissen geteilt und uns gegenseitig unterstützt.
+
+Es scheint als hätten wir eine angeborene Neigung zur Zusammenarbeit und zum Teilen. Diese soziale Natur war ein Überlebensvorteil in der Vergangenheit und ist es auch heute noch.
+
+Wir finden in verschiednenen Höhlen Felsmalereien, die vor etwa 40.000 Jahren entstanden sind. Sie zeigen Tiere, Jagdszenen und abstrakte Muster. Diese Kunstwerke deuten darauf hin, dass wir schon früh ein Bewusstsein für Ästhetik und Symbolik hatten.
+
+Vor etwa 10.000 Jahren begannen wir mit der Landwirtschaft. Es war ein fließender Übergang. Wir domestizierten Pflanzen und Tiere, was zu einer sesshafteren Lebensweise führte.
+
+Durch die Landwirtschaft konnten wir mehr Nahrung produzieren, was zu Bevölkerungswachstum und komplexeren Gesellschaften führte. Es ermöglichte aber auch die Bildung von Hierarchien und Ungleichheiten.
+
+Durch das Anhäufen von Ressourcen und Landbesitz entstanden soziale Klassen. Einige Menschen hatten mehr Macht und Einfluss als andere. Dies führte zu Konflikten und Kriegen um Ressourcen und Territorien.
+
 ## Evolution
 
 Alles Leben entwickelt sich durch Evolution. Sie ist die grundlegende Spielmechanik, die das Leben antreibt.

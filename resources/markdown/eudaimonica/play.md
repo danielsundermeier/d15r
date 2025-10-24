@@ -122,23 +122,31 @@ Nur so können wir unserer inneren Stimme lauschen und stellen eine Verbindung z
 
 ### Mitspieler
 
-Die Griechen haben es als Daimon, die gute Seele, bezeichnet. Es ist unsere innere Führung, die uns den besten Weg zeigt.
+Wir haben den besten Mitspieler an unserer Seite, den wir uns vorstellen können: Unsere innere Stimme.
+
+Die Griechen haben sie als Daimon bezeichnet. Er ist die Personifizierung unserer Schicksalsbestimmung.
+
+Es ist unsere innere Führung, die uns den besten Weg zeigt.
 
 Die Römer haben es als Genius bezeichnet. Immer, wenn sie etwas großartiges geleistet haben, haben sie gesagt, dass sie von ihrem Genius geleitet wurden.
 
-Diese innere Stimme ist unser Coach und Sparringspartner, der uns unterstützt und uns hilft, unser volles Potenzial zu entfalten.
+Diese innere Stimme ist unser Coach und Sparringspartner, die uns unterstützt und hilft, unser volles Potenzial zu entfalten.
 
-Der beste Mitspieler, den wir uns wünschen können. Es ist der Guide, der uns durch das Abenteuer des Lebens führt. Uns leise zuflüstert, was wir als nächstes tun sollen.
+Es ist der Guide, der uns durch das Abenteuer des Lebens führt. Uns leise zuflüstert, was wir als nächstes tun dürfen.
 
-Wir wissen, was wir tun dürfen, wenn wir uns die Zeit dafür nehmen.
+Wir müssen lernen, auf sie zu hören und ihr zu vertrauen. Wir haben alle die Fähigkeit, unsere innere Stimme wahrzunehmen.
 
-Wir neigen aber dazu, uns abzulenken und ständig beschäftigt zu sein. Dadurch verlieren wir den Kontakt zu ihm, uns selbst und unseren Bedürfnissen.
+Wir neigen dazu, uns abzulenken und ständig beschäftigt zu sein. Dadurch verlieren wir den Kontakt zu ihr, uns selbst und unseren Bedürfnissen.
 
-Dadurch fühlen wir uns orientierungslos und unzufrieden.
+Dadurch fühlen wir uns orientierungslos und unzufrieden. Wir suchen die Lösung im Außen, anstatt in uns selbst. Es kann sehr schwer sein uns der Stille zu stellen und auf unsere innere Stimme zu hören. Es wirkt so viel einfacher im Außen nach Antworten zu suchen.
+
+Die Götter haben sich gefragt, wo sie die Göttlichkeit der Menschen verstecken können, damit wir sie nicht finden. Sie haben sich für einen Ort entschieden, den wir am wenigsten beachten: In uns selbst. Wir besteigen jeden Gipfel und tauchen in jeden Ozean, um die Antworten zu finden, aber in uns selbst schauen wir nur selten.
+
+Es wirkt leichter die Welt zu verändern, als uns der Stille zu stellen. Wir haben Angst davor, was wir dort finden könnten.
 
 Wir können ein Spiel daraus machen, zu bemerken, wenn wir aus dem Gleichgewicht geraten sind und wieder zu uns selbst zurückzukehren. Ziel ist es immer schneller zu schaffen.
 
-Am Besten gelingt uns das, wenn wir inne halten und tief durchatmen.
+Am Besten gelingt uns das, wenn wir inne halten und tief durchatmen. Uns einen Moment Zeit nehmen, um zu spüren, wie es uns gerade geht.
 
 Die Antworten sind in uns. Wir müssen nur lernen, auf unsere innere Stimme zu hören.
 
@@ -375,6 +383,12 @@ Wir erkennen, dass uns Herausforderungen stärker machen und werden dadurch unbe
 Alles passiert für uns und hilft uns zu wachsen und uns weiterzuentwickeln.
 
 ## Identität
+
+Wir können uns in diesem Spiel unseren Avatar nicht aussuchen. Wir bekommen ihn geschenkt. Wir haben keine Übersicht über seine Fähigkeiten und Eigenschaften. Es ist unsere Aufgabe, ihn kennenzulernen und zu meistern.
+
+Ein Weg mehr über ihn zu erfahren, ist mehrere Persönlichkeitstests zu machen. Jeder Test beleuchtet einen anderen Aspekt unserer Persönlichkeit. Wenn wir alle Ergebnisse zusammennehmen, bekommen wir ein umfassenderes Bild von uns selbst.
+
+Das ist aber nur der Anfang. Wir müssen uns selbst beobachten und reflektieren, um ein tieferes Verständnis von uns zu bekommen. Nichts geht über die eigene Erfahrung.
 
 Es geht immer nur um die Person zu der wir werden wollen. Unser Charakter ist der wahre Schatz des Spiels.
 
