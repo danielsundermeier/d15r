@@ -77,7 +77,15 @@ Anstatt davor wegzulaufen oder uns abzulenken, gehen wir direkt darauf zu.
 
 So überwinden wir unsere Ängste und erweitern unsere Komfortzone.
 
-## Spielmechanik
+### Ziel
+
+Es geht immer nur um die Person zu der wir werden wollen. Unser Charakter ist der wahre Schatz des Spiels.
+
+Wir haben ein Ideal vor Augen, das uns inspiriert und motiviert. Wir wissen aber, dass es ein Leitstern ist und keine ferne Küste, die wir tatsächlich erreichen können.
+
+Wir sind Menschen und damit nicht perfekt. Wir machen Fehler und scheitern immer wieder. Wir stehen aber auch immer wieder auf und lernen daraus.
+
+### Spielmechanik
 
 Das Spiel des Lebens funktioniert nach den Prinzipien der Evolution: Konstante Weiterentwicklung.
 
@@ -108,9 +116,11 @@ Ist die Herausforderung zu groß, blockieren wir und fühlen uns überfordert. I
 
 So wissen wir immer, ob wir auf dem richtigen Weg sind.
 
-Um diesen Kontakt zu unserem Körper herzustellen, ist es wichtig, regelmäßig Pausen zu machen und innezuhalten. Wir müssen zu Ruhe kommen und uns auf uns selbst konzentrieren.
+Um diesen Kontakt zu unserem Körper herzustellen, ist es wichtig, regelmäßig Pausen zu machen und innezuhalten. Wir müssen zur Ruhe kommen und uns auf uns selbst konzentrieren.
 
 Nur so können wir unserer inneren Stimme lauschen und stellen eine Verbindung zu unserer Intuition her. Dadurch können wir uns dann von unserem besten Selbst leiten lassen.
+
+### Mitspieler
 
 Die Griechen haben es als Daimon, die gute Seele, bezeichnet. Es ist unsere innere Führung, die uns den besten Weg zeigt.
 
@@ -120,26 +130,143 @@ Diese innere Stimme ist unser Coach und Sparringspartner, der uns unterstützt u
 
 Der beste Mitspieler, den wir uns wünschen können. Es ist der Guide, der uns durch das Abenteuer des Lebens führt. Uns leise zuflüstert, was wir als nächstes tun sollen.
 
+Wir wissen, was wir tun dürfen, wenn wir uns die Zeit dafür nehmen.
+
 Wir neigen aber dazu, uns abzulenken und ständig beschäftigt zu sein. Dadurch verlieren wir den Kontakt zu ihm, uns selbst und unseren Bedürfnissen.
 
-Insbesondere in stressigen Situationen ist es wichtig auf ihn zu hören. Aber genau dann fällt es uns am schwersten. Wir wollen dem Stress entkommen und suchen Ablenkung.
+Dadurch fühlen wir uns orientierungslos und unzufrieden.
 
-Wir essen, scrollen, rauchen oder trinken etwas, um uns besser zu fühlen. Wir wollen weglaufen und unseren Problemen entkommen. Dadurch verschlimmern wir die Situation aber nur.
+Wir können ein Spiel daraus machen, zu bemerken, wenn wir aus dem Gleichgewicht geraten sind und wieder zu uns selbst zurückzukehren. Ziel ist es immer schneller zu schaffen.
 
-Wenn wir uns ihnen stellen und die Gefühle zulassen, können wir sie überwinden und daran wachsen. Je eher wir das machen, umso leichter wird es.
+Am Besten gelingt uns das, wenn wir inne halten und tief durchatmen.
 
-Das ist nicht immer angenehm, aber es ist notwendig, um voranzukommen. Der einzige Weg zu einem erfüllten Leben führt durch Herausforderungen hindurch.
+Die Antworten sind in uns. Wir müssen nur lernen, auf unsere innere Stimme zu hören.
+
+### Innerer Schweinehund
+
+Die Lösungen für die meisten Probleme sind bekannt. Wir müssen sie nur umsetzen.
+
+Trotzdem fällt es uns sehr schwer unsere Ziele zu erreichen.
+
+Wir sehnen uns nach Komfort, sind aber nicht für den Stillstand gemacht.
+
+Wir können nur wachsen, wenn wir uns aus der Komfortzone bewegen, was per Definition unangenehm ist. Es führt aber zu Wachstum.
+
+Wir haben alle einen inneren Schweinehund in unserem Kopf, der uns von unseren Zielen abhalten möchte.
+
+Er versucht uns in der Komfortzone zu halten. Hier fühlen wir uns sicher und es ist angenehm.
+
+Je öfter wir uns aber in der Komfortzone aufhalten, umso kleiner wird sie. Wir brauchen immer mehr Sicherheit und Kontrolle, um uns wohlzufühlen.
+
+Wir schränken uns immer weiter ein. Unsere Ängste werden größer und wir trauen uns immer weniger zu.
+
+Außerhalb der Komfortzone wartet aber das Leben auf uns. Hier liegt unser grenzenloses Potenzial.
+
+Je mehr Kompetenzen wir aufbauen, umso größer wird unsere Komfortzone. Wir fühlen uns in immer mehr Situationen wohl und können sie meistern.
+
+Dadurch brauchen wir die Sicherheit und Kontrolle immer weniger.
+
+Wir bauen Selbstvertrauen auf und sind immer weniger von äußeren Umständen abhängig.
+
+Das Leben ist also ein stetiger Kampf zwischen unserem besten Selbst und dem instinktiven Verhalten.
+
+Wir müssen uns bewusst dafür entscheiden und immer wieder gegen den inneren Schweinhund.
+
+Er redet uns ein, dass wir uns lieber ausruhen oder die Süßigkeiten essen sollten. Er ist die Angst etwas Neues auszuprobieren. Die Bequemlichkeit anzufangen und der Widerstand.
+
+Es sind die Fähigkeiten, die unsere Vorfahren am Leben gehalten haben. Lieber jetzt etwas essen, bevor es nichts mehr gibt. Bloß nicht negativ auffallen, sonst werden wir aus der Gruppe ausgeschlossen.
+
+Diese Fähigkeiten sind gut für das Überleben, aber kümmern sich nicht um die Bedürfnisse, die danach kommen.
+
+Wir wollen nicht nur überleben, sondern aufblühen.
+
+Wir werden so nicht die Erfüllung finden, nach der wir uns sehnen und ein Gefühl der Leere in uns spüren.
+
+Wir sind dem inneren Schweinehund aber nicht hilflos ausgeliefert. Wir müssen nicht auf ihn hören. Wir können trotzdem handeln.
+
+Unsere Gefühle und Emotionen sind nur Informationen.
+
+Wir können das Gefühl der Angst oder des Hungers aushalten und trotzdem das tun, was wir uns vorgenommen haben.
+
+Die Gefühle kommen und gehen. Wir können sie spüren, akzeptieren und dann wieder ziehen lassen.
+
+Das war eine sehr wichtige Erkenntnis für mich.
+
+Wenn wir uns den Ängsten stellen und die Gefühle zulassen, können wir sie überwinden und daran wachsen. Je eher wir das machen, umso leichter wird es.
+
+Das ist nicht immer angenehm, aber es ist notwendig, um voranzukommen.
+
+Als ich bemerkt habe, dass ich mich nicht nur hungrig fühle, wenn ich etwas essen sollte, sondern auch, um mich besser zu fühlen und ich nicht unbedingt etwas essen muss, ist es mir viel leichter gefallen mich an meinen Ernährungsplan zu halten und meine Ziele zu erreichen.
+
+Es wird keinen Punkt in unserem Leben geben, an dem wir den inneren Schweinehund besiegen. Er liegt immer auf der lauer und wartet auf einen Moment der Schwäche.
+
+Besonders, wenn wir uns gestresst fühlen oder müde sind wittert er seine Chance. Je schlechter wir uns fühlen, umso eher sind wir für seine Verlockungen empfänglich.
+
+Wir wollen dem Stress entkommen und suchen Ablenkung. Wir essen, scrollen, rauchen oder trinken etwas, um uns besser zu fühlen. Wir wollen weglaufen und unseren Problemen entkommen. Dadurch verschlimmern wir die Situation aber nur.
+
+Wir können ihn aber überlisten, indem wir Gewohnheiten etablieren. Wir nutzen dafür die urzeitlichen Fähigkeiten unseres Gehirns (AI = Ancient Intelligence), um die Dinge zu erreichen, die uns wichtig sind.
+
+Wir denken dann nicht mehr darüber nach etwas zu tun, sondern machen es einfach.
+
+Anstatt den inneren Schweinehund zu bekämpfen, können wir ihn auch auf unsere Seite ziehen. Wir können ihn als Wegweiser nutzen, um zu erkennen, wo wir wachsen können.
+
+Der Widerstand zeigt uns den Weg zu unserem besten Selbst.
+
+In dem Abstand zwischen dem, was wir hätten tun können und dem, was wir tatsächlich getan haben, ist Platz für Unzufriedenheit, Zweifel, Scham und Schuldgefühle.
+
+Je kleiner dieser Abstand ist, umso besser fühlen wir uns.
+
+Ich stelle es mir vor wie eine Familie an einem Feiertag. Unser höchstes Selbst ist der ruhige und gelassene Großvater am Ende der Tafel.
+
+Er beobachtet das Treiben und freut sich, wenn alle zusammenkommen.
+
+Davor tobt das Leben. Es ist laut, es wird gelacht und geschrien.
+
+Wir treffen die besten Entscheidungen, wenn wir es schaffen, dass alle Beteiligten essen und zur Ruhe kommen. Dann kann unser Bestes Selbst, in diesem Bild der Großvater, die richtige Entscheidung treffen.
+
+Wenn das nicht der Fall ist, reagieren die einzelnen Familienmitglieder aus ihren Emotionen heraus und wir tun Dinge, die wir später bereuen.
+
+Wir haben in jedem Moment die Wahl, ob wir unserem inneren Schweinehund folgen oder einen Schritt in Richtung Wachstum machen.
+
+### Freier Wille
+
+Unser Gehirn hat sich über die Jahrmillionen immer weiter entwickelt. Irgendwann ist dabei die Fähigkeit des Bewusstseins entstanden.
+
+Plötzlich konnten wir uns Gedanken über die Vergangenheit und die Zukunft machen. Wir konnten hinterfragen, was wir eigentlich tun und waren nicht mehr gezwungen unseren Instinkten zu folgen.
+
+Der Teil, der auf Instinkte reagiert ist aber noch da.
+
+Ich glaube, dass unser freier Wille eine Fähigkeit ist, die wir lernen und trainieren können.
+
+Solange wir direkt auf Reize reagieren, haben wir keinen freien Willen. Alles ist vorherbestimmt.
+
+Wir treffen Entscheidungen nicht nur in dem Moment. Alles, was wir vorher getan haben, beeinflusst sie. Jede Erfahrung formt unseren Charakter und unsere Persönlichkeit.
+
+Die wiederum beeinflussen, wie wir auf Situationen reagieren.
+
+Wenn es uns gelingt zwischen Reiz und Reaktion eine Pause zu machen, haben wir die Möglichkeit bewusst zu entscheiden, wie wir reagieren wollen.
+
+In dieser Pause liegt unser freier Wille.
+
+Aber wir können uns nur für Dinge entscheiden, die wir kennen. Wir haben am Anfang nur wenige Optionen. Je mehr Erfahrungen wir sammeln, umso mehr Möglichkeiten eröffnen sich uns.
+
+Je mehr wir wissen und können, umso mehr Spielraum bekommen wir.
+
+### Herausforderungen
+
+Der einzige Weg zu einem erfüllten Leben führt durch Herausforderungen hindurch.
 
 Danach fühlen wir uns stärker und selbstbewusster. Wir haben etwas gemeistert und sind daran gewachsen. Der Druck fällt von uns ab und wir können wieder durchatmen.
 
 Das ist aber das letzte, was wir in der Situation tun wollen. Wenn wir aber lernen auf sie zuzugehen und als Chance zu sehen, werden wir immer besser darin.
-
 
 Das Leben stellt uns vor immer neue Herausforderungen. Es ist genau das, was wir brauchen, um zu wachsen und uns weiterzuentwickeln, auch wenn es nicht immer das ist, was wir uns wünschen.
 
 Das bedeutet aber auch, dass ein erfülltes Leben kein einfaches Leben ist. Es ist hart und erfordert viel Schweiß und Herzblut. Diese Anstrengung ist aber notwendig, um unsere Stärken zu entfalten und unser volles Potenzial auszuschöpfen.
 
 Wir werden dafür mit einem Leben voller Abenteuer, Erfahrungen und Bedeutung belohnt.
+
+### Level
 
 Jede Herausforderung gleicht dabei einem Level. Wir wiederholen es so lange, bis wir unsere Lektion gelernt haben. Die Level wiederholen sich aber niemals genau gleich. Jedes Mal gibt es neue Aspekte zu entdecken und zu meistern. Am Ende jedes Levels wartet der Endgegner auf uns. Es wird dabei nochmal besonders herausfordernd, um zu beweisen, dass wir es wirklich verstanden haben.
 
@@ -183,7 +310,7 @@ Wir machen Fehler, lernen daraus und verbessern unsere Lösung.
 
 Nachdem wir unser Ziel erreicht haben, teilen wir unsere Erfahrungen mit anderen.
 
-## Probleme lösen
+### Probleme lösen
 
 Wenn wir ein Problem in unserem Leben identifizieren, können wir direkt ein Projekt daraus machen. Wir setzen uns ein Ziel und fangen an, es zu lösen.
 

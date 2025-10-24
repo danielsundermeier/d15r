@@ -376,6 +376,8 @@ Im Zusammenspiel mit den Tieren entsteht Kompost. Die Hühner verteilen ihn und 
 
 Wir produzieren so aus unseren Abfällen Fleisch, Eier und Kompost. Die Tiere leben ein gutes Leben und wir haben eine nachhaltige Kreislaufwirtschaft.
 
+Das Besteck wird von den Gästen auf Tabletts einsortiert, die direkt in die Spülmaschine gefahren werden. Das Tablett wird automatisch gereinigt, wieder zurückgebracht und das Geschirr kann von den nächsten Gästen benutzt werden.
+
 ### Bewegung
 
 Der Waldgarten dient gleichzeitig als Erholungsgebiet. Es gibt viele Wege und Plätze, die zum Verweilen einladen, sowie Bereiche für Sport und Spiel.
