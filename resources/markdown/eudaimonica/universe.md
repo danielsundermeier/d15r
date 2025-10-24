@@ -116,4 +116,34 @@ Besser ist es, kleine Anpassungen zu machen und immer wieder ins Gleichgewicht z
 
 Das Gleichgewicht ist dabei kein statischer Zustand, sondern ein dynamischer Prozess. Es geht darum, ständig zu justieren und anzupassen. Es ist auch nicht genau die Mitte, sondern hängt vom Kontext ab.
 
+## Natur des Menschen
+
+Wir sind sehr soziale Wesen. Wir leben in egalitären Gemeinschaften und sind aufeinander angewiesen.
+
+Unser Grundhaltung ist Vertrauen und gegenseitige Hilfe. Nur so können wir als Gruppe überleben und gedeihen.
+
+Gleichzeitig haben wir auch einen Drang nach Status. Durch ihn haben wir Vorteile im sozialen Gefüge.
+
+Es gibt zwei Wege, um Status zu erlangen: Durch Dominanz oder durch Prestige.
+
+Die meisten von uns bevorzugen den Weg der Kompetenz, des Ansehens und der Geltung. Wir wollen durch unsere Fähigkeiten und unseren Beitrag zur Gemeinschaft Anerkennung erhalten.
+
+Es gibt aber auch Menschen, die versuchen, durch Dominanz und Kontrolle über andere Macht zu erlangen.
+
+In dem größten Teil unserer Geschichte haben wir diese Individuen aber in ihre Schranken verwiesen.
+
+Es gibt Gruppen von Jägern und Sammlern, die vor der Jagd Pfeile austauschen. Der Pfeil, der das Tier getötet hat, nicht der Jäger, der ihn abgeschossen hat, dient als Grundlage für die Verteilung des Fleisches.
+
+Wir sind damit einverstanden, wenn einzelne Personen in ihrem Fachgebiet die Führung übernehmen. Wir ertragen es aber kaum, wenn jemand versucht, über uns zu herrschen.
+
+Anstatt uns gegenseitig in Katastrophen an die Gurgel zu gehen, helfen wir uns gegenseitig. Viele Menschen sprechen liebevoll von der starken Gemeinschaft, die in Krisenzeiten zusammenhält.
+
+Die Massenhysterie, wie sie in Filmen dargestellt wird, ist eher die Ausnahme als die Regel.
+
+Diese soziale Natur war ein Überlebensvorteil in der Vergangenheit und ist es auch heute noch.
+
+Viele Gruppen von Jägern und Sammlern haben Freundschaften mit anderen Gruppen gepflegt. Dadurch konnten sie Ressourcen und Wissen austauschen und sich gegenseitig unterstützen.
+
+Sie konnten frei zwischen den Gruppen wechseln, was zu einer größeren genetischen Vielfalt und besseren Anpassungsfähigkeit führte.
+
 [Übersicht](/eudaimonica)

@@ -46,6 +46,20 @@ Unser Körper hat Phasen hoher und niedriger Leistungsfähigkeit. Nach 60-90 Min
 
 ### Lernen
 
+Wir sind extrem gut darin zu lernen und uns anzupassen.
+
+Wir lernen durch Immitation und Geschichten. Das soziale lernen ist das, was uns wirklich von anderen Lebewesen unterscheidet. Wir können durch eine Idee eine Gemeinschaft von Menschen zusammenbringen. Das ermöglicht uns Städte und Zivilisationen zu bauen.
+
+Keine andere Spezies lebt in Nationen oder gründet Unternehmen.
+
+Interessanterweise sind wir besser darin andere nachzuaffen als Affen.
+
+Wenn wir allein in der Wildnis ausgesetzt wären, hätte der Chimpanse eine bessere Überlebenschance als wir. Er ist uns in Kraft und Fähigkeiten überlegen. Sobald wir aber das Wissen von anderen nutzen können, sind wir unschlagbar.
+
+Mentoren und das Wissen von Generationen, das über Geschichten weitergegeben wird, ermöglichen es uns, komplexe Fähigkeiten zu erlernen.
+
+Aus diesen Geschichten entsteht unsere Kultur. Sie ist viel schneller als die Evolution und ermöglicht es uns überall auf der Welt zu überleben.
+
 Unser Gehirn lernt durch Wiederholung und Übung. Je öfter wir eine Bewegung oder eine Fähigkeit ausführen, desto besser wird sie.
 
 Neuronen bilden Verbindungen zueinander, die sogenannten Synapsen. Je öfter eine Verbindung genutzt wird, desto stärker wird sie.
@@ -99,5 +113,22 @@ Wir neigen dazu sehr viel mit der linken Gehirnhälfte zu arbeiten. Wir analysie
 Die linke Gehirnhälfte ist ein gutes Werkzeug, sollte aber der rechten Gehirnhälfte das Planen und Entscheiden überlassen.
 
 Ich kann mir gut vorstellen, dass unsere Vorfahren die meiste Zeit des Tages in der rechten Gehirnhälfte verbracht haben. Sie mussten die Umgebung im Blick behalten. Wenn dann eine Gefahr auftauchte, konnten sie schnell in die linke Gehirnhälfte wechseln und sich darauf konzentrieren.
+
+### Wahrnehmung
+
+Das RAS (Reticular Activating System) ist ein Filter im Gehirn, der für die Steuerung der Aufmerksamkeit und des Bewusstseins zuständig ist. Es ist ein Netzwerk im Hirnstamm, das irrelevante Sinneseindrücke herausfiltert, sodass nur wichtige Informationen ins Bewusstsein gelangen. Die Funktion des RAS ist es, das Gehirn zu aktivieren, den Fokus zu lenken und die enorme Menge an sensorischen Daten zu verarbeiten.
+Funktionen des RAS
+
+**Filterung von Sinneseindrücken:**
+Das RAS filtert ständig Millionen von Informationen, die unsere Sinne wahrnehmen, um das Gehirn nicht zu überlasten.
+
+**Steuerung der Aufmerksamkeit:**
+Es lenkt unsere Aufmerksamkeit auf das, was für uns gerade wichtig ist, basierend auf unseren bewussten oder unbewussten Zielen. Ein Beispiel ist, wie man seinen eigenen Namen in einem lauten Raum heraushören kann.
+
+**Aufrechterhaltung des Bewusstseins:**
+Das RAS ist entscheidend für das allgemeine Bewusstsein und die Wachheit des gesamten Organismus.
+
+**Selektive Wahrnehmung:**
+Die Filterfunktion des RAS ist nicht objektiv. Unsere Einstellungen und Überzeugungen beeinflussen, welche Informationen wir wahrnehmen und welche wir ignorieren, was zu selektiver Wahrnehmung führt.
 
 [Übersicht](/eudaimonica)
