@@ -6,6 +6,8 @@ Diese Gedanken und Ideen sind sehr stark an das Konzept von [Heroic](https://www
 
 ## Eudaimonologie
 
+### Ziel
+
 Das Ziel ist Eudamonia. Wir übersetzen es als Glück. Das kommt der wahren Bedeutung aber nicht nahe. Es bedeutet ein erfülltes und erfolgreiches Leben zu führen.
 
 Wir erreichen es durch Arete, was übersetzt Tugend oder Exzellenz bedeutet. Es hat aber auch eine tiefere Bedeutung: Das volle Potenzial zu entfalten und das Beste aus uns herauszuholen.
@@ -14,70 +16,83 @@ Diese Worte kommen aus dem antiken Griechenland von Aristoteles.
 
 Die Positive Psychologie bezeichnet es als Aufblühen (Flourishing) in dem wir unsere Stärken zum Wohle aller einsetzen.
 
-Wir können das Spiel auf eine Formel und zwei Regeln reduzieren:
+Das Spiel des Lebens funktioniert nach den Prinzipien der Evolution: Konstante Weiterentwicklung.
 
-Eudamonia = (Energie * Aufmerksamkeit * Was ist gerade wichtig)^Beständigkeit
+Es erfordert eine aktive Teilnahme. Wir können nicht einfach zuschauen, sondern müssen mitmachen.
 
-1. Je schlechter ich mich fühle, umso wichtiger ist mein Protokoll
-2. Ich tue, wovor ich mich drücke
+Wir wollen vom NPC (Non-Player Character) zum Helden und dann zum Guide werden.
 
-### Energie
+Das gelingt uns, indem wir uns folgende Fragen stellen:
 
-Unsere Energie kommt aus den Grundlagen. Wenn wir uns gut um unseren Körper kümmern, fühlen wir uns besser und es fällt uns leichter, aktiv am Spiel teilzunehmen.
+- Was möchte ich?
+- Was ist jetzt zu tun?
 
-Zu den Grundlagen gehören:
+Und dann einfach anfangen.
 
-- Ernährung
-- Bewegung
-- Schlaf
-- Atmen
-- Aufmerksamkeit
-- Zelebrieren
-- Finanzen
+Wir übernehmen so Verantwortung für unser Leben und gestalten es aktiv. Wir werden zum Gestalter unseres eigenen Spiels.
 
-### Aufmerksamkeit
+Unser Körper zeigt uns den Weg. Unzufriedenheit und Langeweile sind die Signale, dass wir eine neue Herausforderung brauchen.
 
-Je mehr wir uns auf die Aufgabe vor uns konzentrieren, umso besser können wir sie erledigen.
+Neugier und unsere Ängste sind unser Kompass. Sie führen uns zu unserer nächsten Aufgabe.
 
-Multitasking ist ein Mythos. Unser Gehirn kann sich immer nur auf eine Sache gleichzeitig konzentrieren. Was wir eigentlich tun, ist schnell zwischen den Aufgaben hin- und herzuspringen.
+Auch hier gilt wieder auf die Zeichen unseres Körpers zu hören. Er belohnt uns mit einem guten Gefühl, wenn wir auf dem richtigen Weg sind.
 
-### Was ist gerade wichtig
+Wir spüren Enthusiasmus, Leichtigkeit und Freude. Die Tätigkeiten verleihen uns Energie und wir fühlen uns lebendig.
 
-In jedem Moment gibt es nur eine Sache, die gerade wichtig ist. Es ist unsere Aufgabe das herauszufinden und uns vollkommen darauf zu konzentrieren.
+Wenn wir unsere Herausforderungen an unsere Fähigkeiten anpassen, kommen wir in den Flow-Zustand.
 
-Wir sollten unsere Zeit nicht mit unwichtigen Dingen verschwenden. Sondern das tun, was uns wirklich weiterbringt.
+Ist die Herausforderung zu groß, blockieren wir und fühlen uns überfordert. Ist sie zu klein, langweilen wir uns.
 
-Anstatt einfach nur beschäftigt zu sein, sollten wir uns auf die Dinge konzentrieren, die wirklich zählen.
+So wissen wir immer, ob wir auf dem richtigen Weg sind.
 
-Manchmal kann das auch ein Nickerchen bedeuten.
+Um diesen Kontakt zu unserem Körper herzustellen, ist es wichtig, regelmäßig Pausen zu machen und innezuhalten. Wir müssen zur Ruhe kommen und uns auf uns selbst konzentrieren.
 
-### Beständigkeit
+Nur so können wir unserer inneren Stimme lauschen und stellen eine Verbindung zu unserer Intuition her. Dadurch können wir uns dann von unserem besten Selbst leiten lassen.
 
-Das Wichtigste ist aber die Beständigkeit. Nur wenn wir regelmäßig dranbleiben, können wir Fortschritte machen und unsere Ziele erreichen.
+#### Charakter
 
-Selbst, wenn alle anderen Faktoren nicht optimal sind, können wir durch Beständigkeit trotzdem Erfolg haben.
+Es geht immer nur um die Person zu der wir werden wollen. Unser Charakter ist der wahre Schatz des Spiels.
 
-Gleichzeitig stärken wir die anderen Faktoren, indem wir dranbleiben.
+Wir haben ein Ideal vor Augen, das uns inspiriert und motiviert. Wir wissen aber, dass es ein Leitstern ist und keine ferne Küste, die wir tatsächlich erreichen können.
 
-### 1. Regel
+Wir sind Menschen und damit nicht perfekt. Wir machen Fehler und scheitern immer wieder. Wir stehen aber auch immer wieder auf und lernen daraus.
 
-*Je schlechter ich mich fühle, umso wichtiger ist mein Protokoll.*
+### Das falsche Spiel
 
-Hierdurch stellen wir sicher, dass wir auch an schlechten Tagen aktiv am Spiel teilnehmen. Wir kümmern uns um die Grundlagen und machen kleine Schritte in Richtung unseres Ziels.
+Wenn das Spiel des Lebens so offentsichtlich ist, warum spielen wir dann das falsche Spiel?
 
-Wichtig ist, dass wir ein Protokoll erschaffen, dass uns dabei hilft Eudaimonia zu erreichen und das wir auch an schlechten Tagen durchziehen können.
+Die Gesellschaft versucht uns zu überzeugen, dass Glück durch äußere Umstände erreicht wird: Geld, Status, Besitz und Vergnügen.
 
-### 2. Regel
+> Es ist kein Zeichen von Gesundheit, gut angepasst an eine zutiefst kranke Gesellschaft zu sein.
 
-*Ich tue, wovor ich mich drücke.*
+– Jiddu Krishnamurti
 
-Angst und Bequemlichkeit sind die größten Hindernisse auf unserem Weg.
+Wir sind die erste Generation, die ein schlechteres Leben führen wird als unsere Eltern. Depressionen, Angststörungen und Burnout nehmen weltweit zu. Dazu kommen Zivilisationskrankheiten wie Diabetes, Herz-Kreislauf-Erkrankungen und Fettleibigkeit.
 
-Dieser Widerstand zeigt uns, wo wir wachsen können und wir nutzen ihn zur Orientierung.
+Trotz des enormen Wohlstands und Fortschritts, den wir erreicht haben, sind wir unglücklicher und unzufriedener als je zuvor.
 
-Anstatt davor wegzulaufen oder uns abzulenken, gehen wir direkt darauf zu.
+#### Herkules Entscheidung
 
-So überwinden wir unsere Ängste und erweitern unsere Komfortzone.
+Das Problem ist nicht neu, sondern seit Jahrtausenden bekannt. Bereits Herkules stand vor der Wahl zwischen dem einfachen und dem schwierigen Weg.
+
+Bevor er der bekannte Held wurde, begegnete er zwei Frauen: Die eine bot ihm ein Leben voller Vergnügen und Bequemlichkeit an, die andere forderte ihn zu einem Leben voller Anstrengung und Tugend heraus.
+
+Herkules entschied sich für den schwierigen Weg. Er wusste, dass nur dieser ihn zu dem Helden machen würde, der er sein wollte.
+
+#### Intrinsische vs Extrinsische Motivation
+
+Viele Menschen sind extrinsisch motiviert. Sie tun Dinge, um Belohnungen zu bekommen oder Strafen zu vermeiden. Sie arbeiten für Geld, Anerkennung oder Status. Das führt aber oft zu Unzufriedenheit und einem Gefühl der Leere.
+
+Intrinsische Motivation kommt von innen. Wir tun Dinge, weil sie uns Freude bereiten, uns herausfordern oder uns Sinn geben. Wir handeln aus Neugier, Leidenschaft oder dem Wunsch zu wachsen.
+
+#### Hedonismus vs Eudaimonia
+
+Hedonismus strebt nach unmittelbarem Vergnügen und der Vermeidung von Schmerz. Eudaimonia hingegen zielt auf ein erfülltes und sinnvolles Leben ab, das über kurzfristige Freuden hinausgeht.
+
+Dazu passen die zwei Arten von Spaß:
+
+- Lustiger Spaß: Unterhaltung, Ablenkung, Vergnügen
+- Erfüllender Spaß: Herausforderung, Wachstum, Sinn
 
 ### Tugenden
 
@@ -138,48 +153,74 @@ Mut ist die Fähigkeit, Herausforderungen anzunehmen und trotz Angst und Unsiche
 
 Es bedeutet nicht die Abwesenheit von Angst, sondern die Fähigkeit, trotz Angst zu handeln.
 
-### Charakter
-
-Es geht immer nur um die Person zu der wir werden wollen. Unser Charakter ist der wahre Schatz des Spiels.
-
-Wir haben ein Ideal vor Augen, das uns inspiriert und motiviert. Wir wissen aber, dass es ein Leitstern ist und keine ferne Küste, die wir tatsächlich erreichen können.
-
-Wir sind Menschen und damit nicht perfekt. Wir machen Fehler und scheitern immer wieder. Wir stehen aber auch immer wieder auf und lernen daraus.
-
 ### Spielmechanik
 
-Das Spiel des Lebens funktioniert nach den Prinzipien der Evolution: Konstante Weiterentwicklung.
+Das Ziel ist also Eudaimonia durch Arete zu erreichen. Aufblühen, indem wir unsere Stärken zum Wohle aller einsetzen.
 
-Es erfordert eine aktive Teilnahme. Wir können nicht einfach zuschauen, sondern müssen mitmachen.
+Wir können das Spiel auf eine Formel und zwei Regeln reduzieren:
 
-Wir wollen vom NPC (Non-Player Character) zum Helden und dann zum Guide werden.
+Eudamonia = (Energie * Aufmerksamkeit * Was ist gerade wichtig)^Beständigkeit
 
-Das gelingt uns, indem wir uns folgende Fragen stellen:
+1. Je schlechter ich mich fühle, umso wichtiger ist mein Protokoll
+2. Ich tue, wovor ich mich drücke
 
-- Was möchte ich?
-- Was ist jetzt zu tun?
+#### Energie
 
-Und dann einfach anfangen.
+Unsere Energie kommt aus den Grundlagen. Wenn wir uns gut um unseren Körper kümmern, fühlen wir uns besser und es fällt uns leichter, aktiv am Spiel teilzunehmen.
 
-Wir übernehmen so Verantwortung für unser Leben und gestalten es aktiv. Wir werden zum Gestalter unseres eigenen Spiels.
+Zu den Grundlagen gehören:
 
-Unser Körper zeigt uns den Weg. Unzufriedenheit und Langeweile sind die Signale, dass wir eine neue Herausforderung brauchen.
+- Ernährung
+- Bewegung
+- Schlaf
+- Atmen
+- Aufmerksamkeit
+- Zelebrieren
+- Finanzen
 
-Neugier und unsere Ängste sind unser Kompass. Sie führen uns zu unserer nächsten Aufgabe.
+#### Aufmerksamkeit
 
-Auch hier gilt wieder auf die Zeichen unseres Körpers zu hören. Er belohnt uns mit einem guten Gefühl, wenn wir auf dem richtigen Weg sind.
+Je mehr wir uns auf die Aufgabe vor uns konzentrieren, umso besser können wir sie erledigen.
 
-Wir spüren Enthusiasmus, Leichtigkeit und Freude. Die Tätigkeiten verleihen uns Energie und wir fühlen uns lebendig.
+Multitasking ist ein Mythos. Unser Gehirn kann sich immer nur auf eine Sache gleichzeitig konzentrieren. Was wir eigentlich tun, ist schnell zwischen den Aufgaben hin- und herzuspringen.
 
-Wenn wir unsere Herausforderungen an unsere Fähigkeiten anpassen, kommen wir in den Flow-Zustand.
+#### Was ist gerade wichtig
 
-Ist die Herausforderung zu groß, blockieren wir und fühlen uns überfordert. Ist sie zu klein, langweilen wir uns.
+In jedem Moment gibt es nur eine Sache, die gerade wichtig ist. Es ist unsere Aufgabe das herauszufinden und uns vollkommen darauf zu konzentrieren.
 
-So wissen wir immer, ob wir auf dem richtigen Weg sind.
+Wir sollten unsere Zeit nicht mit unwichtigen Dingen verschwenden. Sondern das tun, was uns wirklich weiterbringt.
 
-Um diesen Kontakt zu unserem Körper herzustellen, ist es wichtig, regelmäßig Pausen zu machen und innezuhalten. Wir müssen zur Ruhe kommen und uns auf uns selbst konzentrieren.
+Anstatt einfach nur beschäftigt zu sein, sollten wir uns auf die Dinge konzentrieren, die wirklich zählen.
 
-Nur so können wir unserer inneren Stimme lauschen und stellen eine Verbindung zu unserer Intuition her. Dadurch können wir uns dann von unserem besten Selbst leiten lassen.
+Manchmal kann das auch ein Nickerchen bedeuten.
+
+#### Beständigkeit
+
+Das Wichtigste ist aber die Beständigkeit. Nur wenn wir regelmäßig dranbleiben, können wir Fortschritte machen und unsere Ziele erreichen.
+
+Selbst, wenn alle anderen Faktoren nicht optimal sind, können wir durch Beständigkeit trotzdem Erfolg haben.
+
+Gleichzeitig stärken wir die anderen Faktoren, indem wir dranbleiben.
+
+#### 1. Regel
+
+*Je schlechter ich mich fühle, umso wichtiger ist mein Protokoll.*
+
+Hierdurch stellen wir sicher, dass wir auch an schlechten Tagen aktiv am Spiel teilnehmen. Wir kümmern uns um die Grundlagen und machen kleine Schritte in Richtung unseres Ziels.
+
+Wichtig ist, dass wir ein Protokoll erschaffen, dass uns dabei hilft Eudaimonia zu erreichen und das wir auch an schlechten Tagen durchziehen können.
+
+#### 2. Regel
+
+*Ich tue, wovor ich mich drücke.*
+
+Angst und Bequemlichkeit sind die größten Hindernisse auf unserem Weg.
+
+Dieser Widerstand zeigt uns, wo wir wachsen können und wir nutzen ihn zur Orientierung.
+
+Anstatt davor wegzulaufen oder uns abzulenken, gehen wir direkt darauf zu.
+
+So überwinden wir unsere Ängste und erweitern unsere Komfortzone.
 
 ### Mitspieler
 
