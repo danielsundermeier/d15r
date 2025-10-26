@@ -85,6 +85,14 @@ Viele Menschen sind extrinsisch motiviert. Sie tun Dinge, um Belohnungen zu beko
 
 Intrinsische Motivation kommt von innen. Wir tun Dinge, weil sie uns Freude bereiten, uns herausfordern oder uns Sinn geben. Wir handeln aus Neugier, Leidenschaft oder dem Wunsch zu wachsen.
 
+#### Zwei Gipfel
+
+David Brooks beschreibt in seinem Buch "The Second Mountain" zwei Gipfel, die wir im Leben erklimmen können.
+
+Der erste Gipfel ist der Erfolgsgipfel. Hier geht es um Karriere, Geld und Status. Wir streben danach, uns selbst zu verwirklichen und unsere Ziele zu erreichen.
+
+Der zweite Gipfel ist der Sinn-Gipfel. Hier geht es um Beziehungen, Gemeinschaft und das Wohl anderer. Wir streben danach, einen Beitrag zu leisten und unser Leben mit Bedeutung zu füllen.
+
 #### Hedonismus vs Eudaimonia
 
 Hedonismus strebt nach unmittelbarem Vergnügen und der Vermeidung von Schmerz. Eudaimonia hingegen zielt auf ein erfülltes und sinnvolles Leben ab, das über kurzfristige Freuden hinausgeht.
