@@ -310,6 +310,8 @@ Es gibt Gruppen von Jägern und Sammlern, die vor der Jagd Pfeile austauschen. D
 
 Wir sind damit einverstanden, wenn einzelne Personen in ihrem Fachgebiet die Führung übernehmen. Wir ertragen es aber kaum, wenn jemand versucht, über uns zu herrschen.
 
+Als die ersten Städte entstanden sind, haben die Menschen mit ihren Füßen abgestimmt. Sobald ein Ort zu hierarchisch wurde, sind sie weggezogen und haben eine neue Gemeinschaft gegründet.
+
 Anstatt uns gegenseitig in Katastrophen an die Gurgel zu gehen, helfen wir uns gegenseitig. Viele Menschen sprechen liebevoll von der starken Gemeinschaft, die in Krisenzeiten zusammenhält.
 
 Die Massenhysterie, wie sie in Filmen dargestellt wird, ist eher die Ausnahme als die Regel.
@@ -335,5 +337,30 @@ Es ist wie ein Puls, der sich durch das Universum zieht. Ein Herzschlag, der all
 
 Alles folgt diesen Mustern wie ein Fraktal. Es ist nicht immer gleich, reimt sich aber.
 
+## Geldsystem
+
+Geld ist kein festes Ding, das schon da ist, sondern etwas, das erst durch Kredite entsteht. Wenn eine Bank dir einen Kredit gibt, schafft sie damit neues Geld – gleichzeitig entsteht eine Schuld, die du zurückzahlen musst. Das bedeutet: Geld und Schulden entstehen immer zusammen. Ohne Schulden gäbe es kein Geld in Umlauf.
+
+Weil Kredite Zinsen haben, gibt es immer mehr Schulden als Geld. Um die Zinsen bezahlen zu können, muss die Wirtschaft wachsen. Wenn das Wachstum stoppt, können Kredite nicht mehr bedient werden, und das System gerät in Schwierigkeiten. Deshalb leben wir in einem System, das auf ständiges Wachstum angewiesen ist.
+
+Die Banken spielen dabei eine zentrale Rolle. Sie halten nur einen kleinen Teil der Einlagen als Reserve und verleihen den Rest weiter. Ein einziger Euro kann so mehrfach in der Wirtschaft zirkulieren – das nennt man Fraktionalreserve-Banking. Das macht das System flexibel, aber auch anfällig: Wenn plötzlich viele Kredite nicht zurückgezahlt werden oder viele Einleger ihr Geld abheben wollen, kann es zu Bankenkrisen kommen.
+
+Deshalb wurden Zentralbanken geschaffen, die als "Bank der Banken" fungieren.
+
+Die Zentralbanken steuern das System von oben. Sie legen Zinssätze fest, zu denen die Banken sich Geld leihen können, können Geld drucken oder aus dem Verkehr ziehen und fungieren als Rettungsanker, wenn Banken in Not geraten. Ziel ist es, die Wirtschaft stabil zu halten, Inflation zu kontrollieren und das Vertrauen in die Währung zu sichern.
+
+Das Ziel ist eine Inflation von etwa 2 % pro Jahr. Das sorgt für ein gesundes Wirtschaftswachstum, ohne dass die Preise zu schnell steigen. Zu hohe Inflation entwertet das Geld, zu niedrige kann zu Deflation führen, was Investitionen und Konsum hemmt.
+
+Auch die Staaten nehmen aktiv am Geldsystem teil: Sie leihen sich Geld, indem sie Anleihen ausgeben. Investoren kaufen diese Anleihen und stellen so dem Staat Geld zur Verfügung. Die Staaten zahlen dieses Geld später mit Zinsen zurück. Hohe Staatsverschuldung kann das System belasten, besonders wenn die Wirtschaft nicht schnell genug wächst.
+
+International hängt alles stark vom US-Dollar ab. Er ist die Reservewährung der Welt, viele Länder halten Dollarreserven, um ihre eigenen Währungen zu stabilisieren und den Handel zu erleichtern. Dadurch ist die Weltwirtschaft eng mit der Geldpolitik der USA verbunden.
+
+Viele globale Geschäfte werden in Dollar abgewickelt. Zum Beispiel werden Rohstoffe wie Öl oft in Dollar gehandelt, was den Dollar für viele Länder unverzichtbar macht.
+
+Ein Staat kann Dollarreserven nutzen, um seine eigene Währung zu stabilisieren. Wenn die eigene Währung abwertet, kann der Staat Dollar verkaufen, um die Nachfrage nach der eigenen Währung zu erhöhen und so den Kurs zu stützen.
+
+1970 erklärte US-Präsident Nixon das Ende des Goldstandards. Seitdem ist der Dollar nicht mehr durch Gold gedeckt, sondern basiert auf dem Vertrauen in die US-Regierung und die Wirtschaftskraft der USA.
+
+Das System funktioniert, weil alle wissen, dass alle anderen auch darauf vertrauen. Solange dieses Vertrauen besteht, kann Geld als Tauschmittel und Wertaufbewahrungsmittel dienen.
 
 [Übersicht](/eudaimonica)
