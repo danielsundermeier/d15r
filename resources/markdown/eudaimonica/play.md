@@ -6,7 +6,9 @@ Diese Gedanken und Ideen sind sehr stark an das Konzept von [Heroic](https://www
 
 ## Eudaimonologie
 
-Das Ziel ist Eudamonia. Ein erfülltes und glückliches Leben. Wir erreichen es durch Arete.
+Das Ziel ist Eudamonia. Wir übersetzen es als Glück. Das kommt der wahren Bedeutung aber nicht nahe. Es bedeutet ein erfülltes und erfolgreiches Leben zu führen.
+
+Wir erreichen es durch Arete, was übersetzt Tugend oder Exzellenz bedeutet. Es hat aber auch eine tiefere Bedeutung: Das volle Potenzial zu entfalten und das Beste aus uns herauszuholen.
 
 Diese Worte kommen aus dem antiken Griechenland von Aristoteles.
 
@@ -77,7 +79,66 @@ Anstatt davor wegzulaufen oder uns abzulenken, gehen wir direkt darauf zu.
 
 So überwinden wir unsere Ängste und erweitern unsere Komfortzone.
 
-### Ziel
+### Tugenden
+
+Die Positive Psychologie hat 24 Charakterstärken identifiziert, die uns helfen, ein erfülltes Leben zu führen. Sie sind in sechs Tugenden unterteilt:
+
+- Weisheit und Wissen
+- Mut
+- Menschlichkeit
+- Gerechtigkeit
+- Mäßigung
+- Transzendenz
+
+Diese Tugenden sind entstanden, aus den Eigenschaften, die in allen Kulturen und Zeiten als wertvoll angesehen wurden.
+
+Wir können sie als Leitfaden nutzen, um unseren Charakter zu formen und unser volles Potenzial zu entfalten.
+
+Wir können unsere Stärken auf der Webseite [VIA Character](https://www.viacharacter.org/) testen.
+
+Nach dem Test bekommen wir eine Rangliste unserer Stärken. Wir können uns auf die obersten fünf konzentrieren und sie gezielt einsetzen.
+
+Neben den individuellen Stärken, gibt es noch fünf weitere, die am meisten mit einem erfüllten Leben zusammenhängen:
+
+- Enthusiasmus
+- Dankbarkeitkeit
+- Hoffnung
+- Neugier
+- Mut
+
+#### Enthusiasmus
+
+Enthusiasmus ist die Fähigkeit, sich für etwas zu begeistern und mit Leidenschaft dabei zu sein.
+
+Dafür benötigen wir die Energie, die uns die Grundlagen geben. Das ist einer der Gründe, warum sie so wichtig sind.
+
+#### Dankbarkeitkeit
+
+Dankbarkeitkeit ist die Fähigkeit, die positiven Aspekte des Lebens zu erkennen und wertzuschätzen.
+
+Anstatt immer nur nach oben zu schauen und uns mit anderen zu vergleichen, sollten wir lernen, das zu schätzen, was wir haben.
+
+#### Hoffnung
+
+Hoffnung ist die Fähigkeit, optimistisch in die Zukunft zu blicken und an positive Veränderungen zu glauben.
+
+Wir brauchen dafür eine Vision, die uns inspiriert und motiviert, die Handlungsfähigkeit diese Vision zu erreichen und Pläne, um sie zu erreichen.
+
+#### Neugier
+
+Neugier ist die Fähigkeit, offen für Neues zu sein und ständig dazuzulernen.
+
+Aber auch unsere Fehler, Schwächen und Rückschläge können wir neugierig mit Mitgefühl betrachten. Es sind wertvolle Informationen, die uns helfen, uns weiterzuentwickeln.
+
+Anstatt mit einem Hammer untersuchen wir sie mit einer Taschenlampe. Wir beleuchten sie von allen Seiten, um zu verstehen, was dahintersteckt.
+
+#### Mut
+
+Mut ist die Fähigkeit, Herausforderungen anzunehmen und trotz Angst und Unsicherheit zu handeln.
+
+Es bedeutet nicht die Abwesenheit von Angst, sondern die Fähigkeit, trotz Angst zu handeln.
+
+### Charakter
 
 Es geht immer nur um die Person zu der wir werden wollen. Unser Charakter ist der wahre Schatz des Spiels.
 
