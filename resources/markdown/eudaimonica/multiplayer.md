@@ -263,13 +263,22 @@ Dann kommen wir zurück und schlagen die Idee in unserer Stadt vor oder bleiben 
 
 #### Energie
 
+- Nahwärmenetz, wir nutzen die Abwärme der Gebäude
+- Solarenergie auf den Dächern, Solarfarbe an den Wänden
+- Windenergie am Stadtrand
+- Energiespeicher in Form von Batterien
+
+- Unterirdische Wärmepumpe für die gesamte Stadt?
+- Biogasanlage in Kombination mit Kläranalage?
+- Unterirdische Mini-Atomkraftwerke, die Atommüll verwerten?
+
 Jede Stadt sollte sich mit den Grundlagen selbst versorgen können.
 
 Dadurch entsteht auch eine einzigartige Identität und Kultur. Es gibt lokale und saisonale Besonderheiten.
 
 Das spiegelt sich dann in der Energieversorgung, der Ernährung, der Architektur und dem Lebensstil wider.
 
-Außerdem gibt es Sicherheit und Stabilität. Wir sind nicht von globalen Lieferketten abhängig.
+Außerdem gibt es Sicherheit und Stabilität. Wir sind nicht von globalen Lieferketten abhängig außerdem sparen wir uns Transportwege und -kosten.
 
 Gleichzeitig machen wir davon natürlich auch weiterhin Gebrauch. Wir leben in einer vernetzten Welt und profitieren von den Vorteilen.
 
@@ -657,17 +666,6 @@ Hier gibt es Büros, eine Bibliothek, ein Fitnessstudio, ein Schwimmbad, ... Es 
 Es dient als Wohnzimmer für die Bewohner. [OodiHelsinki Central Library](https://oodihelsinki.fi/en/)
 
 ## Versorgung
-
-### Energie
-
-- Nahwärmenetz, wir nutzen die Abwärme der Gebäude
-- Solarenergie auf den Dächern
-- Windenergie am Stadtrand
-- Energiespeicher in Form von Batterien
-
-- Unterirdische Wärmepumpe für die gesamte Stadt?
-- Biogasanlage in Kombination mit Kläranalage?
-- Mini-Atomkraftwerk?
 
 ### Lebensmittel
 

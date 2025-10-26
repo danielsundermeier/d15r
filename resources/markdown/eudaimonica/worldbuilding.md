@@ -34,6 +34,8 @@ Ein großes Projekt hinter dem wir uns vereinen können. Etwas wie die Mondlandu
 
 #### Energie
 
+Wir wollen ein lokales und dezentrales Energiesystem aufbauen. Jeder Ort soll seine eigene Energie erzeugen und verbrauchen können.
+
 Wir wollen Systeme schaffen, die uns mit einem Überschuss an Energie versorgen.
 
 Wir passen die Energieversorgung an die lokalen Verhältnisse an. Es gibt nicht die eine Lösung für alle.
@@ -46,7 +48,13 @@ Wir brauchen am Anfang eine Investition, um das System aufzubauen. Danach produz
 
 Das System zahlt sich und die Verbesserung also von selbst und kann theoretisch für immer laufen.
 
-Das ist die Art von Systemen, die wir brauchen. Es ist nicht nur nachhaltig, sondern auch regenerativ.
+Bereiche mit hohem Energieverbrauch sollen dort angesiedelt werden, wo besonders viel Energie produziert werden kann.
+
+Perspektivisch wollen wir die abgestrahlte Energie der Erde nutzen. Sie ist in Form von Infrarotstrahlung immer verfügbar und kann große Mengen an Energie liefern.
+
+Die Sonne scheint tagsüber und die Erde strahlt die Energie nachts wieder ab. Dadurch ist immer Energie verfügbar.
+
+Da die Wärme aber nicht abgestrahlt wird, müssen wir einen Weg finden sie zu nutzen, ohne den Planeten zu überhitzen.
 
 #### Arbeit
 
@@ -282,7 +290,7 @@ Es gibt keine Schulden und keine Zinsen.
 
 Wir wollen verhindern, dass es lukrativer ist, Geld mit Geld zu verdienen als mit Arbeit.
 
-Geld soll ein Mittel zum Zweck sein, kein Selbstzweck.
+Geld soll ein Mittel zum Zweck und kein Selbstzweck sein.
 
 Stattdessen wollen wir Arbeit schaffen, die uns erfüllt und die Welt verbessert. Dann müssen wir uns keine Wege mehr überlegen, wie wir nicht mehr Arbeiten müssen.
 
