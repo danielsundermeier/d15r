@@ -1,5 +1,9 @@
 @extends('layouts.app')
 
+@section('title')
+{{ $title }}
+@endsection
+
 @section('content')
 
 <div class="pt-16 pb-8 bg-white">
