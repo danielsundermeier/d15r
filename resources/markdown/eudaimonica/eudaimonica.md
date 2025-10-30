@@ -38,7 +38,7 @@ Wenn wir die Spielwelt (Komplexität), die Spielmechanik (Evolution) und unseren
 
 Es gibt uns eine Richtung und eine Struktur, um unser Leben zu gestalten. Einen Weg, dem wir folgen können.
 
-Die drei Ebenen der Philisophie, persönlich (Play), sozial (Multiplayer) und global (Worldbuilding) helfen mir dabei Muster zu erkennen und Lösungen zu finden.
+Die drei Ebenen der Philosophie, persönlich (Play), sozial (Multiplayer) und global (Worldbuilding) helfen mir dabei Muster zu erkennen und Lösungen zu finden.
 
 Sie beleuchten die Aspekte des Spiels auf unterschiedliche Weise. Dadurch geben sie mir eine neue Perspektive und lassen sie klarer werden.
 

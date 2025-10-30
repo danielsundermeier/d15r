@@ -2,7 +2,7 @@
 
 ## Aufbau
 
-Unser Körper besteht aus Zellen, die sich zu Geweben, Organen, die den Organismus bilden.
+Unser Körper besteht aus Zellen, die sich zu Geweben zusammenschließen, die wiederum Organe bilden, die den Organismus formen.
 
 ### Zellen
 
@@ -64,7 +64,7 @@ Sobald wir diese Balance verlieren, entstehen Probleme. Schmerzen, Verspannungen
 
 Die Fehlstellung eines Körperteils wirkt sich auf den ganzen Körper aus. Unser Körper versucht die Fehlstellung auszugleichen, was zu weiteren Problemen führen kann. Deshalb ist es wichtig, den Körper als Ganzes zu betrachten und nicht nur einzelne Symptome zu behandeln.
 
-Die einzelnen Systeme unseres Körpers arbeiten alle zusammen. Sie unterstützen und fördern sich gegenseitig. Das hat aber auch zur folge, dass Probleme in einem System sich auf andere Systeme auswirken können und eine Abwärtsspirale durch Rückkopplung entstehen kann.
+Die einzelnen Systeme unseres Körpers arbeiten alle zusammen. Sie unterstützen und fördern sich gegenseitig. Das hat aber auch zur Folge, dass Probleme in einem System sich auf andere Systeme auswirken können und eine Abwärtsspirale durch Rückkopplung entstehen kann.
 
 Wenn unsere Fußhaltung nicht stimmt, wirkt sich das auf unsere Knie, Hüften und unseren Rücken aus. Die Gesäßmuskulatur wird nicht richtig aktiviert, was zu einer Überlastung der Lendenwirbelsäule führen kann. Das kann wiederum zu Verspannungen im Nacken und Kopf führen.
 
@@ -100,11 +100,11 @@ Unser Körper hat Phasen hoher und niedriger Leistungsfähigkeit. Nach 60-90 Min
 
 Wir sind extrem gut darin zu lernen und uns anzupassen.
 
-Wir lernen durch Immitation und Geschichten. Das soziale lernen ist das, was uns wirklich von anderen Lebewesen unterscheidet. Wir können durch eine Idee eine Gemeinschaft von Menschen zusammenbringen. Das ermöglicht uns Städte und Zivilisationen zu bauen.
+Wir lernen durch Imitation und Geschichten. Das soziale Lernen ist das, was uns wirklich von anderen Lebewesen unterscheidet. Wir können durch eine Idee eine Gemeinschaft von Menschen zusammenbringen. Das ermöglicht uns Städte und Zivilisationen zu bauen.
 
 Keine andere Spezies lebt in Nationen oder gründet Unternehmen.
 
-Interessanterweise sind wir besser darin andere nachzuaffen als Affen.
+Interessanterweise sind wir besser darin andere nachzuahmen als Affen.
 
 Wenn wir allein in der Wildnis ausgesetzt wären, hätte der Chimpanse eine bessere Überlebenschance als wir. Er ist uns in Kraft und Fähigkeiten überlegen. Sobald wir aber das Wissen von anderen nutzen können, sind wir unschlagbar.
 
@@ -130,7 +130,7 @@ Sie fallen hin, stehen wieder auf und probieren es erneut aber etwas anders. Sie
 
 Wenn wir das Gelernte aus unserem Gedächtnis abrufen, stärken wir die Verbindungen und machen sie stabiler. Das ist ein besseres Vorgehen, als immer wieder das gleiche zu lesen.
 
-Außerdem brauchen wir Pausen zwischen den individuelen Lerneinheiten. Unser Gehirn verarbeitet die Informationen in der Pause und integriert sie ins bestehende Wissen.
+Außerdem brauchen wir Pausen zwischen den individuellen Lerneinheiten. Unser Gehirn verarbeitet die Informationen in der Pause und integriert sie ins bestehende Wissen.
 
 Wenn wir in immer größerem Abstand das Gelernte wiederholen, festigen wir es im Langzeitgedächtnis.
 
@@ -154,7 +154,7 @@ Die beiden Hälften arbeiten zusammen und ergänzen sich gegenseitig. Wenn wir b
 
 Außerdem haben sie die Fähigkeit die mit der jeweils anderen Seite zu kommunizieren aber auch zu unterdrücken.
 
-Diese Asymetrie zeigt sich auch in unserem Denken. Wir haben auf der einen Seite die Fähigkeit uns intensiv auf eine Sache zu konzentrieren und auf der anderen Seite die Fähigkeit, das große Ganze zu sehen und Zusammenhänge zu erkennen.
+Diese Asymmetrie zeigt sich auch in unserem Denken. Wir haben auf der einen Seite die Fähigkeit uns intensiv auf eine Sache zu konzentrieren und auf der anderen Seite die Fähigkeit, das große Ganze zu sehen und Zusammenhänge zu erkennen.
 
 Wenn wir uns intensiv mit einer Sache beschäftigen und nicht weiterkommen, hilft oft eine Pause. Wir können dann Abstand gewinnen und neue Perspektiven einnehmen. Die rechte Gehirnhälfte kann dann neue Verbindungen herstellen und kreative Lösungen finden. Daher kommen unsere "Shower-Thoughts".
 

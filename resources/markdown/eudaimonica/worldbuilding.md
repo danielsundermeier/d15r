@@ -2,7 +2,7 @@
 
 Genau wie die Städte sich aus vielen Menschen bilden, besteht die Welt aus Städten die sich in Bioregionen organisieren.
 
-Wir könnnen also auch den Planten wie einen Organismus betrachten, der aus vielen Zellen besteht.
+Wir können also auch den Planeten wie einen Organismus betrachten, der aus vielen Zellen besteht.
 
 Auch hier gelten ähnliche Prinzipien, wie auf den kleineren Ebenen.
 
@@ -42,7 +42,7 @@ Unsere Aufgabe ist nicht, den Planeten zu verlassen. Stattdessen sollen wir lern
 
 Es wird sicher vereinzelt Menschen geben, die es in den Weltraum zieht. Genauso wie die Entdecker und Abenteurer aus der Vergangenheit zu neuen Ufern aufgebrochen sind.
 
-Milliarden von Neuronen in unserem Gehirn führen zu einem Bewusstsein. Milliarden von Menschen, die miteinander kommunizieren und zusammenarbeiten, können vielleicht auch ein etwas wie ein Bewusstsein für den Planeten erschaffen.
+Milliarden von Neuronen in unserem Gehirn führen zu einem Bewusstsein. Milliarden von Menschen, die miteinander kommunizieren und zusammenarbeiten, können vielleicht auch so etwas wie ein Bewusstsein für den Planeten erschaffen.
 
 Je komplexer die Systeme werden, desto mehr Möglichkeiten ergeben sich. Ich weiß nicht, wie es aussehen könnte, es scheint aber eine natürliche Entwicklung zu sein.
 
@@ -122,7 +122,7 @@ Eine gewisse Grundversorgung sollte aber überall verfügbar sein. Das sorgt fü
 
 In Island ist die Energie aus Geothermie besonders günstig. Außerdem ist es kalt, was sich gut für Datenzentren eignet.
 
-In der Wüste gibt es viel Sonne, dort können Solarkraftwerke besonders effizient arbeiten. Es bietet sich also an hier Indutrieanlagen zu bauen, die viel Energie brauchen.
+In der Wüste gibt es viel Sonne, dort können Solarkraftwerke besonders effizient arbeiten. Es bietet sich also an, hier Industrieanlagen zu bauen, die viel Energie brauchen.
 
 Wir produzieren lokal, denken aber global. Wir teilen Ressourcen und Wissen, um uns gegenseitig zu unterstützen.
 
@@ -150,11 +150,11 @@ Wir wollen alle Aufgaben automatisieren, die nicht zu unseren Kernkompetenzen ge
 
 Das sind vor allem wiederkehrende, einfache Aufgaben, die wenig Kreativität erfordern. Dafür gibt es Maschinen und Software.
 
-Wir teilen die Aufgaben in immer kleinere Schritte auf und eleminieren oder automatisieren alles.
+Wir teilen die Aufgaben in immer kleinere Schritte auf und eliminieren oder automatisieren alles.
 
 Zuerst müssen sie von Menschen erledigt werden, damit wir verstehen, wie sie funktionieren. Danach können wir sie automatisieren.
 
-Die Aufgabe von allen Menschen könnte sein, sich selbst überflüsssig zu machen.
+Die Aufgabe von allen Menschen könnte sein, sich selbst überflüssig zu machen.
 
 Dadurch haben wir die Möglichkeit uns auf die wirklich wichtigen Dinge zu konzentrieren und uns neuen Herausforderungen zu stellen.
 

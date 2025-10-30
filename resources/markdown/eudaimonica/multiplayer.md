@@ -26,7 +26,7 @@ Wir betrachten die Stadt als einen lebendigen Organismus. Es ist ein Zusammensch
 
 Genau wie wir selbst aus vielen Zellen bestehen, die sich zu Organen zusammenschließen.
 
-So können wir die Prinzipen, die für einen Menschen gelten, auch auf die Stadt übertragen.
+So können wir die Prinzipien, die für einen Menschen gelten, auch auf die Stadt übertragen.
 
 ## Eudaimonologie
 
@@ -409,7 +409,7 @@ Neben den U-Bahnen gibt es Schienen für den Güterverkehr.
 
 Außerdem werden hier Leitungen für Wasser, Energie und Daten unterirdisch zwischen den Städten verlegt.
 
-Da die meisten MMenschen sowieso jeden Tag zum Eudaimonium gehen, können sie dort auch ihre Post und Pakete abholen und zurückgeben. Dadurch sparen wir uns viele Lieferfahrzeuge in der Stadt.
+Da die meisten Menschen sowieso jeden Tag zum Eudaimonium gehen, können sie dort auch ihre Post und Pakete abholen und zurückgeben. Dadurch sparen wir uns viele Lieferfahrzeuge in der Stadt.
 
 ### Schlaf
 
@@ -741,7 +741,7 @@ Der Waldgarten dient gleichzeitig als Erholungsgebiet. Es gibt viele Wege und Pl
 
 Die Städte sind selbstverwaltet.
 
-Es ist im Interesse der Regierung, dass die Menschen sich entfalten können und glücklich sind.
+Es liegt im Interesse der Regierung, dass die Menschen sich entfalten können und glücklich sind.
 
 Wenn die Bewohner unzufrieden sind, können sie umziehen und die Regierung hat niemanden mehr, den sie regieren kann.
 

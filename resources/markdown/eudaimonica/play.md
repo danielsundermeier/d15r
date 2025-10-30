@@ -8,13 +8,13 @@ Diese Gedanken und Ideen sind sehr stark an das Konzept von [Heroic](https://www
 
 ### Ziel
 
-Das Ziel ist Eudamonia. Wir übersetzen es als Glück. Das kommt der wahren Bedeutung aber nicht nahe. Es bedeutet ein erfülltes und erfolgreiches Leben zu führen.
+Das Ziel ist Eudaimonia. Wir übersetzen es als Glück. Das kommt der wahren Bedeutung aber nicht nahe. Es bedeutet ein erfülltes und erfolgreiches Leben zu führen.
 
 Wir erreichen es durch Arete, was übersetzt Tugend oder Exzellenz bedeutet. Es hat aber auch eine tiefere Bedeutung: Das volle Potenzial zu entfalten und das Beste aus uns herauszuholen.
 
 Diese Worte kommen aus dem antiken Griechenland von Aristoteles.
 
-Die Positive Psychologie bezeichnet es als Aufblühen (Flourishing) in dem wir unsere Stärken zum Wohle aller einsetzen.
+Die Positive Psychologie bezeichnet es als Aufblühen (Flourishing), indem wir unsere Stärken zum Wohle aller einsetzen.
 
 Das Spiel des Lebens funktioniert nach den Prinzipien der Evolution: Konstante Weiterentwicklung.
 
@@ -59,7 +59,7 @@ Wir sind Menschen und damit nicht perfekt. Wir machen Fehler und scheitern immer
 
 ### Das falsche Spiel
 
-Wenn das Spiel des Lebens so offentsichtlich ist, warum spielen wir dann das falsche Spiel?
+Wenn das Spiel des Lebens so offensichtlich ist, warum spielen wir dann das falsche Spiel?
 
 Die Gesellschaft versucht uns zu überzeugen, dass Glück durch äußere Umstände erreicht wird: Geld, Status, Besitz und Vergnügen.
 
@@ -113,7 +113,7 @@ Die Positive Psychologie hat 24 Charakterstärken identifiziert, die uns helfen,
 - Mäßigung
 - Transzendenz
 
-Diese Tugenden sind entstanden, aus den Eigenschaften, die in allen Kulturen und Zeiten als wertvoll angesehen wurden.
+Diese Tugenden sind aus den Eigenschaften entstanden, die in allen Kulturen und Zeiten als wertvoll angesehen wurden.
 
 Wir können sie als Leitfaden nutzen, um unseren Charakter zu formen und unser volles Potenzial zu entfalten.
 
@@ -124,7 +124,7 @@ Nach dem Test bekommen wir eine Rangliste unserer Stärken. Wir können uns auf 
 Neben den individuellen Stärken, gibt es noch fünf weitere, die am meisten mit einem erfüllten Leben zusammenhängen:
 
 - Enthusiasmus
-- Dankbarkeitkeit
+- Dankbarkeit
 - Hoffnung
 - Neugier
 - Mut
@@ -135,9 +135,9 @@ Enthusiasmus ist die Fähigkeit, sich für etwas zu begeistern und mit Leidensch
 
 Dafür benötigen wir die Energie, die uns die Grundlagen geben. Das ist einer der Gründe, warum sie so wichtig sind.
 
-#### Dankbarkeitkeit
+#### Dankbarkeit
 
-Dankbarkeitkeit ist die Fähigkeit, die positiven Aspekte des Lebens zu erkennen und wertzuschätzen.
+Dankbarkeit ist die Fähigkeit, die positiven Aspekte des Lebens zu erkennen und wertzuschätzen.
 
 Anstatt immer nur nach oben zu schauen und uns mit anderen zu vergleichen, sollten wir lernen, das zu schätzen, was wir haben.
 
@@ -167,7 +167,7 @@ Das Ziel ist also Eudaimonia durch Arete zu erreichen. Aufblühen, indem wir uns
 
 Wir können das Spiel auf eine Formel und zwei Regeln reduzieren:
 
-Eudamonia = (Energie * Aufmerksamkeit * Was ist gerade wichtig)^Beständigkeit
+Eudaimonia = (Energie * Aufmerksamkeit * Was ist gerade wichtig)^Beständigkeit
 
 1. Je schlechter ich mich fühle, umso wichtiger ist mein Protokoll
 2. Ich tue, wovor ich mich drücke
@@ -544,7 +544,7 @@ Das bedeutet auch, dass wir gezielt Dinge lernen können. Wir bleiben so nicht s
 
 Wir setzen dadurch unsere Stärken ein und leisten einen echten Beitrag, anstatt nur ein Zahnrad im Getriebe zu sein.
 
-Wir haben Autonomie, Fortschritt und Sinn. Dass sind die drei wichtigsten Faktoren für Zufriedenheit bei der Arbeit.
+Wir haben Autonomie, Fortschritt und Sinn. Das sind die drei wichtigsten Faktoren für Zufriedenheit bei der Arbeit.
 
 #### Liebe
 
@@ -588,7 +588,7 @@ Die Basalganglien sind der Teil unseres Gehirns, der für die Steuerung von Gewo
 
 Ihnen ist aber egal, ob die Gewohnheit gut oder schlecht für uns ist. Sie führen sie einfach aus, wenn der Auslöser da ist.
 
-Immer wenn wir etwas tun, wird es beim näcchsten Mal etwas leichter wieder die gleiche Entscheidung zu treffen. Das ist der Grund, warum wir mit jeder Handlung auch unseren Charakter formen. Wir werden zu der Person, die wir durch unsere Handlungen repräsentieren.
+Immer wenn wir etwas tun, wird es beim nächsten Mal etwas leichter wieder die gleiche Entscheidung zu treffen. Das ist der Grund, warum wir mit jeder Handlung auch unseren Charakter formen. Wir werden zu der Person, die wir durch unsere Handlungen repräsentieren.
 
 Wir etablieren Gewohnheiten über unsere Wiederholungen. Deshalb ist die Beständigkeit so wichtig. Wenn wir eine Gewohnheit an einem Tag nicht ausgeführt haben, setzen wir alles daran, sie am nächsten Tag wieder auszuführen.
 
@@ -622,13 +622,13 @@ Direkt nachdem wir eine Gewohnheit ausgeführt haben, belohnen wir uns dafür. W
 
 Auch wenn es sich merkwürdig anfühlt, ist es wichtig, dass wir uns dafür loben. Wir stärken dadurch die Verbindung zwischen Verhalten und Belohnung.
 
-### Etabieren
+### Etablieren
 
 Wir etablieren eine Gewohnheit, indem wir sie regelmäßig ausführen. Je öfter wir sie wiederholen, umso stärker wird die Verbindung in unserem Gehirn.
 
 Der erste Schritt ist den Auslöser so offensichtlich wie möglich zu machen. Wenn wir zum Beispiel mehr Wasser trinken wollen, stellen wir eine Flasche Wasser auf unseren Schreibtisch.
 
-Wenn wir maditeiren wollen, legen wir unsere Meditationskissen an einen Ort an dem wir darüber stolpern.
+Wenn wir meditieren wollen, legen wir unsere Meditationskissen an einen Ort an dem wir darüber stolpern.
 
 ### Ablegen
 
@@ -702,7 +702,7 @@ In der Regel sind das 7-9 Stunden pro Nacht.
 
 Was mit uns passiert, wenn wir zu wenig schlafen, können wir gut an Kindern beobachten.
 
-Wir haben gelernt uns zusammenzureißen, das beudeutet aber nicht, dass wir nicht genauso darunter leiden.
+Wir haben gelernt uns zusammenzureißen, das bedeutet aber nicht, dass wir nicht genauso darunter leiden.
 
 Interessanterweise glauben wir, dass wir mit weniger Schlaf auskommen, wenn wir nicht genug schlafen. Wir täuschen uns also selbst, besonders wenn wir müde sind.
 

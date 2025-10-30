@@ -4,13 +4,13 @@
 
 Es gibt eine objektive Realität, die unabhängig von unserer Wahrnehmung existiert. Diese Realität folgt bestimmten physikalischen Gesetzen, die wir verstehen und nutzen können.
 
-Es sind Energie und Signale.
+Alles besteht aus Energie und Signalen.
 
 Diese nehmen wir mit unseren Sinnen wahr. Unser Gehirn verarbeitet die Informationen und erstellt daraus ein Modell der Welt.
 
 Wenn in einem Wald ein Baum und niemand da ist, der es hört, entstehen die Schallwellen trotzdem. Das Geräusch wird aber von uns erzeugt. Es ist die Art, wie wir die Welt wahrnehmen.
 
-Tiere haben andere teilweise Sinne, zum Beispiel Vibration, wodurch sie die Welt anders wahrnehmen als wir. Sie interpretieren die Schallwellen anders, wodurch vielleicht kein Geräusch entsteht, sondern etwas anderes.
+Tiere haben teilweise andere Sinne, zum Beispiel für Vibrationen, wodurch sie die Welt anders wahrnehmen als wir. Sie interpretieren die Schallwellen anders, wodurch vielleicht kein Geräusch entsteht, sondern etwas anderes.
 
 Das gilt aber auch für andere Menschen.
 
@@ -119,7 +119,7 @@ Es gibt 9 Planeten in unserem Sonnensystem: Merkur, Venus, Erde, Mars, Jupiter, 
 
 Unser Planet Erde entstand vor etwa 4,5 Milliarden Jahren. Anfangs war sie eine heiße, vulkanische Welt ohne Atmosphäre. Durch Kollisionen mit anderen Himmelskörpern und die Abkühlung der Erde bildeten sich Ozeane und eine Atmosphäre.
 
-Die Erde ist etwa 150 Millionen Kilometer von der Sonne entfernt. Licht benötigt etwas 8 Minuten und 20 Sekunden, um von der Sonne zur Erde zu gelangen.
+Die Erde ist etwa 150 Millionen Kilometer von der Sonne entfernt. Licht benötigt etwa 8 Minuten und 20 Sekunden, um von der Sonne zur Erde zu gelangen.
 
 Sie befindet sich damit in der habitablen Zone, wo die Bedingungen für flüssiges Wasser und Leben geeignet sind.
 
@@ -133,7 +133,7 @@ Die Erdachse ist um etwa 23,5 Grad geneigt. Diese Neigung verursacht die Jahresz
 
 Der Erdkern besteht hauptsächlich aus Eisen und Nickel. Es gibt einen inneren festen Kern und einen äußeren flüssigen Kern. Die Bewegung des flüssigen Kerns erzeugt durch den Dynamo-Effekt das Magnetfeld, das die Erde vor schädlicher Sonnenstrahlung schützt und das Leben auf der Oberfläche ermöglicht.
 
-Die Wärme im inneren der Erde stammt aus dem radioaktiven Zerfall von Elementen und der Restwärme aus der Entstehungszeit der Erde.
+Die Wärme im Inneren der Erde stammt aus dem radioaktiven Zerfall von Elementen und der Restwärme aus der Entstehungszeit der Erde.
 
 Die Erdkruste ist die äußere Schicht der Erde und besteht aus festem Gestein. Sie ist relativ dünn im Vergleich zu den inneren Schichten.
 
@@ -297,7 +297,7 @@ Die meiste Zeit haben wir als Jäger und Sammler in kleinen egalitären Gruppen 
 
 Es scheint als hätten wir eine angeborene Neigung zur Zusammenarbeit und zum Teilen. Diese soziale Natur war ein Überlebensvorteil in der Vergangenheit und ist es auch heute noch.
 
-Wir finden in verschiednenen Höhlen Felsmalereien, die vor etwa 40.000 Jahren entstanden sind. Sie zeigen Tiere, Jagdszenen und abstrakte Muster. Diese Kunstwerke deuten darauf hin, dass wir schon früh ein Bewusstsein für Ästhetik und Symbolik hatten.
+Wir finden in verschiedenen Höhlen Felsmalereien, die vor etwa 40.000 Jahren entstanden sind. Sie zeigen Tiere, Jagdszenen und abstrakte Muster. Diese Kunstwerke deuten darauf hin, dass wir schon früh ein Bewusstsein für Ästhetik und Symbolik hatten.
 
 Vor etwa 10.000 Jahren begannen wir mit der Landwirtschaft. Es war ein fließender Übergang. Wir domestizierten Pflanzen und Tiere, was zu einer sesshafteren Lebensweise führte.
 
