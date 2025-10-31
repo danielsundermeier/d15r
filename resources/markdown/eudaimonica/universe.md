@@ -373,6 +373,10 @@ Wir sind sehr soziale Wesen. Wir leben in egalitären Gemeinschaften und sind au
 
 Unser Grundhaltung ist Vertrauen und gegenseitige Hilfe. Nur so können wir als Gruppe überleben und gedeihen.
 
+Diese Fähigkeiten funktionieren aber nur in stabilen, vertrauensvollen Gruppen.
+
+Unsere Natur ist auf gegenseitige Abhängigkeit ausgelegt. Kooperation ist kein Ideal, sondern ein biologischer Mechanismus.
+
 Empathie ist eine unserer stärksten Fähigkeiten. Wir können uns in die Lage anderer versetzen und ihre Gefühle nachempfinden.
 
 Wir haben in unserem Gehirn Spiegelneuronen, die es uns ermöglichen, das Verhalten und die Emotionen anderer Menschen zu verstehen und nachzuempfinden.

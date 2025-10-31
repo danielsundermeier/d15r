@@ -729,6 +729,46 @@ Richtlinie: Wir atmen so oft durch den Mund, wie wir durch die Nase essen.
 - Meditation
 - Achtsamkeit
 
+### Spüren
+
+Es ist sehr wichtig, dass wir lernen, mit unseren Gefühlen umzugehen.
+
+Wenn wir sie unterdrücken, ist das so, als wollten wir einen Wasserball unter Wasser halten. Es erfordert eine Menge Energie, und sobald wir nicht aufpassen, schießt er unkontrolliert an die Oberfläche.
+
+Je mehr wir unterdrücken, umso mehr Energie kostet es uns. Es wird immer schwieriger, sie unter Kontrolle zu halten.
+
+Wir haben Angst, dass sie ausgelöst werden und meiden Situationen, in denen es passieren könnte.
+
+Wir tun dann nämlich Dinge, die wir in der Regel danach bereuen.
+
+Dadurch schränken wir uns selbst ein, und die Ängste werden immer größer.
+
+Wenn wir unsere negativen Emotionen unterdrücken, passiert das gleiche auch mit den positiven.
+
+Das ist auch der Grund, warum wir die Langeweile meiden und uns konstant beschäftigen. Sobald wir stehen bleiben, kommen die unterdrückten Gefühle hoch. Sie wollen verarbeitet werden.
+
+Das ist aber auch unsere Gelegenheit, das zu tun.
+
+Es gibt drei Schritte, um zu lernen, mit unseren Emotionen umzugehen:
+
+- Bewusstheit schaffen
+- Emotionen akzeptieren
+- Gefühle ausdrücken
+
+Wenn wir unsere Emotionen und Gefühle verarbeiten, lösen sich auch die Blockaden. Wir fühlen uns leichter und haben mehr Energie.
+
+Wir hören auf, Entscheidungen auf Grundlage unserer Ängste zu treffen und brauchen nicht mehr so viel Kontrolle und Sicherheit über unsere Umgebung.
+
+Wir sind mit uns selbst im Reinen und haben eine bessere Verbindung zu unserem Körper.
+
+Wir brauchen keine Angst mehr vor unseren Gefühlen haben, sondern können sie ausleben.
+
+Mit unseren Emotionen umzugehen bedeutet, flexibel zwischen emotionalen Zuständen zu wechseln, ohne uns zu verlieren.
+
+Wir lernen, negative Emotionen zu durchleben, ohne darin stecken zu bleiben, und positive Emotionen voll auszukosten, ohne sie erzwingen zu müssen.
+
+Wenn wir mit uns im Reinen sind, werden die anderen Grundlagen leichter. Wir kämpfen dann nicht mehr gegen uns selbst, sondern können uns auf die Herausforderungen des Lebens konzentrieren.
+
 ### Zelebrieren
 
 - Akzeptanz
