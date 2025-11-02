@@ -10,7 +10,11 @@ class WelcomeController extends Controller
 {
     public function index()
     {
-        $posts = Post::latest('published_at')->limit(5)->get();
+        $posts = Post::query()
+            ->where('published_at', '<=', now())
+            ->latest('published_at')
+            ->limit(5)
+            ->get();
 
         $markdown = file_get_contents(resource_path('markdown/welcome/welcome.md'));
         $first_line = preg_split('#\r?\n#', $markdown, 0)[0];

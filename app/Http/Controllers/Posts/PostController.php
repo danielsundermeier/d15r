@@ -15,7 +15,10 @@ class PostController extends Controller
      */
     public function index()
     {
-        $posts = Post::latest('published_at')->get();
+        $posts = Post::query()
+            ->where('published_at', '<=', now())
+            ->latest('published_at')
+            ->get();
 
         return view('posts.index')
             ->with('posts', $posts)
