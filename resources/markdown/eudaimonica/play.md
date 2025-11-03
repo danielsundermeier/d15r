@@ -664,6 +664,8 @@ Sobald wir mit dem ersten Bereich angefangen haben, fühlen wir uns besser und h
 
 Wir starten eine Aufwärtsspirale, die uns immer weiter nach oben führt.
 
+Je höher ein Gebäude ist, umso tiefer wird das Fundament. Genauso ist es bei uns. Je mehr wir erreichen wollen, umso wichtiger sind die Grundlagen.
+
 ### Ernährung
 
 Es gibt keine perfekte Ernährung. Jeder Mensch ist anders und hat andere Bedürfnisse.
@@ -679,6 +681,8 @@ Auch hier gilt viel ausprobieren. Wir können uns zwar an der Wissenschaft orien
 Es gibt aber unendlich viele Diäten und Ernährungsformen aus denen wir wählen können.
 
 Wir übernehmen das, was funktioniert und lassen den Rest weg.
+
+Über die Ernährung steuern wir unseren Energiehaushalt. Wir können damit abnehmen, zunehmen oder unser Gewicht halten.
 
 #### Taille-zu-Körpergröße-Verhältnis (WHtR)
 
@@ -746,6 +750,18 @@ Sobald wir für ein paar Minuten sitzen, verändert sich unser Stoffwechsel.
 
 Wenn wir den ganzen Tag sitzen oder liegen, ist es unmöglich, es mit ein paar Minuten Training auszugleichen.
 
+#### Schritte und Depression
+
+Studien zu folge, gibt es einen klaren Zusammenhang zwischen der Anzahl unserer Schritte und Depressionen. Wer weniger als 5.000 Schritte am Tag macht, hat ein deutlich höheres Risiko, an Depressionen zu erkranken.
+
+Eine große Meta-Analyse (33 Studien, ~96 000 Erwachsene) fand: Personen mit ≥ 7.000 Schritte/Tag hatten ein deutlich geringeres Risiko für depressive Symptome als Personen mit weniger Schritten.  ￼
+
+Bereits ab ≈ 5.000 Schritte/Tag wurde in einigen Studien eine Verbesserung der Stimmung bzw. weniger Depressions-Symptome gefunden.  ￼
+
+Eine Studie bei älteren Erwachsenen zeigte: Schon 3.500-6.999 Schritte/Tag hatten einen schützenden Effekt gegenüber depressiven Symptomen. ≥ 7.000 Schritte/Tag waren noch besser.  ￼
+
+Der Zusammenhang ist „dose-response“: Jede Zunahme von 1.000 Schritten/Tag wurde mit etwa 9 % geringerem Risiko für Depression assoziiert.  ￼
+
 ### Schlaf
 
 Wir brauchen ausreichend Schlaf, um uns zu erholen und zu regenerieren.
@@ -768,6 +784,8 @@ Es hilft uns, wenn wir eine feste Schlafenszeit haben und jeden Tag zur gleichen
 
 Unser Schlaf ist auch eng mit der Sonne verbunden. Wir sollten versuchen, so viel wie möglich natürliches Licht zu bekommen und abends das blaue Licht zu vermeiden.
 
+Unsere Vorfahren haben deutlich länger geschlafen als wir heute. Sie sind auf ca. 10 Stunden pro Nacht gekommen. Die Schlafenszeit hat sich immer weiter reduziert, je mehr wir uns von der Natur entfernt haben. Es hat in den letzten 100 Jahren einen dramatischen Rückgang auf ca. 7 Stunden pro Nacht gegeben.
+
 ### Atmung
 
 - Durch die Nase einatmen
@@ -775,6 +793,8 @@ Unser Schlaf ist auch eng mit der Sonne verbunden. Wir sollten versuchen, so vie
 - Durch die Nase ausatmen, etwas länger als einatmen
 
 Richtlinie: Wir atmen so oft durch den Mund, wie wir durch die Nase essen.
+
+Eine moderne Legende besagt, dass die Spartaner mit Wasser im Mund gelaufen sind, um das Atmen durch den Mund zu vermeiden. Ob das stimmt, ist unklar, aber es zeigt, wie wichtig die Nasenatmung für unsere Gesundheit ist.
 
 ### Aufmerksamkeit
 
