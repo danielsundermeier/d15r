@@ -680,6 +680,58 @@ Es gibt aber unendlich viele Diäten und Ernährungsformen aus denen wir wählen
 
 Wir übernehmen das, was funktioniert und lassen den Rest weg.
 
+#### Taille-zu-Körpergröße-Verhältnis (WHtR)
+
+Die Formel ist ganz einfach:
+
+WHtR = Taillenumfang/Körpergröße
+
+Beides in derselben Einheit (cm oder m, spielt keine Rolle).
+
+Beispiel: Taille 90 cm, Größe 180 cm → WHtR = 90 / 180 = **0,5**
+
+1. **Es misst nicht das Gewicht, sondern die Fettverteilung.**
+   Fett im Bauchraum (viszerales Fett) ist hochaktiv: Es produziert Entzündungsstoffe, beeinflusst Hormone und steht mit Herz-Kreislauf-Erkrankungen, Diabetes II und Demenz in Zusammenhang.
+
+2. **Es ist unabhängig von der Körperform.**
+   Eine große Person mit 90 cm Taille ist meist gesünder als eine kleine Person mit 90 cm Taille – deshalb bezieht man die Taille auf die Größe.
+
+3. **Es funktioniert über Kulturen, Geschlechter und Altersgruppen hinweg.**
+   Zahlreiche Studien (z. B. Ashwell & Gibson 2016, 2019) zeigen: Das Verhältnis gilt weltweit erstaunlich stabil.
+
+- **< 0,4**: eher zu wenig Fett, erhöhtes Risiko durch Untergewicht
+- **0,4 – 0,49**: ideal, niedriges Risiko
+- **0,5 – 0,59**: mäßig erhöht, leicht erhöhtes Risiko
+- **≥ 0,6**: deutlich erhöht, stark erhöhtes Risiko
+
+Große Metaanalysen zeigen:
+
+- Jede **0,05-Erhöhung** im WHtR (z. B. von 0,50 → 0,55) geht mit etwa **10–20 % höherem Sterberisiko** einher.
+- Menschen mit gleichem BMI, aber höherem WHtR, sterben signifikant häufiger an Herz-Kreislauf-Erkrankungen.
+- Der BMI unterschätzt vor allem bei **schlanken, aber „bauchigen“ Personen** das Risiko, das WHtR hingegen erkennt es.
+
+Ein zu hoher WHtR bedeutet in der Regel:
+
+- **mehr viszerales Fett** → Stoffwechselstörungen, Entzündungen
+- **geringere Muskelmasse** im Verhältnis zur Körpergröße
+- **weniger körperliche Aktivität** oder unpassende Ernährung
+
+Ein niedriger WHtR deutet auf:
+
+- **mehr Muskelmasse** oder weniger Fett
+- **höhere körperliche Aktivität**, bessere Insulinsensitivität
+- **geringere kardiometabolische Sterblichkeit**
+
+Das WHtR ist fast eine **Verdichtung des Lebensstils in einer Zahl**.
+Es spiegelt, wie gut Körper und Umwelt im Gleichgewicht sind:
+
+- **Zu groß** → Überfluss, Inaktivität, Disbalance.
+- **Zu klein** → Mangel, Stress, Energieknappheit.
+
+Die goldene Mitte — etwa **0,45–0,5** — scheint evolutionär optimal: genug Energiepolster, aber nicht so viel, dass es die Systeme belastet.
+Man könnte sagen:
+> **Gesundheit entsteht, wenn der Körper im Verhältnis zu seiner Größe nicht mehr trägt, als er lebendig halten kann.**
+
 ### Bewegung
 
 Wir sind dafür gemacht uns viel zu bewegen.
