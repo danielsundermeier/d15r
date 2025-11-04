@@ -1,0 +1,49 @@
+<?php
+
+namespace App\Console\Commands\Tweets\Daylies;
+
+use App\Models\Tweets\Tweet;
+use Illuminate\Console\Command;
+use App\Http\Integrations\Twitter\Tweets\CreateRequest;
+
+class CreateCommand extends Command
+{
+    protected $signature = 'tweets:daylies:create';
+
+    protected $description = 'Creates daily tweet';
+
+    public function handle()
+    {
+        $tweet = Tweet::query()
+            ->whereDate('scheduled_at', now()->toDateString())
+            ->whereNull('tweet_id')
+            ->first();
+
+        if (!$tweet) {
+            $this->error('No tweet found for today.');
+
+            return self::FAILURE;
+        }
+
+        $this->line($tweet->scheduled_at->toDateString() . ': ' . $tweet->text);
+
+        $response = CreateRequest::make()
+            ->text($tweet->text)
+            ->send();
+
+        if ($response->failed()) {
+            $this->error('Failed to create tweet: ' . $response->body());
+
+            return self::FAILURE;
+        }
+
+        $responseData = $response->json();
+
+        $tweet->update([
+            'tweet_id' => $responseData['data']['id'],
+            'tweeted_at' => now(),
+        ]);
+
+        return self::SUCCESS;
+    }
+}

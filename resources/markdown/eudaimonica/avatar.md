@@ -136,6 +136,8 @@ Wenn wir in immer größerem Abstand das Gelernte wiederholen, festigen wir es i
 
 Die beste Art etwas zu lernen ist es, es anderen zu erklären. Dadurch erkennen wir, ob wir es wirklich verstanden haben und erkennen unsere Wissenslücken.
 
+Wenn wir jemanden, der ein paar Schritte weiter ist als wir, als Lehrer haben, mit jemand anderem auf ähnlichem Niveau zu lernen und jemandem das Gelernte beizubringen, verstärken wir den Lernprozess noch weiter.
+
 ### Asymmetrie
 
 Unser Gehirn ist in zwei Hälften geteilt, die unterschiedliche Funktionen haben. Die linke Hemisphäre ist für logisches Denken, Sprache und Analyse zuständig. Die rechte Hemisphäre ist für Kreativität, Intuition und räumliches Denken verantwortlich.

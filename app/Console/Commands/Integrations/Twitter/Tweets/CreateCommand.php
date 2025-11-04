@@ -7,7 +7,7 @@ use Illuminate\Console\Command;
 
 class CreateCommand extends Command
 {
-    protected $signature = 'twitter:tweets:create';
+    protected $signature = 'integrations:twitter:tweets:create';
 
     protected $description = 'Tweets a new tweet via Twitter API';
 
