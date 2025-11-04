@@ -6,7 +6,7 @@ use Closure;
 use GuzzleHttp\Psr7\Query;
 use Psr\Http\Message\RequestInterface;
 
-class Oauth1
+class OAuth1
 {
     /**
      * Consumer request method constants. See http://oauth.net/core/1.0/#consumer_req_param

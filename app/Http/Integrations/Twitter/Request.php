@@ -6,6 +6,7 @@ use LogicException;
 use App\Enums\Http\Method;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Facades\Http;
+use App\Http\Integrations\Twitter\OAuth1;
 use Tests\Support\Snapshots\JsonSnapshot;
 use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Support\Traits\ForwardsCalls;
@@ -89,7 +90,7 @@ abstract class Request
 
     protected function buildPendingRequest(): PendingRequest
     {
-        $middleware = new Oauth1([
+        $middleware = new OAuth1([
             'consumer_key' => config('services.twitter.api_key'),
             'consumer_secret' => config('services.twitter.api_secret_key'),
             'token' => config('services.twitter.access_token'),
