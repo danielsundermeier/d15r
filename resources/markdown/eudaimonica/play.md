@@ -550,6 +550,19 @@ Wir haben Autonomie, Fortschritt und Sinn. Das sind die drei wichtigsten Faktore
 
 Beziehungen sind ein wichtiger Teil unseres Lebens. Wir sind soziale Wesen und brauchen den Kontakt zu anderen Menschen.
 
+Die Griechen haben sechs Arten von Liebe unterschieden:
+
+- Eros: Romantische Liebe
+- Philia: Freundschaftliche Liebe
+- Storge: Familiäre Liebe
+- Agape: Selbstlose Liebe
+- Pragma: Beständige Liebe
+- Philautia: Selbstliebe
+
+Jede Art von Liebe hat ihre eigene Bedeutung und ihren eigenen Wert. Wir sollten alle Arten von Liebe in unserem Leben pflegen und wertschätzen.
+
+Wir müssen sie nicht bei einer Person finden. Unterschiedliche Menschen können unterschiedliche Arten von Liebe in unser Leben bringen.
+
 ## Tage als Meisterwerke
 
 Unser Leben besteht aus vielen einzelnen Tagen. Jeder Tag ist eine Gelegenheit, ein kleines Meisterwerk zu erschaffen.
