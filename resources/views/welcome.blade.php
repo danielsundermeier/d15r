@@ -22,17 +22,6 @@
     </div>
 </div>
 
-<div id="post" class="relative bg-white overflow-hidden">
-    <div class="px-4 sm:px-6 lg:px-8">
-        <div class="prose prose-sky prose-lg text-gray-500 mx-auto text-center">
-			<div class="flex items-center justify-center">
-              	<div class="flex-auto"><a href="{{ route('philosophy.index') }}" class="font-semibold text-gray-900">Philosophie</a></div>
-              	<div class="flex-auto"><a href="{{ route('eudaimonica.index') }}" class="font-semibold text-gray-900">Eudaimonica</a></div>
-            </div>
-		</div>
-	</div>
-</div>
-
 <div id="post" class="relative py-16 bg-white overflow-hidden">
 	<div class="relative px-4 sm:px-6 lg:px-8">
 		<div class="mt-6 prose prose-sky prose-lg text-gray-500 mx-auto">

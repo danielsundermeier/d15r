@@ -21,3 +21,7 @@ Wenn du hier liest, möchte ich dich einladen, nicht nur meinen Gedanken zu folg
 Vielleicht findest du etwas, das dich inspiriert. Vielleicht stößt dich manches ab. Beides ist wertvoll, weil es dir zeigt, wer du bist und was dir wichtig ist.
 
 Ich freue mich über jeden, der mitdenkt, widerspricht oder neue Blickwinkel einbringt. Ich schreibe nicht, um recht zu haben – sondern um gemeinsam zu lernen, was es bedeutet, ein erfülltes Leben zu führen.
+
+[Hier](/philosophy) bekommst Du eine Übersicht über die Philosophie.
+
+Wenn du direkt tiefer eintauchen möchtest, findest du in [Eudaimonica](/eudaimonica) die ausführlichere Version.
