@@ -145,4 +145,6 @@ So entsteht Wandel – von innen nach außen, von unten nach oben.
 
 Das ist der einzige Weg.
 
-Wenn Du mehr über Eudaimonica, das Spiel Leben als Spiel, erfahren möchtest: [Eudaimonica](/eudaimonica)
+Wenn du tiefer eintauchen möchtest, findest du in **[Eudaimonica](/eudaimonica)** – dem Spiel des Lebens – eine ausführlichere Version dieser Philosophie.
+
+Es ist eine spielerische Einladung, das eigene Leben als lebendiges Experiment zu begreifen.
