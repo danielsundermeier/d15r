@@ -601,6 +601,16 @@ Dabei geht es selten darum, was wir haben oder können, sondern immer um die Per
 
 Es geht darum, wie wir andere Menschen berührt und inspiriert haben.
 
+Menschen, die während eines Sehtests die Rolle eines Pilot gespielt haben, haben besser abgeschnitten.
+
+Nach einem Kreuzworträtsel mit Begriffen, die dem Alter zugeordnet werden, sind die Studienteilnehmer langsamer gegangen.
+
+Es ist wichtig, was wir über uns selbst denken. Es beeinflusst, wie wir uns verhalten.
+
+Wir treffen Entscheidungen, die unserem Selbstbild entsprechen. Deshalb ist Veränderung so schwierig.
+
+Wir brauchen viel Energie, um auf ein neues Gleichgewicht zu kommen.
+
 Unsere Identität führt zu unseren Handlungen und die formen unsere Umgebung, aber auch unsere Glaubenssätze. Die Ergebnisse unseres Handelns verstärken sie dann und werden zu unserer Identität.
 
 Es ist also ein sich selbst verstärkendes System. Jede Handlung formt unseren Charakter, unabhängig vom Ergebnis.
@@ -737,9 +747,22 @@ Diese Zeitfenster sind unsere Ankerpunkte, die uns durch den Tag tragen. Wir kö
 
 Wir können dafür sorgen, dass wir schon morgens die ersten Erfolge feiern und so positiv in den Tag starten.
 
+Wir sollten unsere Tage nicht nach der Uhrzeit, sondern nach unserem Energielevel planen.
+
+Wir gehen während eines Tages durch unterschiedliche Phasen.
+
+Aktivität und Erholung sollten sich daran orientieren. Wir können unsere Biologie für uns nutzen anstatt dagegen anzukämpfen.
+
+Wir wollen Rhythmen erzeugen und eins nach dem anderen erledigen.
+
+In der Regel haben wir mehr Kontrolle über den Start und das Ende des Tages als die Mitte.
+
+Hier können wir die Dinge einplant, die uns wirklich wichtig sind.
+
+Dann haben wir den Tag schon gewonnen bevor die meisten gefrühstückt haben.
+
 - Morgen- und Abendroutine
 - Rhythmen
-- Planen nach Energie statt Zeit
 
 ## Struktur
 
@@ -831,6 +854,10 @@ Je höher ein Gebäude ist, umso tiefer wird das Fundament. Genauso ist es bei u
 
 ### Ernährung
 
+Wir sind was wir essen.
+
+Lebensmittel haben einen sehr großen Einfluss auf unser Wohlbefinden. Körperlich aber auch mental.
+
 Es gibt keine perfekte Ernährung. Jeder Mensch ist anders und hat andere Bedürfnisse.
 
 Wir können aber ein paar allgemeine Prinzipien befolgen, die für die meisten Menschen gelten.
@@ -907,11 +934,17 @@ Training ist nur ein kleiner Teil der Bewegung.
 
 Anstatt den ganzen Tag zu sitzen und uns dann für eine Stunde im Fitnessstudio auszupowern, sollten wir uns den ganzen Tag über viel bewegen.
 
-Der Mensch ist eine Maschine, die Energie gewinnt, indem sie sich bewegt.
+Der menschliche Körper ist eine Maschine, die Energie gewinnt, indem sie sich bewegt.
 
 Sobald wir für ein paar Minuten sitzen, verändert sich unser Stoffwechsel.
 
 Wenn wir den ganzen Tag sitzen oder liegen, ist es unmöglich, es mit ein paar Minuten Training auszugleichen.
+
+Jede unserer Zellen reagiert positiv auf Bewegung.
+
+Es ist dabei besser viele kleine Bewegungseinheiten in unseren Tag zu integrieren.
+
+Wir können nach Gelegenheiten für Bewegung Ausschau halten.
 
 #### Schritte und Depression
 
@@ -949,7 +982,27 @@ Unser Schlaf ist auch eng mit der Sonne verbunden. Wir sollten versuchen, so vie
 
 Unsere Vorfahren haben deutlich länger geschlafen als wir heute. Sie sind auf ca. 10 Stunden pro Nacht gekommen. Die Schlafenszeit hat sich immer weiter reduziert, je mehr wir uns von der Natur entfernt haben. Es hat in den letzten 100 Jahren einen dramatischen Rückgang auf ca. 7 Stunden pro Nacht gegeben.
 
+Das beste Mittel für einen guten Schlaf sind feste Schlafenszeiten, auch am Wochenende.
+
+Wir sollten auf Aufregung, Monitore, Sport, Koffein und eine große Mahlzeit vor dem schlafen verzichten.
+
+Eine Abendroutine ist hilfreich, um den Tag ausklingen zu lassen.
+
+Unser Schlafzimmer sollte dunkel und kühl sein.
+
+So können wir die Qualität unseres Schlafs steigern.
+
 ### Atmung
+
+Wir atmen in der Regel zu viel. Wir haben genug Sauerstoff im Blut.
+
+Für die Versorgung unserer Zellen ist aber die CO2-Konzentration entscheidend.
+
+Das CO2 verdrängt den Sauerstoff aus dem Hämoglobin, damit es in die Zellen gelangen kann.
+
+Wir sollten immer durch die Nase tief in den Bauch einatmen und etwas länger durch die Nase ausatmen.
+
+Dadurch kommen wir zur Ruhe und versorgen unsere Zellen mit genügend Sauerstoff.
 
 - Durch die Nase einatmen
 - Tief in den Bauch atmen
@@ -961,8 +1014,11 @@ Eine moderne Legende besagt, dass die Spartaner mit Wasser im Mund gelaufen sind
 
 ### Aufmerksamkeit
 
-- Meditation
-- Achtsamkeit
+Wir sind glücklich, wenn unser Verstand geordnet ist, dass gelingt uns, wenn wir uns voll und ganz auf eine Aufgabe konzentrieren.
+
+Durch Meditation trainieren wir unsere Aufmerksamkeit. Wir lernen, unseren Geist zu fokussieren und uns nicht von Ablenkungen mitreißen zu lassen.
+
+Die Qualität unserer Produktivität und unserer Erfahrungen steigt, je mehr unsere Aufmerksamkeit wir darauf richten.
 
 ### Spüren
 
@@ -1006,10 +1062,25 @@ Wenn wir mit uns im Reinen sind, werden die anderen Grundlagen leichter. Wir kä
 
 ### Zelebrieren
 
-- Akzeptanz
-- Dankbarkeit
+Wir können lernen die Realität zu akzeptieren. Wir können nicht ändern, was bereits passiert ist. Wir können aber das Beste daraus machen.
+
+Wenn wir mit der Realität streiten können wir nur verlieren und fügen uns selbst mehr Schaden zu als nötig.
+
+Wenn es uns gelingt in jeder Situation etwas positives zu sehen, sind wir unaufhaltsam.
+
+Dankbarkeit kann unsere Zufriedenheit steigern. Es richtet unsere Aufmerksamkeit auf das, was wir haben.
+
+Wenn wir uns unzufrieden fühlen, können wir uns umsehen und finden Dinge, für die wir dankbar sind.
+
+Dadurch fühlen wir uns besser. Wir können nicht dankbar und unzufrieden gleichzeitig sein.
 
 ### Florieren
+
+Florieren bedeutet hoffnungsvoll in die Zukunft zu blicken.
+
+Dafür müssen wir an eine bessere Version unseres Lebens glauben und das Gefühl haben diese auch umzusetzen.
+
+Wir brauchen auch einen Plan, um die Vision zu erreichen und sollten darauf vorbereitet sein, dass er scheitert und wir einen neuen brauchen.
 
 Geld ist ein wichtiger Teil unseres Lebens. Es gibt uns Sicherheit und Freiheit. Wir können es nicht ignorieren, sondern müssen uns aktiv damit auseinandersetzen.
 
