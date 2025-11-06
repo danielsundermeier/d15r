@@ -679,6 +679,40 @@ Jede Art von Liebe hat ihre eigene Bedeutung und ihren eigenen Wert. Wir sollten
 
 Wir müssen sie nicht bei einer Person finden. Unterschiedliche Menschen können unterschiedliche Arten von Liebe in unser Leben bringen.
 
+Wir können dieses Konzept auch auf unsere Beziehung zu uns selbst anwenden.
+
+##### Selbstliebe
+
+Selbstliebe ist die Grundlage für alle anderen Arten von Liebe. Wenn wir uns selbst nicht lieben, können wir auch keine Liebe zu anderen Menschen aufbauen.
+
+Wir können Selbstliebe üben, indem wir uns selbst akzeptieren und wertschätzen. Wir sollten uns nicht mit anderen vergleichen, sondern uns auf unsere eigenen Stärken und Qualitäten konzentrieren.
+
+##### Familie und Freunde
+
+Familie und Freunde sind ein wichtiger Teil unseres sozialen Netzwerks. Sie geben uns Unterstützung, Geborgenheit und Zugehörigkeit.
+
+Wir sollten Zeit mit ihnen verbringen und unsere Beziehungen pflegen.
+
+##### Verbindung
+
+Barbara Fredrickson beschreibt in ihrem Buch „Love 2.0“ die Bedeutung von positiven Verbindungen für unser Wohlbefinden.
+
+Sie unterscheidet zwischen Liebe als Emotion und Liebe als Verbindung. Liebe als Verbindung entsteht durch kleine Momente der Verbundenheit und des Mitgefühls.
+
+Wir können diese Momente bewusst schaffen, indem wir uns auf andere Menschen einlassen und ihnen Aufmerksamkeit schenken.
+
+##### Ermutigung
+
+Mut ist das Herz des guten Lebens. Was können wir anderen also schöneres schenken, als sie zu ermutigen, ihr bestes Selbst zu leben?
+
+##### Passion
+
+Leidenschaft ist ansteckend. Wenn wir unsere Leidenschaft für etwas mit anderen teilen, inspirieren wir sie, ihre eigene Leidenschaft zu entdecken und zu verfolgen.
+
+##### Universal
+
+Liebe geht über individuelle Beziehungen hinaus und umfasst die gesamte Menschheit und das Leben selbst.
+
 ## Tage als Meisterwerke
 
 Unser Leben besteht aus vielen einzelnen Tagen. Jeder Tag ist eine Gelegenheit, ein kleines Meisterwerk zu erschaffen.
