@@ -681,6 +681,4 @@ Wenn die Bewohner unzufrieden sind, können sie umziehen und die Regierung hat n
 
 Gleichzeitig können die Probleme und Herausforderungen lokal gelöst werden. Die Menschen kennen sich und können gemeinsam an Lösungen arbeiten.
 
-
-
 [Übersicht](/eudaimonica)

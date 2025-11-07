@@ -607,4 +607,4 @@ Ziel soll sein, dass die Menschen ihre Steuern als gutes Investment betrachten, 
 
 Wir wollen daher echte Investitionen in Infrastruktur, Bildung, Forschung und Entwicklung. Wir wollen die Lebensqualität immer weiter steigern. Zusätzlich könnte es interessant sein Künstler und die Kultur allgemein zu fördern, ähnlich wie in der Renaissance.
 
-[Übersicht](/eudaimonica)
+[Übersicht](/eudaimonica
