@@ -44,6 +44,16 @@ Auch eine Stadt braucht eine Identität – ein gemeinsames Ziel, das ihre Mensc
 
 Darum sollten Städte menschliche Maßstäbe wahren – überschaubar, lebendig, verbunden. Eine Stadt mit etwa 10.000 Einwohnern auf rund einem Quadratkilometer – eine sogenannte 15-Minuten-Stadt – vereint das Beste beider Welten: Sie ist groß genug für Vielfalt und Zusammenarbeit, aber klein genug, um Beziehungen, Vertrauen und Verantwortung zu erhalten.
 
+Wir können in 15 Minuten ungefähr 1 km zu Fuß zurücklegen. Das ergibt einen maximalen Durchmesser von 1 km, wenn wir wirklich von jedem Punkt in maximal 15 Minuten jeden anderen erreichen wollen.
+
+Da Städte in der Realität nicht rund sind, sondern sich an der Geographie orientieren, kann die Form variieren. Außerdem ist ein Quadratkilometer eine schönere Zahl als 0,79 km².
+
+Im Mittelalter lag die Bevölkerungsdichte einer Stadt bei 200-300 Einwohnern pro Hektar. Das ergibt bei 100 Hektar (1 km²) eine Einwohnerzahl von 20.000-30.000. Wir setzen unsere Zielgröße aber etwas niedriger an, weil sich diese Zahlen zu groß anfühlen.
+
+Dadurch haben wir auch mehr Raum für Grünflächen und Gemeinschaftsorte. Außerdem gibt es uns mehr Flexibilität.
+
+Es geht hier nicht um die konkreten Zahlen, sondern um das Prinzip dahinter. Wir dürfen es, wie alles andere auch, durch Experimente herausfinden.
+
 Dadurch haben wir die Vorteile der großen Gruppe, aber nicht die Nachteile, einer zu großen Stadt.
 
 Das, was eine Stadt wirklich trägt, sind nicht ihre Gebäude oder Straßen, sondern die Beziehungen zwischen den Menschen. Diese Beziehungen machen das Ganze größer als die Summe seiner Teile.
