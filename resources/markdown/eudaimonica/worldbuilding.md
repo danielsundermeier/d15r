@@ -194,6 +194,44 @@ Wir können aber als Vorbild vorangehen und nach der goldenen Regel leben: Behan
 
 Wenn wir alle vor der eigenen Haustür kehren, wird sich die Welt von selbst verändern.
 
+Wenn wir auf Grundlage unserer Natur handeln, werden sich unsere Einstellung, Vorlieben, Prioritäten, Bedürfnisse und unser Leben stark ändern
+
+Ich glaube ich bin noch zu sehr im aktuellen System, als dass ich wirklich vorhersagen könnte, wie sich alles verändern wird.
+
+Ich spüre die inneren Blockaden, die mich noch daran hindern, das große Ganze zu sehen.
+
+Das zeigt mir, wie sehr ich diese Muster und Geschichten verinnerlicht habe. Meine Fantasie ist dadurch noch sehr eingeschränkt.
+
+Ich habe hier die Gelegenheit ein völlig neues System zu entwerfen und trotzdem ähnelt es dem aktuellen.
+
+Es hilft etwas, es als Spiel zu sehen, dass nichts mit der Realität zu tun hat. Trotzdem fühle ich mich noch nicht frei genug, um wirklich kreativ zu sein.
+
+Aber darum geht es hier nicht. Es sind nur Gedankenexperimente, die mir helfen, meine eigene Einstellung zu hinterfragen und neue Perspektiven zu entdecken.
+
+Diese Systeme werden sich von selbst entwickeln, wenn wir die richtigen Rahmenbedingungen schaffen.
+
+Das wird sich alles wie von selbst ergeben, weil wir mit anderen Augen auf die Welt blicken.
+
+Das ist die Macht der Emergenz.
+
+Wir brauchen aber ein paar Ideen und Visionen, die uns motivieren und zeigen, wie es aussehen könnte.
+
+Je mehr wir davon haben, umso besser.
+
+### Gesetze und Regeln
+
+Wir brauchen einen klaren rechtlichen Rahmen, der die Zusammenarbeit und das Miteinander fördert. Die Gesetze sollten einfach, transparent und für alle verständlich sein. Sie sollten den Menschen dienen und nicht umgekehrt.
+
+Die Grundlage bildet die Kommunikation und das Vertrauen zwischen den Menschen.
+
+Wenn wir empathisch und authentisch miteinander umgehen, brauchen wir weniger Regeln und Kontrollen.
+
+Ich stelle mir eher Richtlinien vor, die uns Orientierung geben, anstatt detaillierte Vorschriften. Im Prinzip müsste so etwas wie die 10 Gebote genügen.
+
+Dadurch ist der Rahmen abgesteckt, in dem wir uns bewegen können. Wir wissen, was erlaubt ist und was nicht.
+
+Wir wollen anderen Menschen nicht schaden. Wir respektieren die Freiheit und Rechte anderer.
+
 ### Open Source
 
 Alles, was wir erschaffen, soll offen und zugänglich sein. Wir wollen Wissen und Ressourcen teilen, damit jeder davon profitieren kann.
@@ -397,17 +435,37 @@ Wenn es uns irgendwo nicht gefällt, ziehen wir einfach weiter.
 
 Der menschliche Wohlstand basiert vollständig auf der Natur – unserem ursprünglichen „Treuhandfonds“. Über Jahrmillionen hat das Leben in diesen Fonds investiert und ihn dadurch immer weiter aufgebaut.
 
-Energie war die erste Form von Profit. In der Natur steigt die Energie, die dem Gesamtsystem zur Verfügung steht durch ihren Verbrauch. Pflanzen wandeln zum Beispiel Sonnenlicht in chemische Energie um, die dann von Tieren und Mikroorganismen genutzt wird.
+Energie war die erste Form von Profit. In der Natur steigt die Energie, die dem Gesamtsystem zur Verfügung steht, durch ihren Verbrauch. Die Lebewesen wandeln Energie um und machen sie für andere nutzbar.
+
+Pflanzen wandeln zum Beispiel Sonnenlicht in chemische Energie um, die dann von Tieren und Mikroorganismen genutzt wird.
 
 Das Energiesystem der Erde ist nicht geplant oder gesteuert. Es entsteht durch Selbstorganisation und Evolution.
 
 Es wird mehr produziert als benötigt wird. Der Überschuss gibt Sicherheit.
+
+Diversität garantiert, dass es immer genügend Ressourcen gibt. Alles hat möglichst mehrere Funktionen und jede Aufgabe wird von vielen kleinen, statt wenigen großen Einheiten übernommen.
 
 Abfall existiert nicht. Alles wird wiederverwendet und recycelt. Die Ausscheidungen von einem Organismus sind der Dünger für einen anderen.
 
 Energie kann höchstens bis zum Tod gespiechert werden. Spätestens zu diesem Zeitpunkt wird sie wieder in das System zurückgeführt.
 
 Unser Wirtschaftssystem sollte auf denselben Prinzipien basieren.
+
+Das Ziel ist das gute Leben und und die Lebensqualität immer weiter zu steigern. Unser Drang zu horten entsteht aus Angst, dass nicht genug da ist. Einem Gefühl von Mangel.
+
+Je mehr wir haben, umso größer wird diese Angst. Es wird immer verlockender für andere, es uns wegzunehmen.
+
+Wir wollen Überfluss, Vertrauen und soziale Netze schaffen, die uns echte Sicherheit geben.
+
+Ich bin unsicher, ob die gleichen Regeln für alle Städte gelten sollten oder ob sie sich selbst aussuchen können, wie sie sich finanzieren wollen. Eine Regel für alle widerspricht der Philosophie der Vielfalt und Experimente. Auf der anderen Seite ist es etwas, dass im Hintergrund läuft und nicht ständig geändert werden sollte. Es ist ein Rahmen, der uns Sicherheit gibt und über den wir nicht ständig nachdenken müssen.
+
+Ich glaube ich bin noch zu sehr im aktuellen System. Ich erwarte, dass sich unsere Einstellung, Vorlieben, Prioritäten, Bedürfnisse und unser Leben stark ändern werden.
+
+Das gleiche gilt auch für die Gesundheitsversorgung, Verpflegung und Versicherungen. Der Standard sollte überall gleich hoch sein.
+
+Der Fokus soll nicht auf den Finanzen oder Gesetzen, sondern auf der Arbeit und der Entwicklung liegen. Wir wollen unsere Projekte ohne viel Bürokratie umsetzen können. Wir wollen den Widerstand so gering wie möglich halten.
+
+#### Preise als Signale
 
 Wir haben mit dem Markt bereits ein Werkzeug für die Selbstorganisation. Wir müssen es nur richtig einsetzen.
 
@@ -423,7 +481,13 @@ Eine künstliche Intelligenz könnte dabei helfen, sie objektiv zu berechnen und
 
 Menschen dürfen nicht eingreifen, um Preise zu beeinflussen. Es muss ein fairer Wettbewerb herrschen, damit Märkte funktionieren. Die Informationen müssen für alle zugänglich sein.
 
-Wir wollen verhindern, dass es lukrativer ist, Geld mit Geld zu verdienen als mit Arbeit. Deshalb gibt es keine Zinsen oder Schulden mehr.
+#### Geld
+
+Wir wollen verhindern, dass es lukrativer ist, Geld mit Geld zu verdienen als mit Arbeit. Deshalb gibt es keine Zinsen, Schulden, Inflation oder Spekulation mehr.
+
+Das Geld soll sich nicht in den Händen weniger konzentrieren, sondern gleichmäßig aber angemessen, verteilt sein und im Umlauf bleiben.
+
+Das verhindert zusätzlich Boom und Bust Zyklen.
 
 Wir können durch Beteiligungen oder das Crowdfunding Kapital für Projekte sammeln. Die Rendite wird dann durch die Gewinne des Projekts bestimmt oder als Produkt oder Dienstleistung ausgezahlt.
 
@@ -432,6 +496,8 @@ Geld soll wieder zu einem reinen Tauschmittel werden, nicht zu einem Statussymbo
 Stattdessen wollen wir Arbeit schaffen, die uns erfüllt und die Welt verbessert. Dann müssen wir uns keine Wege mehr ausdenken, wie wir nicht mehr Arbeiten müssen (finanzielle Unabhängigkeit, Rente).
 
 Status basiert nicht auf Besitz oder Symbolen, sondern auf Beitrag zum Leben, Kreativität, Kooperation.
+
+#### Wirtschaftssystem
 
 Der Wachstumszwang entfällt und wir sind nicht gezwungen, ständig mehr zu produzieren.
 
@@ -443,13 +509,41 @@ Wir erreichen das, indem wir alle Prozesse automatisieren und Systeme so gestalt
 
 Wir können uns auf das Wesentliche konzentrieren und unsere Ressourcen sinnvoll einsetzen.
 
-Es gibt eine kostenlose Grundversorgung, die für jeden verfügbar ist.
+Energie und Ressourcen werden investiert, um neue Systeme aufzubauen, nicht um den Status quo aufrechtzuerhalten.
+
+Unsere Hauptaufgabe ist Systeme zu schaffen, die sich selbst erhalten und verbessern.
+
+Wir brauchen eine Anfangsfinanzierung, um die Infrastruktur aufzubauen. Im besten Fall können die entstehenden Kosten und die Weiterentwicklung durch den laufenden Betrieb gedeckt werden.
+
+Wenn Energie und Arbeit (durch Maschinen) kostenlos sind, sind auch die laufenden Kosten sehr gering bis nicht mehr vorhanden.
+
+Sobald dieser Punkt erreicht ist, können wir alles andere auch kostenlos produzieren. Zusätzlich werden die Technologien durch die Forschung und Entwicklung immer leistungsfähiger und effizienter.
+
+Da wir aber aus dem Blickwinkel der Knappheit denken, fällt es uns schwer, uns eine Welt vorzustellen, in der alles im Überfluss vorhanden ist.
+
+#### Grundversorgung
+
+Es gibt eine kostenlose rudimentäre Grundversorgung, die für jeden kostenlosverfügbar ist.
+
+Sie ersetzt alle anderen Sozialleistungen, wie Arbeitslosengeld oder die Rente.
+
+Es soll uns die Möglichkeit geben uns selbst zu entfalten, aber auch dazu anregen uns etwas aufzubauen und unseren Beitrag zu leisten.
+
+Sie dient als Sicherheitsnetz und als Startpunkt.
 
 Dadurch stellen wir sicher, dass jeder Mensch Zugang zu den Ressourcen hat, die er zum Leben braucht und dadurch am gesellschaftlichen Leben teilnehmen kann.
 
 Das schafft die Voraussetzungen für Kreativität, Innovation und gesellschaftlichen Fortschritt.
 
 Je mehr Menschen wir über diese Schwelle heben, desto stabiler und wohlhabender wird die Gesellschaft insgesamt. Wir haben außerdem mehr Chancen, Talente und Ideen zu entdecken.
+
+Unsere Arbeit soll uns so viel Freude bereiten, dass wir sie gerne machen und gar nicht in Rente gehen wollen.
+
+Wahrscheinlich werden wir auch viele unterschiedliche Jobs in unserem Leben machen. Vielleicht auch gleichzeitig. Wir entwickeln uns immer weiter und unsere Interessen ändern sich.
+
+Es wird immer wieder Phasen geben, in denen wir uns zurückziehen und uns auf uns selbst konzentrieren wollen. Auch die Erziehung unserer Kinder wird viel Zeit in Anspruch nehmen, die wir uns nehmen können und sollten.
+
+#### Spezialisierte Systeme
 
 Für alles, was darüber hinausgeht, gibt es einen freien Markt.
 
@@ -464,5 +558,53 @@ Anstatt ein Wirtschaftssystem für alles zu haben, gibt es viele kleine, spezial
 Es kommt auf den Kontext an. Wir setzen das ein, was gerade am besten passt.
 
 Lebensmittel oder Wasser sind etwas anderes als Luxusgüter. Nicht alles muss auf die gleiche Weise gehandhabt werden.
+
+#### Erben
+
+Der Sinn und die Bedeutung soll im Vordergrund stehen und nicht das Streben nach immer mehr Geld.
+
+Ungleichheit entsteht vor allem durch das Erben von Vermögen. Es schafft eine Klasse von Menschen, die ohne eigene Leistung leben können.
+
+Ziel ist es die Menschen zu ermutigen in die Städte und die Gemeinschaft zu investieren. So können sie ihren aber auch allen anderen Kindern eine gute Umgebung bieten, in der sie aufwachsen können.
+
+Deshalb gibt es keine Erbschaften mehr. Alles, was wir besitzen, gehört uns nur für unser Leben.
+
+Es ist wichtig, dass wir uns selbst etwas aufbauen und nicht nur von dem leben, was unsere Eltern oder Großeltern geschaffen haben. Gleichzeitig wollen wir es unseren Kindern ermöglichen ein gutes - in Wahrheit ein besseres - Leben zu führen. Es ihnen so einfach wie möglich zu machen.
+
+Das können wir aber erreichen indem wir eine gute Umgebung schaffen, in der sie aufwachsen können. Wir können zusätzlich mehr Zeit in die Erziehung und Förderung unserer Kinder investieren.
+
+Eltern sollen viel Zeit mit ihren Kindern verbringen und ihnen so den besten Start ins Leben ermöglichen. Werte und Fähigkeiten weitergeben und eine Infrastruktur schaffen, die ihnen hilft, sich zu entfalten.
+
+Es ist aber nicht förderlich, wenn uns alles in den Schoß gelegt wird. Zufriedenheit entsteht durch Wachstum und Entwicklung. Wir brauchen Herausforderungen und müssen auch das Scheitern lernen. Auch mal Dinge tun, die uns nicht so leicht fallen oder auf die wir keine Lust haben.
+
+Deshalb gibt es eine Grundversorgung und keine Erbschaften. Wir alle haben dadurch die gleichen Chancen und es gibt einen starken Anreiz in die Stadt zu investieren.
+
+#### Unternehmen
+
+Unternehmen haben einen Zweck. Wir gründen sie, um ein Problem zu lösen oder einen Bedarf zu decken. Unsere Aufgabe ist es das Problem nachhaltig zu lösen oder die Produktion zu automatisieren. Wenn das erledigt ist, ist der Zweck erfüllt und das Unternehmen kann aufgelöst werden.
+
+Aus diesem Grund gehören Unternehmen sich selbst. Wir wollen, dass sie sich selbst überflüssig machen und es keinen anderen Grund gibt, sie weiterzuführen.
+
+#### Steuern
+
+Mit Steuern und Gesetzen können wir Anreize setzen. Wir können so vermitteln, was uns wichtig ist.
+
+Einkommen zu besteuern ist kontraproduktiv, weil es die Arbeit bestraft. Wir wollen aber auch verhindern, dass Menschen sich in dem Streben nach immer mehr Geld verlieren.
+
+Es gibt daher eine progressive Einkommenssteuer. Die Steuerprogression steigt kontinuierlich an, vielleicht auch bis zu 100%. So gibt es einen Deckel, wie viel wir verdienen können.
+
+Der Freibetrag ist so hoch, dass wir mit dem, was wir zusätzlich zu der Grundversorgung verdienen, ein gutes Leben führen können.
+
+Wir setzen auf Zugang statt Besitz. Eine Vermögenssteuer ist daher nicht sinnvoll.
+
+Zusätzlich gibt es eine Gewinn- oder Umsatzsteuer für Unternehmen. Ich sehe es aber eher als eine Gewinn- oder Umsatzbeteiligung. Eine Provision für die Teilnahme am Markt. Wir alle haben intensiv in die Infrastruktur und die Ausbildung investiert. Deshalb sollte die Gemeinschaft auch an den Gewinnen beteiligt werden.
+
+Die Berechnung soll sehr einfach sein, damit wir keine große Bürokratie brauchen.
+
+Abschriebungen oder Sonderregelungen soll es nicht geben. Je einfacher das System, desto weniger Aufwand und Kosten entstehen. Wir wollen keine Ressourcen für die Verwaltung verschwenden.
+
+Ziel soll sein, dass die Menschen ihre Steuern als gutes Investment betrachten, weil sie davon profitieren. Steuern zu zahlen sollte uns mit stolz erfüllen. Vielleicht kann das zu einem neuen Statussymbol werden.
+
+Wir wollen daher echte Investitionen in Infrastruktur, Bildung, Forschung und Entwicklung. Wir wollen die Lebensqualität immer weiter steigern. Zusätzlich könnte es interessant sein Künstler und die Kultur allgemein zu fördern, ähnlich wie in der Renaissance.
 
 [Übersicht](/eudaimonica)
