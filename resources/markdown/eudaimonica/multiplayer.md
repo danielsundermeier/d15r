@@ -48,9 +48,13 @@ Wir können in 15 Minuten ungefähr 1 km zu Fuß zurücklegen. Das ergibt einen 
 
 Da Städte in der Realität nicht rund sind, sondern sich an der Geographie orientieren, kann die Form variieren. Außerdem ist ein Quadratkilometer eine schönere Zahl als 0,79 km².
 
-Im Mittelalter lag die Bevölkerungsdichte einer Stadt bei 200-300 Einwohnern pro Hektar. Das ergibt bei 100 Hektar (1 km²) eine Einwohnerzahl von 20.000-30.000. Wir setzen unsere Zielgröße aber etwas niedriger an, weil sich diese Zahlen zu groß anfühlen.
+Im Mittelalter lag die Bevölkerungsdichte einer Stadt bei 200-300 Einwohnern pro Hektar. Das entspricht in etwas dem, was in den Altstädten, die wir so schätzen, heute noch vorzufinden ist.
+
+Das ergibt bei 100 Hektar (1 km²) eine Einwohnerzahl von 20.000-30.000. Wir setzen unsere Zielgröße aber etwas niedriger an, weil sich diese Zahlen zu groß anfühlen.
 
 Dadurch haben wir auch mehr Raum für Grünflächen und Gemeinschaftsorte. Außerdem gibt es uns mehr Flexibilität.
+
+Heute haben wir zwar eine geringere Bevölkerungsdichte, aber größere Städte. Das führt dazu, dass wir uns in der Stadt oft verloren fühlen. Alles ist weiter voneinander entfernt und wir sind auf Autos angewiesen, um uns fortzubewegen.
 
 Es geht hier nicht um die konkreten Zahlen, sondern um das Prinzip dahinter. Wir dürfen es, wie alles andere auch, durch Experimente herausfinden.
 
