@@ -1,6 +1,6 @@
 # Worldbuilding
 
-Genau wie die Städte sich aus vielen Menschen bilden, besteht die Welt aus Städten die sich in Bioregionen organisieren.
+Genau wie die Städte sich aus vielen Menschen bilden, besteht die Welt aus Städten, die sich in Bioregionen organisieren.
 
 Wir können also auch den Planeten wie einen Organismus betrachten, der aus vielen Zellen besteht.
 
@@ -12,7 +12,7 @@ Ich bin noch unsicher, ob das auch auf die Ebene des Planeten zutrifft. Ich möc
 
 ## Eudaimonologie
 
-Wie auch alle anderen Lebewesen, haben wir eine Aufgabe im Ökosystem. Wir haben einzigartige Fähigkeiten, die uns von anderen Lebewesen unterscheiden:
+Wie auch alle anderen Lebewesen haben wir eine Aufgabe im Ökosystem. Wir haben einzigartige Fähigkeiten, die uns von anderen Lebewesen unterscheiden:
 
 - Empathie
 - Kreativität
@@ -22,29 +22,29 @@ Wie auch alle anderen Lebewesen, haben wir eine Aufgabe im Ökosystem. Wir haben
 
 Unsere Aufgabe ist es, das Ökosystem zu unterstützen und zu verbessern.
 
-Diese Aufgabe wurde uns nicht "gegeben" – sie entspringt unserer Natur selbst, wie ein Same, der wachsen will.
+Diese Aufgabe wurde uns nicht „gegeben" – sie entspringt unserer Natur selbst, wie ein Same, der wachsen will.
 
 Anstatt es uns zu unterwerfen, sind wir eher dazu gemacht, es zu pflegen und zu schützen.
 
-Als Gestalter Systeme zu erschaffen, die das Leben fördern und erhalten.
+Als Gestalter, Systeme zu erschaffen, die das Leben fördern und erhalten.
 
 Wir sind in der Lage, das Leben im Universum zu verbreiten.
 
 Ich denke nicht, dass wir dazu bestimmt sind, Herrscher über die Erde zu sein. Vielmehr sind wir Teil eines größeren Ganzen.
 
-Wir sind der Dirigent, der das Orchester des Lebens leitet, aber nicht der Komponist der Symphonie.
+Wir sind der Dirigent, der das Orchester des Lebens leitet, aber nicht der Komponist der Sinfonie.
 
 Leben strebt zu immer mehr Komplexität und Vielfalt. Wir sind nicht das Endziel dieser Entwicklung, sondern ein weiterer Schritt auf dem Weg.
 
 Wenn wir unsere Aufgabe erfüllen, können wir dazu beitragen, die nächste Stufe der Evolution einzuleiten.
 
-Unsere Aufgabe ist nicht, den Planeten zu verlassen. Stattdessen sollen wir lernen, im Einklang mit ihm zu leben. Ihn zum Aufblühen zu bringen.
+Unsere Aufgabe ist nicht, den Planeten zu verlassen. Stattdessen sollen wir lernen, im Einklang mit ihm zu leben und ihn zum Aufblühen zu bringen.
 
-Es wird sicher vereinzelt Menschen geben, die es in den Weltraum zieht. Genauso wie die Entdecker und Abenteurer aus der Vergangenheit zu neuen Ufern aufgebrochen sind.
+Es wird sicher vereinzelt Menschen geben, die es in den Weltraum zieht, genauso wie die Entdecker und Abenteurer aus der Vergangenheit zu neuen Ufern aufgebrochen sind.
 
 Milliarden von Neuronen in unserem Gehirn führen zu einem Bewusstsein. Milliarden von Menschen, die miteinander kommunizieren und zusammenarbeiten, können vielleicht auch so etwas wie ein Bewusstsein für den Planeten erschaffen.
 
-Je komplexer die Systeme werden, desto mehr Möglichkeiten ergeben sich. Ich weiß nicht, wie es aussehen könnte, es scheint aber eine natürliche Entwicklung zu sein.
+Je komplexer die Systeme werden, desto mehr Möglichkeiten ergeben sich. Ich weiß nicht, wie es aussehen könnte, aber es scheint eine natürliche Entwicklung zu sein.
 
 Genau wie unsere Zellen oder Organe nicht wissen, was ein Mensch ist, wissen wir nicht, was ein bewusster Planet ist. Wir sind Teil davon und können nur erahnen, was daraus entstehen könnte.
 
@@ -56,11 +56,11 @@ Wir können den Samen des Lebens zuerst hierher und dann in andere Teile des Uni
 
 Wir tragen dazu bei, das Universum aufzuwecken.
 
-Nicht jeder Planet ist dafür geeignet Leben zu beherbergen. Sie haben aber auch einzigartige Eigenschaften, die wir nutzen können.
+Nicht jeder Planet ist dafür geeignet, Leben zu beherbergen. Sie haben aber auch einzigartige Eigenschaften, die wir nutzen können.
 
 Wie die Organe in unserem Körper unterschiedliche Funktionen haben, können auch die Planeten unterschiedliche Aufgaben im Sonnensystem erfüllen.
 
-Jedes Einzelne hat seine eigene Rolle und Bedeutung. Alles ist entscheidend für das Funktionieren des Ganzen.
+Jeder Einzelne hat seine eigene Rolle und Bedeutung. Alles ist entscheidend für das Funktionieren des Ganzen.
 
 Wenn sie zusammenarbeiten, entsteht ein größeres Ganzes.
 
@@ -82,9 +82,9 @@ Da wir unsere Produktion auf die schlechtesten Bedingungen auslegen, sind wir ge
 
 ## Identität
 
-Wofür soll die Menschheit stehen? Ein Ziel, dass uns alle vereint.
+Wofür soll die Menschheit stehen? Ein Ziel, das uns alle vereint.
 
-Ein großes Projekt hinter dem wir uns vereinen können. Etwas wie die Mondlandung oder dem Verbessern der Lebensqualität aller Menschen.
+Ein großes Projekt, hinter dem wir uns vereinen können. Etwas wie die Mondlandung oder das Verbessern der Lebensqualität aller Menschen.
 
 ### Lebensbereiche
 
@@ -110,7 +110,7 @@ Perspektivisch wollen wir die abgestrahlte Energie der Erde nutzen. Sie ist in F
 
 Die Sonne scheint tagsüber und die Erde strahlt die Energie nachts wieder ab. Dadurch ist immer Energie verfügbar.
 
-Da die Wärme aber nicht abgestrahlt wird, müssen wir einen Weg finden sie zu nutzen, ohne den Planeten zu überhitzen.
+Da die Wärme aber nicht abgestrahlt wird, müssen wir einen Weg finden, sie zu nutzen, ohne den Planeten zu überhitzen.
 
 #### Arbeit
 
@@ -128,11 +128,11 @@ Wir produzieren lokal, denken aber global. Wir teilen Ressourcen und Wissen, um 
 
 Wir arbeiten gemeinsam an großen Projekten und teilen die Ergebnisse.
 
-Jeder kann sich an den Projekten beteiligen, die ihn interessieren und seine Stärken einbringen.
+Jeder kann sich an den Projekten beteiligen, die ihn interessieren, und seine Stärken einbringen.
 
 #### Liebe
 
-Wir schaffen einen globalen Wettbewerb der Liebe. Es ist egal wer gewinnt, weil wir alle profitieren.
+Wir schaffen einen globalen Wettbewerb der Liebe. Es ist egal, wer gewinnt, weil wir alle profitieren.
 
 Toleranz und Akzeptanz sind wichtige Werte, die wir fördern wollen.
 
@@ -156,7 +156,7 @@ Zuerst müssen sie von Menschen erledigt werden, damit wir verstehen, wie sie fu
 
 Die Aufgabe von allen Menschen könnte sein, sich selbst überflüssig zu machen.
 
-Dadurch haben wir die Möglichkeit uns auf die wirklich wichtigen Dinge zu konzentrieren und uns neuen Herausforderungen zu stellen.
+Dadurch haben wir die Möglichkeit, uns auf die wirklich wichtigen Dinge zu konzentrieren und uns neuen Herausforderungen zu stellen.
 
 Durch die Automatisierung und effiziente Gestaltung unserer Umgebung haben wir immer mehr Ressourcen zu immer günstigeren Preisen.
 
@@ -166,7 +166,7 @@ In der Natur organisiert sich alles von selbst. Zellen, Organismen, Ökosysteme,
 
 Es funktioniert durch Kommunikation und Signale.
 
-Wenn eine Zelle nicht genug Sauerstoff bekommt, sendet sie ein Signal aus, dass von Zellen in den Adern aufgenommen wird. Die Ader wächst dann in Richtung der Zelle.
+Wenn eine Zelle nicht genug Sauerstoff bekommt, sendet sie ein Signal aus, das von Zellen in den Adern aufgenommen wird. Die Ader wächst dann in Richtung der Zelle.
 
 Die Ameisen kommunizieren durch Duftstoffe. Wenn eine Ameise Futter findet, hinterlässt sie eine Duftspur, der andere Ameisen folgen können.
 
@@ -174,7 +174,7 @@ Es sind einfache Regeln, die zu komplexem Verhalten führen.
 
 Moral, Empathie und Vertrauen sind lokale Phänomene. Sie entstehen, wenn Menschen sich kennen, sehen, fühlen, spüren. Wenn Strukturen so groß werden, dass diese Rückkopplung verschwindet, verliert das System seine Ethik.
 
-In kleinen Gemeinschaften reguliert sich Verhalten durch Beziehung. In anonymen Systemen braucht man Bürokratie, Kontrolle, Gesetze – und doch bricht Vertrauen weg. Das Ergebnis: ein kaltes, abstraktes, selbstreferenzielles System, das "funktioniert", aber nicht lebt.
+In kleinen Gemeinschaften reguliert sich Verhalten durch Beziehung. In anonymen Systemen braucht man Bürokratie, Kontrolle, Gesetze – und doch bricht Vertrauen weg. Das Ergebnis: ein kaltes, abstraktes, selbstreferenzielles System, das „funktioniert", aber nicht lebt.
 
 Wenn es uns gelingt, Systeme zu gestalten, die sich selbst organisieren, können wir viel effizienter und flexibler werden.
 
@@ -188,87 +188,11 @@ Es ist auch eine gute Vorbereitung für die Automatisierung.
 
 Es entstehen natürliche Hierarchien und Strukturen, die sich an die Bedürfnisse und Fähigkeiten der Menschen anpassen. Sie lösen sich aber auch wieder auf, wenn sie nicht mehr gebraucht werden.
 
-Egal wie sehr wir es versuchen, wir können andere nicht ändern. Kontrolle und Zwang gehen oft nach hinten los.
+Egal, wie sehr wir es versuchen, wir können andere nicht ändern. Kontrolle und Zwang gehen oft nach hinten los.
 
-Wir können aber als Vorbild voran gehen und nach der goldenen Regel leben: Behandle andere so, wie du selbst behandelt werden möchtest.
+Wir können aber als Vorbild vorangehen und nach der goldenen Regel leben: Behandle andere so, wie du selbst behandelt werden möchtest.
 
 Wenn wir alle vor der eigenen Haustür kehren, wird sich die Welt von selbst verändern.
-
-#### Markt
-
-Preise und Märkte koordinieren individuelle Entscheidungen ohne zentrale Steuerung. Wenn sie funktionieren, entsteht eine erstaunliche emergente Ordnung – ähnlich wie in Ökosystemen.
-
-**Preise** sind Informationssignale.
-Sie zeigen Knappheit, Nachfrage, und Wertempfinden an.
-Wenn ein Gut knapp wird, steigt der Preis → Menschen sparen oder suchen Alternativen → Ressourcen werden gelenkt.
-
-**Märkte** sind Netzwerke von Austauschbeziehungen.
-Menschen handeln freiwillig Güter, Dienstleistungen oder Zeit, wodurch ein Gleichgewicht zwischen Angebot und Nachfrage entstehen kann – ohne dass jemand das Ganze „plant“.
-
-Märkte sind der Versuch, Komplexität durch dezentrale Kommunikation (Preissignale) zu meistern.
-
-##### Vorteile
-
-- **Dezentrale Intelligenz**: Niemand muss alles wissen. Millionen individueller Entscheidungen erzeugen kollektive Ordnung. → Spontane Effizienz.
-- **Anpassungsfähigkeit**: Märkte reagieren schnell auf Veränderungen (z. B. Knappheit, neue Technologien, Mode, Wetter). → Dynamisch statt starr.
-- **Innovation**: Wettbewerb und mögliche Gewinne motivieren zum Ausprobieren. → Evolutionärer Fortschritt.
-- **Freiwilligkeit und Vielfalt**: Menschen entscheiden selbst, was sie kaufen oder anbieten. → Ausdruck individueller Präferenzen.
-
-##### Nachteile und Grenzen
-
-- **Externe Effekte**: Preise spiegeln nicht alles wider – z. B. Umweltzerstörung, soziale Kosten oder langfristige Risiken. → Marktversagen durch unsichtbare Folgen.
-- **Ungleichheit und Macht**: Märkte belohnen nicht Gerechtigkeit, sondern Zahlungsfähigkeit. → Konzentration von Reichtum, Monopole, Ungleichheit.
-- **Kurzfristigkeit**: Preise reagieren auf das Jetzt, nicht auf die Zukunft. → Klima, Biodiversität, soziale Stabilität werden unterbewertet.
-- **Manipulation und Spekulation**: Informationsasymmetrien, Werbung, Finanzmärkte etc. verzerren Preise. → Marktlogik wird zum Spiel, nicht zur realen Koordination.
-- **Ethische Grenzen**: Nicht alles, was gehandelt werden kann, sollte gehandelt werden (z. B. Organe, Daten, Aufmerksamkeit). → Moralische Dimension.
-
-##### Was muss gegeben sein, damit Märkte funktionieren?
-
-Damit Selbstorganisation stabil und gesund bleibt, braucht sie Rahmenbedingungen – wie jedes Ökosystem. Zum Beispiel:
-
-- **Vertrauen und Rechtsstaat**: Verträge müssen gelten, Betrug muss bestraft werden → sonst bricht die Grundlage des Tauschens weg.
-- **Transparenz und Information**: Preise müssen auf realen Informationen beruhen, nicht auf Täuschung.
-- **Wettbewerb und Zugang**: Märkte funktionieren nur, wenn viele Akteure teilnehmen können → Monopole zerstören Selbstorganisation.
-- **Internes Gleichgewicht**: Externe Kosten (z. B. Umweltzerstörung) müssen eingepreist werden → sonst entsteht kollektives Marktversagen.
-- **Kultureller Rahmen**: Märkte brauchen Werte wie Ehrlichkeit, Fairness, Maß. Ohne Ethik degenerieren sie zu Ausbeutungssystemen.
-
-##### Prediction Markets
-
-Sie sind gewissermaßen eine konzentrierte Form von kollektiver Intelligenz. Sie funktionieren, weil sie individuelle Einschätzungen in ein gemeinsames Preissignal übersetzen – ähnlich wie normale Märkte, nur dass das „Gut“ hier Wissen oder Wahrscheinlichkeit ist.
-
-Hier können wir Anteile an möglichen zukünftigen Ereignissen handeln – etwa:
-
-- „Wird Kandidat X die Wahl gewinnen?“
-- „Wird das Bruttosozialprodukt nächstes Jahr steigen?“
-
-Wenn du glaubst, dass etwas mit hoher Wahrscheinlichkeit eintritt, kaufst du Anteile an diesem Ereignis.
-Wenn du glaubst, dass es nicht eintritt, verkaufst du sie oder setzt auf das Gegenteil.
-
-Der Preis des Anteils spiegelt die kollektive Wahrscheinlichkeitseinschätzung wider.
-
-Wenn z. B. der Anteil „Kandidat X gewinnt“ bei 0,72 € steht, interpretiert man das als:
-
-Der Markt schätzt die Wahrscheinlichkeit des Sieges auf 72 %.
-
-Es ist im Grunde ein Mechanismus zur Aggregation von Wissen – die Schwarmintelligenz in ökonomischer Form.
-
-- **Individuelle Informationen**: Jeder Marktteilnehmer hat einen Teil des Puzzles: Insiderwissen, Intuition, Daten, Erfahrung. Der Preis verdichtet all das in einer Zahl. → kollektives Signal
-- **Finanzieller Anreiz**: Im Gegensatz zu Umfragen oder Abstimmungen haben Menschen etwas zu verlieren oder zu gewinnen. Das diszipliniert sie: Wer falsch liegt, verliert Geld. Wer recht hat, wird belohnt. So wird ehrliche Information gefördert.
-- **Kontinuierliche Aktualisierung**: Der Markt reagiert sofort auf neue Informationen (Nachrichten, Ereignisse, Trends). → Dadurch sind die „Vorhersagepreise“ immer aktuell und adaptiv.
-- **Selbstkorrektur**: Irrtümer sind Chancen: Wenn der Preis von der „realistischen“ Wahrscheinlichkeit abweicht, machen Arbitrageure Gewinn, indem sie dagegenhalten. → So nähert sich der Markt immer dem besten verfügbaren Konsens an.
-
-Es funktioniert beeindruckend gut. Märkte wie Iowa Electronic Markets oder PredictIt haben in politischen Prognosen oft bessere Trefferquoten als Umfragen. Auch Unternehmen (z. B. Google, HP, Microsoft) haben interne Prediction Markets genutzt, um Projektverläufe, Verkaufszahlen oder technische Risiken besser einzuschätzen.
-
-Märkte denken in Wahrscheinlichkeiten, nicht in Ja/Nein-Kategorien – und weil sie die kollektive Intelligenz mit Skin in the Game koppeln.
-
-Es gibt aber auch Grenzen und Probleme:
-
-- **Informationsasymmetrie**: Wenn nur wenige über echte Informationen verfügen, kann der Markt manipuliert oder verzerrt werden.
-- **Liquidität und Teilnehmerzahl**: Ein Markt funktioniert nur, wenn viele und verschiedene Menschen teilnehmen. Sonst entsteht kein echter Schwarm.
-- **Moralische und rechtliche Fragen**: Bei sensiblen Themen (z. B. Terroranschläge, Todesfälle, Wahlen) kann „Wetten auf Ereignisse“ ethisch problematisch sein.
-- **Reflexivität**: Der Markt selbst kann Ereignisse beeinflussen: Wenn z. B. der Markt eine Niederlage prognostiziert, kann das das Verhalten von Wählern oder Investoren verändern.
-
-Prediction Markets sind eine Epistemologie in Aktion – eine Methode, Wahrheit durch verteiltes, interessengeleitetes Handeln zu finden. Sie sind ein Beispiel dafür, wie Selbstorganisation Wissen erzeugt.
 
 ### Open Source
 
@@ -280,23 +204,23 @@ So kann jeder seinen Beitrag leisten und seine Stärken einbringen.
 
 Auch große Projekte können so realisiert werden. Viele kleine Beiträge können zusammen etwas Großes erschaffen.
 
-Es können sich Netzwerke und Gemeinschaften bilden, die gemeinsam an Lösungen arbeiten. Nachdem die Arbeit getan ist, können sich die Gemeinschaften wieder auflösen oder mit etwas ähnlichem weitermachen.
+Es können sich Netzwerke und Gemeinschaften bilden, die gemeinsam an Lösungen arbeiten. Nachdem die Arbeit getan ist, können sich die Gemeinschaften wieder auflösen oder mit etwas Ähnlichem weitermachen.
 
-So können die Menschen entscheiden, welche Projekte sie unterstützen wollen und so die Richtung der Entwicklung mitbestimmen.
+So können die Menschen entscheiden, welche Projekte sie unterstützen wollen, und so die Richtung der Entwicklung mitbestimmen.
 
 ### Gesundheit
 
-Es gibt Ärzte, deren Aufgabe es ist uns gesund zu halten. Wir sammeln regelmäßig Daten über unseren Körper und unsere Gesundheit.
+Es gibt Ärzte, deren Aufgabe es ist, uns gesund zu halten. Wir sammeln regelmäßig Daten über unseren Körper und unsere Gesundheit.
 
-Wir haben auch regelmäßige Checkups, um frühzeitig Probleme zu erkennen. Dort können dann unsere Daten ausgewertet und interpretiert werden.
+Wir haben auch regelmäßige Check-ups, um frühzeitig Probleme zu erkennen. Dort können dann unsere Daten ausgewertet und interpretiert werden.
 
-Es ist auch eine Möglichkeit über die Dinge zu sprechen, die uns beschäftigen.
+Es ist auch eine Möglichkeit, über die Dinge zu sprechen, die uns beschäftigen.
 
 Die Toilette ist ein wichtiger Ort, an dem viele Daten gesammelt werden können. Hier können wir früh erkennen, wenn etwas nicht stimmt.
 
 Die Umgebung ist so gestaltet, dass sie unsere Gesundheit fördert. Wir bewegen uns viel, ernähren uns gesund und schlafen gut.
 
-Wir haben einen Lebensstil, der uns gesund hält. Wir wissen, was uns guttut und was nicht.
+Wir haben einen Lebensstil, der uns gesund hält. Wir wissen, was uns gut tut und was nicht.
 
 Es gibt auch hier eine Datenbank mit allen Informationen, die wir brauchen, um unseren Körper besser zu verstehen, gesund zu halten und zu optimieren.
 
@@ -316,7 +240,7 @@ Jeder Mensch ist eigenständig und unabhängig, aber auch Teil einer Stadt. Jede
 
 Jede Ebene kann sich selbst versorgen und organisieren, hat aber zusätzlich Verbindungen zu allen anderen Ebenen.
 
-Wir sind eigenständig, aber doch von einander abhängig. Wir unterstützen uns gegenseitig und profitieren voneinander.
+Wir sind eigenständig, aber doch voneinander abhängig. Wir unterstützen uns gegenseitig und profitieren voneinander.
 
 Wir nutzen die Stärken der einzelnen Bioregionen und gleichen die Schwächen aus.
 
@@ -347,6 +271,8 @@ So können wir uns ausprobieren, unsere Stärken entdecken und weiterentwickeln.
 Wir bauen eine einzigartige Kombination aus Fähigkeiten und Erfahrungen auf, können unseren eigenen Weg gehen und finden dadurch leichter unseren Platz in der Welt.
 
 Unser Leben wird zu einem einzigartigen Puzzleteil, das perfekt in das große Ganze passt.
+
+Bildung ist eine Investition in die Zukunft. Je mehr wir lernen, desto besser können wir die Welt gestalten und verbessern.
 
 ### Verbundenheit
 
@@ -469,17 +395,63 @@ Wenn es uns irgendwo nicht gefällt, ziehen wir einfach weiter.
 
 ### Florieren
 
-Es gibt keine Schulden und keine Zinsen.
+Der menschliche Wohlstand basiert vollständig auf der Natur – unserem ursprünglichen „Treuhandfonds“. Über Jahrmillionen hat das Leben in diesen Fonds investiert und ihn dadurch immer weiter aufgebaut.
 
-Wir wollen verhindern, dass es lukrativer ist, Geld mit Geld zu verdienen als mit Arbeit.
+Energie war die erste Form von Profit. In der Natur steigt die Energie, die dem Gesamtsystem zur Verfügung steht durch ihren Verbrauch. Pflanzen wandeln zum Beispiel Sonnenlicht in chemische Energie um, die dann von Tieren und Mikroorganismen genutzt wird.
 
-Geld soll ein Mittel zum Zweck und kein Selbstzweck sein.
+Das Energiesystem der Erde ist nicht geplant oder gesteuert. Es entsteht durch Selbstorganisation und Evolution.
 
-Stattdessen wollen wir Arbeit schaffen, die uns erfüllt und die Welt verbessert. Dann müssen wir uns keine Wege mehr überlegen, wie wir nicht mehr Arbeiten müssen.
+Es wird mehr produziert als benötigt wird. Der Überschuss gibt Sicherheit.
 
-Die Grundversorgung ist kostenlos und für jeden verfügbar.
+Abfall existiert nicht. Alles wird wiederverwendet und recycelt. Die Ausscheidungen von einem Organismus sind der Dünger für einen anderen.
 
-Für alles, was darüber hinausgeht, gibt es einen freien Markt. Hier nutzen wir Geld als Tauschmittel.
+Energie kann höchstens bis zum Tod gespiechert werden. Spätestens zu diesem Zeitpunkt wird sie wieder in das System zurückgeführt.
+
+Unser Wirtschaftssystem sollte auf denselben Prinzipien basieren.
+
+Wir haben mit dem Markt bereits ein Werkzeug für die Selbstorganisation. Wir müssen es nur richtig einsetzen.
+
+Der Preis ist ein gutes Signal für Knappheit und Nachfrage. Wenn etwas knapp wird, steigt der Preis. Dadurch werden Ressourcen gelenkt und Anreize geschaffen, Alternativen zu finden. Er sorgt dafür, dass Ressourcen optimal genutzt werden und die Rente für alle Beteiligten maximiert wird.
+
+Wir müssen dafür sorgen, dass die Preise die wahren Kosten widerspiegeln. Externe Effekte wie Umweltzerstörung oder soziale Kosten müssen eingepreist werden.
+
+So wird der Preis zu einem echten Signal für den Wert eines Gutes.
+
+Die Berechnung der Preise muss transparent und nachvollziehbar sein. Nur so können wir sicherstellen, dass sie auf realen Informationen beruhen und nicht manipuliert werden.
+
+Eine künstliche Intelligenz könnte dabei helfen, sie objektiv zu berechnen und anzupassen.
+
+Menschen dürfen nicht eingreifen, um Preise zu beeinflussen. Es muss ein fairer Wettbewerb herrschen, damit Märkte funktionieren. Die Informationen müssen für alle zugänglich sein.
+
+Wir wollen verhindern, dass es lukrativer ist, Geld mit Geld zu verdienen als mit Arbeit. Deshalb gibt es keine Zinsen oder Schulden mehr.
+
+Wir können durch Beteiligungen oder das Crowdfunding Kapital für Projekte sammeln. Die Rendite wird dann durch die Gewinne des Projekts bestimmt oder als Produkt oder Dienstleistung ausgezahlt.
+
+Geld soll wieder zu einem reinen Tauschmittel werden, nicht zu einem Statussymbol.
+
+Stattdessen wollen wir Arbeit schaffen, die uns erfüllt und die Welt verbessert. Dann müssen wir uns keine Wege mehr ausdenken, wie wir nicht mehr Arbeiten müssen (finanzielle Unabhängigkeit, Rente).
+
+Status basiert nicht auf Besitz oder Symbolen, sondern auf Beitrag zum Leben, Kreativität, Kooperation.
+
+Der Wachstumszwang entfällt und wir sind nicht gezwungen, ständig mehr zu produzieren.
+
+Die Deflation wird zum Ziel und Normalzustand. Preise sinken kontinuierlich, da die Effizienz steigt und Ressourcen immer günstiger werden.
+
+Wir wollen die Lebenshaltungskosten so weit wie möglich senken und im besten Fall kostenlos machen.
+
+Wir erreichen das, indem wir alle Prozesse automatisieren und Systeme so gestalten, dass sie sich selbst erhalten und im besten Fall vermehren.
+
+Wir können uns auf das Wesentliche konzentrieren und unsere Ressourcen sinnvoll einsetzen.
+
+Es gibt eine kostenlose Grundversorgung, die für jeden verfügbar ist.
+
+Dadurch stellen wir sicher, dass jeder Mensch Zugang zu den Ressourcen hat, die er zum Leben braucht und dadurch am gesellschaftlichen Leben teilnehmen kann.
+
+Das schafft die Voraussetzungen für Kreativität, Innovation und gesellschaftlichen Fortschritt.
+
+Je mehr Menschen wir über diese Schwelle heben, desto stabiler und wohlhabender wird die Gesellschaft insgesamt. Wir haben außerdem mehr Chancen, Talente und Ideen zu entdecken.
+
+Für alles, was darüber hinausgeht, gibt es einen freien Markt.
 
 Da die Menschen aber deutlich zufriedener sind und sich keine Sorgen um die Grundversorgung machen müssen, brauchen sie auch weniger Geld und viele Produkte werden nicht mehr gekauft.
 
