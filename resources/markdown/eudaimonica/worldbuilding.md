@@ -453,6 +453,8 @@ Je mehr Menschen wir über diese Schwelle heben, desto stabiler und wohlhabender
 
 Für alles, was darüber hinausgeht, gibt es einen freien Markt.
 
+Wir brauchen weiterhin ein Anreizsystem, damit Menschen motiviert sind, gute Arbeit zu leisten.
+
 Da die Menschen aber deutlich zufriedener sind und sich keine Sorgen um die Grundversorgung machen müssen, brauchen sie auch weniger Geld und viele Produkte werden nicht mehr gekauft.
 
 Wenn wir einen Sinn im Leben haben und uns um die Gemeinschaft kümmern, sinkt das Bedürfnis nach materiellem Besitz und Konsum.
@@ -462,7 +464,5 @@ Anstatt ein Wirtschaftssystem für alles zu haben, gibt es viele kleine, spezial
 Es kommt auf den Kontext an. Wir setzen das ein, was gerade am besten passt.
 
 Lebensmittel oder Wasser sind etwas anderes als Luxusgüter. Nicht alles muss auf die gleiche Weise gehandhabt werden.
-
-Wir brauchen aber weiterhin ein Anreizsystem, damit Menschen motiviert sind, gute Arbeit zu leisten.
 
 [Übersicht](/eudaimonica)
