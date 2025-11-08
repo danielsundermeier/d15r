@@ -5,6 +5,7 @@ namespace App\Console\Commands\Tweets;
 use App\Enums\Tweets\Type;
 use App\Models\Tweets\Tweet;
 use Illuminate\Console\Command;
+use Illuminate\Support\Carbon;
 
 class ImportCommand extends Command
 {
@@ -33,9 +34,10 @@ class ImportCommand extends Command
             $data = json_decode($json, true);
 
             foreach ($data as $key => $tweetData) {
+                $scheduledAt = Carbon::parse($tweetData['date'])->setTime(0, 0, 0);
                 $tweet = Tweet::updateOrCreate([
                     'type' => Type::DAYLY,
-                    'scheduled_at' => $tweetData['date'] . ' 00:00:00',
+                    'scheduled_at' => $scheduledAt,
                 ], [
                     'text' => $tweetData['message'],
                 ]);
@@ -54,9 +56,10 @@ class ImportCommand extends Command
             $data = json_decode($json, true);
 
             foreach ($data as $key => $tweetData) {
+                $scheduledAt = Carbon::parse($tweetData['date'])->setTime(0, 0, 0);
                 $tweet = Tweet::updateOrCreate([
                     'type' => Type::POST,
-                    'scheduled_at' => $tweetData['date'] . ' 00:00:00',
+                    'scheduled_at' => $scheduledAt,
                 ], [
                     'text' => $tweetData['message'],
                 ]);
