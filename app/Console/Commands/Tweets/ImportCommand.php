@@ -35,7 +35,7 @@ class ImportCommand extends Command
             foreach ($data as $key => $tweetData) {
                 $tweet = Tweet::updateOrCreate([
                     'type' => Type::DAYLY,
-                    'scheduled_at' => $tweetData['date'],
+                    'scheduled_at' => $tweetData['date'] . ' 00:00:00',
                 ], [
                     'text' => $tweetData['message'],
                 ]);
@@ -56,7 +56,7 @@ class ImportCommand extends Command
             foreach ($data as $key => $tweetData) {
                 $tweet = Tweet::updateOrCreate([
                     'type' => Type::POST,
-                    'scheduled_at' => $tweetData['date'],
+                    'scheduled_at' => $tweetData['date'] . ' 00:00:00',
                 ], [
                     'text' => $tweetData['message'],
                 ]);
