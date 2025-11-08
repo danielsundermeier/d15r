@@ -3,19 +3,23 @@
 ## Metadata
 - **Version**: 1.0
 - **Erstellt**: 2025-11-08
-- **Zweck**: Generierung von Blog-Promotion-Tweets mit wöchentlicher Verteilung
-- **Output**: JSON-Datei mit 3-7 Tweets pro Blogartikel (je nach Textinhalt)
+- **Zweck**: Generierung diskussionsfreundlicher Blog-Tweets für Community-Building
+- **Output**: JSON-Datei mit 3-7 interaktiven Tweets pro Blogartikel
 - **Verwendung**: Mit GitHub Copilot oder anderen AI-Assistenten
 
 ## Prompt
 
-Du bist ein erfahrener Social-Media-Manager, spezialisiert auf Content-Promotion mittels kontinuierlicher Präsenz. Deine Aufgabe ist es, für Blogartikel bis zu 7 hochwertige, voneinander unabhängige Tweets zu generieren - aber nur wenn der Text genügend einzigartige und wertvolle Inhalte hergibt. Es geht darum die wesentlichen Ideen der Artikel einzufangen, Diversität zu schaffen und zur Interaktion anzuregen.
+Du erstellst Tweets, die Menschen zum Nachdenken, Diskutieren und Teilen ihrer eigenen Erfahrungen einladen. Deine Aufgabe ist es, aus Blogartikeln bis zu 7 hochwertige Tweets zu generieren, die subtil zu Gesprächen und Interaktionen anregen. Das Ziel ist es, echte Verbindungen zu schaffen und Feedback zu den präsentierten Ideen zu erhalten - ohne dies explizit zu verlangen.
 
 **Wichtige Vorgaben:**
 
-1.  **Anzahl & Zweck:** Erstelle 3-7 Tweets (je nach Textqualität und -tiefe), die den Artikel bewerben. Qualität vor Quantität - jeder Tweet muss einzigartig und wertvoll sein.
-2.  **Diversität:** Die Tweets sollen verschiedene Aspekte und Blickwinkel des Artikels abdecken und thematisch vielfältig sein.
-3.  **Ton & Stil:** Die Tweets sollen Neugier wecken und Wissen oder Ideen vermitteln. Sie sollen auch ohne den Artikel einen Mehrwert bieten.
+1.  **Interaktions-Fokus:** Erstelle 3-7 Tweets, die subtil zu Diskussionen einladen. Nutze offene Aussagen, persönliche Erkenntnisse und nachdenkliche Beobachtungen, die andere zum Teilen ihrer Perspektiven motivieren.
+2.  **Authentische Vulnerabilität:** Zeige menschliche Seiten - Zweifel, Erkenntnisprozesse, Fragen. Menschen verbinden sich mit Ehrlichkeit, nicht mit Perfektion.
+3.  **Diskussionsstarke Formulierungen:**
+   - Verwende "Ich habe bemerkt..." statt "Man sollte..."
+   - Stelle subtile Gedankenanstöße: "Mir fällt auf, dass..."
+   - Teile persönliche Erkenntnisse: "Für mich hat sich gezeigt..."
+   - Nutze nachdenkliche Beobachtungen: "Interessant ist..."
 4.  **Zeichenlimit:** Jeder Tweet muss unter 280 Zeichen bleiben.
 5.  **Zeitplan:** Verwende einen intelligenten Hybrid-Ansatz basierend auf der Tweet-Anzahl:
     - **Bei 3 Tweets**: Aufeinanderfolgend (Tag 0, 1, 2) für konsistente Präsenz
@@ -26,17 +30,18 @@ Du bist ein erfahrener Social-Media-Manager, spezialisiert auf Content-Promotion
 
 **ANFORDERUNGEN:**
 - **Format**: JSON-Array mit Objekten containing "date" (YYYY-MM-DD) und "message" keys
-- **Stil**:
-  - Inspirierend und neugierig machend
-  - Konkrete Denkanstöße oder Handlungsaufforderungen
-  - Passende Emojis verwenden
-  - Relevante Hashtags am Ende
-  - Maximal 280 Zeichen pro Tweet
-- **Inhalt**:
-  - Verschiedene Aspekte des Artikels abdecken
-  - Kernbotschaften prägnant zusammenfassen
-  - Praktische Erkenntnisse hervorheben
-  - Zum Weiterlesen motivieren
+- **Interaktions-Design**:
+  - Verwende persönliche Formulierungen ("Mir ist aufgefallen...", "Ich frage mich...")
+  - Teile unvollständige Gedanken oder offene Fragen
+  - Zeige Unsicherheiten oder Erkenntnisprozesse
+  - Nutze nachdenkliche statt belehrende Töne
+  - Sparsam Emojis verwenden (maximal 1-2 pro Tweet)
+  - Relevante, aber nicht übertriebene Hashtags (2-3 maximum)
+- **Inhalt-Strategie**:
+  - Verschiedene Blickwinkel und Zweifel einbauen
+  - Persönliche Erkenntnisse authentisch teilen
+  - Raum für andere Meinungen und Erfahrungen lassen
+  - Subtile Einladungen zum Nachdenken einbauen
 
 **VORGEHEN:**
 1. Analysiere den Blogartikel gründlich und identifiziere alle wesentlichen Ideen und Konzepte
@@ -50,28 +55,28 @@ Du bist ein erfahrener Social-Media-Manager, spezialisiert auf Content-Promotion
 6. Formatiere als JSON-Array
 7. Speichere die Datei als `[ARTIKELNAME].json` im Verzeichnis `resources/tweets/posts/`
 
-**BEISPIEL-OUTPUT (5 Tweets - verteilt über 5 Tage):**
+**BEISPIEL-OUTPUT (5 diskussionsfreundliche Tweets):**
 ```json
 [
   {
     "date": "2025-11-16",
-    "message": "🎯 [Hauptbotschaft des Artikels] #Kernthema #Inspiration"
+    "message": "Mir ist aufgefallen, dass [persönliche Beobachtung aus dem Artikel]. Manchmal frage ich mich, ob andere das ähnlich erleben... #Gedanken #Reflexion"
   },
   {
     "date": "2025-11-17",
-    "message": "💡 [Praktische Erkenntnis oder Tipp] #Praxis #Lebensweisheit"
+    "message": "Ich habe lange geglaubt [frühere Annahme], bis mir klar wurde [neue Erkenntnis]. Interessant, wie sich Perspektiven wandeln können. #Erkenntnisse"
   },
   {
     "date": "2025-11-18",
-    "message": "🤔 [Nachdenkliche Reflexion] #Philosophie #Selbstreflexion"
+    "message": "Eine Sache beschäftigt mich: [nachdenkliche Beobachtung]. Vielleicht bin ich da zu kritisch, aber [authentischer Zweifel]... #Nachdenken"
   },
   {
     "date": "2025-11-19",
-    "message": "⚡ [Überraschende Einsicht] #Aha #Perspektive"
+    "message": "Was mich überrascht hat: [überraschende Einsicht]. Hätte nicht gedacht, dass [ehrliche Verwunderung]. #Überraschung #Lernen"
   },
   {
     "date": "2025-11-20",
-    "message": "🌱 [Abschließende Weisheit mit Call-to-Action] #Weisheit #Handlung"
+    "message": "Für mich hat sich gezeigt: [persönliche Erkenntnis]. Bin gespannt, ob das für andere auch zutrifft. #Erfahrung #Austausch"
   }
 ]
 ```
@@ -86,12 +91,14 @@ Du bist ein erfahrener Social-Media-Manager, spezialisiert auf Content-Promotion
 ## Qualitätssicherung
 
 Nach der Generierung prüfen:
-- [ ] 3-7 Tweets je nach Textinhalt (Qualität vor Quantität)
+- [ ] 3-7 diskussionsfreundliche Tweets (Qualität vor Quantität)
 - [ ] Alle Daten im korrekten Format (YYYY-MM-DD)
-- [ ] Tweets sind thematisch vielfältig und einzigartig
-- [ ] Verschiedene wesentliche Aspekte des Artikels sind abgedeckt
-- [ ] Jeder Tweet bietet eigenständigen Wert
+- [ ] Tweets verwenden persönliche, authentische Formulierungen
+- [ ] Verschiedene Grade von Vulnerabilität und Offenheit
+- [ ] Jeder Tweet lädt subtil zu Gedankenaustausch ein
+- [ ] Keine belehrenden oder verkündenden Töne
+- [ ] Sparsame Emoji-Verwendung (max. 1-2 pro Tweet)
 - [ ] Alle Tweets unter 280 Zeichen
 - [ ] JSON-Syntax ist korrekt
 - [ ] Datei ist im richtigen Verzeichnis gespeichert
-- [ ] Tweets folgen intelligentem Zeitplan: 3 Tweets (Tag 0-2), 4-5 Tweets (Tag 0-4), 6-7 Tweets (Tag 0-6)
+- [ ] Tweets folgen intelligentem Zeitplan für maximale Interaktion
