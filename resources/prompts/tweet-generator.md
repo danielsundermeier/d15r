@@ -39,7 +39,7 @@ Erstelle aus der bereitgestellten Textdatei Tweets für jeden Tag des angegebene
 3. Mische die Tweets so, dass sie NICHT der ursprünglichen Textreihenfolge folgen
 4. Weise jedem Tweet ein Datum im angegebenen Jahr zu (beginnend mit 1. Januar)
 5. Formatiere als JSON-Array
-6. Speichere die Datei als `[JAHR].json` im Verzeichnis `resources/daylies/`
+6. Speichere die Datei als `[JAHR].json` im Verzeichnis `resources/tweets/daylies/`
 
 **BEISPIEL-OUTPUT:**
 ```json

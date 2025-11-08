@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Console\Commands\Tweets\Daylies;
+namespace App\Console\Commands\Tweets\Posts;
 
 use App\Enums\Tweets\Type;
 use App\Models\Tweets\Tweet;
@@ -9,14 +9,14 @@ use App\Http\Integrations\Twitter\Tweets\CreateRequest;
 
 class CreateCommand extends Command
 {
-    protected $signature = 'tweets:daylies:create';
+    protected $signature = 'tweets:posts:create';
 
-    protected $description = 'Creates daily tweet';
+    protected $description = 'Creates post tweet';
 
     public function handle()
     {
         $tweet = Tweet::query()
-            ->where('type', Type::DAYLY)
+            ->where('type', Type::POST)
             ->whereDate('scheduled_at', now()->toDateString())
             ->whereNull('tweet_id')
             ->first();

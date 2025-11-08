@@ -23,6 +23,7 @@ class Tweet extends Model
     ];
 
     protected $fillable = [
+        'type',
         'scheduled_at',
         'text',
         'tweet_id',
