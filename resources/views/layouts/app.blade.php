@@ -62,6 +62,7 @@
 					<div class="hidden md:flex md:space-x-10">
 						<a href="{{ route('philosophy.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Philosophie</a>
 						<a href="{{ route('eudaimonica.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Eudaimonica</a>
+						<a href="{{ route('eudaimonia-architect.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Eudaimonia Architekt</a>
 						<a href="{{ route('posts.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Blog</a>
 						<a href="{{ route('contact.index') }}" class="font-medium text-gray-500 hover:text-gray-900">Kontakt</a>
 					</div>
@@ -91,6 +92,7 @@
 							<a href="{{ route('home') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Home</a>
 							<a href="{{ route('philosophy.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Philosophie</a>
 							<a href="{{ route('eudaimonica.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Eudaimonica</a>
+							<a href="{{ route('eudaimonia-architect.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Eudaimonia Architekt</a>
 							<a href="{{ route('posts.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Blog</a>
 							<a href="{{ route('contact.index') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Kontakt</a>
 						</div>

@@ -41,6 +41,7 @@ Route::get('/integration', [ App\Http\Controllers\IntegrationController::class, 
 
 Route::get('/philosophy', [ App\Http\Controllers\PhilosophyController::class, 'index' ])->name('philosophy.index');
 
+Route::get('/eudaimonia-architect', [ App\Http\Controllers\EudaimoniaArchitectController::class, 'index' ])->name('eudaimonia-architect.index');
 Route::get('/eudaimonica', [ App\Http\Controllers\EudaimonicaController::class, 'index' ])->name('eudaimonica.index');
 Route::get('/eudaimonica/{section}', [ App\Http\Controllers\EudaimonicaController::class, 'show' ])->name('eudaimonica.show');
 
