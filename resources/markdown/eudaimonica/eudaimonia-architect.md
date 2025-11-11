@@ -15,5 +15,11 @@ Weil es genau das ist, was ich mir selbst wünsche.
 Ich glaube, dass wir uns selbst erst erkennen, wenn uns jemand wirklich sieht.
 Der Mensch wird am Du zum Ich (Martin Buber) – und in diesem Raum der Begegnung entsteht Heilung.
 
-Wenn du spürst, dass du dir auch einen Eudaimonia Architekten an deiner Seite wünschst, melde dich bei mir.
-Es geht nicht darum, dir etwas zu verkaufen, sondern um eine echte Verbindung – von Mensch zu Mensch: [Kontakt](/contact)
+Mein Angebot ist grundsätzlich kostenlos. Wenn es dir geholfen hat und du dich in der Lage dazu fühlst, würde ich dich um eines von zwei Dingen bitten:
+
+1. Pay it forward: Unterstütze zwei Menschen dabei, auch zwei Menschen zu unterstützen – und lass so eine Kettenreaktion des Guten entstehen.
+2. Oder: Wenn du gerade in der Position dazu bist, kannst du meine Arbeit mit einem (monatlichen) Beitrag unterstützen.
+
+Es geht nicht darum, dir etwas zu verkaufen – sondern darum, dass Heilung und Verbindung weiterfließen.
+
+Wenn du spürst, dass du dir auch einen Eudaimonia Architekten an deiner Seite wünschst, melde dich bei mir: [Kontakt](/contact)
