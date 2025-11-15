@@ -589,19 +589,33 @@ Alles passiert für uns und hilft uns zu wachsen und uns weiterzuentwickeln.
 
 Wir können uns in diesem Spiel unseren Avatar nicht aussuchen. Wir bekommen ihn geschenkt. Wir haben keine Übersicht über seine Fähigkeiten und Eigenschaften. Es ist unsere Aufgabe, ihn kennenzulernen und zu meistern.
 
-Ein Weg mehr über ihn zu erfahren, ist mehrere Persönlichkeitstests zu machen. Jeder Test beleuchtet einen anderen Aspekt unserer Persönlichkeit. Wenn wir alle Ergebnisse zusammennehmen, bekommen wir ein umfassenderes Bild von uns selbst.
+Wir haben alle eine einzigartige Kombination aus Stärken, Fähigkeiten, Interessen und Werten.
+
+Wenn alles zufällig ist, könnte es sein, dass viele Kombinationen nicht funktionieren. Das ist aber nicht der Fall. Jede Kombination ist einzigartig und hat das Potenzial, großartig zu sein. Wir sind nicht auf starre Rollen oder Berufe festgelegt. Wir können uns unsere eigene Aufgabe und damit Sinn und Bedeutung erschaffen.
+
+Wenn es uns gelingt alles zu integrieren, leben wir authentisch und können wir unser volles Potenzial entfalten. Dadurch leisten wir dann auch den größten Beitrag zum großen Ganzen.
+
+Ein Weg mehr über unseren Avatar zu erfahren, ist mehrere Persönlichkeitstests zu machen. Jeder Test beleuchtet einen anderen Aspekt unserer Persönlichkeit. Wenn wir alle Ergebnisse zusammennehmen, bekommen wir ein umfassenderes Bild von uns selbst.
 
 Das ist aber nur der Anfang. Wir müssen uns selbst beobachten und reflektieren, um ein tieferes Verständnis von uns zu bekommen. Nichts geht über die eigene Erfahrung.
 
 Es geht immer nur um die Person zu der wir werden wollen. Unser Charakter ist der wahre Schatz des Spiels.
 
-Ein Weg herauszufinden, wer wir sein wollen, ist uns vorzustellen, was die Menschen bei unserer Beerdigung über uns sagen würden.
+Um herauszufinden, wer wir sein wollen, ist es hilfreich, uns vorzustellen, was die Menschen bei unserer Beerdigung über uns sagen würden.
 
-Dabei geht es selten darum, was wir haben oder können, sondern immer um die Person, die wir sind.
+Dabei geht es selten darum, was wir haben oder können, sondern meist um die Person, die wir sind.
 
 Es geht darum, wie wir andere Menschen berührt und inspiriert haben.
 
-Menschen, die während eines Sehtests die Rolle eines Pilot gespielt haben, haben besser abgeschnitten.
+Wir können auch eine imaginäre Zeitreise machen und uns vorstellen unserer besten Version in der Zukunft zu begegnen. Wir können sie dann fragen, was wir tun müssen, um diese Person zu werden.
+
+So können wir ein Ideal für uns erstellen, das uns inspiriert und motiviert. Wir haben ein Ziel auf das wir hinarbeiten können. Immer in dem Wissen, dass es ein Leitstern ist und keine ferne Küste, die wir tatsächlich erreichen können. Ein Ideal ist immer asymptotisch. Wir können uns ihm nur annähern, aber es nie ganz erreichen.
+
+Wir wollen auch immer Raum für die Menschlichkeit lassen. Wir sind Menschen und damit nicht perfekt. Wir machen Fehler und scheitern immer wieder. Wir stehen aber auch immer wieder auf und lernen daraus.
+
+### Selbstbild
+
+Menschen, die während eines Sehtests die Rolle eines Piloten gespielt haben, haben besser abgeschnitten.
 
 Nach einem Kreuzworträtsel mit Begriffen, die dem Alter zugeordnet werden, sind die Studienteilnehmer langsamer gegangen.
 
@@ -622,17 +636,40 @@ Wir haben aber zwei Hebel, an denen wir ansetzen können:
 
 Für eine dauerhafte Veränderung ist beides erforderlich. Wir können uns als Sportler sehen und müssen auch zum Training gehen, um ein Sportler zu werden.
 
-Es ist aber wichtig herauszufinden, was wir wirklich wollen.
+Dabei ist es aber wichtig herauszufinden, was wir wirklich wollen.
 
-Wir können eine Vision von unserem idealen Leben erstellen, das wir erreichen und auch eine Antivision, vor der wir weglaufen wollen.
+### Vision
 
-Oft ist es einfacher zu erkennen, was wir nicht wollen, als das, was wir wirklich wollen. Wir haben von dort einen Startpunkt, um uns weiterzuentwickeln.
+Wir können eine Vision von unserem idealen Leben erstellen, das wir erreichen wollen.
 
-Wir laufen dann in die entgegengesetzte Richtung und finden so heraus, was uns wirklich wichtig ist.
+Die Übung einen Text über unser bestes Leben in der Zukunft zu schreiben, ist dafür sehr hilfreich. Es hilft uns, eine klare Vorstellung davon zu bekommen, was wir wirklich wollen.
 
-Die Frage, die sich dann stellt, ist, woher wissen wir, dass es unsere Vision und nicht die der Gesellschaft ist.
+Die Frage, die sich dann stellt, ist, woher wissen wir, dass es unsere Vision und nicht die der Gesellschaft, unseren Eltern oder Freunden ist.
 
 Auch hier gilt das Prinzip des Ausprobierens. Wir machen etwas und merken dann sehr schnell, ob es das richtige für uns ist.
+
+Diese Vision ist aber nicht in Stein gemeißelt und wird sich mit der Zeit verändern.
+
+Es ist wichtig, dass wir sie regelmäßig überprüfen und anpassen.
+
+Wir sind nicht besonders gut darin vorherzusagen, was uns in der Zukunft glücklich machen wird. Es ist eine Schätzung, die uns aber zeigt, was uns gerade fehlt oder wichtig ist.
+
+Wir glauben, dass wir Ergebibnisse wollen, dabei sind es die Erlebnisse, die wir damit verbinden.
+
+In der Regel ist das eine von diesen vier Gefühlen:
+
+- Freiheit
+- Lebendigkeit
+- Liebe
+- Frieden
+
+Wenn wir herausfinden, welches Gefühl uns fehlt, können wir jetzt etwas unternehmen, um es zu bekommen.
+
+### Antivision
+
+Dazu können wir auch eine Antivision, vor der wir weglaufen wollen, entwickeln. Oft ist es einfacher zu erkennen, was wir nicht wollen, als das, was wir wirklich wollen. Wir haben von dort einen Startpunkt, um uns weiterzuentwickeln.
+
+Wir laufen dann in die entgegengesetzte Richtung und finden so heraus, was uns wirklich wichtig ist.
 
 ### Lebensbereiche
 
