@@ -257,4 +257,51 @@ Die Proteinbiosynthese ist der Prozess, durch den Zellen Proteine herstellen. Si
 
 Enzyme sind Proteine, die biochemische Reaktionen im Körper katalysieren. Sie sind entscheidend für den Stoffwechsel, da sie die Geschwindigkeit von Reaktionen erhöhen, ohne dabei selbst verbraucht zu werden.
 
+## Regulation: Stress & Ruhe
+
+Unser Avatar besitzt zwei grundlegende Betriebsmodi, die sein gesamtes Erleben prägen: **Stress** und **Ruhe**. Sie bestimmen, wie viel Energie uns zur Verfügung steht, wie wir fühlen, denken und handeln. Beide Modi sind biologisch notwendig – doch ihre Balance entscheidet darüber, wie gut unser Avatar funktioniert.
+
+### Stress: Aktivierung & Schutz
+
+Der Stressmodus ist ein uraltes Schutzprogramm. Er schaltet den Körper auf **Bedrohung**:
+
+- erhöhte Wachsamkeit
+- schnelle Reaktionen
+- Fokus auf unmittelbare Probleme
+- Ausschüttung von Stresshormonen
+- eingeschränkter Zugang zu Kreativität und sozialen Fähigkeiten
+
+Stress ist nicht „schlecht“. Er ist ein **Werkzeug zur Bewältigung von Herausforderungen**. Er versorgt uns mit Energie, wenn wir sie brauchen. Aber wenn wir zu lange dort bleiben, überhitzt das System: wir werden gereizt, ängstlich, erschöpft oder impulsiv.
+
+### Ruhe: Erholung & Verbindung
+
+Der Ruhemodus ist das Gegenprogramm. Er stellt den Körper auf **Sicherheit**:
+
+- Entspannung
+- Regeneration
+- offener Blick
+- Zugang zu Kreativität, Empathie und spielerischer Neugier
+
+Nur im Ruhemodus kann der Avatar seine Ressourcen wieder aufbauen. Hier entstehen Lernen, tiefe Beziehungen und das Gefühl von Sinn.
+
+### Das zentrale Prinzip: Regulation
+
+Gesundes Leben bedeutet nicht, immer entspannt zu sein. Genauso wenig bedeutet es, Stress zu vermeiden.
+Es bedeutet, **zwischen den Modi wechseln zu können**, passend zur Situation.
+
+Regulation heißt:
+
+- wahrnehmen, in welchem Zustand der Avatar gerade ist
+- verstehen, was er braucht
+- ihm helfen, wieder in Balance zu kommen
+
+Stress ist wie Beschleunigen, Ruhe wie Bremsen. Ohne Beschleunigung kommen wir nicht voran. Ohne Bremsen verlieren wir die Kontrolle.
+
+### Warum das wichtig ist
+
+Alle weiteren Bestandteile der Philosophie – individuelles Wohlbefinden (Play), Kooperation (Multiplayer) und der Aufbau funktionierender Welten (Worldbuilding) – hängen davon ab, in welchem Modus wir uns befinden.
+Ein dysregulierter Avatar kann nicht spielen, nicht gut zusammenarbeiten und keine klaren Entscheidungen treffen.
+
+Regulation ist deshalb eine der grundlegenden Funktionen des menschlichen Avatars. Sie bildet die Basis dafür, dass wir unsere Fähigkeiten überhaupt nutzen können.
+
 [Übersicht](/eudaimonica)
