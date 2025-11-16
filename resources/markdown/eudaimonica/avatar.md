@@ -257,6 +257,16 @@ Die Proteinbiosynthese ist der Prozess, durch den Zellen Proteine herstellen. Si
 
 Enzyme sind Proteine, die biochemische Reaktionen im Körper katalysieren. Sie sind entscheidend für den Stoffwechsel, da sie die Geschwindigkeit von Reaktionen erhöhen, ohne dabei selbst verbraucht zu werden.
 
+## Emotionen
+
+Laut der Neurowissenschaftlerin Jill Bolte Taylor gibt es vier grundlegende Emotionen, die unser Erleben prägen: Angst, Wut, Freude und Liebe. Diese Emotionen sind tief in unserem Gehirn verankert und beeinflussen unser Verhalten und unsere Entscheidungen.
+
+Die eigentliche Gefühlsregung dauert maximal 90 Sekunden. Danach sind nur noch die Gedanken und Geschichten, die wir uns darüber erzählen, übrig. Sie können die Emotion verlängern oder abschwächen.
+
+Gefühle bleiben auch, wenn wir sie nicht fühlen. Wir können sie unterdrücken oder ignorieren, aber sie sind immer noch da und beeinflussen unser Verhalten. Früher oder später müssen wir uns ihnen stellen.
+
+Wenn wir unsere Emotionen unterdrücken, leidet auch unsere kognitive Leistungsfähigkeit. Unser Gehirn verbraucht Energie, um die unterdrückten Gefühle zu kontrollieren, was uns erschöpft und weniger fokussiert macht.
+
 ## Regulation: Stress & Ruhe
 
 Unser Avatar besitzt zwei grundlegende Betriebsmodi, die sein gesamtes Erleben prägen: **Stress** und **Ruhe**. Sie bestimmen, wie viel Energie uns zur Verfügung steht, wie wir fühlen, denken und handeln. Beide Modi sind biologisch notwendig – doch ihre Balance entscheidet darüber, wie gut unser Avatar funktioniert.
