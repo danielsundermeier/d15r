@@ -370,6 +370,94 @@ Jeder soll Zugang zu den Ressourcen haben, die er braucht, um ein erfülltes Leb
 
 Es gibt allein auf der Erde unendlich viel zu erforschen, zu erleben und zu entdecken. Die Möglichkeiten sind grenzenlos.
 
+### Technologie
+
+Wir nutzen Technologie nicht rational, sondern kompensatorisch. Nicht als Werkzeug, sondern als Reflex.
+
+Diese Haltung entlastet uns kurzfristig von Verantwortung, macht uns aber langfristig abhängig.
+
+Technologie zwingt uns zu immer mehr Technologie. So wie Geld uns zu immer mehr Geld zwingt. Das ist eine Art problem-induziertes Wachstum, ein selbstverstärkender Mechanismus, der Systeme groß, fragil und unkontrollierbar macht.
+
+Wir können unsere Herangehensweise anpassen: Nicht „Welches Problem können wir mit Technik lösen?“, sondern „Welches Problem löst sich, wenn wir anders gestalten?“
+
+Wir verschieben den Fokus:
+
+- von Reparatur zu Gestaltung
+- von Komplexität zu Einfachheit
+- von Kontrolle zu Vertrauen
+- von externen Lösungen zu lokalen Systemen
+- von Stresslogik zu Ruhelogik
+
+Wir können Systeme gestalten, die nicht kaputtgehen können, oder die besser werden, wenn sie gestört werden. Das ist Antifragilität.
+
+> Keep it simple – aber nicht primitiver, sondern intelligenter.
+
+Indigene Kulturen haben mit der Natur gearbeitet statt gegen sie. Sie haben Synergie gesucht, nicht Überwindung. Sie haben Komplexität reduziert, indem sie sie verstanden haben, nicht weggedrückt.
+
+Technik kann Natur integrieren.
+
+Ich bin sehr gespannt, was wir uns noch einfallen lassen, welche Geheimnisse wir aufdecken und was wir noch erforschen dürfen!
+
+Ich stelle mir eine Welt vor, die einem Paradies auf Erden sehr nahe kommt.
+
+Ich möchte, dass wir viel mehr forschen und entwickeln.
+
+Aber wir sollten uns nicht abhängig davon machen. Wir sollten genau das richtige Level an Technologie verwenden, das für die Situation angebracht ist.
+
+Wir brauchen ein “Right-Tech”-Prinzip: so viel wie nötig, so wenig wie möglich.
+
+Entscheidend ist nicht, wie viel Technologie wir haben, sondern ob sie unser inneres und äußeres Gleichgewicht stärkt.
+
+Wir können einen Überfluss an wirklich wichtigen Dingen schaffen. Das ist eine einzigartige Form von Wohlstand:
+
+- Sinn
+- Ruhe
+- Natur
+- soziale Nähe
+- Autonomie
+- Sicherheit
+- Zeit
+
+Wir wollen Systeme, die nicht gegen das Leben arbeiten:
+
+- Orte, wo Menschen wohnen, arbeiten und spielen – ohne getrennte Zonen.
+- Essen, das dort wächst, wo es gebraucht wird.
+- Produktion dort, wo Energie naturnah verfügbar ist.
+- Weniger Transport, weniger Verschwendung, weniger Lärm, weniger Stress.
+- Systeme, die durch Logik funktionieren, nicht durch permanente Kontrolle.
+
+> Wähle das richtige Werkzeug, nicht die meiste Technologie.
+
+Daher ein Gegenvorschlag:
+
+- Erst Natur
+- Dann Design
+- Dann Technik
+- Und erst ganz zum Schluss: Hochtechnologie
+
+Das ist eine gesunde Reihenfolge, ein Leitfaden für eine Gesellschaft im Ruhemodus.
+
+Wenn wir:
+
+- die richtigen Rhythmen nutzen (Tageslicht, Natur, Pausen),
+- die Produktion wieder verankern (lokal + logisch),
+- Technologie da einsetzen, wo sie Sinn macht,
+- und weg lassen, wo sie Abhängigkeit schafft,
+
+dann entsteht:
+
+- weniger Transport
+- weniger Energiebedarf
+- weniger Überwachung
+- weniger Kontrolle
+- weniger Bürokratie
+- mehr Autonomie
+- mehr Lebensqualität
+- mehr Zeit
+- mehr menschliche Nähe
+
+Ein Weg dahin ist, von Systemen zu lernen, die seit Milliarden Jahren im Gleichgewicht funktionieren: der Natur selbst.
+
 ### Biomimikry
 
 Warum sollten wir das Rad neu erfinden, wenn die Natur schon seit Milliarden von Jahren funktionierende Lösungen entwickelt hat?
