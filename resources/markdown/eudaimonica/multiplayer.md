@@ -715,12 +715,55 @@ Der Waldgarten dient gleichzeitig als Erholungsgebiet. Es gibt viele Wege und Pl
 
 ## Regierung
 
-Die Städte sind selbstverwaltet.
+Die Städte sind selbstverwaltet. Es gibt keine Regierung im klassischen Sinn mit Parteien, Ämtern und Wahlkämpfen, sondern ein offenes Betriebssystem für gemeinsames Entscheiden.
 
-Es liegt im Interesse der Regierung, dass die Menschen sich entfalten können und glücklich sind.
+Im Zentrum steht die Idee, dass eine Stadt ein lebendiger Organismus ist, der im Gleichgewicht bleiben will. Die "Regierung" ist deshalb weniger Chef als **Plattform und Moderator**.
 
-Wenn die Bewohner unzufrieden sind, können sie umziehen und die Regierung hat niemanden mehr, den sie regieren kann.
+### Regierung als Plattform
 
-Gleichzeitig können die Probleme und Herausforderungen lokal gelöst werden. Die Menschen kennen sich und können gemeinsam an Lösungen arbeiten.
+Die Stadt stellt eine offene, transparente Plattform bereit, auf der:
+
+- Ideen vorgeschlagen und diskutiert werden können,
+- Projekte als Experimente im Kleinen gestartet werden,
+- Zeit, Geld und Mitarbeit als Formen von "Stimmen" eingebracht werden,
+- Ergebnisse, Kosten und Auswirkungen für alle einsehbar sind.
+
+Die Regeln dieser Plattform sind Open Source und überprüfbar. Geldflüsse und Abstimmungen sind transparent, sodass Manipulation und Korruption schwer möglich sind. Die Plattform ist damit das **Betriebssystem der Stadt** – die Bewohner sind die eigentlichen Entscheider.
+
+Wie in der Sektion **Florieren** beschrieben, funktioniert die Stadtfinanzierung über Beteiligungen an Unternehmen und Projekten. Wenn wir in ein Projekt investieren, entscheiden wir gleichzeitig mit, was in unserer Stadt entstehen soll.
+
+### Entscheidungen und Veto
+
+Eine Idee gilt als angenommen, wenn sich genügend Menschen mit Zeit, Geld oder Mitarbeit beteiligen. Es reicht nicht, etwas nur gut zu finden – wir brauchen echtes "Skin in the Game".
+
+Um Sicherheit zu geben, gibt es zusätzlich einen Veto-Mechanismus: Wenn eine bestimmte Anzahl an Bewohnern (z.B. ein definierter Prozentsatz) deutlich macht, dass sie mit einer Entscheidung nicht einverstanden ist, wird sie gestoppt oder zur Überarbeitung zurückgegeben. So entsteht eine gemeinsame Kontrolle, ohne dass eine zentrale Instanz alles entscheidet.
+
+### Konflikte und Mobilität
+
+Konflikte werden in erster Linie durch Kommunikation und Spiegelung gelöst. In einer Kultur, in der wir uns gegenseitig ernst nehmen und auf Augenhöhe begegnen, merken wir schnell, wenn wir überreagieren oder eine Grenze überschreiten.
+
+Wenn sich trotz Gesprächen kein gemeinsamer Weg findet, muss niemand seinen Willen um jeden Preis durchsetzen. Stattdessen können Menschen relativ einfach die Stadt wechseln und sich ein Habitat suchen, das besser zu ihren Werten und ihrem Lebensstil passt.
+
+Mobilität wirkt dadurch als Sicherheitsventil: Wenn eine Stadt aus dem Gleichgewicht gerät oder ihre Bewohner schlecht behandelt, verliert sie Menschen – und damit ihre wichtigste Ressource.
+
+### Besitz, Anteil und Verantwortung
+
+Ein wichtiges Prinzip lautet: **Wir können nur dort mitbesitzen, wo wir leben.**
+
+Wer Anteile an Gebäuden oder Unternehmen in einer Stadt hält, lebt auch dort. Wenn jemand dauerhaft wegzieht, werden diese Anteile verkauft oder an die Stadt zurückgegeben. So verhindern wir, dass externe Investoren eine Stadt dominieren, ohne Teil ihres Lebens zu sein.
+
+Das stärkt die lokale Verantwortung: Einfluss haben vor allem die Menschen, die selbst mit den Konsequenzen ihrer Entscheidungen leben.
+
+### Richter als Hüter des Rahmens
+
+Es gibt weiterhin Richter, aber ihre Rolle ist begrenzt. Sie sorgen dafür, dass:
+
+- die Spielregeln der Plattform eingehalten werden,
+- Verträge und Abmachungen fair umgesetzt werden,
+- Konflikte, die nicht durch direkte Kommunikation lösbar sind, moderiert und geklärt werden.
+
+Sie treffen jedoch keine politischen Grundentscheidungen, sondern schützen den Rahmen, in dem die Stadt sich selbst gestalten kann.
+
+So entsteht eine Form von Regierung, die nicht über den Menschen steht, sondern ihnen dient: als Werkzeug, als Spiegel und als Moderator eines lebendigen, sich ständig weiterentwickelnden Organismus.
 
 [Übersicht](/eudaimonica)
