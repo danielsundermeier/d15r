@@ -97,6 +97,21 @@ Wir gehen in dem auf, was wir tun und müssen uns nicht mehr unterhalten oder ab
 
 Wir können die schönen Dinge des Lebens genießen, sind aber nicht auf sie angewiesen. Wir nutzen sie nicht als Ersatz für ein erfülltes Leben.
 
+### Globale Leitplanken
+
+Bei aller lokalen Vielfalt teilen alle Städte einige wenige gemeinsame Prinzipien. Sie bilden die Grundlage dafür, dass wir uns gegenseitig vertrauen und friedlich zusammenleben können.
+
+Dazu gehören zum Beispiel:
+
+- Gewaltfreiheit: Konflikte werden durch Kommunikation, Aushandlung und gegebenenfalls durch Abstand und Ortswechsel gelöst, nicht durch Zwang oder Gewalt.
+- Ehrlichkeit und Transparenz: Entscheidungen, Geldflüsse und Regeln sind nachvollziehbar. Wir können sehen, was geschieht und warum.
+- Respekt vor der Integrität anderer: Körperliche, emotionale und materielle Grenzen werden geachtet. Niemand wird zu einem bestimmten Lebensstil gezwungen.
+- Verantwortung für Folgen: Freiheit und Verantwortung gehören zusammen. Wer etwas anstößt, trägt auch einen Teil der Konsequenzen.
+- Ökologisches Gleichgewicht: Wir leben so, dass lokale Ökosysteme nicht zerstört, sondern gestärkt werden. Jede Stadt ist Gast in ihrer Landschaft.
+- Freiwillige Gemeinschaft: Zugehörigkeit entsteht durch Wahl, nicht durch Zwang. Wer nicht bleiben möchte, kann gehen und sich ein anderes Habitat suchen.
+
+Diese Leitplanken sind keine starren Gesetze, sondern gemeinsame Orientierungspunkte. Sie geben einen Rahmen, in dem jede Stadt ihre eigene Kultur, ihre eigenen Experimente und ihren eigenen Lebensstil entwickeln kann – ohne dass das große Ganze auseinanderfällt.
+
 ## Antifragilität
 
 Wie schaffen wir Städte, die nicht nur robust sind, sondern durch Herausforderungen und Krisen stärker werden?
