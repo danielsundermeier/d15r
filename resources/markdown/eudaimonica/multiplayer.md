@@ -573,7 +573,7 @@ Wir wollen einen menschlichen Maßstab bewahren.
 
 Die Bewohner sollen sich kennen und ein starkes Gemeinschaftsgefühl entwickeln.
 
-Ziel ist es eine hohe Lebensqualität zu schaffen, die es uns ermöglicht, unsere Fähigkeiten zu entfalten und uns auf das Wesentliche zu konzentrieren.
+Ziel ist es, eine hohe Lebensqualität zu schaffen, die es uns ermöglicht, unsere Fähigkeiten zu entfalten und uns auf das Wesentliche zu konzentrieren.
 
 Die Bewohner sollen sich mit ihrer Stadt identifizieren und ein Interesse daran haben, sie weiterzuentwickeln und etwas beizutragen.
 
@@ -581,7 +581,7 @@ Jede Stadt dient als Experimentierfeld, um neue Ideen und Konzepte auszuprobiere
 
 Wir können uns dann aussuchen, was am besten zu uns passt und wo wir leben wollen.
 
-Deshalb organisieren wir uns in vielen kleinen statt wenigen großen Städten. Als Vorbild dient die 15-Minuten Stadt. Alles, was wir zum Leben brauchen, ist in 15 Minuten zu Fuß oder mit dem Fahrrad erreichbar.
+Deshalb organisieren wir uns in vielen kleinen statt wenigen großen Städten. Als Vorbild dient die 15-Minuten-Stadt. Alles, was wir zum Leben brauchen, ist in 15 Minuten zu Fuß oder mit dem Fahrrad erreichbar.
 
 Die Fläche einer Stadt beträgt etwa 1 km².
 
@@ -595,19 +595,35 @@ Das ist sehr effizient. Wir haben eine hohe Bevölkerungsdichte und deutlich ger
 
 Das ergibt ungefähr 10.000 Bewohner pro Stadt. So kennen sich alle und es entsteht ein starkes Gemeinschaftsgefühl.
 
+Gleichzeitig ist das nur eine erste Annäherung. Die konkrete Größe einer Stadt ergibt sich aus dem **Gleichgewicht** zwischen Bewohnern, Infrastruktur und Umgebung.
+
+Eine Stadt kann nur so viele Menschen tragen, wie ihre lokale Selbstversorgung ermöglicht: Energie, Wasser, Nahrungsmittel, Materialien, Erholung. Der Waldgarten und die verfügbaren Ressourcen setzen damit eine natürliche Obergrenze – nicht als starre Zahl, sondern abhängig von Klima, Boden, Technologie und Kultur.
+
+In einer fruchtbaren Bioregion mit viel Wasser und guter Erde kann eine Stadt mehr Menschen versorgen, in einer rauen Region vielleicht deutlich weniger. Entscheidend ist, dass die Stadt als Organismus im Gleichgewicht bleibt.
+
+Wenn die Stadt wächst und dieses Gleichgewicht verloren geht – wenn Wege zu lang werden, die Versorgung an Grenzen stößt, Konflikte zunehmen oder die soziale Nähe verloren geht – ist das ein Signal, dass es Zeit ist, sich zu verändern.
+
+Anstatt weiter in die Höhe und Breite zu wachsen, **teilen** sich Städte wie Zellen.
+
+Eine Gruppe von Bewohnern gründet in der Nähe eine neue, eigenständige Stadt mit eigener Identität. Die Mutterstadt unterstützt die Gründung, teilt Wissen, Infrastruktur und Kultur. So entstehen Stadt-Cluster in einer Bioregion: verwandte, aber eigenständige Habitate.
+
+Die Teilung ist kein Verlust, sondern ein evolutionärer Schritt: Beide Städte können wieder ins Gleichgewicht kommen und ihre jeweilige Kultur klarer leben.
+
+Neue Städte entstehen also meist nicht „im Nirgendwo“, sondern als natürliche Folge von Wachstum und Reifung bestehender Städte. Nur wenn wir gemeinsam entscheiden, dass eine neue Region besiedelt werden soll, brechen wir wirklich neues Gelände auf – idealerweise im Einklang mit der lokalen Ökologie und den umliegenden Städten.
+
 Wir entfernen dadurch viele Schichten der Abstraktion, wodurch einige der Probleme der modernen Gesellschaft gelöst werden.
 
 Wir können die Probleme dort lösen, wo sie entstehen.
 
-Gleichzeitig haben wir die Kapazität wirklich in jeden Bewohner zu investieren und bei ihrer Entwicklung zu unterstützen. Das ist auch im Interesse der Stadt, weil wir so bessere Mitspieler bekommen, die dann wieder etwas zurückgeben können.
+Gleichzeitig haben wir die Kapazität, wirklich in jeden Bewohner zu investieren und bei ihrer Entwicklung zu unterstützen. Das ist auch im Interesse der Stadt, weil wir so bessere Mitspieler bekommen, die dann wieder etwas zurückgeben können.
 
 Wir gestalten unsere Umgebung so, dass sie uns beim Aufblühen unterstützt.
 
-Weil sie uns hilft, haben wir ein Interesse daran etwas zurückzugeben. Es ist in unserem eigenen Interesse die Stadt immer weiter zu verbessern.
+Weil sie uns hilft, haben wir ein Interesse daran, etwas zurückzugeben. Es ist in unserem eigenen Interesse, die Stadt immer weiter zu verbessern.
 
 Wir investieren in etwas, das uns selbst und anderen hilft. Wir können unseren Beitrag direkt sehen.
 
-Ich stelle mir eine Art Universitätscampus auf dem wir leben, lernen und arbeiten vor.
+Ich stelle mir eine Art Universitätscampus vor, auf dem wir leben, lernen und arbeiten.
 
 ### Gebäude
 
