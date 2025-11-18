@@ -511,6 +511,8 @@ So können wir sicherstellen, dass die Stadt sich in die Richtung entwickelt, di
 
 Durch ein Investment in ein Projekt wählen die Bewohner aus, welches Projekt umgesetzt werden soll.
 
+Damit einzelne Personen oder Unternehmen nicht überproportional viel Einfluss gewinnen, kann jede Person nur einen bestimmten Anteil der Gesamtsumme eines Projekts beitragen. Der Rest muss von vielen Schultern getragen werden. Zustimmung bedeutet dann nicht: „Jemand Reiches bezahlt das“, sondern: „Genügend Menschen wollen es wirklich und sind bereit, einen Teil dafür zu übernehmen.“
+
 Das Stichwort ist "skin in the game". Wenn wir etwas wollen, müssen wir auch bereit sein, dafür zu investieren.
 
 Es ist immer leicht Ideen gutzufinden und das Geld von anderen auszugeben. Wenn wir aber selbst etwas investieren, überlegen wir es uns zweimal. Wir sind auch deutlich involvierter und engagierter.
@@ -535,7 +537,9 @@ Vielleicht bekommen wir Anteile an der Stadt, wenn wir uns engagieren und einbri
 
 Generell gefällt mir aber der Gedanke, statt Geld mehr Zugang zu bekommen. So verbessert sich unser Leben durch unsere Arbeit und unseren Beitrag zur Gemeinschaft. Wir sind dann aber auch nah einer einer gesteuerten und kontrollierten Wirtschaft. Das wollen wir verhindern.
 
-Vielleicht investieren wir in die Unternehmen bzw. die Projekte, die von den Unternehmen umgesetzt werden und bekommen so Zugang zu den Dingen, die wir wollen, statt einer Rendite oder Dividenden.
+Vielleicht investieren wir in die Unternehmen bzw. die Projekte, die von den Unternehmen umgesetzt werden, und bekommen so Zugang zu den Dingen, die wir wollen, statt klassischer Rendite oder Dividenden.
+
+Wir können etwas nutzen, weil wir geholfen haben, es möglich zu machen. Geldflüsse bleiben im Hintergrund. Wichtig ist, dass diejenigen profitieren, die Verantwortung übernehmen und sich beteiligen – nicht diejenigen, die am meisten Kapital anhäufen.
 
 So entscheiden die Bewohner, was produziert wird und wie sich die Stadt entwickelt. Crowdfunding für die Stadt und Unternehmen.
 
@@ -609,7 +613,7 @@ Eine Gruppe von Bewohnern gründet in der Nähe eine neue, eigenständige Stadt 
 
 Die Teilung ist kein Verlust, sondern ein evolutionärer Schritt: Beide Städte können wieder ins Gleichgewicht kommen und ihre jeweilige Kultur klarer leben.
 
-Neue Städte entstehen also meist nicht „im Nirgendwo“, sondern als natürliche Folge von Wachstum und Reifung bestehender Städte. Nur wenn wir gemeinsam entscheiden, dass eine neue Region besiedelt werden soll, brechen wir wirklich neues Gelände auf – idealerweise im Einklang mit der lokalen Ökologie und den umliegenden Städten.
+Neue Städte entstehen also meist nicht „im Nirgendwo“, sondern als natürliche Folge von Wachstum und Reifung bestehender Städte. Nur wenn wir gemeinsam entscheiden, dass eine neue Region besiedelt werden soll, brechen wir wirklich neues Gelände auf – idealerweise im Einklang mit der lokalen Ökologie und den umliegenden Städten. Städte, die näher an der neuen Region liegen, haben dabei ein stärkeres Gewicht in der Entscheidung, weil sie die direkten Konsequenzen tragen. Gleichzeitig können wir uns bewusst dafür entscheiden, bestimmte Gebiete dauerhaft als Naturreservat zu schützen und nicht zu besiedeln.
 
 Wir entfernen dadurch viele Schichten der Abstraktion, wodurch einige der Probleme der modernen Gesellschaft gelöst werden.
 
