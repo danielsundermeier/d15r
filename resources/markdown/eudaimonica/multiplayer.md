@@ -296,6 +296,34 @@ Außerdem gibt es Sicherheit und Stabilität. Wir sind nicht von globalen Liefer
 
 Gleichzeitig machen wir davon natürlich auch weiterhin Gebrauch. Wir leben in einer vernetzten Welt und profitieren von den Vorteilen.
 
+##### P2P Strommarkt
+
+Wir richten einen Peer-to-Peer (P2P) Strommarkt ein. Produzenten und Verbraucher können darüber Energie direkt miteinander handeln – ohne klassische Zwischenhändler und ohne zentrale Preisvorgabe.
+
+Kernprinzip: Strom folgt dorthin, wo er gerade am meisten gebraucht und am sinnvollsten genutzt wird. Angebot und Nachfrage werden lokal ausgeglichen, das System reguliert sich weitgehend selbst.
+
+P2P-Strom ist damit nicht nur eine technische, sondern auch eine kulturelle Veränderung:
+
+- weg von „Ich verbrauche Strom von einem anonymen Versorger“
+- hin zu „Wir versorgen uns gegenseitig in einem gemeinsamen Netz“
+- von zentraler Kontrolle zu geteiltem Besitz an der Infrastruktur
+- von künstlicher Knappheit zu sichtbarem Überfluss dort, wo gut geplant wurde
+
+Die Preise entstehen dynamisch durch Angebot und Nachfrage. Transportwege und -verluste sind Teil des Preises, sodass lokale Produzenten einen natürlichen Vorteil haben. Wer nahe an der Produktion ist, profitiert von günstigeren Preisen; wer weit entfernt ist, hat einen Anreiz, selbst zu produzieren oder energieintensive Nutzung zu verlagern.
+
+So entsteht ein dezentrales Netzwerk von Energiezellen, das sich selbst organisiert: Haushalte, Betriebe und ganze Stadtmodule können sowohl Erzeuger als auch Verbraucher sein. Überschüsse werden automatisch an diejenigen weitergeleitet, die sie gerade brauchen.
+
+Ein solcher P2P-Strommarkt bringt das Energiesystem ins Gleichgewicht:
+
+- transparent und nachvollziehbar
+- lokal kontrollierbar
+- robust gegenüber Ausfällen einzelner Knoten
+- anpassungsfähig bei veränderten Bedingungen
+
+Energie wird zu etwas, das wir miteinander teilen, nicht zu einem Machtinstrument. Das reduziert strukturellen Stress, stärkt Autonomie und Vertrauen und macht sichtbar, dass genug für alle da ist, wenn wir sinnvoll planen und verbinden.
+
+Energieintensive Anwendungen siedeln sich dort an, wo besonders viel und damit günstige Energie zur Verfügung steht. Produktion folgt der Logik der Energie – nicht umgekehrt.
+
 #### Arbeit
 
 In unserem Beruf spezialisieren wir uns immer weiter.

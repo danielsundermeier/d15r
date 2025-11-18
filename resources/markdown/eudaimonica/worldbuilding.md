@@ -142,6 +142,8 @@ Wir wollen Systeme schaffen, die uns mit einem Überschuss an Energie versorgen.
 
 Wir passen die Energieversorgung an die lokalen Verhältnisse an. Es gibt nicht die eine Lösung für alle.
 
+Wo immer möglich, organisieren wir Energieflüsse über dezentrale Märkte, in denen Preise reale Knappheit, Transportaufwand und ökologische Kosten widerspiegeln.
+
 Vorlage ist das Energiesystem von Tony Seba und RethinkX.
 
 Es ist günstiger als fossile Energie und produziert Überschüsse. Durch die ständige Verbesserung der Technologie werden die Kosten immer weiter sinken.
