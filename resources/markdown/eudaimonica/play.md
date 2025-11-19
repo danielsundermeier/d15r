@@ -286,7 +286,7 @@ Die Römer haben es als Genius bezeichnet. Immer, wenn sie etwas Großartiges ge
 
 Diese innere Stimme ist unser Coach und Sparringspartner, die uns unterstützt und hilft, unser volles Potenzial zu entfalten.
 
-Es ist der Guide, der uns durch das Abenteuer des Lebens führt. Uns leise zuflüstert, was wir als nächstes tun dürfen.
+Unsere innere Stimme ist auch eng mit dem Gleichgewicht, der Evolution und dem Flow verbunden. Sie ist wie ein feiner Kompass, der uns spüren lässt, wenn wir von unserem Weg abweichen oder wenn eine neue Herausforderung ruft. Wenn wir im Gleichgewicht sind, können wir sie klarer hören. Wenn wir wachsen, verändert sie ihre Signale. Und im Flow wird sie fast lautlos — weil wir vollkommen mit ihr übereinstimmen. Auf diese Weise hilft sie uns, uns selbst zu führen und immer wieder den nächsten richtigen Schritt zu finden.
 
 Wir müssen lernen, auf sie zu hören und ihr zu vertrauen. Wir haben alle die Fähigkeit, unsere innere Stimme wahrzunehmen.
 
