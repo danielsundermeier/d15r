@@ -302,6 +302,8 @@ Wir können ein Spiel daraus machen, zu bemerken, wenn wir aus dem Gleichgewicht
 
 Am besten gelingt uns das, wenn wir innehalten und tief durchatmen. Uns einen Moment Zeit nehmen, um zu spüren, wie es uns gerade geht.
 
+Mit der Zeit wird unsere innere Stimme so zu einer Art innerem Navigator: Sie hilft uns, bewusst zu entscheiden, anstatt nur automatisch zu reagieren – und damit übernehmen wir immer mehr die Führung in unserem eigenen Leben.
+
 Die Antworten sind in uns. Wir müssen nur lernen, auf unsere innere Stimme zu hören.
 
 ### Gegenspieler
@@ -485,6 +487,8 @@ In dieser Pause liegt unser freier Wille.
 Aber wir können uns nur für Dinge entscheiden, die wir kennen. Wir haben am Anfang nur wenige Optionen. Je mehr Erfahrungen wir sammeln, umso mehr Möglichkeiten eröffnen sich uns.
 
 Je mehr wir wissen und können, umso mehr Spielraum bekommen wir.
+
+Selbstführung bedeutet für mich, diese Fähigkeit Schritt für Schritt auszubauen. Indem wir innehalten, bevor wir handeln, unsere Gefühle wahrnehmen und unsere Werte kennen, können wir Entscheidungen treffen, die zu dem Menschen passen, der wir sein wollen – nicht nur zu unseren spontanen Impulsen. Unser freier Wille wird dann nicht zu einem abstrakten Konzept, sondern zu einer praktischen Fähigkeit im Alltag: Wir lenken unseren Avatar bewusst durch das Spiel des Lebens, statt uns nur von äußeren Reizen und alten Mustern steuern zu lassen.
 
 ### Herausforderungen
 
