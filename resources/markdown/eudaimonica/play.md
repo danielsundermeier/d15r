@@ -762,6 +762,8 @@ Wir können eine Vision von unserem idealen Leben erstellen, das wir erreichen w
 
 Die Übung einen Text über unser bestes Leben in der Zukunft zu schreiben, ist dafür sehr hilfreich. Es hilft uns, eine klare Vorstellung davon zu bekommen, was wir wirklich wollen.
 
+Eine gute Vision ist dabei kein starrer Plan, sondern eher ein Leitstern. Sie gibt unserem Handeln Richtung, ohne uns zu fesseln. In meiner Sicht ist die Vision kein äußeres Statusziel, sondern ein inneres Bild davon, wie sich ein eudaimonisches Leben für uns anfühlt: im Gleichgewicht, im Flow, verbunden mit anderen und im Einklang mit unseren Werten. Sie hilft uns, Quests zu wählen, die wirklich zu uns gehören – und nicht nur den Erwartungen anderer entsprechen.
+
 Die Frage, die sich dann stellt, ist, woher wissen wir, dass es unsere Vision und nicht die der Gesellschaft, unseren Eltern oder Freunden ist.
 
 Auch hier gilt das Prinzip des Ausprobierens. Wir machen etwas und merken dann sehr schnell, ob es das richtige für uns ist.
@@ -788,6 +790,8 @@ Wenn wir herausfinden, welches Gefühl uns fehlt, können wir jetzt etwas untern
 Dazu können wir auch eine Antivision, vor der wir weglaufen wollen, entwickeln. Oft ist es einfacher zu erkennen, was wir nicht wollen, als das, was wir wirklich wollen. Wir haben von dort einen Startpunkt, um uns weiterzuentwickeln.
 
 Wir laufen dann in die entgegengesetzte Richtung und finden so heraus, was uns wirklich wichtig ist.
+
+Die Antivision macht das, was wir vermeiden wollen, sichtbar und konkret. Sie ist wie ein emotionales Warnschild: *So soll mein Leben nicht aussehen.* Wenn wir sie ernst nehmen, hilft sie uns, frühzeitig gegenzusteuern, bevor wir uns im falschen Spiel verlieren. Zusammen mit der Vision spannt sie ein Spannungsfeld auf, in dem wir uns orientieren können: weg von dem, was uns krank macht, hin zu dem, was uns lebendig macht.
 
 ### Lebensbereiche
 
