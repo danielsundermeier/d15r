@@ -95,11 +95,11 @@ Flow ist die erlebbare Form von Evolution. In diesem Zustand entwickeln wir uns 
 
 Flow ist auch ein verlässliches inneres Signal. Wenn ich merke, dass ich in diesen Zustand komme, weiß ich: Ich bin auf dem richtigen Weg. Meine Ziele sind klar, meine Fähigkeiten reichen aus, um weiterzugehen, und ich bin nicht blockiert. Flow sagt mir, dass mein Leben im Gleichgewicht ist – dass ich weder vor meinen Aufgaben weglaufe noch mich in ihnen verliere.
 
-Um Flow zu erleben, müssen wir uns innerlich gut kennen. Wir brauchen genug Energie, Ruhe und Klarheit, um überhaupt wahrzunehmen, ob wir über- oder unterfordert sind. Genau deshalb ist innere Arbeit so entscheidend. Je besser wir unsere Gefühle spüren, desto feinfühliger können wir unser Leben ausbalancieren – und desto häufiger finden wir in diesen optimalen Zustand.
+Flow ist für mich auch ein Beweis dafür, dass innere Arbeit nichts Abgehobenes oder Esoterisches ist, sondern etwas sehr Konkretes und Körperliches. Wenn ich meine Gefühle ernst nehme, gut für meine Grundlagen sorge und mir passende Herausforderungen suche, verändert sich mein Erleben messbar: Ich bin konzentrierter, kreativer, präsenter. Aus dieser Perspektive wird Selbstreflexion zu einer sehr pragmatischen Fähigkeit. Sie hilft mir, die Bedingungen zu schaffen, unter denen Flow überhaupt entstehen kann.
 
 Flow ist kein Dauerzustand. Es ist ein Rhythmus: Wir nähern uns ihm an, erleben ihn, verlassen ihn, kalibrieren uns neu – und finden zurück. Dieser Rhythmus ist die natürliche Bewegung der persönlichen Weiterentwicklung.
 
-Im Flow zu leben bedeutet nicht, ständig euphorisch zu sein. Es bedeutet, im Dialog mit uns selbst zu bleiben: aufmerksam, neugierig, mutig. Und bereit, immer wieder die nächste Herausforderung anzunehmen, die uns wachsen lässt.
+Im Flow zu leben bedeutet nicht, ständig euphorisch zu sein. Es bedeutet, im Dialog mit uns selbst zu bleiben: aufmerksam, neugierig, mutig. Und bereit, immer wieder die nächste Herausforderung anzunehmen, die uns wachsen lässt. Je mehr wir lernen, diesen Rhythmus zu akzeptieren und mit ihm zu arbeiten, statt ihn erzwingen zu wollen, desto leichter fügt sich unser Leben in einen natürlichen Fluss ein.
 
 ### Das falsche Spiel
 
