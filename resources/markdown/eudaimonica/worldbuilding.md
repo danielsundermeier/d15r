@@ -361,6 +361,24 @@ Wir sind eigenständig, aber doch voneinander abhängig. Wir unterstützen uns g
 
 Wir nutzen die Stärken der einzelnen Bioregionen und gleichen die Schwächen aus.
 
+### Städte als evolutionäre Einheiten
+
+Städte sind in diesem Weltbild keine starren Gebilde, sondern **lebendige, evolutionäre Einheiten**. Sie entstehen, wachsen, verändern sich – und teilen sich, wenn sie zu groß werden. So wie Zellen sich teilen, um funktionsfähig zu bleiben, können auch Städte neue Städte hervorbringen.
+
+Eine Stadt hat dabei eine eigene Identität, Kultur und Struktur. Wenn sie einen bestimmten Punkt erreicht, kann sie ihr Wissen, ihre Infrastruktur und ihre Prinzipien nutzen, um eine neue Stadt zu „gründen“, die an einem anderen Ort unter ähnlichen Leitplanken entsteht. Die neue Stadt ist dann keine Kopie, sondern eine Variation: angepasst an Klima, Ressourcen, Menschen und Bioregion.
+
+Städte stehen dabei in einem Spannungsfeld aus:
+
+- **Kooperation** – sie teilen Wissen, Ressourcen, Technologien und Erfahrungen.
+- **Konkurrenz** – sie experimentieren mit unterschiedlichen Modellen und zeigen, was in der Praxis gut funktioniert.
+- **Lernen** – sie beobachten einander und übernehmen, was sich bewährt.
+
+So entsteht eine Art evolutionärer Wettbewerb der Systeme – nicht im Sinne von „die stärkste Stadt dominiert“, sondern im Sinne von: Die **lebensdienlichsten Modelle verbreiten sich**. Erfolgreiche Prinzipien werden kopiert, schlechte Ideen verschwinden nach und nach.
+
+Bioregionen bilden dabei die nächste Ebene: Sie sind wie Ökosysteme, in denen mehrere Städte miteinander verknüpft sind. Innerhalb dieser Ökosysteme können sich Städte spezialisieren, voneinander profitieren und gemeinsam auf Krisen reagieren.
+
+Städte werden damit zu Experimentierfeldern für das gute Leben. Keine Stadt muss „fertig“ sein. Sie ist immer ein Prozess – ein lernendes System, das sich gemeinsam mit seinen Bewohnern weiterentwickelt.
+
 ### Bildung
 
 Bildung ist ein lebenslanger Prozess. Wir lernen ständig dazu und entwickeln uns weiter.
