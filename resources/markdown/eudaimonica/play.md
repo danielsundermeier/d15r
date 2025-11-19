@@ -937,6 +937,8 @@ Bewusstsein ist auch ein wichtiger Faktor. In Studien ist es den Teilnehmern lei
 
 Die Grundlagen sind die Basis, auf der alles andere aufbaut. Sie bilden das Fundament, auf dem wir unser Leben gestalten.
 
+Gesundheit ist für mich der sichtbarste Ausdruck dieses Fundaments. Sie zeigt, wie gut es uns gelingt, im Alltag im Gleichgewicht zu bleiben – körperlich, mental und emotional. Wenn unser Fundament stabil ist, können wir Herausforderungen annehmen, ohne daran zu zerbrechen. Wir haben genug Energie, um zu spielen, zu lernen, zu arbeiten und Beziehungen zu leben. Gerät dieses Fundament aus der Balance, spüren wir es zuerst in unserem Körper: in Form von Erschöpfung, Unruhe, Krankheiten oder chronischem Stress. Deshalb sind die Grundlagen nicht „nice to have“, sondern die Voraussetzung dafür, dass das Spiel des Lebens überhaupt Spaß machen kann.
+
 Von einem soliden Fundament aus können wir unsere Abenteuer starten.
 
 Es gibt uns die Sicherheit und Energie, die wir brauchen, um die Herausforderungen des Lebens zu meistern.
