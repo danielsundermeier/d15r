@@ -472,6 +472,20 @@ Die Daten der Stadt helfen uns, Muster früh zu erkennen. Nicht zur Überwachung
 
 Eine gesunde Stadt ist nicht die, in der Menschen perfekt leben, sondern die, in der Ungleichgewicht früh sichtbar wird – und in der Unterstützung selbstverständlich ist. Nicht Kontrolle, sondern Kultur macht uns gesund.
 
+### Bildung & Persönlichkeitsentwicklung
+
+Bildung ist in einer eudaimonischen Stadt kein Frühjahrsprojekt der Jugend, sondern ein lebenslanger Prozess der Selbstentfaltung. Ziel ist nicht, Menschen auf einen Arbeitsmarkt vorzubereiten, sondern sie dabei zu unterstützen, sich selbst zu verstehen, ihre Stärken zu entwickeln und ihren einzigartigen Beitrag zum Ganzen zu finden.
+
+Bildung folgt dabei drei Prinzipien:
+
+- **Begreifen durch Handeln:** Wir lernen, indem wir echte Probleme lösen, nicht indem wir abstrakte Inhalte auswendig lernen.
+- **Mentoring statt Belehrung:** Erfahrene Bewohner begleiten Jüngere – wie in der mittelalterlichen Wanderschaft oder in modernen Coaching-Systemen.
+- **Selbstführung:** Schüler lernen, Entscheidungen zu treffen, Projekte zu planen, sich zu organisieren und Verantwortung zu übernehmen.
+
+Die Stadt bietet Räume, Materialien und Begleitung – aber keine starre Einheitsform. Lernen geschieht in Projekten, Werkstätten, im Waldgarten, in der Küche, im Eudaimonium oder in Teams, die reale Aufgaben der Stadt übernehmen.
+
+Persönlichkeitsentwicklung ist kein Luxus, sondern Teil der Grundversorgung: Wir lernen, zu fühlen, zu reflektieren, Konflikte zu lösen, Verantwortung zu tragen und sinnvoll zu handeln. Eine Stadt kann nur so stark sein wie die Menschen, die sie trägt – deshalb investiert sie in ihre Bildung wie in ihre Energie- oder Gesundheitsinfrastruktur.
+
 ## Motivation durch Kultur
 
 Motivation entsteht nicht durch Regeln, Druck oder abstrakte Appelle, sondern durch Kultur. Menschen orientieren sich am Verhalten anderer, nicht an theoretischen Vorgaben. Wenn wir sehen, dass andere sich engagieren, entsteht ein natürlicher Sog: Wir wollen Teil davon sein.
