@@ -472,6 +472,21 @@ Die Daten der Stadt helfen uns, Muster früh zu erkennen. Nicht zur Überwachung
 
 Eine gesunde Stadt ist nicht die, in der Menschen perfekt leben, sondern die, in der Ungleichgewicht früh sichtbar wird – und in der Unterstützung selbstverständlich ist. Nicht Kontrolle, sondern Kultur macht uns gesund.
 
+## Motivation durch Kultur
+
+Motivation entsteht nicht durch Regeln, Druck oder abstrakte Appelle, sondern durch Kultur. Menschen orientieren sich am Verhalten anderer, nicht an theoretischen Vorgaben. Wenn wir sehen, dass andere sich engagieren, entsteht ein natürlicher Sog: Wir wollen Teil davon sein.
+
+Kultur wirkt wie ein unsichtbarer Verstärker. Wenn jemand morgens Müll aufhebt, tun es andere auch. Wenn jemand bei den Kindern hilft, entsteht ein Muster der Fürsorge. Wenn jemand eine Aufgabe mit Leidenschaft übernimmt, wird diese Energie spürbar und steckt an.
+
+Wir wollen deshalb bewusst eine Kultur schaffen, in der Beitrag sichtbar ist:
+
+- **Transparenz:** Aufgaben, Projekte und Beiträge sind öffentlich einsehbar. Nicht als Wettbewerb, sondern als Einladung.
+- **Anerkennung:** Menschen, die Verantwortung übernehmen, werden gesehen – nicht durch Preise, sondern durch echte Wertschätzung.
+- **Vorbilder:** Jede Stadt hat Menschen, die durch ihr Verhalten kulturelle Leitplanken setzen. Nicht durch Macht, sondern durch Haltung.
+- **Resonanzräume:** Orte, an denen wir voneinander lernen können – Lagerfeuer, Kantine, Eudaimonium, offene Werkstätten.
+
+Kultur ersetzt Kontrolle. Je stärker die Kultur des Beitrags ist, desto weniger Regeln brauchen wir. Motivation entsteht von selbst, weil wir einander inspirieren. Jeder kleine Beitrag wirkt wie ein Funke, der weitere entzündet. So wird Kultur zum Motor des Zusammenhalts und zur Grundlage einer gesunden, lebendigen Stadt.
+
 ## Fundament
 
 ### Ernährung
