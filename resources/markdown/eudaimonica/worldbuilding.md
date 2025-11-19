@@ -72,6 +72,21 @@ Was wohl entsteht, wenn es erwacht?
 
 Können wir das dann noch von dem unterscheiden, was wir als Gott bezeichnen würden?
 
+### Globale Leitplanken
+
+Wenn wir unsere Rolle als gestaltende Spezies ernst nehmen, brauchen wir ein paar einfache Prinzipien, die für alle gelten – unabhängig von Stadt, Kultur oder Bioregion. Sie sind keine detaillierten Gesetze, sondern Leitplanken, die verhindern, dass wir uns selbst und das Ökosystem zerstören.
+
+Mögliche globale Leitplanken sind:
+
+- **Gewaltfreiheit** – Probleme werden nicht mit systematischer Gewalt gelöst. Verteidigung ist möglich, aber Angriff als Prinzip hat keinen Platz.
+- **Transparenz** – Entscheidungen, die viele betreffen, müssen nachvollziehbar sein. Macht im Verborgenen zerstört Vertrauen.
+- **Freiwillige Zugehörigkeit** – niemand darf gegen seinen Willen an eine Stadt, Organisation oder Struktur gebunden werden.
+- **Ökologisches Gleichgewicht** – planetare Grenzen sind real und nicht verhandelbar. Jede Stadt, jede Bioregion achtet darauf, innerhalb dieser Grenzen zu bleiben.
+- **Respekt vor Souveränität** – Städte und Bioregionen haben das Recht, ihre eigenen Experimente zu machen, solange sie anderen nicht schaden.
+- **Verantwortung für Konsequenzen** – wer Systeme baut, trägt Verantwortung für deren Auswirkungen – auch zeitversetzt und auf andere Ebenen.
+
+Diese Leitplanken sind ein globaler Mindeststandard, der Raum für maximale Vielfalt lässt. Sie sorgen dafür, dass unsere Experimente auf dem Planeten zwar mutig sein dürfen – aber nicht zerstörerisch. Innerhalb dieser Grenzen kann sich Kultur, Technologie und Organisation frei entwickeln.
+
 ## Antifragilität
 
 Wie schaffen wir Systeme, die nicht nur robust sind, sondern durch Herausforderungen und Krisen stärker werden?
