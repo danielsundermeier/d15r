@@ -326,6 +326,8 @@ Die Wurzel liegt tiefer.
 
 Das Spiel des Lebens ist hauptsächlich ein mentales und kein rein körperliches Spiel.
 
+Wenn wir das Spiel auf diese Weise verstehen, wird klarer, warum wir so oft aus dem Gleichgewicht geraten. Unser Gegenspieler ist nicht nur ein äußerer Widerstand, sondern vor allem der innere Modus, in den wir wechseln: Stress statt Ruhe, Kampf statt Vertrauen, Kontrolle statt Flow. In diesem Zustand verlieren wir den feinen Kontakt zu uns selbst. Wir hören unsere innere Stimme schlechter, übergehen unsere Gefühle und ignorieren die Signale, die uns eigentlich zurück in die Balance führen würden.
+
 Es sind die Geschichten, die wir uns erzählen, die uns davon abhalten, die bekannten Lösungen umzusetzen und die nächsten Schritte zu sehen.
 
 Wir haben Narrative verinnerlicht wie „dass wir nicht gut genug sind" oder „dass jetzt nicht der richtige Zeitpunkt ist" oder „was sollen die anderen denken".
@@ -341,6 +343,8 @@ Wenn es uns gelingt, diese Geschichten aus unserem Leben zu entfernen, wird das 
 Wir müssen uns dann nur noch mit der echten Herausforderung beschäftigen und nicht mit unseren ganzen eingebildeten Problemen und Umwegen.
 
 Die Schwierigkeiten im Leben sind menschengemacht – eine Erzählung, keine Tatsache.
+
+Diese Erzählungen verschieben unser inneres Gleichgewicht. Sie ziehen uns aus dem Flow und hinein in einen Modus aus Anspannung, Mangel und Dauerstress. Statt auf die echten Signale unseres Körpers zu hören, reagieren wir auf alte Geschichten und automatisierte Programme. Innere Arbeit bedeutet hier, unsere Narrative sichtbar zu machen und zu prüfen: Dienen sie uns noch, oder halten sie uns im falschen Spiel fest? Je klarer wir sie erkennen, desto leichter finden wir zurück zu der Balance, in der wir mutig handeln können, ohne uns selbst zu verlieren.
 
 Das wahre „Spielfeld des Lebens“ ist nicht draußen, sondern in uns – in den Narrativen, die unser Denken formen.
 
@@ -434,7 +438,7 @@ Wir haben in jedem Moment die Wahl, ob wir unserem inneren Schweinehund folgen o
 
 In der Regel halten uns zwei Dinge davon ab:
 
-### Angst
+#### Angst
 
 Angst wird stärker, je länger wir ihr aus dem Weg gehen.
 
@@ -448,7 +452,7 @@ Wenn wir aber den ersten Schritt machen, merken wir, dass die Angst gar nicht so
 
 Deshalb ist es wichtig den Widerstand anzufangen so gering wie möglich zu halten.
 
-### Bequemlichkeit
+#### Bequemlichkeit
 
 Bequemlichkeit ist wie ein Sog, der uns immer weiter in die Komfortzone zieht.
 
