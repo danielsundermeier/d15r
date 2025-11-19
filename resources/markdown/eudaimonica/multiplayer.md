@@ -450,6 +450,18 @@ Ein Teil der Betreuung kann durch Künstliche Intelligenz unterstützt werden: e
 
 Gesundheit ist ein Recht und kein Privileg. Niemand sollte in einer Stadt leben, in der vermeidbares Leid aus Geldmangel, Unwissen oder fehlender Struktur entsteht. Eine gute Stadt erkennt ihren Gesundheitszustand an dem ihrer Bewohner: Je mehr Menschen im Gleichgewicht sind, desto gesünder ist auch sie selbst.
 
+Ein oft übersehener Teil der Gesundheit ist die **soziale Dimension**. Isolation ist für den Menschen eines der schädlichsten Dinge überhaupt – in der Psychologie gilt lange Isolation als eine der härtesten Strafen, weil sie unser Nervensystem aus dem Gleichgewicht bringt. Einsamkeit ist Stress. Nähe ist Heilung.
+
+Darum ist eine gesunde Stadt nicht nur ein Ort der medizinischen Versorgung, sondern ein Ort der **ständigen, natürlichen Begegnung**. Wir laufen einander über den Weg. Menschen bemerken, wenn jemand aus dem Gleichgewicht gerät. Hilfe entsteht nicht aus Pflicht, sondern aus Beziehung.
+
+Gesundheit wird so zu einem **kollektiven Projekt**, das automatisch entsteht, wenn Menschen in echter Gemeinschaft leben. Die Umgebung selbst wirkt wie ein Heilfaktor.
+
+Die Stadt betrachtet Gesundheit evolutionär: Wir gestalten Systeme so, dass Krankheiten gar nicht erst entstehen. Umgebung, Routinen, Ernährung, Beziehungen, Schlafrhythmus, Luftqualität und tägliche Bewegung sind die eigentlichen Medikamente. Medizinische Eingriffe bleiben wichtig – aber als zweite Verteidigungslinie, nicht als erste.
+
+Die Daten der Stadt helfen uns, Muster früh zu erkennen. Nicht zur Überwachung, sondern zur Prävention: anonymisierte Muster zeigen, ob Schlaf, Stress oder Ernährung sich verschieben. So kann die Stadt ihre Angebote, Zeiten, Menüs und Bewegungsräume anpassen. Gesundheit wird ein dynamisches Gleichgewicht, das im Zusammenspiel von Mensch und Stadt entsteht.
+
+Eine gesunde Stadt ist nicht die, in der Menschen perfekt leben, sondern die, in der Ungleichgewicht früh sichtbar wird – und in der Unterstützung selbstverständlich ist. Nicht Kontrolle, sondern Kultur macht uns gesund.
+
 ## Fundament
 
 ### Ernährung
