@@ -827,6 +827,40 @@ Wir setzen dadurch unsere Stärken ein und leisten einen echten Beitrag, anstatt
 
 Wir haben Autonomie, Fortschritt und Sinn. Das sind die drei wichtigsten Faktoren für Zufriedenheit bei der Arbeit.
 
+Arbeit ist in meiner Sicht nichts anderes als unser Weg, einen Beitrag zu leisten. Sie ist die Spielfläche, auf der wir unsere Stärken, Interessen und Werte in konkrete Projekte übersetzen. In einer gesunden Welt ist Arbeit nicht primär Mittel zum Geldverdienen, sondern Ausdruck dessen, wer wir sind und wie wir anderen nützen wollen.
+
+Wenn wir im Gleichgewicht sind, verändert sich unsere Beziehung zur Arbeit komplett.
+Wir arbeiten dann nicht mehr, um ein Loch in uns zu stopfen oder vor etwas wegzulaufen, sondern aus einem Gefühl von Fülle: Wir *wollen* etwas tun, wir *wollen* gestalten, wir *wollen* mit anderen zusammen Probleme lösen.
+
+Arbeit, wie ich sie mir vorstelle, erfüllt drei zentrale Bedürfnisse:
+
+- **Autonomie** – ich habe Einfluss darauf, *wie*, *wann* und *woran* ich arbeite.
+- **Meisterschaft** – ich werde besser, lerne dazu, wachse an Herausforderungen.
+- **Sinn** – ich sehe, wie meine Arbeit echten Wert für andere schafft.
+
+Wenn eines dieser Elemente fehlt, kippt Arbeit schnell in Leere, Zynismus oder Burnout.
+Dann arbeiten wir gegen uns selbst und gegen das Gleichgewicht.
+
+In einer gut gestalteten Umgebung müssen wir uns nicht mehr in Jobs quetschen, die eigentlich nicht zu uns passen. Die Stadt – oder das System, in dem wir leben – hilft uns dabei, das zu tun, was wirklich gebraucht wird *und* zu uns passt. Aufgaben entstehen dynamisch: Dort, wo Probleme auftauchen, wo Leidensdruck da ist, wo jemand sagt: „Das nervt mich so sehr, dass ich es ändern will.“
+
+Arbeit wird dann zu einer Abfolge von sinnvollen Quests:
+
+- Wir sehen ein Problem.
+- Wir entscheiden uns, es anzugehen.
+- Wir holen uns Mitstreiter.
+- Wir probieren aus, scheitern, lernen, passen an.
+- Wir automatisieren oder übergeben, wenn es stabil läuft.
+- Und dann suchen wir uns die nächste sinnvolle Herausforderung.
+
+Flow ist dabei ein wichtiges Signal.
+Wenn wir die richtige Art von Arbeit zur richtigen Zeit mit dem richtigen Maß an Herausforderung verbinden, fühlt sie sich nicht wie dauerhafte Anstrengung an, sondern wie gutes Spiel: anstrengend, aber stimmig. Wir sind gefordert, aber nicht zerstört.
+
+Es wird immer Aufgaben geben, die niemand besonders liebt. Der Unterschied ist: In einer gesunden Kultur ist das ein Übergangszustand. Wenn sich dauerhaft zeigt, dass eine Aufgabe niemand machen möchte, ist das ein klares Signal für Innovation und Automatisierung – nicht für Zwang.
+
+Arbeit ist dann kein Käfig mehr, sondern ein Spielfeld.
+Kein Zwangssystem, sondern eine Einladung:
+Nutze deine Fähigkeiten, lerne neue dazu, gestalte mit – in deinem Tempo, in deiner Art, im Dienst von etwas Größerem als dir selbst.
+
 #### Liebe
 
 Beziehungen sind ein wichtiger Teil unseres Lebens. Wir sind soziale Wesen und brauchen den Kontakt zu anderen Menschen.
