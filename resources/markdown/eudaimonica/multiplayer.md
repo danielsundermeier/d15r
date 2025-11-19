@@ -486,7 +486,25 @@ Die Stadt bietet Räume, Materialien und Begleitung – aber keine starre Einhei
 
 Persönlichkeitsentwicklung ist kein Luxus, sondern Teil der Grundversorgung: Wir lernen, zu fühlen, zu reflektieren, Konflikte zu lösen, Verantwortung zu tragen und sinnvoll zu handeln. Eine Stadt kann nur so stark sein wie die Menschen, die sie trägt – deshalb investiert sie in ihre Bildung wie in ihre Energie- oder Gesundheitsinfrastruktur.
 
-## Motivation durch Kultur
+### Selbstorganisation & Stadtmechanik
+
+Eine eudaimonische Stadt funktioniert nicht durch zentrale Kontrolle, sondern durch **Selbstorganisation**. Aufgaben, Bedürfnisse und Ressourcen fließen dorthin, wo sie am sinnvollsten sind – ähnlich wie in einem lebendigen Organismus.
+
+Kern der Stadtmechanik ist eine **offene Aufgabenplattform**, auf der sichtbar wird, was getan werden muss. Von alltäglichen Tätigkeiten bis zu langfristigen Projekten können sich Bewohner einbringen – je nach Zeit, Fähigkeit und Interesse.
+
+Wesentliche Prinzipien:
+
+- **Transparenz:** Jede Aufgabe ist sichtbar, inklusive Zustand, benötigter Hilfe und Auswirkungen.
+- **Freiwilligkeit:** Menschen entscheiden selbst, wo sie beitragen möchten. Motivation folgt Interesse, nicht Zwang.
+- **Anreize:** Unbeliebte oder schwierige Aufgaben erhöhen automatisch ihren Wert. Bewohner können Belohnungen anheben, wenn ihnen ein Thema wichtig ist. So entsteht ein natürlicher Markt für Verantwortung.
+- **Automatisierung:** Wenn Aufgaben dauerhaft niemand übernehmen möchte, ist das ein Signal für Anpassung oder Automatisierung. Kultur ersetzt Zwang; Systeme ersetzen Überlast.
+- **Rituale:** Wiederkehrende Arbeiten werden durch gemeinschaftliche Rituale unterstützt – Erntefeste, Reparaturtage, gemeinschaftliche Bauaktionen. Arbeit wird zu Begegnung.
+
+Diese Struktur schafft ein lebendiges Gleichgewicht: Die Stadt reagiert flexibel auf Veränderungen, ohne Chaos zu erzeugen. Jede kleine Handlung hat spürbare Wirkung. Selbstorganisation führt nicht zu Anarchie, sondern zu einem fein austarierten Zusammenspiel – wie bei einem Myzelnetzwerk oder einem funktionierenden Ökosystem.
+
+Eine Stadt, die sich selbst organisiert, ist lernfähig. Probleme werden dort gelöst, wo sie entstehen. Entscheidungen werden von Menschen getroffen, die die Konsequenzen tragen. Das macht die Stadt **antifragil**: Sie wächst an Belastungen, statt an ihnen zu zerbrechen.
+
+### Motivation durch Kultur
 
 Motivation entsteht nicht durch Regeln, Druck oder abstrakte Appelle, sondern durch Kultur. Menschen orientieren sich am Verhalten anderer, nicht an theoretischen Vorgaben. Wenn wir sehen, dass andere sich engagieren, entsteht ein natürlicher Sog: Wir wollen Teil davon sein.
 
