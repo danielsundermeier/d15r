@@ -310,6 +310,22 @@ Wir haben einen Lebensstil, der uns gesund hält. Wir wissen, was uns gut tut un
 
 Es gibt auch hier eine Datenbank mit allen Informationen, die wir brauchen, um unseren Körper besser zu verstehen, gesund zu halten und zu optimieren.
 
+Auf planetarer Ebene wird daraus ein **offenes, anonymisiertes Gesundheitsnetz**. Die lokalen Daten der Städte – Muster von Schlaf, Bewegung, Ernährung, Stress, Infektionen, chronischen Erkrankungen – fließen in eine globale Datenbank ein, die von allen genutzt werden kann, die an Heilung und Prävention arbeiten.
+
+Die Rohdaten sind dabei immer anonymisiert und aggregiert. Niemand kann zurückverfolgen, welche Person welche Krankheit hatte. Aber die Muster werden sichtbar: Wie breiten sich Krankheiten aus? Welche Lebensstile schützen? Welche Kombinationen aus Umwelt, Genetik und Verhalten führen zu Problemen – und welche zu Resilienz?
+
+Auf dieser Basis können weltweit offene Protokolle, Medikamente und Impfstoffe entwickelt werden. Forschung wird zu einem globalen Open-Source-Projekt: Ergebnisse werden geteilt, Grundlagenwissen ist frei zugänglich, und jeder – von großen Forschungseinrichtungen bis zu kleinen Teams – kann darauf aufbauen.
+
+So entsteht ein **globales Immunsystem der Menschheit**: Lokale Gesundheitssysteme erkennen früh, wenn etwas aus dem Gleichgewicht gerät, melden anonymisierte Muster in das globale Netz und erhalten im Gegenzug Zugriff auf das gesamte gesammelte Wissen. Seltene Krankheiten sind keine Randnotiz mehr, weil sie weltweit sichtbar werden und sich Menschen zusammentun können, um an Lösungen zu arbeiten.
+
+Wichtige Leitplanken bleiben dabei erhalten:
+
+- Daten dürfen nur genutzt werden, um Leid zu verringern, nicht um Menschen zu diskriminieren.
+- Individuen behalten die Hoheit darüber, ob ihre Daten in den globalen Pool einfließen.
+- Der Zugang zu den Ergebnissen – Medikamenten, Therapien, Protokollen – ist kein Geschäftsgeheimnis, sondern ein globales Gemeingut.
+
+Gesundheitssysteme sind damit lokal verankert, aber global vernetzt. Jede Stadt sorgt für das Wohl ihrer Bewohner – und jede Stadt trägt gleichzeitig zum Wohl aller bei.
+
 ### Bioregionen
 
 Die Städte organisieren sich in Bioregionen. Das sind natürliche Einheiten, die auf geografischen und ökologischen Gegebenheiten basieren.
