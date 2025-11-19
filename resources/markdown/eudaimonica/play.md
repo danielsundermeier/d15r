@@ -717,6 +717,20 @@ So können wir ein Ideal für uns erstellen, das uns inspiriert und motiviert. W
 
 Wir wollen auch immer Raum für die Menschlichkeit lassen. Wir sind Menschen und damit nicht perfekt. Wir machen Fehler und scheitern immer wieder. Wir stehen aber auch immer wieder auf und lernen daraus.
 
+### Authentizität
+
+Authentizität bedeutet für mich, dass unser äußeres Leben mit unserem inneren Erleben übereinstimmt. Dass wir nicht versuchen, irgendeine Rolle zu spielen, sondern der Mensch werden, der wir tief in uns sind. Sie entsteht nicht durch Nachdenken, sondern durch Erfahrung, Beobachtung und das Spüren unseres eigenen Körpers.
+
+Wenn wir im Gleichgewicht sind, fällt es uns leichter, authentisch zu handeln. Wir hören unsere innere Stimme klarer, wir erkennen unsere Bedürfnisse und wir spüren, wenn wir uns selbst verraten würden. Authentizität ist damit kein starres Konzept, das wir einmal definieren, sondern etwas Lebendiges: Sie verändert sich, wenn wir wachsen. Wir lernen uns selbst immer tiefer kennen, entdecken neue Stärken, neue Grenzen und neue Leidenschaften – und passen unser Leben daran an.
+
+Eines der größten Hindernisse auf dem Weg zur Authentizität sind die Geschichten und Erwartungen, die wir übernehmen: von Eltern, Freunden, Gesellschaft, Schule oder Kultur. Sie formen unsere Identität oft früher, als wir reflektieren können. Doch sobald wir merken, dass wir ein Leben leben, das gar nicht zu uns passt, beginnt die eigentliche Arbeit: Wir müssen herausfinden, wer wir wirklich sind. Nicht wer wir sein sollten.
+
+Authentizität bedeutet nicht, dass wir perfekt sind oder immer alles richtig machen. Es bedeutet, dass wir ehrlich zu uns selbst sind. Dass wir erkennen, wenn wir aus Angst, Bequemlichkeit oder Anpassung handeln, und dass wir den Mut haben, Schritt für Schritt zurück zu uns zu finden.
+
+Je authentischer wir werden, desto mehr Energie haben wir. Wir hören auf, gegen uns selbst anzukämpfen. Wir müssen keine Rolle aufrechterhalten, keine Fassade tragen, keine Erwartungen erfüllen, die nicht unsere eigenen sind. Authentizität befreit unsere Kreativität und macht uns mutiger. Sie verbindet uns tiefer mit anderen Menschen, weil echte Verbindung nur entsteht, wenn wir uns zeigen, wie wir wirklich sind.
+
+Authentizität ist damit nicht nur ein persönliches Ideal, sondern ein zentraler Baustein eines eudaimonischen Lebens. Sie ist die Grundlage dafür, dass wir die Quests wählen, die wirklich zu uns gehören – und zu dem Menschen werden, der wir sein können, wenn wir die inneren und äußeren Widerstände überwinden.
+
 ### Selbstbild
 
 Menschen, die während eines Sehtests die Rolle eines Piloten gespielt haben, haben besser abgeschnitten.
