@@ -347,6 +347,8 @@ Energieintensive Anwendungen siedeln sich dort an, wo besonders viel und damit g
 
 In unserem Beruf spezialisieren wir uns immer weiter.
 
+In einer eudaimonischen Stadt denken wir Arbeit nicht mehr als festen Beruf, sondern als **Rolle**, die wir je nach Phase, Fähigkeit und Interesse einnehmen. Eine Person kann morgens in der Kantine unterstützen, nachmittags an einem Stadtprojekt mitarbeiten und abends jemanden in der Persönlichkeitsentwicklung begleiten. Arbeit wird dadurch fließender, menschlicher und näher an unseren tatsächlichen Stärken. Die Stadt ist wie ein lebendiges Start-up: Aufgaben entstehen dynamisch, und jeder kann sich dort einbringen, wo er gerade am meisten Wirkung entfaltet.
+
 Die Spezialisierung war eine enorme evolutionäre Leistung – sie hat Produktivität, Innovation und Fortschritt ermöglicht. Aber sie hat auch Kosten:
 
 - Menschen und Disziplinen verlieren den Kontakt zueinander.
@@ -356,6 +358,12 @@ Die Spezialisierung war eine enorme evolutionäre Leistung – sie hat Produktiv
 Im Menschen selbst zeigt sich das als Fragmentierung: Arbeit, Privatleben, Körper, Geist – alles in getrennten Silos. Im städtischen System zeigt es sich als Trennung von Wohnen, Arbeiten, Lernen, Produzieren.
 
 In einem Bereich haben wir es vielleicht übertrieben und in unserem Privatleben vernachlässigt.
+
+Damit dieses neue Rollenmodell funktioniert, schaffen wir klare Strukturen: eine **Stadt-To-do-Liste**, in der Aufgaben sichtbar werden und sich Menschen je nach Zeit und Interesse eintragen können. Schwierige oder unbeliebte Aufgaben steigen automatisch im Wert — entweder finanziell, sozial oder durch besondere Anerkennung. So regelt der Markt der Verantwortung vieles selbst: Was niemand tun will, wird attraktiver oder automatisiert.
+
+Jeder Bewohner kann die Belohnug für eine Aufgabe erhöhen. Dadurch entsteht ein Markt für Aufgaben. Der Preis zeigt die Wichtigkeit und Schwierigkeit der Aufgabe an.
+
+Wenn niemand eine Aufgabe übernehmen will, steigt der Preis so lange, bis sich jemand findet. Es ist aber auch ein Zeichen, dass etwas grundlegend verändert werden muss und wir hier vielleicht automatisieren sollten.
 
 Hier passiert genau das Gegenteil. Wir sind für alles verantwortlich und zuständig. Wir müssen für alles Experte sein oder zumindest ungefähr wissen, wie es funktioniert.
 
@@ -381,6 +389,8 @@ Das führt zu mehreren Vorteilen:
 - Freiheit – weniger Ballast, weniger Wartung, mehr Fokus auf das Wesentliche.
 
 Das ist die Umkehr der bürgerlichen Idee vom „Haus als Rückzugsort“. Es ist eine Kultur, in der der öffentliche Raum der eigentliche Lebensraum ist – der Ort, an dem sich das Leben abspielt, nicht das Private.
+
+Arbeit ist damit nicht mehr das, was wir „für Geld tun müssen“, sondern das, was wir **gemeinsam tun, um das System am Laufen zu halten und uns gegenseitig zu stärken**. Wir arbeiten nicht gegeneinander, sondern nebeneinander; nicht isoliert, sondern sichtbar füreinander. Das macht Arbeit wieder sinnstiftend: Sie wird zu einem Beitrag zur Gemeinschaft, nicht zu einem Kampf ums Überleben.
 
 Wir schaffen öffentliche Orte für unsere Grundbedürfnisse:
 
