@@ -432,6 +432,24 @@ In Gesellschaft fällt es uns nochmal leichter. Wir müssen dabei nicht alle das
 
 Die Stadt gibt uns eine Struktur, die uns dabei unterstützt, unsere Tage als Meisterwerke zu gestalten.
 
+### Gesundheit
+
+Gesundheit ist in der Stadt kein individueller Luxus und keine Reparaturleistung, die wir erst dann in Anspruch nehmen, wenn etwas kaputtgegangen ist. Sie ist ein kollektives Projekt und Teil der Grundversorgung. Ziel ist es, den Körper im Gleichgewicht zu halten, statt fortlaufend Schäden zu beheben.
+
+Dafür kombinieren wir drei Ebenen:
+
+- **Umgebung** – eine Stadt, die Bewegung, gutes Essen, Ruhe, Begegnung und frische Luft selbstverständlich macht.
+- **Struktur** – leicht zugängliche Gesundheitszentren, in denen wir regelmäßig einchecken können, ohne Angst vor Kosten oder Verurteilung.
+- **Daten** – intelligente, möglichst unsichtbare Systeme (z.B. über Toilette, Wearables, Spiegel), die frühzeitig Hinweise auf Ungleichgewichte geben.
+
+Gesundheit bedeutet hier nicht Perfektion, sondern **Balancieren**. Wir müssen nicht alles optimieren, sondern lernen, die Signale unseres Körpers und der Daten zu verstehen: Schlaf, Belastung, Verdauung, Stress, Erholung. Wenn etwas aus der Spur gerät, ist das kein persönliches Versagen, sondern ein Einladung, gemeinsam nachzujustieren.
+
+Die Gesundheitszentren sind weniger klassische Arztpraxen als interdisziplinäre Teams: Ärzt:innen, Therapeut:innen, Trainer:innen, Ernährungsberater:innen und Menschen, die sich mit emotionaler Gesundheit auskennen. Sie verstehen sich nicht als Autoritäten, die sagen, was richtig ist, sondern als Mitspieler, die uns helfen, unsere eigenen Ziele zu erreichen und unser Fundament zu stabilisieren.
+
+Ein Teil der Betreuung kann durch Künstliche Intelligenz unterstützt werden: einfache Fragen, Auswertung von Mustern, Vorschläge für Anpassungen. Für die wirklich wichtigen Gespräche – Angst, Lebensstil, Beziehungen, Sinnfragen – bleibt der menschliche Kontakt im Zentrum. Die KI ist Assistenz, nicht Ersatz.
+
+Gesundheit ist ein Recht und kein Privileg. Niemand sollte in einer Stadt leben, in der vermeidbares Leid aus Geldmangel, Unwissen oder fehlender Struktur entsteht. Eine gute Stadt erkennt ihren Gesundheitszustand an dem ihrer Bewohner: Je mehr Menschen im Gleichgewicht sind, desto gesünder ist auch sie selbst.
+
 ## Fundament
 
 ### Ernährung
