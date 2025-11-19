@@ -32,9 +32,13 @@ So können wir die Prinzipien, die für einen Menschen gelten, auch auf die Stad
 
 Wir schließen uns in Städten zusammen, um unsere Lebensqualität zu verbessern.
 
+**Wozu gibt es Städte?** Nicht, um möglichst viele Menschen, Funktionen und Gebäude auf engem Raum zu stapeln, sondern um das gute Leben einfacher zu machen. Eine Stadt soll den Widerstand zu einem erfüllten Leben so gering wie möglich machen: Sie nimmt uns unnötige Alltagslast ab, bündelt Ressourcen, schafft Orte der Begegnung und gibt uns eine Struktur, die uns trägt. Sie ist wie ein gemeinsames Exoskelett, das die Grundlast des Lebens mitträgt, damit wir unsere Energie in das investieren können, was uns wirklich wichtig ist: Lernen, Beziehungen, Kreativität, Sinn und Beitrag.
+
 Zusammenarbeit ermöglicht Spezialisierung. Jeder trägt das bei, was er am besten kann, und wird dadurch Teil eines größeren Ganzen. Die Zufriedenheit der Bewohner und der Erhalt wie auch die Weiterentwicklung der Infrastruktur bilden die Grundlagen einer gesunden Stadt.
 
 Die Aufgabe der Stadt ist es in die Bewohner zu investieren. Ihnen zu ermöglichen sich zu entfalten und ihre Stärken einzubringen. Dadurch entsteht eine positive Rückkopplungsschleife, von der alle profitieren.
+
+Wenn die Stadt ihre Aufgabe erfüllt, wird sie zu einem Verstärker der individuellen Heldenreisen ihrer Bewohner. Sie schafft ein Umfeld, in dem Gesundheit, Bildung, Arbeit, Kultur und Gemeinschaft nicht in Konkurrenz zueinander stehen, sondern sich gegenseitig unterstützen. Je besser es der Stadt gelingt, diese Rahmenbedingungen zu gestalten, desto mehr starke, kreative und verantwortungsbewusste Menschen wachsen in ihr heran – und desto mehr können diese Menschen wiederum in die Stadt zurück investieren. So entsteht eine evolutionäre Partnerschaft zwischen Individuum und Stadt: Die Stadt dient den Menschen, und die Menschen lassen die Stadt aufblühen.
 
 Die Bewohner sollen so stark davon profitieren, dass sie in die Gemeinschaft investieren wollen.
 
