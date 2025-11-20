@@ -107,11 +107,10 @@
 - Morgen-/Abendroutinen
 - Energiephasen nutzen
 
-### **B. Protokoll**
-- Stabilisator im Ungleichgewicht
-- Rückkehrpunkt
-- 1. Regel: Je schlechter ich mich fühle, desto wichtiger das Protokoll
-- 2. Regel: Ich tue, wovor ich mich drücke
+### B. Protokoll
+- Stabilisator im Ungleichgewicht (siehe auch Antifragilität)
+- Rückkehrpunkt in Richtung Mitte
+- praktische Umsetzung der Regeln aus dem Kapitel Eudaimonia
 
 ### **C. Spielmechanik**
 - Jede Handlung als Mini-Quest: kleine Schritte Richtung Gleichgewicht
@@ -161,6 +160,12 @@
 Eudaimonia = (Energie × Aufmerksamkeit × Wichtigkeit)^Beständigkeit
 ```
 
-- Rückkehr zur Mitte
-- Tage → Gewohnheiten → Identität
+- zwei Regeln als operative Essenz:
+  - 1. Je schlechter ich mich fühle, desto wichtiger wird das Protokoll.
+  - 2. Ich tue, wovor ich mich drücke (Widerstand als Kompass).
+- Rückkehr zur Mitte: Tage → Gewohnheiten → Identität
 - Einladung: erste Quest formulieren
+- Unterkapitel „Nachklang“:
+  - Philosophie gilt auch für sich selbst
+  - Modell, kein Dogma
+  - Ideen als Werkzeuge, nicht als starre Regeln

@@ -336,7 +336,11 @@ Alles wieder zusammenführen. Vom Detail zurück zum Ganzen.
 - **Play:**
   - Eudaimonia-Formel (z.B.
     `Eudaimonia = (Energie × Aufmerksamkeit × Wichtigkeit)^Beständigkeit`)
+  - zwei Regeln als operative Essenz:
+    - 1. Je schlechter ich mich fühle, desto wichtiger wird das Protokoll.
+    - 2. Ich tue, wovor ich mich drücke (Widerstand als Kompass).
   - Rückblick: Identität → Bereiche → Tage → Gewohnheiten → Fundament
+  - Nachklang: Philosophie als Werkzeug, nicht als Dogma; Modell darf angepasst werden
   - Einladung: das Gelesene in eine konkrete Quest zu verwandeln
 
 - **Multiplayer:**

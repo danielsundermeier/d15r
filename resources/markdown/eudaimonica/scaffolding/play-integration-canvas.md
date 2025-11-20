@@ -103,22 +103,22 @@
 
 ---
 
-## II. Spielmechanik / Formel (aktuell in `play.md` unter „Spielmechanik“)
+## II. Spielmechanik / Formel
 
 **Ist in `play.md`:**
-- Formel
-- Energie, Aufmerksamkeit, Wichtigkeit, Beständigkeit
-- Regeln 1 & 2
+- Einleitung „### Spielmechanik“ in der Eudaimonologie (Eudaimonia durch Arete, Aufblühen als Ziel des Spiels)
+- Schlusskapitel „## Eudaimonia“ mit:
+  - Formel
+  - Regeln 1 & 2
+  - Nachklang / Meta-Abschnitt
 
 **Plan:**
-- Abschnitt „Spielmechanik“ als **Brücke** nutzen zwischen:
-  - Eudaimonologie (Theorie)
-  - Antifragilität (Dynamik / Widerstand)
-- Ergänzen:
-  - kurze, klare Verbindung:
-    - Tage als Meisterwerke
-    - Formel = operative Kurzfassung der Theorie
-  - ggf. später: Verweis auf „Momente & Tage“-Kapitel (wenn wir es als eigenes Unterkapitel ergänzen)
+- „Spielmechanik“ in der Eudaimonologie als Brücke nutzen zwischen:
+  - Theorie (Eudaimonologie)
+  - Dynamik (Antifragilität, Protokolle, Algorithmen)
+- Im Kapitel „Eudaimonia“ am Ende:
+  - Formel + Regeln 1 & 2 als destillierte Essenz des ganzen Buches lassen
+  - kurzer Verweis auf Protokolle & Antifragilität als praktische Umsetzung
 
 ---
 
@@ -309,13 +309,21 @@
 ## IX. Eudaimonia
 
 **Ist in `play.md`:**
-- verteilt: Heldenreise, Probleme lösen, Level, etc.
+- Schlusskapitel „## Eudaimonia“ mit:
+  - Eudaimonia-Formel
+  - Regel 1 (Protokoll wird wichtiger, je weiter wir uns vom Gleichgewicht entfernen – nach unten wie nach oben)
+  - Regel 2 (Ich tue, wovor ich mich drücke – Widerstand als Kompass)
+  - Unterkapitel „Nachklang“ zur Philosophie als Werkzeug, nicht als Dogma
 
 **Plan:**
 - am Ende von `play.md`:
-  - kurze Zusammenfassung:
+  - kurze, klare Zusammenfassung:
     - Eudaimonia-Formel
-    - Gleichgewicht als Prozess
-    - Einladung: Konkrete erste Quest formulieren
-  - evtl. Kurzhinweis:
-    - „Wenn du die Struktur sehen willst, schau ins Play-Canvas.“
+    - zwei Regeln als operative Essenz
+    - Gleichgewicht als Prozess, nicht als fixer Zustand
+  - Nachklang:
+    - Philosophie gilt auch für sich selbst
+    - Einladung, das Modell an die eigene Realität anzupassen
+  - konkrete Einladung:
+    - erste eigene Quest formulieren
+    - Protokoll und Algorithmen dafür nutzen
