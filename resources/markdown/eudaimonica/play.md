@@ -375,21 +375,19 @@ Wenn wir besser in etwas werden wollen, müssen wir nur üben und dranbleiben.
 
 Wenn das alles so offensichtlich ist, warum fällt es uns dann trotzdem so schwer, das Spiel des Lebens zu spielen? Warum sind wir nicht alle Superstars und glücklich?
 
-Wir wissen immer, wie sich andere Personen verhalten sollten und was die Lösung für ihre Probleme ist.
-
-Trotzdem fällt es uns selbst unglaublich schwer.
-
-Warum hören wir mit den Dingen auf, die funktionieren?
+Wir wissen immer, wie sich andere Personen verhalten sollten und was die Lösung für ihre Probleme ist. Trotzdem fällt es uns selbst unglaublich schwer. Warum hören wir mit den Dingen auf, die funktionieren?
 
 Die Wurzel liegt tiefer.
 
 Das Spiel des Lebens ist hauptsächlich ein mentales und kein rein körperliches Spiel.
 
+#### Stressmodus & Geschichten
+
 Wenn wir das Spiel auf diese Weise verstehen, wird klarer, warum wir so oft aus dem Gleichgewicht geraten. Unser Gegenspieler ist nicht nur ein äußerer Widerstand, sondern vor allem der innere Modus, in den wir wechseln: Stress statt Ruhe, Kampf statt Vertrauen, Kontrolle statt Flow. In diesem Zustand verlieren wir den feinen Kontakt zu uns selbst. Wir hören unsere innere Stimme schlechter, übergehen unsere Gefühle und ignorieren die Signale, die uns eigentlich zurück in die Balance führen würden.
 
 Es sind die Geschichten, die wir uns erzählen, die uns davon abhalten, die bekannten Lösungen umzusetzen und die nächsten Schritte zu sehen.
 
-Wir haben Narrative verinnerlicht wie „dass wir nicht gut genug sind" oder „dass jetzt nicht der richtige Zeitpunkt ist" oder „was sollen die anderen denken".
+Wir haben Narrative verinnerlicht wie „dass wir nicht gut genug sind“ oder „dass jetzt nicht der richtige Zeitpunkt ist“ oder „was sollen die anderen denken“.
 
 Unsere Ängste und Zweifel bringen uns dazu, es doch nicht zu tun, obwohl wir es besser wissen.
 
@@ -397,9 +395,7 @@ Die Glaubenssätze halten uns davon ab, es einfach durchzuziehen.
 
 Sie formen unsere Perspektive, beeinflussen, wie wir auf Situationen reagieren und welche Optionen uns offenstehen.
 
-Wenn es uns gelingt, diese Geschichten aus unserem Leben zu entfernen, wird das Spiel deutlich einfacher.
-
-Wir müssen uns dann nur noch mit der echten Herausforderung beschäftigen und nicht mit unseren ganzen eingebildeten Problemen und Umwegen.
+Wenn es uns gelingt, diese Geschichten aus unserem Leben zu entfernen, wird das Spiel deutlich einfacher. Wir müssen uns dann nur noch mit der echten Herausforderung beschäftigen und nicht mit unseren ganzen eingebildeten Problemen und Umwegen.
 
 Die Schwierigkeiten im Leben sind menschengemacht – eine Erzählung, keine Tatsache.
 
@@ -414,6 +410,8 @@ Eine Geschichte kann falsch und schmerzhaft sein – und trotzdem „sicher“. 
 Unser Erwachen beginnt, wenn wir erkennen, dass wir die Erzähler sind – nicht die Geschichte.
 
 Erst wenn wir lernen, unsere Geschichten zu erkennen, zu überprüfen und zu erneuern, entwickeln wir uns wirklich weiter.
+
+#### Komfortzone & innerer Schweinehund
 
 Wir sehnen uns nach Komfort, sind aber nicht für den Stillstand gemacht.
 
@@ -437,7 +435,7 @@ Wir bauen Selbstvertrauen auf und sind immer weniger von äußeren Umständen ab
 
 Das Leben ist also ein stetiger Kampf zwischen unserem besten Selbst und dem instinktiven Verhalten.
 
-Wir müssen uns bewusst dafür entscheiden und immer wieder gegen den inneren Schweinhund.
+Wir müssen uns bewusst dafür entscheiden und immer wieder gegen den inneren Schweinehund.
 
 Er redet uns ein, dass wir uns lieber ausruhen oder die Süßigkeiten essen sollten. Er ist die Angst, etwas Neues auszuprobieren. Die Bequemlichkeit anzufangen und der Widerstand.
 
@@ -465,23 +463,27 @@ Das ist nicht immer angenehm, aber es ist notwendig, um voranzukommen.
 
 Als ich bemerkt habe, dass ich mich nicht nur hungrig fühle, wenn ich etwas essen sollte, sondern auch, um mich besser zu fühlen, und ich nicht unbedingt etwas essen muss, ist es mir viel leichter gefallen, mich an meinen Ernährungsplan zu halten und meine Ziele zu erreichen.
 
-Es wird keinen Punkt in unserem Leben geben, an dem wir den inneren Schweinehund besiegen. Er liegt immer auf der lauer und wartet auf einen Moment der Schwäche.
+Es wird keinen Punkt in unserem Leben geben, an dem wir den inneren Schweinehund besiegen. Er liegt immer auf der Lauer und wartet auf einen Moment der Schwäche.
 
-Besonders, wenn wir uns gestresst fühlen oder müde sind wittert er seine Chance. Je schlechter wir uns fühlen, umso eher sind wir für seine Verlockungen empfänglich.
+#### Flucht & Betäubung
+
+Besonders, wenn wir uns gestresst fühlen oder müde sind, wittert er seine Chance. Je schlechter wir uns fühlen, umso eher sind wir für seine Verlockungen empfänglich.
 
 Wir wollen dem Stress entkommen und suchen Ablenkung. Wir essen, scrollen, rauchen oder trinken etwas, um uns besser zu fühlen. Wir wollen weglaufen und unseren Problemen entkommen. Dadurch verschlimmern wir die Situation aber nur.
-
-Wir können ihn aber überlisten, indem wir Gewohnheiten etablieren. Wir nutzen dafür die urzeitlichen Fähigkeiten unseres Gehirns (AI = Ancient Intelligence), um die Dinge zu erreichen, die uns wichtig sind.
-
-Wir denken dann nicht mehr darüber nach etwas zu tun, sondern machen es einfach.
-
-Anstatt den inneren Schweinehund zu bekämpfen, können wir ihn auch auf unsere Seite ziehen. Wir können ihn als Wegweiser nutzen, um zu erkennen, wo wir wachsen können.
-
-Der Widerstand zeigt uns den Weg zu unserem besten Selbst.
 
 In dem Abstand zwischen dem, was wir hätten tun können und dem, was wir tatsächlich getan haben, ist Platz für Unzufriedenheit, Zweifel, Scham und Schuldgefühle.
 
 Je kleiner dieser Abstand ist, umso besser fühlen wir uns.
+
+#### Gewohnheiten & Ancient Intelligence
+
+Wir können ihn aber überlisten, indem wir Gewohnheiten etablieren. Wir nutzen dafür die urzeitlichen Fähigkeiten unseres Gehirns (AI = Ancient Intelligence), um die Dinge zu erreichen, die uns wichtig sind.
+
+Wir denken dann nicht mehr darüber nach, etwas zu tun, sondern machen es einfach.
+
+Anstatt den inneren Schweinehund zu bekämpfen, können wir ihn auch auf unsere Seite ziehen. Wir können ihn als Wegweiser nutzen, um zu erkennen, wo wir wachsen können.
+
+Der Widerstand zeigt uns den Weg zu unserem besten Selbst.
 
 Ich stelle es mir vor wie eine Familie an einem Feiertag. Unser höchstes Selbst ist der ruhige und gelassene Großvater am Ende der Tafel.
 
@@ -495,9 +497,11 @@ Wenn das nicht der Fall ist, reagieren die einzelnen Familienmitglieder aus ihre
 
 Wir haben in jedem Moment die Wahl, ob wir unserem inneren Schweinehund folgen oder einen Schritt in Richtung Wachstum machen.
 
+#### Angst & Bequemlichkeit
+
 In der Regel halten uns zwei Dinge davon ab:
 
-#### Angst
+##### Angst
 
 Angst wird stärker, je länger wir ihr aus dem Weg gehen.
 
@@ -509,15 +513,15 @@ Wir finden immer eine Ausrede, um nicht anzufangen.
 
 Wenn wir aber den ersten Schritt machen, merken wir, dass die Angst gar nicht so schlimm ist, wie wir gedacht haben.
 
-Deshalb ist es wichtig den Widerstand anzufangen so gering wie möglich zu halten.
+Deshalb ist es wichtig, den Widerstand anzufangen so gering wie möglich zu halten.
 
-#### Bequemlichkeit
+##### Bequemlichkeit
 
 Bequemlichkeit ist wie ein Sog, der uns immer weiter in die Komfortzone zieht.
 
 Wir warten auf die Motivation, die uns antreibt. Die kommt aber meistens erst, wenn wir angefangen haben.
 
-Wir können uns kleine Ziele setzen. Wir geben uns die Chance nach ein paar Minuten aufzuhören. Das senkt die Hemmschwelle und macht es leichter anzufangen.
+Wir können uns kleine Ziele setzen. Wir geben uns die Chance, nach ein paar Minuten aufzuhören. Das senkt die Hemmschwelle und macht es leichter anzufangen.
 
 Wenn wir erst angefangen haben, machen wir in der Regel weiter.
 
