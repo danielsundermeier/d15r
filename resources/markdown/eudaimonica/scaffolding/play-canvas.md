@@ -1,0 +1,166 @@
+# Play – Canvas
+
+> Arbeitsdokument für die Struktur von **play.md**.
+> Dieses Canvas ist die Landkarte für das individuelle Buch: Es sammelt alle Bausteine (Ideen, Konzepte, Mechaniken), damit der eigentliche Text in `play.md` freier, erzählerischer und organischer bleiben kann.
+>
+> **Hinweis:** Das Canvas ist kein fertiger Text, sondern eine strukturelle Übersicht. Es darf sich verändern, wachsen und immer wieder neu sortiert werden.
+
+---
+
+# 🎮 **Play – Canvas (Entwurf 1)**
+*Das Gleichgewichts- und Spiel-Modell für das individuelle Leben*
+
+---
+
+## Eudaimonologie
+
+### **A. Zweck**
+- Individuelles Aufblühen (Eudaimonia)
+- Arete als tägliche Bestleistung im Rahmen der eigenen Möglichkeiten
+- Leben im Gleichgewicht (Ruhemodus) statt im Stressmodus
+- Das „richtige Spiel“ finden (Eudaimonia) statt das „falsche Spiel“ (Hedonica)
+
+### **B. Kernprinzipien**
+- Gleichgewicht ist ein Prozess, kein Ziel
+- Evolution durch Mikro-Schritte
+- Flow als natürlicher Zustand, wenn Herausforderung ↔ Fähigkeit passt
+- Entwicklung hat kein festes Ende: Das Potenzial ist prinzipiell grenzenlos und nie vollständig erfassbar („unergründlich“)
+- Körper–Geist–Seele als Dreiklang der Balance
+
+### **C. Metaphern**
+- Fahrradfahren → ständiges Ausbalancieren
+- Spiel / Heldenreise
+- NPC → Held → Guide
+- Kompass: Neugier + Angst
+- Feedback aus dem Körper: Gefühle als Informationssystem
+
+---
+
+## Antifragilität
+
+### **A. Gegenspieler**
+- Innerer Schweinehund
+- Stressmodus
+- Alte Narrative (Selbstzweifel, „nicht gut genug“)
+
+### **B. Mitspieler**
+- Daimon / innere Stimme / Genius
+- Körperliche Signale (Energie, Emotionen)
+- Flow als Signal korrekter Schwierigkeit
+
+### **C. Mechaniken**
+- Sensitivität steigt mit Nähe zum Gleichgewicht
+- Umschaltmomente (plötzliche Entlastung bei tiefer Ursache)
+- Lokale Optima als Fallen → globales Optimum erst sichtbar nach Wachstum
+
+---
+
+## Identität
+
+### **A. Identität = Gleichgewichts-Kohärenz**
+- Die „Mitte“, die wir halten können
+- Jede Entwicklungsebene schafft eine neue Identität
+
+### **B. Werkzeuge**
+- Vision & Antivision
+- Lebensnarrativ (Heldenreise)
+- Archetypen / Rollen
+- Avatar-Entdeckung (Persönlichkeitstests + Selbstbeobachtung)
+
+### **C. Authentizität**
+- Übereinstimmung von innerer Stimme und äußerem Handeln
+- Rollen ablegen, die nicht mehr passen
+- Veränderung durch Erfahrung, nicht Denken
+
+---
+
+## Lebensbereiche
+
+### **A. Energie**
+- Ernährung
+- Bewegung
+- Schlaf
+- Atmung
+- Nervensystem / Emotionen
+- innere Ruhe
+
+### **B. Arbeit / Beitrag**
+- Autonomie
+- Meisterschaft
+- Sinn
+- Arbeit als dynamische Quest → Eliminieren, optimieren, automatisieren
+
+### **C. Liebe / Beziehungen**
+- Selbstliebe
+- Verbindung
+- Ermutigung
+- Leidenschaft
+- universelle Liebe
+
+---
+
+## Protokolle
+
+### **A. Tag als Holon**
+- kleinste steuerbare Einheit
+- Rhythmus statt Uhrzeit
+- Morgen-/Abendroutinen
+- Energiephasen nutzen
+
+### **B. Protokoll**
+- Stabilisator im Ungleichgewicht
+- Rückkehrpunkt
+- 1. Regel: Je schlechter ich mich fühle, desto wichtiger das Protokoll
+- 2. Regel: Ich tue, wovor ich mich drücke
+
+### **C. Spielmechanik**
+- Jede Handlung als Mini-Quest: kleine Schritte Richtung Gleichgewicht
+- Auf dem Weg zum „Endgegner“ begegnen wir vielen Zwischenbossen (Teilhindernisse, Subprobleme)
+- Der Weg zur tiefsten Ursache (Endgegner) ist selten klar – wir müssen ihn uns freikämpfen
+- Es gibt viele Nebenquests (z.B. Fetch-Quests, Ablenkungen, scheinbar „wichtige“ Aufgaben):
+  - Gefahr: sich darin zu verlieren und das eigentliche Ziel zu vergessen
+  - Chance: jede Quest bringt „Loot“ (Erkenntnisse, Fähigkeiten, Kontakte, Klarheit)
+- Wichtigste Regel: nicht aufhören zu suchen, bis wir den eigentlichen Kern des Problems gefunden haben
+
+---
+
+## Algorithmen
+
+### **A. Mikro-Strukturen**
+- Gewohnheiten
+- Trigger → Gefühl → Handlung → Zustand
+
+### **B. Entscheidungslogik**
+- Körper = Sensor
+- Geist = Navigator
+- Seele = Richtung
+
+---
+
+## Fundament
+
+### **A. Körper**
+- Ernährung, Bewegung, Schlaf, Atmung
+
+### **B. Geist**
+- Aufmerksamkeit
+- Klarheit
+- inneres Beobachten
+
+### **C. Seele**
+- Werte
+- Dankbarkeit
+- Authentizität
+- finanzielle Basis
+
+---
+
+## Eudaimonia
+
+```
+Eudaimonia = (Energie × Aufmerksamkeit × Wichtigkeit)^Beständigkeit
+```
+
+- Rückkehr zur Mitte
+- Tage → Gewohnheiten → Identität
+- Einladung: erste Quest formulieren
