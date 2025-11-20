@@ -209,71 +209,6 @@ Es bedeutet nicht die Abwesenheit von Angst, sondern die Fähigkeit, trotz Angst
 
 Das Ziel ist also Eudaimonia durch Arete zu erreichen. Aufblühen, indem wir unsere Stärken zum Wohle aller einsetzen.
 
-Wir können das Spiel auf eine Formel und zwei Regeln reduzieren:
-
-Eudaimonia = (Energie * Aufmerksamkeit * Was ist gerade wichtig)^Beständigkeit
-
-1. Je schlechter ich mich fühle, umso wichtiger ist mein Protokoll
-2. Ich tue, wovor ich mich drücke
-
-#### Energie
-
-Unsere Energie kommt aus den Grundlagen. Wenn wir uns gut um unseren Körper kümmern, fühlen wir uns besser und es fällt uns leichter, aktiv am Spiel teilzunehmen.
-
-Zu den Grundlagen gehören:
-
-- Ernährung
-- Bewegung
-- Schlaf
-- Atmen
-- Aufmerksamkeit
-- Zelebrieren
-- Finanzen
-
-#### Aufmerksamkeit
-
-Je mehr wir uns auf die Aufgabe vor uns konzentrieren, umso besser können wir sie erledigen.
-
-Multitasking ist ein Mythos. Unser Gehirn kann sich immer nur auf eine Sache gleichzeitig konzentrieren. Was wir eigentlich tun, ist schnell zwischen den Aufgaben hin- und herzuspringen.
-
-#### Was ist gerade wichtig
-
-In jedem Moment gibt es nur eine Sache, die gerade wichtig ist. Es ist unsere Aufgabe, das herauszufinden und uns vollkommen darauf zu konzentrieren.
-
-Wir sollten unsere Zeit nicht mit unwichtigen Dingen verschwenden. Sondern das tun, was uns wirklich weiterbringt.
-
-Anstatt einfach nur beschäftigt zu sein, sollten wir uns auf die Dinge konzentrieren, die wirklich zählen.
-
-Manchmal kann das auch ein Nickerchen bedeuten.
-
-#### Beständigkeit
-
-Das Wichtigste ist aber die Beständigkeit. Nur wenn wir regelmäßig dranbleiben, können wir Fortschritte machen und unsere Ziele erreichen.
-
-Selbst, wenn alle anderen Faktoren nicht optimal sind, können wir durch Beständigkeit trotzdem Erfolg haben.
-
-Gleichzeitig stärken wir die anderen Faktoren, indem wir dranbleiben.
-
-#### 1. Regel
-
-*Je schlechter ich mich fühle, umso wichtiger ist mein Protokoll.*
-
-Hierdurch stellen wir sicher, dass wir auch an schlechten Tagen aktiv am Spiel teilnehmen. Wir kümmern uns um die Grundlagen und machen kleine Schritte in Richtung unseres Ziels.
-
-Wichtig ist, dass wir ein Protokoll erschaffen, das uns dabei hilft, Eudaimonia zu erreichen und das wir auch an schlechten Tagen durchziehen können.
-
-#### 2. Regel
-
-*Ich tue, wovor ich mich drücke.*
-
-Angst und Bequemlichkeit sind die größten Hindernisse auf unserem Weg.
-
-Dieser Widerstand zeigt uns, wo wir wachsen können, und wir nutzen ihn zur Orientierung.
-
-Anstatt davor wegzulaufen oder uns abzulenken, gehen wir direkt darauf zu.
-
-So überwinden wir unsere Ängste und erweitern unsere Komfortzone.
-
 ### Motivation & Widerstand
 
 Motivation fühlt sich oft an wie etwas, das von außen kommen muss. Wir warten darauf, dass sie uns irgendwann trifft, wie ein Funke, der plötzlich ein Feuer entfacht. Aber im echten Leben ist Motivation unzuverlässig. Sie kommt selten dann, wenn wir sie brauchen, und verschwindet oft genau dann, wenn wir bereit wären, loszulegen.
@@ -793,13 +728,13 @@ Wir laufen dann in die entgegengesetzte Richtung und finden so heraus, was uns w
 
 Die Antivision macht das, was wir vermeiden wollen, sichtbar und konkret. Sie ist wie ein emotionales Warnschild: *So soll mein Leben nicht aussehen.* Wenn wir sie ernst nehmen, hilft sie uns, frühzeitig gegenzusteuern, bevor wir uns im falschen Spiel verlieren. Zusammen mit der Vision spannt sie ein Spannungsfeld auf, in dem wir uns orientieren können: weg von dem, was uns krank macht, hin zu dem, was uns lebendig macht.
 
-### Lebensbereiche
+## Lebensbereiche
 
-#### Energie
+### Gesundheit
 
 In diesem Lebensbereich kümmern wir uns um die Grundlagen, die uns Energie geben.
 
-#### Arbeit
+### Beitrag
 
 Wir müssen unsere Arbeit ganzheitlich denken.
 
@@ -865,7 +800,7 @@ Arbeit ist dann kein Käfig mehr, sondern ein Spielfeld.
 Kein Zwangssystem, sondern eine Einladung:
 Nutze deine Fähigkeiten, lerne neue dazu, gestalte mit – in deinem Tempo, in deiner Art, im Dienst von etwas Größerem als dir selbst.
 
-#### Liebe
+### Beziehungen
 
 Beziehungen sind ein wichtiger Teil unseres Lebens. Wir sind soziale Wesen und brauchen den Kontakt zu anderen Menschen.
 
@@ -884,19 +819,19 @@ Wir müssen sie nicht bei einer Person finden. Unterschiedliche Menschen können
 
 Wir können dieses Konzept auch auf unsere Beziehung zu uns selbst anwenden.
 
-##### Selbstliebe
+#### Selbstliebe
 
 Selbstliebe ist die Grundlage für alle anderen Arten von Liebe. Wenn wir uns selbst nicht lieben, können wir auch keine Liebe zu anderen Menschen aufbauen.
 
 Wir können Selbstliebe üben, indem wir uns selbst akzeptieren und wertschätzen. Wir sollten uns nicht mit anderen vergleichen, sondern uns auf unsere eigenen Stärken und Qualitäten konzentrieren.
 
-##### Familie und Freunde
+#### Familie und Freunde
 
 Familie und Freunde sind ein wichtiger Teil unseres sozialen Netzwerks. Sie geben uns Unterstützung, Geborgenheit und Zugehörigkeit.
 
 Wir sollten Zeit mit ihnen verbringen und unsere Beziehungen pflegen.
 
-##### Verbindung
+#### Verbindung
 
 Barbara Fredrickson beschreibt in ihrem Buch „Love 2.0“ die Bedeutung von positiven Verbindungen für unser Wohlbefinden.
 
@@ -904,19 +839,19 @@ Sie unterscheidet zwischen Liebe als Emotion und Liebe als Verbindung. Liebe als
 
 Wir können diese Momente bewusst schaffen, indem wir uns auf andere Menschen einlassen und ihnen Aufmerksamkeit schenken.
 
-##### Ermutigung
+#### Ermutigung
 
 Mut ist das Herz des guten Lebens. Was können wir anderen also schöneres schenken, als sie zu ermutigen, ihr bestes Selbst zu leben?
 
-##### Passion
+#### Passion
 
 Leidenschaft ist ansteckend. Wenn wir unsere Leidenschaft für etwas mit anderen teilen, inspirieren wir sie, ihre eigene Leidenschaft zu entdecken und zu verfolgen.
 
-##### Universal
+#### Universal
 
 Liebe geht über individuelle Beziehungen hinaus und umfasst die gesamte Menschheit und das Leben selbst.
 
-## Tage als Meisterwerke
+## Protokolle
 
 Unser Leben besteht aus vielen einzelnen Tagen. Jeder Tag ist eine Gelegenheit, ein kleines Meisterwerk zu erschaffen.
 
@@ -957,7 +892,7 @@ Dann haben wir den Tag schon gewonnen bevor die meisten gefrühstückt haben.
 - Morgen- und Abendroutine
 - Rhythmen
 
-## Struktur
+## Algorithmen
 
 ### Gewohnheiten
 
@@ -1406,7 +1341,74 @@ Wir brauchen auch einen Plan, um die Vision zu erreichen und sollten darauf vorb
 
 Geld ist ein wichtiger Teil unseres Lebens. Es gibt uns Sicherheit und Freiheit. Wir können es nicht ignorieren, sondern müssen uns aktiv damit auseinandersetzen.
 
-## Philosophie
+## Eudaimonia
+
+Wir können das Spiel auf eine Formel und zwei Regeln reduzieren:
+
+Eudaimonia = (Energie * Aufmerksamkeit * Was ist gerade wichtig)^Beständigkeit
+
+1. Je schlechter ich mich fühle, umso wichtiger ist mein Protokoll
+2. Ich tue, wovor ich mich drücke
+
+#### Energie
+
+Unsere Energie kommt aus den Grundlagen. Wenn wir uns gut um unseren Körper kümmern, fühlen wir uns besser und es fällt uns leichter, aktiv am Spiel teilzunehmen.
+
+Zu den Grundlagen gehören:
+
+- Ernährung
+- Bewegung
+- Schlaf
+- Atmen
+- Aufmerksamkeit
+- Zelebrieren
+- Finanzen
+
+#### Aufmerksamkeit
+
+Je mehr wir uns auf die Aufgabe vor uns konzentrieren, umso besser können wir sie erledigen.
+
+Multitasking ist ein Mythos. Unser Gehirn kann sich immer nur auf eine Sache gleichzeitig konzentrieren. Was wir eigentlich tun, ist schnell zwischen den Aufgaben hin- und herzuspringen.
+
+#### Was ist gerade wichtig
+
+In jedem Moment gibt es nur eine Sache, die gerade wichtig ist. Es ist unsere Aufgabe, das herauszufinden und uns vollkommen darauf zu konzentrieren.
+
+Wir sollten unsere Zeit nicht mit unwichtigen Dingen verschwenden. Sondern das tun, was uns wirklich weiterbringt.
+
+Anstatt einfach nur beschäftigt zu sein, sollten wir uns auf die Dinge konzentrieren, die wirklich zählen.
+
+Manchmal kann das auch ein Nickerchen bedeuten.
+
+#### Beständigkeit
+
+Das Wichtigste ist aber die Beständigkeit. Nur wenn wir regelmäßig dranbleiben, können wir Fortschritte machen und unsere Ziele erreichen.
+
+Selbst, wenn alle anderen Faktoren nicht optimal sind, können wir durch Beständigkeit trotzdem Erfolg haben.
+
+Gleichzeitig stärken wir die anderen Faktoren, indem wir dranbleiben.
+
+#### 1. Regel
+
+*Je schlechter ich mich fühle, umso wichtiger ist mein Protokoll.*
+
+Hierdurch stellen wir sicher, dass wir auch an schlechten Tagen aktiv am Spiel teilnehmen. Wir kümmern uns um die Grundlagen und machen kleine Schritte in Richtung unseres Ziels.
+
+Wichtig ist, dass wir ein Protokoll erschaffen, das uns dabei hilft, Eudaimonia zu erreichen und das wir auch an schlechten Tagen durchziehen können.
+
+#### 2. Regel
+
+*Ich tue, wovor ich mich drücke.*
+
+Angst und Bequemlichkeit sind die größten Hindernisse auf unserem Weg.
+
+Dieser Widerstand zeigt uns, wo wir wachsen können, und wir nutzen ihn zur Orientierung.
+
+Anstatt davor wegzulaufen oder uns abzulenken, gehen wir direkt darauf zu.
+
+So überwinden wir unsere Ängste und erweitern unsere Komfortzone.
+
+### Nachklang
 
 Die Philosophie gilt auch für sich selbst.
 
