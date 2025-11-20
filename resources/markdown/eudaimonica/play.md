@@ -606,7 +606,7 @@ Wir wiederholen die Quest so lange, bis wir unsere Lektion gelernt haben. Sie is
 
 Während jeder Quest bauen wir neue Kompetenzen auf und erweitern unsere Komfortzone. Dadurch eröffnen sich immer neue Möglichkeiten.
 
-Die persönliche Entwicklung ist der wahre Schatz des Spiels.
+Wichtig ist dabei: Unser Avatar bleibt derselbe. Unser Körper ist das Gefäß, mit dem wir durch das Spiel gehen – er verändert sich in seinen Fähigkeiten, aber nicht in seiner Identität. Was sich wirklich wandelt, ist unsere Identität selbst: Sie entsteht durch jede abgeschlossene Quest, jede bewältigte Herausforderung und jede Entscheidung, die wir treffen. Unsere Level sind deshalb auch nie allgemeingültig, sondern immer bereichsspezifisch. Wir können im Sport auf Level 100 sein und gleichzeitig im Schreiben erst auf Level 10. Eine andere Person kann genau umgekehrt sein. Es gibt keine objektiven Zahlen – Level dienen nicht dem Vergleich mit anderen, sondern sind eine subjektive Orientierung, damit wir erkennen können, wie weit wir gekommen sind. Sie zeigen uns, ob eine Herausforderung zu leicht, zu schwer oder genau richtig ist, um Flow zu erzeugen. Genau deshalb bestimmen wir unser Level nicht durch Zeit oder gesammelte „Erfahrungspunkte“, sondern durch die Quests, die wir tatsächlich meistern. Was wir abschließen, verändert uns – und nur dieses echte Wachstum zählt.
 
 Level sind kein Statussymbol und auch kein externes Bewertungssystem – sie sind eine innere Orientierungshilfe. Sie entstehen nicht daraus, dass wir etwas planen, sondern daraus, dass wir Erfahrungen machen.
 
