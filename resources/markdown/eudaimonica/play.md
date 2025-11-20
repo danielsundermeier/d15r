@@ -209,6 +209,74 @@ Es bedeutet nicht die Abwesenheit von Angst, sondern die Fähigkeit, trotz Angst
 
 Das Ziel ist also Eudaimonia durch Arete zu erreichen. Aufblühen, indem wir unsere Stärken zum Wohle aller einsetzen.
 
+### Heldenreise
+
+Joseph Campbell hat die Heldenreise beschrieben. Es ist ein universelles Muster, das in vielen Geschichten und Mythen vorkommt.
+
+Zuerst bekommen wir eine Einladung ins Abenteuer. Wir merken es, wenn wir unzufrieden werden oder uns langweilen.
+
+Wir brauchen dann eine neue Herausforderung, die uns weiterbringt.
+
+Oft weigern wir uns zuerst, weil wir Angst haben oder unsicher sind. Wir wollen den Status quo nicht verlassen. Der Leidensdruck wird aber immer größer, bis wir uns schließlich auf den Weg machen.
+
+Wir können uns viel Leid ersparen, wenn wir die Einladung eher annehmen.
+
+Wir können uns an unserer Neugier oder unseren Ängsten orientieren. Sie zeigen uns den Weg.
+
+Wir setzen uns dann ein Ziel und fangen mit einem Projekt an, um das Ziel zu erreichen.
+
+Es ist wichtig direkt etwas zu tun. Wir lernen am besten durch Erfahrung.
+
+Wir können dann gezielt lernen, was wir brauchen, um weiterzukommen.
+
+Zuerst folgen wir den Plänen von anderen. Wir probieren aus, was funktioniert und sammeln so Erfahrungen.
+
+Fehler sind dabei ein wichtiger Teil des Lernprozesses. Sie zeigen uns, was nicht funktioniert und helfen uns, unsere Strategien zu verbessern.
+
+Nachdem wir ein paar Dinge ausprobiert haben, verstehen wir die Prinzipien und können unsere eigene Lösung gestalten.
+
+Wir machen Fehler, lernen daraus und verbessern unsere Lösung.
+
+Nachdem wir unser Ziel erreicht haben, teilen wir unsere Erfahrungen mit anderen.
+
+### Probleme lösen
+
+Wenn wir ein Problem in unserem Leben identifizieren, können wir direkt ein Projekt daraus machen. Wir setzen uns ein Ziel und fangen an, es zu lösen.
+
+Zuerst probieren wir verschiedene Ansätze aus, um herauszufinden, was funktioniert und was nicht.
+
+Wir lernen von anderen, um zu verstehen, wie sie das Problem gelöst haben.
+
+Wir sammeln Erfahrungen und verstehen das Prinzip.
+
+Wenn wir die Regeln verstanden haben, können wir unsere eigene Lösung gestalten.
+
+Die teilen wir dann mit anderen.
+
+## Antifragilität
+
+Selbstvertrauen ist das Vertrauen in uns und unsere Fähigkeiten. Wie jede Art von Vertrauen, müssen wir es uns verdienen.
+
+Das schaffen wir, indem wir das tun, was wir uns vornehmen.
+
+Auch hier kommt unser Protokoll wieder ins Spiel. Es hilft uns, regelmäßig kleine Schritte zu machen und so unser Selbstvertrauen aufzubauen.
+
+Wenn jemand in unserem Leben immer wieder etwas verspricht aber es nicht hält, verlieren wir das Vertrauen in diese Person. Das gleiche gilt für uns selbst.
+
+Je mehr Kompetenzen wir aufbauen, umso größer wird unsere Komfortzone.
+
+Wir fühlen uns in immer mehr Situationen wohl und können sie meistern. Das bedeutet, dass wir nach und nach immer mehr Kontrolle abgeben und das Leben auf uns zu kommen lassen können.
+
+Wir können uns auf dem Fluss des Lebens treiben lassen, anstatt ständig gegen ihn anzukämpfen.
+
+Wir bauen echtes Selbstvertrauen auf und sind immer weniger von äußeren Umständen abhängig.
+
+Es fällt uns immer leichter uns auf neue Situationen einzulassen.
+
+Wir erkennen, dass uns Herausforderungen stärker machen und werden dadurch unbesiegbar.
+
+Alles passiert für uns und hilft uns zu wachsen und uns weiterzuentwickeln.
+
 ### Motivation & Widerstand
 
 Motivation fühlt sich oft an wie etwas, das von außen kommen muss. Wir warten darauf, dass sie uns irgendwann trifft, wie ein Funke, der plötzlich ein Feuer entfacht. Aber im echten Leben ist Motivation unzuverlässig. Sie kommt selten dann, wenn wir sie brauchen, und verschwindet oft genau dann, wenn wir bereit wären, loszulegen.
@@ -556,73 +624,10 @@ Es ist das ultimative Spiel, das sich jeder Gamer wünscht.
 
 Es wird niemals langweilig, weil die Level sich immer an uns anpassen und niemals gleich sind.
 
-### Heldenreise
 
-Joseph Campbell hat die Heldenreise beschrieben. Es ist ein universelles Muster, das in vielen Geschichten und Mythen vorkommt.
+### Wenn wir uns schlecht fühlen: Warum das Protokoll noch wichtiger wird
 
-Zuerst bekommen wir eine Einladung ins Abenteuer. Wir merken es, wenn wir unzufrieden werden oder uns langweilen.
-
-Wir brauchen dann eine neue Herausforderung, die uns weiterbringt.
-
-Oft weigern wir uns zuerst, weil wir Angst haben oder unsicher sind. Wir wollen den Status quo nicht verlassen. Der Leidensdruck wird aber immer größer, bis wir uns schließlich auf den Weg machen.
-
-Wir können uns viel Leid ersparen, wenn wir die Einladung eher annehmen.
-
-Wir können uns an unserer Neugier oder unseren Ängsten orientieren. Sie zeigen uns den Weg.
-
-Wir setzen uns dann ein Ziel und fangen mit einem Projekt an, um das Ziel zu erreichen.
-
-Es ist wichtig direkt etwas zu tun. Wir lernen am besten durch Erfahrung.
-
-Wir können dann gezielt lernen, was wir brauchen, um weiterzukommen.
-
-Zuerst folgen wir den Plänen von anderen. Wir probieren aus, was funktioniert und sammeln so Erfahrungen.
-
-Fehler sind dabei ein wichtiger Teil des Lernprozesses. Sie zeigen uns, was nicht funktioniert und helfen uns, unsere Strategien zu verbessern.
-
-Nachdem wir ein paar Dinge ausprobiert haben, verstehen wir die Prinzipien und können unsere eigene Lösung gestalten.
-
-Wir machen Fehler, lernen daraus und verbessern unsere Lösung.
-
-Nachdem wir unser Ziel erreicht haben, teilen wir unsere Erfahrungen mit anderen.
-
-### Probleme lösen
-
-Wenn wir ein Problem in unserem Leben identifizieren, können wir direkt ein Projekt daraus machen. Wir setzen uns ein Ziel und fangen an, es zu lösen.
-
-Zuerst probieren wir verschiedene Ansätze aus, um herauszufinden, was funktioniert und was nicht.
-
-Wir lernen von anderen, um zu verstehen, wie sie das Problem gelöst haben.
-
-Wir sammeln Erfahrungen und verstehen das Prinzip.
-
-Wenn wir die Regeln verstanden haben, können wir unsere eigene Lösung gestalten.
-
-Die teilen wir dann mit anderen.
-
-## Antifragilität
-
-Selbstvertrauen ist das Vertrauen in uns und unsere Fähigkeiten. Wie jede Art von Vertrauen, müssen wir es uns verdienen.
-
-Das schaffen wir, indem wir das tun, was wir uns vornehmen.
-
-Auch hier kommt unser Protokoll wieder ins Spiel. Es hilft uns, regelmäßig kleine Schritte zu machen und so unser Selbstvertrauen aufzubauen.
-
-Wenn jemand in unserem Leben immer wieder etwas verspricht aber es nicht hält, verlieren wir das Vertrauen in diese Person. Das gleiche gilt für uns selbst.
-
-Je mehr Kompetenzen wir aufbauen, umso größer wird unsere Komfortzone.
-
-Wir fühlen uns in immer mehr Situationen wohl und können sie meistern. Das bedeutet, dass wir nach und nach immer mehr Kontrolle abgeben und das Leben auf uns zu kommen lassen können.
-
-Wir können uns auf dem Fluss des Lebens treiben lassen, anstatt ständig gegen ihn anzukämpfen.
-
-Wir bauen echtes Selbstvertrauen auf und sind immer weniger von äußeren Umständen abhängig.
-
-Es fällt uns immer leichter uns auf neue Situationen einzulassen.
-
-Wir erkennen, dass uns Herausforderungen stärker machen und werden dadurch unbesiegbar.
-
-Alles passiert für uns und hilft uns zu wachsen und uns weiterzuentwickeln.
+Wenn wir uns schlecht fühlen, ist es besonders wichtig, dass wir unser Protokoll beibehalten.
 
 ## Identität
 
