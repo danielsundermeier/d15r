@@ -342,6 +342,9 @@ Diese innere Stimme ist unser Coach und Sparringspartner, die uns unterstützt u
 
 Unsere innere Stimme ist auch eng mit dem Gleichgewicht, der Evolution und dem Flow verbunden. Sie ist wie ein feiner Kompass, der uns spüren lässt, wenn wir von unserem Weg abweichen oder wenn eine neue Herausforderung ruft. Wenn wir im Gleichgewicht sind, können wir sie klarer hören. Wenn wir wachsen, verändert sie ihre Signale. Und im Flow wird sie fast lautlos — weil wir vollkommen mit ihr übereinstimmen. Auf diese Weise hilft sie uns, uns selbst zu führen und immer wieder den nächsten richtigen Schritt zu finden.
 
+Je feiner unser Gleichgewicht wird, desto subtiler werden auch ihre Signale.
+Sie spricht nicht nur in klaren Impulsen, sondern oft in kleinen Spannungen, intuitiven Bewegungen oder leisen Korrekturen – wie ein Steuerruder, das uns ständig geringfügig nachjustiert.
+
 Wir müssen lernen, auf sie zu hören und ihr zu vertrauen. Wir haben alle die Fähigkeit, unsere innere Stimme wahrzunehmen.
 
 Wir neigen dazu, uns abzulenken und ständig beschäftigt zu sein. Dadurch verlieren wir den Kontakt zu ihr, uns selbst und unseren Bedürfnissen.
