@@ -313,6 +313,21 @@ Motivation ist flüchtig.
 **Disziplin ist Freiheit.**
 Und Widerstand ist unser Kompass.
 
+### Das Protokoll als Anker im Gleichgewicht
+
+Wenn wir uns schlecht fühlen, ist es besonders wichtig, dass wir unser Protokoll beibehalten.
+
+Genau in diesen Momenten zeigt sich, wie antifragil unser System wirklich ist. Wenn alles gut läuft, kostet es wenig Kraft, unsere Routinen einzuhalten. Die wahre Probe kommt dann, wenn wir müde sind, gestresst, überfordert oder frustriert. Unser erster Impuls ist oft, alles fallen zu lassen, was uns eigentlich gut tut: Wir schlafen schlechter, bewegen uns weniger, essen chaotischer, ziehen uns zurück.
+
+Genau hier dreht sich das Spiel um: Je schlechter wir uns fühlen, desto wichtiger wird das Protokoll.
+Unser Protokoll ist das Gerüst, das uns durch schwere Tage trägt. Es schützt uns davor, im freien Fall immer weiter an Stabilität zu verlieren. Ein paar kleine, verlässliche Handlungen – gut essen, kurz bewegen, frische Luft, ein ehrlicher Check-in mit uns selbst – können verhindern, dass aus einem schlechten Tag eine schlechte Woche oder ein schlechter Monat wird.
+
+Antifragilität bedeutet nicht, dass wir uns immer gut fühlen. Sie bedeutet, dass wir Wege finden, auch aus schwierigen Phasen gestärkt hervorzugehen. Wenn wir es schaffen, unser Protokoll gerade dann zu halten, wenn wir keine Lust darauf haben, bauen wir tiefes Selbstvertrauen auf. Wir erleben: Ich kann mich auf mich verlassen – nicht nur an guten Tagen, sondern gerade dann, wenn es wirklich zählt.
+
+Unser Protokoll ist damit kein starrer Plan, sondern eine liebevolle Mindestversorgung für Körper, Geist und Seele. Es erinnert uns daran, dass wir auch im Sturm etwas für uns tun können – und dass jeder noch so kleine Schritt in Richtung Gleichgewicht zählt.
+
+Genauso wichtig ist: Unser Protokoll wird nicht nur relevanter, wenn wir uns schlecht fühlen, sondern auch dann, wenn wir uns außergewöhnlich gut fühlen. In Phasen hoher Energie neigen wir dazu, zu viel zu machen, uns zu überfordern oder unsere Grenzen zu ignorieren. So wie es ein „zu wenig“ gibt, gibt es auch ein „zu viel“. Beides bringt uns aus der Mitte. Das Protokoll ist daher kein Werkzeug nur für schlechte Tage, sondern eine Orientierung für beide Extreme: Es hilft uns, Unterforderung und Überforderung zu erkennen und uns immer wieder dem Optimum anzunähern.
+
 ### Mitspieler
 
 Wir haben den besten Mitspieler an unserer Seite, den wir uns vorstellen können: Unsere innere Stimme.
@@ -623,11 +638,6 @@ Das macht aber den Reiz aus. Es ist niemals vorbei und hat immer wieder völlig 
 Es ist das ultimative Spiel, das sich jeder Gamer wünscht.
 
 Es wird niemals langweilig, weil die Level sich immer an uns anpassen und niemals gleich sind.
-
-
-### Wenn wir uns schlecht fühlen: Warum das Protokoll noch wichtiger wird
-
-Wenn wir uns schlecht fühlen, ist es besonders wichtig, dass wir unser Protokoll beibehalten.
 
 ## Identität
 
