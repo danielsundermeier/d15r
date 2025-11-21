@@ -32,12 +32,16 @@ Das große „Warum“ auf dieser Ebene klären. Was bedeutet Eudaimonia hier? W
   - Gemeinsame Arete: Stärken der Menschen für das Gemeinwohl
   - Was ist eine „eudaimonische Stadt“? (Kultur, Sicherheit, Autonomie, Sinn)
   - Stadt als lebendiger Organismus im Gleichgewicht
+  - Commons-Infrastruktur: Wohnungen, Kleidung, Räume und Grundversorgung als geteilte Basis
+  - Crowdfunding-Demokratie: Beteiligung (Geld, Zeit, Arbeit) als Entscheidungsmechanismus
 
 - **Worldbuilding:**
   - Eudaimonia als **planetarisches Aufblühen**
   - Menschheit als Ganzes: Sinn, Verantwortung, Grenzen
   - Verbindung zu planetaren Grenzen, globaler Gerechtigkeit
   - Eudaimonica vs. Dysmetria - die Welt ohne Maß & Mitte (Überkonsum, Ausbeutung, Kollaps)
+  - Globale Commons-Infrastruktur: freie Grundversorgung (Wohnen, Kleidung, Essen) als planetarer Sicherheits- und Mobilitätsanker
+  - Globale Crowdfunding-Demokratie: Projekte von planetarer Bedeutung entstehen bottom-up durch Beteiligung
 
 **Strukturprinzip:**
 - Gleichgewicht entsteht durch mindestens **drei Kräfte** (≥ 3), nicht durch einfache Gegensätze.
@@ -90,6 +94,8 @@ Wie nutzen wir, dass Systeme in der Nähe ihres Optimums empfindlicher werden �
 - Manchmal gibt es einen „Umschaltmoment“: Wenn die tiefste Ursache gefunden ist, entspannt sich die gesamte Struktur.
 - Lokale Optima halten uns fest, weil wir das globale Optimum noch nicht kennen.
 - Preis- & Schmerzsignale als Feedback: steigende „Kosten“ (Zeit, Geld, Energie, Aufmerksamkeit, Leid, Frust) zeigen an, wo Systeme – auf individueller, städtischer oder globaler Ebene – schlecht gebaut sind oder nicht mehr passen.
+- Commons-Kaskaden: Geteilte Infrastruktur reduziert systemische Kosten und beschleunigt die Rückkehr ins Gleichgewicht.
+- Beteiligungs-Signale: Wenn Menschen bereit sind, Zeit, Arbeit oder Geld zu investieren, zeigt das Relevanz – fehlende Beteiligung zeigt Dysfunktion oder Desinteresse.
 
 **Inhalt je Ebene:**
 - **Play:**
@@ -181,6 +187,11 @@ Welche Hauptbereiche bestimmen das Aufblühen auf dieser Ebene?
 - Wasser-, Energie- und Bewegungswege wirken immer gleichzeitig auf mehrere Lebensbereiche.
 - Gut gestaltete Infrastruktur erzeugt Kaskaden von Gleichgewicht (z.B. gesunde Umwelt, bessere Beziehungen, sinnvoller Beitrag).
 - Schlecht gestaltete Infrastruktur (z.B. Lärm, Stressmobilität, Verschmutzung) erzeugt Dysmetria, die sich bis in Identität und Kultur fortsetzt.
+- Commons als globale Infrastrukturarchitektur:
+  - Wohnungen, Kleidung, Kantinen, Räume und Werkstätten als geteilte Systeme
+  - Reservekapazitäten als Sicherheitsnetz (Stadt ↔ Welt)
+  - Commons reduzieren individuellen Besitz und kollektive Kosten
+  - Infrastruktur trägt den Menschen – nicht umgekehrt
 
 **Gemeinsame Struktur in allen Büchern:**
 
