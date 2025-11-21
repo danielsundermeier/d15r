@@ -44,6 +44,14 @@
   - Die drei organischen Grundstrukturen (Blutbahnen/Wasseradern, Nervensystem/Versorgungsleitungen, Bindegewebe/Waldgärten & Wege) wiederholen sich auf allen Ebenen.
   - Systeme wachsen organisch entlang der Landschaft, nicht entlang abstrakter Linien.
   - Balance entsteht durch natürliche Rhythmen, langsame Mobilität und Infrastruktur, die mit der Natur statt gegen sie arbeitet.
+- Globale Commons-Infrastruktur (fraktal auf allen Ebenen):
+  - Wohnen als Commons: Reservekapazitäten auf Stadt- und Weltebene ermöglichen Mobilität, Sicherheit und Krisenresilienz.
+  - Kleidung als Commons: standardisierte Basics, lokal gewaschen und bereitgestellt; Besitz-Minimalismus als energetische Entlastung.
+  - Räume als Commons: Küchen, Werkstätten, Arbeitsräume im Erdgeschoss aller Gebäude ermöglichen natürliche Begegnung und reduzieren privaten Besitz.
+- Crowdfunding-Demokratie als universelles Entscheidungsprinzip:
+  - Projekte entstehen bottom-up durch Beteiligung (Geld, Zeit, Arbeit, Wissen).
+  - Mindestbeteiligung verhindert Elitenbildung.
+  - Transparenz der Kosten erzeugt natürliche Feedbackschleifen.
 
 ---
 
@@ -104,6 +112,10 @@
 - Infrastrukturkaskaden:
   - ausgewogene Wasser-, Energie- und Bewegungswege erzeugen Gleichgewicht in höheren Ebenen (Individuum → Stadt → Region → Welt)
   - Dysmetria in Infrastruktur wirkt sofort auf Lebensqualität, Kultur und Identität zurück
+- Commons-Kaskaden:
+  - Geteilte Infrastruktur (Wohnungen, Kleidung, Kantinen) reduziert individuellen und kollektiven Ressourcenverbrauch.
+  - Weniger Besitz → weniger Energie- und Zeitkosten → mehr Kapazität für Beziehungen, Beitrag und innere Arbeit.
+  - Städte und Zivilisationen, die Commons nutzen, entwickeln höhere Resilienz und geringere Ungleichgewichte.
 
 ---
 
