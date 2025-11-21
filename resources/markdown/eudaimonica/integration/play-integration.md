@@ -551,28 +551,28 @@
 
 ## V. Lebensbereiche
 
-**STATUS: TODO (Struktur stimmt, Feinschliff offen)**
+**STATUS: DONE (Gleichgewichts-Perspektive und Kaskaden-Effekte integriert)**
 
-### A. Energie / Arbeit / Liebe
+### A. Gesundheit / Beitrag / Beziehungen
 
 **Ist in `play.md`:**
-- „Lebensbereiche“ mit Unterkapiteln → Energie, Arbeit, Liebe/Beziehungen.
+- „Lebensbereiche“ mit Unterkapiteln → Gesundheit, Beitrag, Beziehungen.
 
 **Plan (Copilot-Aufgabe):**
 - Struktur an Blueprint angleichen:
-  - 4.1 Energie
-  - 4.2 Arbeit / Beitrag
-  - 4.3 Liebe / Beziehungen
+  - 4.1 Gesundheit
+  - 4.2 Beitrag
+  - 4.3 Beziehungen
 - Integration:
   - kleine, prägnante Einleitung zu „Lebensbereiche“ ergänzen:
     - „Jeder Bereich ist ein eigenes Gleichgewichtssystem.“
-  - Unter „Energie“:
+  - Unter „Gesundheit“:
     - erwähnen:
       - Ungleichgewicht im Energiebereich kaskadiert in andere Bereiche.
-  - Unter „Arbeit“:
+  - Unter „Beitrag“:
     - Quest-Logik & Autonomie/Mastery/Meaning klar mit Flow verknüpfen.
-  - Unter „Liebe“:
-    - Liebe / Beziehungen als Gleichgewicht aus Nähe, Selbstfürsorge, Grenzen beschreiben.
+  - Unter „Beziehungen“:
+    - Beziehungen als Gleichgewicht aus Nähe, Selbstfürsorge, Grenzen beschreiben.
 
 ---
 

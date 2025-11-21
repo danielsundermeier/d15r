@@ -85,7 +85,7 @@
 
 ## Lebensbereiche
 
-### **A. Energie**
+### **A. Gesundheit**
 - Ernährung
 - Bewegung
 - Schlaf
@@ -96,7 +96,7 @@
 - Bewegung als Nebenprodukt der Infrastruktur: Wege, Kanäle und Waldgärten laden automatisch zu Aktivität ein
 - Besitz-Minimalismus als Energie-Booster: weniger Dinge bedeuten weniger Entscheidungen, weniger Organisation und mehr freie Energie für das Wesentliche
 
-### **B. Arbeit / Beitrag**
+### **B. Beitrag**
 - Autonomie
 - Meisterschaft
 - Sinn
@@ -117,7 +117,7 @@
   - überschüssige Zeit fließt in Familie, Freunde, innere Arbeit und Spiel
 - Arbeit, Bewegung und Erholung werden über den Tag verteilt, statt in getrennten „Lebensbereiche-Schubladen“ zu existieren – der Tag selbst ist die Einheit des Gleichgewichts
 
-### **C. Liebe / Beziehungen**
+### **C. Beziehungen**
 - Selbstliebe
 - Verbindung
 - Ermutigung

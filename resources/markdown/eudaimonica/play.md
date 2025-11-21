@@ -780,9 +780,15 @@ Am Ende entsteht unsere Identität nicht durch Nachdenken, sondern durch Erfahru
 
 ## Lebensbereiche
 
+Unser Leben besteht aus verschiedenen Bereichen, die alle miteinander verwoben sind. Jeder Bereich ist ein eigenes Gleichgewichtssystem, aber sie beeinflussen sich gegenseitig wie kommunizierende Röhren. Ein Ungleichgewicht im Gesundheits-Bereich kaskadiert schnell in andere Bereiche: Wenn wir erschöpft sind, leiden unsere Beziehungen. Wenn unser Beitrag nicht stimmt, wird es schwerer, uns um unsere Gesundheit zu kümmern.
+
+Die drei Hauptbereiche sind:
+
 ### Gesundheit
 
-In diesem Lebensbereich kümmern wir uns um die Grundlagen, die uns Energie geben.
+Hier kümmern wir uns um die Grundlagen, die uns Energie geben. Gesundheit ist die Basis für alles andere – ohne sie können wir weder unseren Beitrag leisten noch tiefe Beziehungen aufbauen.
+
+Ein Ungleichgewicht im Gesundheits-Bereich kaskadiert in andere Bereiche: Sind wir chronisch müde, fällt es uns schwer, bei der Arbeit Flow zu finden oder in Beziehungen präsent zu sein. Deshalb ist Gesundheit oft der beste Startpunkt für Veränderungen.
 
 ### Beitrag
 
@@ -814,7 +820,9 @@ Das bedeutet auch, dass wir gezielt Dinge lernen können. Wir bleiben so nicht s
 
 Wir setzen dadurch unsere Stärken ein und leisten einen echten Beitrag, anstatt nur ein Zahnrad im Getriebe zu sein.
 
-Wir haben Autonomie, Fortschritt und Sinn. Das sind die drei wichtigsten Faktoren für Zufriedenheit bei der Arbeit.
+Wir haben Autonomie, Fortschritt und Sinn. Das sind die drei wichtigsten Faktoren für Zufriedenheit bei der Arbeit – und genau die Elemente, die zu Flow führen.
+
+Quest-Logik verbindet sich hier direkt mit Arbeit: Autonomie gibt uns die Freiheit, unsere Quests selbst zu wählen. Mastery entsteht durch das Meistern immer herausfordernderer Aufgaben. Meaning zeigt sich, wenn unser Beitrag echten Wert schafft.
 
 Arbeit ist in meiner Sicht nichts anderes als unser Weg, einen Beitrag zu leisten. Sie ist die Spielfläche, auf der wir unsere Stärken, Interessen und Werte in konkrete Projekte übersetzen. In einer gesunden Welt ist Arbeit nicht primär Mittel zum Geldverdienen, sondern Ausdruck dessen, wer wir sind und wie wir anderen nützen wollen.
 
@@ -853,6 +861,8 @@ Nutze deine Fähigkeiten, lerne neue dazu, gestalte mit – in deinem Tempo, in 
 ### Beziehungen
 
 Beziehungen sind ein wichtiger Teil unseres Lebens. Wir sind soziale Wesen und brauchen den Kontakt zu anderen Menschen.
+
+Gesunde Beziehungen entstehen aus einem Gleichgewicht aus Nähe, Selbstfürsorge und klaren Grenzen. Zu viel Nähe ohne Grenzen führt zu Verschmelzung und Verlust der eigenen Identität. Zu viele Grenzen ohne Nähe führen zu Isolation. Die Balance zu finden ist eine ständige, lebendige Aufgabe.
 
 Die Griechen haben sechs Arten von Liebe unterschieden:
 
