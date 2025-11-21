@@ -654,6 +654,12 @@ Es wird niemals langweilig, weil die Level sich immer an uns anpassen und niemal
 
 ## Identität
 
+### Was ist Identität?
+
+Identität ist das Muster der Balance, das wir über Zeit halten können. Sie entsteht aus den Gleichgewichten, die für uns „normal“ werden: wie wir mit Energie, Arbeit, Beziehungen, Freiheit, Sicherheit und Verantwortung umgehen. Unser Avatar – also unser Körper, unsere Anlagen und unsere Startbedingungen – bildet die Bühne. Wer wir sind, zeigt sich aber vor allem darin, wie wir mit dieser Bühne spielen: in unseren Entscheidungen, Quests und Gewohnheiten. Identität ist damit kein fester Kern, sondern ein lebendiges Gleichgewicht, das sich mit jeder Erfahrung weiterentwickelt.
+
+### Avatar & Anlagen
+
 Wir können uns in diesem Spiel unseren Avatar nicht aussuchen. Wir bekommen ihn geschenkt. Wir haben keine Übersicht über seine Fähigkeiten und Eigenschaften. Es ist unsere Aufgabe, ihn kennenzulernen und zu meistern.
 
 Wir haben alle eine einzigartige Kombination aus Stärken, Fähigkeiten, Interessen und Werten.
@@ -667,6 +673,8 @@ Ein Weg mehr über unseren Avatar zu erfahren, ist mehrere Persönlichkeitstests
 Das ist aber nur der Anfang. Wir müssen uns selbst beobachten und reflektieren, um ein tieferes Verständnis von uns zu bekommen. Nichts geht über die eigene Erfahrung.
 
 Es geht immer nur um die Person zu der wir werden wollen. Unser Charakter ist der wahre Schatz des Spiels.
+
+### Zukunfts-Ich (Bestes Selbst)
 
 Um herauszufinden, wer wir sein wollen, ist es hilfreich, uns vorzustellen, was die Menschen bei unserer Beerdigung über uns sagen würden.
 
@@ -755,6 +763,10 @@ Dazu können wir auch eine Antivision, vor der wir weglaufen wollen, entwickeln.
 Wir laufen dann in die entgegengesetzte Richtung und finden so heraus, was uns wirklich wichtig ist.
 
 Die Antivision macht das, was wir vermeiden wollen, sichtbar und konkret. Sie ist wie ein emotionales Warnschild: *So soll mein Leben nicht aussehen.* Wenn wir sie ernst nehmen, hilft sie uns, frühzeitig gegenzusteuern, bevor wir uns im falschen Spiel verlieren. Zusammen mit der Vision spannt sie ein Spannungsfeld auf, in dem wir uns orientieren können: weg von dem, was uns krank macht, hin zu dem, was uns lebendig macht.
+
+### Identität durch Erfahrung
+
+Am Ende entsteht unsere Identität nicht durch Nachdenken, sondern durch Erfahrung. Jede Entscheidung, jede Quest und jede Handlung verschiebt unser Gleichgewicht ein kleines Stück – und daraus entstehen neue Muster, die schließlich zu unserem „Ich“ werden. Wir entdecken, wer wir sind, indem wir spielen, scheitern, lernen und wieder aufstehen. Identität ist daher kein Zustand, sondern ein Prozess: ein sich ständig verfeinerndes Gleichgewicht, das sich durch das Tun formt – einen Tag, eine Quest, ein Level nach dem anderen.
 
 ## Lebensbereiche
 
