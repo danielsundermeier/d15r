@@ -986,6 +986,8 @@ Mache die gewünschte Handlung so klein, dass sie kaum Motivation oder Fähigkei
 
 An den meisten Tagen werden wir mehr tun, weil wir schon angefangen haben. Entscheidend ist aber, dass wir die Strähne nicht unterbrechen.
 
+Die Beständigkeit ist wichtiger als die Intensität. Viele kleine Schritte führen über Zeit zu großen Veränderungen.
+
 ### Bright Lines: Klare Grenzen
 
 Bright Lines sind nicht verhandelbare Regeln – klare, binäre Entscheidungen ohne Grauzone:
@@ -995,6 +997,16 @@ Bright Lines sind nicht verhandelbare Regeln – klare, binäre Entscheidungen o
 - Jeden Morgen 10 Minuten schreiben
 
 Sie funktionieren, weil sie Willenskraft sparen. Es gibt keine Diskussion, keine Ausnahme, keine Ermüdung durch ständige Mikro-Entscheidungen.
+
+Dadurch erkennen wir sofort, wenn wir sie überschritten haben. Anstatt uns aber Vorwürfe zu machen, können wir herausfinden, warum das passiert ist, und den Algorithmus anpassen.
+
+Jeder Verstoß ist eine Gelegenheit, den Code zu debuggen.
+
+Es ist auch viel einfacher, wenn wir uns zu 100% an eine Regel halten, als wenn wir uns nur zu 80% daran halten wollen. Entweder wir tun es oder wir tun es nicht. Das spart mentale Energie und macht das Verhalten vorhersehbar.
+
+Wenn wir keine klaren Grenzen setzen, entstehen Grauzonen, in denen wir uns verlieren können. Klare Regeln geben uns Orientierung und helfen uns, im Gleichgewicht zu bleiben.
+
+Wir fragen uns immer wieder, ob heute eine Ausnahme ist. Wir müssen immer wieder dieselbe Diskussion mit uns selbst führen. Das ist anstrengend und führt dazu, dass wir an den Tagen an denen wir es uns am wenigsten leisten können, am ehesten aus der Reihe tanzen und dadurch eine Abwärtsspirale starten.
 
 ### Trigger-Stacking: Gewohnheiten verketten
 
@@ -1028,6 +1040,16 @@ Manchmal müssen wir den Algorithmus bewusst unterbrechen. Bewusstsein ist dabei
 
 **Der Pause-Algorithmus:**
 **Wenn** ich einen Impuls spüre **→** **dann** halte ich 10 Sekunden inne **→** **dann** frage ich: "Dient mir das gerade?"
+
+### Belohnungen: Positive Verstärkung
+
+Nachdem wir erfolgreich eine Handlung aus geführt haben, sollten wir uns belohnen. Positive Verstärkung macht es wahrscheinlicher, dass wir die Handlung wiederholen.
+
+Auch wenn es sich komisch anfühlt, uns für kleine Erfolge zu loben – es funktioniert. Wir können uns selbst eine kleine Freude machen, ein Kompliment geben oder einfach das Gefühl der Zufriedenheit genießen. Wir können uns auch feiern als hätten wir etwas großartiges geleistet.
+
+Was wir in Wahrheit auch getan haben. Jede Handlung formt unseren Charakter.
+
+Das Feiern unserer Erfolge ist ein wichtiger Teil des Algorithmus. Es schüttet Dopamin aus und macht uns motivierter, weiterzumachen. Es signalisiert unserem Gehirn, dass das  was wir gerade getan haben, wichtig ist.
 
 ## Fundament
 
@@ -1084,7 +1106,9 @@ Wir starten eine Aufwärtsspirale, die uns immer weiter nach oben führt.
 
 Je höher ein Gebäude ist, umso tiefer wird das Fundament. Genauso ist es bei uns. Je mehr wir erreichen wollen, umso wichtiger sind die Grundlagen.
 
-### Ernährung
+### Körper
+
+#### Ernährung
 
 Wir sind was wir essen.
 
@@ -1106,7 +1130,7 @@ Wir übernehmen das, was funktioniert und lassen den Rest weg.
 
 Über die Ernährung steuern wir unseren Energiehaushalt. Wir können damit abnehmen, zunehmen oder unser Gewicht halten.
 
-#### Taille-zu-Körpergröße-Verhältnis (WHtR)
+##### Taille-zu-Körpergröße-Verhältnis (WHtR)
 
 Die Formel ist ganz einfach:
 
@@ -1158,7 +1182,7 @@ Die goldene Mitte — etwa **0,45–0,5** — scheint evolutionär optimal: genu
 Man könnte sagen:
 > **Gesundheit entsteht, wenn der Körper im Verhältnis zu seiner Größe nicht mehr trägt, als er lebendig halten kann.**
 
-### Bewegung
+#### Bewegung
 
 Wir sind dafür gemacht uns viel zu bewegen.
 
@@ -1178,7 +1202,7 @@ Es ist dabei besser viele kleine Bewegungseinheiten in unseren Tag zu integriere
 
 Wir können nach Gelegenheiten für Bewegung Ausschau halten.
 
-#### Schritte und Depression
+##### Schritte und Depression
 
 Studien zu folge, gibt es einen klaren Zusammenhang zwischen der Anzahl unserer Schritte und Depressionen. Wer weniger als 5.000 Schritte am Tag macht, hat ein deutlich höheres Risiko, an Depressionen zu erkranken.
 
@@ -1190,7 +1214,7 @@ Eine Studie bei älteren Erwachsenen zeigte: Schon 3.500-6.999 Schritte/Tag hatt
 
 Der Zusammenhang ist „dose-response“: Jede Zunahme von 1.000 Schritten/Tag wurde mit etwa 9 % geringerem Risiko für Depression assoziiert.  ￼
 
-### Schlaf
+#### Schlaf
 
 Wir brauchen ausreichend Schlaf, um uns zu erholen und zu regenerieren.
 
@@ -1224,7 +1248,7 @@ Unser Schlafzimmer sollte dunkel und kühl sein.
 
 So können wir die Qualität unseres Schlafs steigern.
 
-### Atmung
+#### Atmung
 
 Wir atmen in der Regel zu viel. Wir haben genug Sauerstoff im Blut.
 
@@ -1244,7 +1268,9 @@ Richtlinie: Wir atmen so oft durch den Mund, wie wir durch die Nase essen.
 
 Eine moderne Legende besagt, dass die Spartaner mit Wasser im Mund gelaufen sind, um das Atmen durch den Mund zu vermeiden. Ob das stimmt, ist unklar, aber es zeigt, wie wichtig die Nasenatmung für unsere Gesundheit ist.
 
-### Aufmerksamkeit
+### Geist
+
+#### Aufmerksamkeit
 
 Wir sind glücklich, wenn unser Verstand geordnet ist, dass gelingt uns, wenn wir uns voll und ganz auf eine Aufgabe konzentrieren.
 
@@ -1252,7 +1278,7 @@ Durch Meditation trainieren wir unsere Aufmerksamkeit. Wir lernen, unseren Geist
 
 Die Qualität unserer Produktivität und unserer Erfahrungen steigt, je mehr unsere Aufmerksamkeit wir darauf richten.
 
-### Spüren
+#### Spüren
 
 Es ist sehr wichtig, dass wir lernen, mit unseren Gefühlen umzugehen.
 
@@ -1292,7 +1318,7 @@ Wir lernen, negative Emotionen zu durchleben, ohne darin stecken zu bleiben, und
 
 Wenn wir mit uns im Reinen sind, werden die anderen Grundlagen leichter. Wir kämpfen dann nicht mehr gegen uns selbst, sondern können uns auf die Herausforderungen des Lebens konzentrieren.
 
-#### Warum Spüren die zentrale Meta-Fähigkeit ist
+##### Warum Spüren die zentrale Meta-Fähigkeit ist
 
 Spüren ist nicht einfach einer der Bereiche des Fundaments – es ist die Meta-Fähigkeit, die alle anderen erst möglich macht. Ohne Spüren haben wir zwar Wissen, Strategien und Ziele, aber keinen Zugriff auf die einzige Instanz, die uns im echten Leben Orientierung gibt: unseren Körper als Feedbacksystem.
 
@@ -1307,7 +1333,7 @@ Spüren bedeutet deshalb:
 
 Wenn wir nicht spüren, verlieren wir die wichtigste Rückkopplungsschleife zur eigenen Evolution.
 
-#### Spüren als Technologielücke der Moderne
+##### Spüren als Technologielücke der Moderne
 
 Die moderne Welt hat fast alle natürlichen Signale abgeschwächt:
 
@@ -1322,7 +1348,7 @@ Dadurch verlernen wir, die inneren Regler zu lesen: Hunger, Müdigkeit, Stress, 
 Viele Menschen wissen nicht mehr, *wie sich Gleichgewicht überhaupt anfühlt*.
 Wenn du das Gleichgewicht nicht kennst, kannst du es auch nicht wiederfinden.
 
-#### Spüren als frühes Warnsystem
+##### Spüren als frühes Warnsystem
 
 Spüren ist wie ein eingebautes Frühwarnsystem:
 
@@ -1338,7 +1364,7 @@ Spüren ist wie ein eingebautes Frühwarnsystem:
 Es gibt keine Emotion ohne Bedeutung.
 Jedes Gefühl ist ein Pfeil, der auf etwas zeigt.
 
-#### Spüren als Schlüssel zu Selbstführung
+##### Spüren als Schlüssel zu Selbstführung
 
 Wenn wir lernen zu spüren, entsteht automatisch Selbstführung:
 
@@ -1351,7 +1377,7 @@ Wir hören einfach, was unser System uns sagt – und handeln danach.
 
 Spüren macht Selbstführung leicht, weil es nicht mehr gegen uns, sondern mit uns geschieht.
 
-#### Spüren + Gleichgewicht + Flow → natürliche Evolution
+##### Spüren + Gleichgewicht + Flow → natürliche Evolution
 
 Diese drei bilden einen geschlossenen Regelkreis:
 
@@ -1362,7 +1388,7 @@ Diese drei bilden einen geschlossenen Regelkreis:
 
 Das ist kein esoterischer Vorgang – es ist zutiefst biologisch.
 
-#### Spüren im Alltag
+##### Spüren im Alltag
 
 Spüren kann trainiert werden, indem wir:
 
@@ -1386,7 +1412,9 @@ Spüren ist das Werkzeug, mit dem wir:
 
 Spüren ist die Voraussetzung für alles andere.
 
-### Zelebrieren
+### Seele
+
+#### Zelebrieren
 
 Wir können lernen die Realität zu akzeptieren. Wir können nicht ändern, was bereits passiert ist. Wir können aber das Beste daraus machen.
 
@@ -1400,7 +1428,7 @@ Wenn wir uns unzufrieden fühlen, können wir uns umsehen und finden Dinge, für
 
 Dadurch fühlen wir uns besser. Wir können nicht dankbar und unzufrieden gleichzeitig sein.
 
-### Florieren
+#### Florieren
 
 Florieren bedeutet hoffnungsvoll in die Zukunft zu blicken.
 
