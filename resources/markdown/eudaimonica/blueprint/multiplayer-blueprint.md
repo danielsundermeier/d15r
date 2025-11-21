@@ -161,6 +161,17 @@
 - Inklusion & Diversität:
   - unterschiedliche Einkommen, Altersgruppen, Hintergründe bewusst mischen.
 
+### **D. Gebäude & Infrastruktur (Organismus-Architektur)**
+- Gebäude als Organe der Stadt: jedes erfüllt eine Funktion (Gemeinschaft, Arbeit, Erholung, Energieproduktion)
+- Erdgeschoss immer als Gemeinschaftsebene: Küchen, Arbeitsräume, Sport, Schwimmen, Musik, Lernen, offene Werkstätten
+- darüber kleine, effiziente Wohnungen, da das Leben primär draußen und in Gemeinschaftsbereichen stattfindet
+- Dächer als Terrassen, Gärten und Energiequellen (Solar, Regenwasser)
+- jedes Gebäude unterschiedlich gestaltet → Vielfalt, Redundanz, keine zentralen Flaschenhälse
+- Reservekapazität (ca. 10% Wohnungen frei): für Katastrophen, Gäste, spontane Mobilität
+- Reisende können diese freien Wohnungen kostenlos nutzen → Hotels werden überflüssig
+- Kleidung als Commons: grundlegende Kleidung wird in öffentlichen Räumen bereitgestellt (ähnlich Arbeitskleidung im Krankenhaus)
+- zentrale, gemeinschaftliche Wäscherei → drastische Energie- und Ressourceneinsparung
+
 ---
 
 ## Protokolle
@@ -190,6 +201,16 @@
   - jede Person kann Aufgaben für die Stadt eintragen und mit einer Belohnung versehen
   - andere können die Belohnung erhöhen, wenn sie das Problem ebenfalls als relevant empfinden
   - hohe Belohnungen zeigen hohen Leidensdruck und machen Prioritäten sichtbar
+
+- Crowdfunding-Demokratie für Bauprojekte:
+  - jede Person kann Gebäude-/Raum-/Dienstleistungs-Projekte vorschlagen
+  - Projekte erhalten Finanzierung durch Geld, Arbeitsbeteiligung oder Know-how
+  - Skin in the Game als zentrales Entscheidungsprinzip
+- vollständige Transparenz:
+  - Baukosten, Betriebskosten, Energiebedarf und Nutzen öffentlich einsehbar
+  - Steuern leiten sich direkt aus realen Ausgaben ab (Abomodell)
+- Mindestbeteiligung verhindert Elitenbildung:
+  - kein Projekt kann von Einzelpersonen dominiert oder allein finanziert werden
 
 ### **C. Meisterwerktage der Stadt**
 - Feste und bewusste „Highlight-Tage“:
@@ -222,6 +243,13 @@
   - Regeln, die aus den Daten lernen und sich anpassen (Policies als lebende Dokumente).
 - Kultur / Werte = Richtung:
   - Sie definieren, welche Lösungen akzeptabel sind (z.B. planetare Grenzen, soziale Fairness).
+
+- Schwarmintelligenz + Marktlogik:
+  - fehlende Beteiligung = kein Bedarf → Projekt entfällt
+  - hohe Beteiligung = kollektiver Nutzen → Projekt wird realisiert
+- Gebäude- und Infrastrukturevolution:
+  - erfolgreiche Designs werden häufiger gebaut oder in die Grundversorgung übernommen
+  - ineffiziente Gebäude verschwinden oder werden umgewandelt
 
 ### **C. Bright Lines & Leitplanken**
 - Ökologische Grenzen der Stadt:
