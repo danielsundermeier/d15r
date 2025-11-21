@@ -497,44 +497,32 @@
 
 ### B. Mitspieler (Daimon) & Gegenspieler (innerer Schweinehund, Narrative)
 
-**STATUS: TODO (leicht schärfen)**
+**STATUS: DONE (Gleichgewichts-Verbindungen ergänzt)**
 
 **Ist in `play.md`:**
-- „Mitspieler“ (Daimon / Genius)
-- „Gegenspieler“ (innerer Schweinehund, Glaubenssätze, Komfortzone)
+- „Mitspieler" (Daimon / Genius) - erweitert um explizite Gleichgewichts-Verbindung
+- „Gegenspieler" (innerer Schweinehund, Glaubenssätze, Komfortzone) - Stressmodus als Gleichgewichts-Verzerrer definiert
 
-**Plan (Copilot-Aufgabe):**
-- Struktur passt bereits:
-  - Mitspieler = Daimon / innere Stimme / Genius
-  - Gegenspieler = Angst, Bequemlichkeit, falsche Narrative, Stressmodus
-- Ergänze wenige Sätze:
-  - „Gegenspieler“ als Kraft, die Gleichgewicht verzerrt (Stressmodus)
-  - Daimon als innere Instanz, die uns zurück ins Gleichgewicht ruft
+**Durchgeführte Änderungen:**
+- Daimon als innere Instanz beschrieben, die uns zurück ins Gleichgewicht ruft
+- Stressmodus als systematische Kraft definiert, die das Gleichgewicht verzerrt
+- Verbindung zwischen Stressmodus und Verlust der inneren Wahrnehmung verstärkt
 
 ---
 
 ### C. Freier Wille, Herausforderungen, Level
 
-**STATUS: TODO**
+**STATUS: DONE (Gleichgewichts- und Pyramiden-Metaphern integriert)**
 
 **Ist in `play.md`:**
-- Freier Wille als Pause zw. Reiz und Reaktion
-- Herausforderungen als Wachstum
-- Level als Spielmetapher, Quests, Endgegner etc.
+- Freier Wille als bewusste Gleichgewichtswahl erweitert
+- Herausforderungen mit expliziten Gleichgewichts-Verbindungen (Unter-/Überforderung → Ungleichgewicht, optimale Herausforderung → Flow)
+- Level mit Pyramiden-Metapher und Quest-Mechanik aus Blueprint integriert
 
-**Plan (Copilot-Aufgabe):**
-- Texte behalten, aber an Blueprint anpassen:
-  - **Freier Wille:**
-    - explizit als Fähigkeit darstellen, Gleichgewicht bewusst zu wählen.
-  - **Herausforderungen:**
-    - 1–2 Sätze ergänzen:
-      - zu groß/zu klein → Ungleichgewicht
-      - knapp über dem Level → Flow
-  - **Level:**
-    - explizit mit der Pyramiden-Metapher verbinden:
-      - jedes Level = neue Mitte
-      - Quests = Weg zur tieferen Ursache
-    - optional: kurzer Hinweis auf Nebenquests / Boss-Mechanik aus `play-canvas.md` (Fetch-Quests, Loot, Endgegner).
+**Durchgeführte Änderungen:**
+- **Freier Wille:** Explizite Verbindung zur bewussten Gleichgewichtswahl hinzugefügt
+- **Herausforderungen:** Gleichgewichts-Logik bei der "richtigen Dosis" verstärkt, Flow-Verbindung explizit gemacht
+- **Level:** Pyramiden-Metapher integriert (jedes Level = neue Mitte), Quest-Mechanik aus Blueprint ergänzt (Nebenquests, Fetch-Quests, Loot, Endgegner-Konzept)
 
 ---
 
