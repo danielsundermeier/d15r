@@ -76,6 +76,13 @@
   - wenn ein entscheidender Mechanismus kippt (z.B. fossile Energie → erneuerbare, Kriegskultur → Kooperationskultur).
 - Lokale Optima:
   - Wohlstandsmodelle, die auf Übernutzung beruhen, fühlen sich kurzfristig „erfolgreich“ an und blockieren Wandel.
+- Globale „Preis- und Schmerzsignale“:
+  - steigende ökologische, soziale oder ökonomische Kosten sind Datenpunkte dafür, dass globale Systeme dysfunktional sind
+  - je höher der globale Leidensdruck, desto stärker wird die kollektive Neugier, bessere Lösungen zu finden
+  - Schmerz wird nicht als Scheitern interpretiert, sondern als wertvoller Hinweis auf notwendige Systemänderung
+- Selbstkorrigierende Welt:
+  - mehr Beteiligung → mehr Ideen → bessere Lösungen → geringerer Leidensdruck → verstärktes globales Vertrauen
+  - Transparenz beschleunigt weltweite Lernprozesse: erfolgreiche Lösungen verbreiten sich schnell, dysfunktionale Muster fallen auf
 
 ---
 
@@ -126,6 +133,10 @@
   - Landwirtschaft, Produktion, Forschung, Care-Arbeit – fair verteilt und entlohnt.
 - Sinn auf Zivilisationsebene:
   - Wofür nutzen wir unsere kollektive Intelligenz und Technologie?
+- Work in Public auf Zivilisationsebene:
+  - globale Probleme werden nicht hinter verschlossenen Türen bearbeitet, sondern transparent und offen geteilt
+  - Staaten, Städte, Forschungsteams und Bürger:innen veröffentlichen Experimente, Fehler und Fortschritte
+  - dadurch entstehen keine festen „Mitgliedsgrenzen“, sondern globale Kollaborationsfelder, in die sich alle einklinken können
 
 ### **C. Beziehungen**
 - Globale Solidarität:
