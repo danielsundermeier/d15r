@@ -187,6 +187,8 @@
 
 ## Fundament
 
+- [ ] Fundament in drei Bereiche aufteilen:
+
 ### **A. Körper**
 
 - [x] Ernährung, Bewegung, Schlaf, Atmung
@@ -201,6 +203,7 @@
 ### **C. Seele**
 
 - [ ] 🔄 Werte
+- [ ] Akzeptanz
 - [ ] 🔄 Dankbarkeit
 - [x] Authentizität
 - [ ] 🔄 finanzielle Basis
