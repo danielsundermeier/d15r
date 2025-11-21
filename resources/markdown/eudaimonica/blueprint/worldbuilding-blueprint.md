@@ -140,6 +140,10 @@
   - durchgehende Habitatskorridore für Tiere und Pflanzen
   - verbessern Temperaturregulierung, Luftfeuchtigkeit und lokale Mikroklimata
   - verbinden Waldgärten, Städte und landwirtschaftliche Flächen zu einem durchgehenden Lebensnetz
+- Globale Reservekapazität:
+  - Städte weltweit halten ca. 10% Wohnraum frei
+  - ermöglicht Katastrophenhilfe, globale Mobilität und spontane Migration ohne Leidensdruck
+  - macht Hotels auf globaler Ebene weitgehend überflüssig
 
 ### **B. Beitrag / Arbeit der Menschheit**
 - Hauptaufgaben:
@@ -159,6 +163,10 @@
   - globale Probleme werden nicht hinter verschlossenen Türen bearbeitet, sondern transparent und offen geteilt
   - Staaten, Städte, Forschungsteams und Bürger:innen veröffentlichen Experimente, Fehler und Fortschritte
   - dadurch entstehen keine festen „Mitgliedsgrenzen“, sondern globale Kollaborationsfelder, in die sich alle einklinken können
+- Globale Bewegungsfreiheit durch Commons-Infrastruktur:
+  - weltweiter Zugang zu Grundversorgung (Wohnen, Essen, Kleidung)
+  - Reisen ohne Besitz: Infrastruktur trägt den Menschen
+  - Kleidung als globales Commons-System mit standardisierten Basics
 
 ### **C. Beziehungen**
 - Globale Solidarität:
@@ -191,6 +199,11 @@
   - globale Indikatoren für Gleichgewicht (planetare Grenzen, Human Development, Ungleichheit).
 - Beteiligung:
   - wie Bürger:innen weltweit eingebunden werden können (digitale Foren, globale Bürgerräte, Bewegungen).
+- Globale Crowdfunding-Demokratie:
+  - Projekte von planetarer Bedeutung können global vorgeschlagen und finanziert werden
+  - Beteiligung über Geld, Zeit, Wissen oder Arbeit
+  - Mindestbeteiligungsquoten verhindern globale Elitenbildung
+  - steigende Beteiligung signalisiert kollektiven Nutzen → Projekte werden realisiert
 
 ### **C. Meisterwerksmomente der Menschheit**
 - historische Wendepunkte:
@@ -214,6 +227,10 @@
 - Wasser- und Flussprotokolle:
   - gemeinsame Regeln für Nutzung, Schutz und Ausbau der künstlichen Flüsse und ihrer Ökosysteme
   - fairer Zugang zu Transport, Energie und Nahrung entlang dieser Adern
+- Beteiligungs-Algorithmen:
+  - globale Projekte entstehen bottom-up durch gemessene Beteiligung
+  - fehlende Beteiligung = kein globaler Bedarf
+  - hohe Beteiligung = globales Optimum sichtbar
 
 ### **B. Markt- und Technologiestrukturen**
 - Regeln, die bestimmen, was sich lohnt:
