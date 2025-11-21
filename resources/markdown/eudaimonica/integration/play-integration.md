@@ -578,25 +578,21 @@
 
 ## VI. Protokolle
 
-**STATUS: TODO**
+**STATUS: DONE (Struktur überarbeitet, Abschnitt "Das Protokoll als Anker im Gleichgewicht" bleibt in Antifragilität)**
 
 **Ist in `play.md`:**
-- Abschnitt „Protokolle“ (Tage als Meisterwerke, Morgen-/Abendroutinen, Energie-Rhythmen).
-- Stellen, in denen beschrieben wird:
-  - Tage nicht nach Uhrzeit, sondern nach Energie planen.
-  - Morgen- und Abendroutinen als Anker.
-  - Protokoll als Sicherheitsnetz / Rückkehrpunkt.
+- Kapitel „Protokolle" mit klarer Struktur:
+  - Einleitung: Protokolle als konkrete Umsetzung (wie vs. warum)
+  - Tage als Meisterwerke (prominent platziert)
+  - Protokoll als Sicherheitsnetz / Rückkehrpunkt
+  - Rhythmen statt Uhrzeiten (mit Wegen und Orten)
+  - Anker: Morgen und Abend
 
-**Plan (Copilot-Aufgabe):**
-- „Protokolle“ als eigenes Kapitel lassen.
-- Inhalte aus `play.md` an einem Ort bündeln:
-  - alles, was Tages-/Wochenstruktur beschreibt.
-  - alles, was mit Morgen-/Abendroutinen und Rhythmen zu tun hat.
-  - Metapher „Tage als Meisterwerke“ prominent platzieren.
-- Ziel:
-  - Protokolle = konkrete, wiederholbare Struktur im Alltag.
-  - Antifragilität & Algorithmen erklären *warum* sie funktionieren,
-    Protokolle zeigen *wie* sie aussehen.
+**Durchgeführte Änderungen:**
+- Einleitung ergänzt: Protokolle = das "Wie" (vs. Antifragilität/Algorithmen = das "Warum")
+- Strukturierung in logische Unterkapitel
+- Verweis auf Eudaimonia-Regeln als praktische Umsetzung
+- Rhythmus-Konzept erweitert um Orte und Wege (Blueprint-Element)
 
 ---
 
