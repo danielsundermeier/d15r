@@ -83,6 +83,7 @@ Wie nutzen wir, dass Systeme in der Nähe ihres Optimums empfindlicher werden �
 - Antifragilität heißt: Rückkehr ins Gleichgewicht wird schneller, nicht, dass es keine Störungen mehr gibt.
 - Manchmal gibt es einen „Umschaltmoment“: Wenn die tiefste Ursache gefunden ist, entspannt sich die gesamte Struktur.
 - Lokale Optima halten uns fest, weil wir das globale Optimum noch nicht kennen.
+- Preis- & Schmerzsignale als Feedback: steigende „Kosten“ (Zeit, Geld, Energie, Aufmerksamkeit, Leid, Frust) zeigen an, wo Systeme – auf individueller, städtischer oder globaler Ebene – schlecht gebaut sind oder nicht mehr passen.
 
 **Inhalt je Ebene:**
 - **Play:**
@@ -195,16 +196,19 @@ Welche Hauptbereiche bestimmen das Aufblühen auf dieser Ebene?
   - Stärken einsetzen, Flow erleben
   - Arbeit als Beitrag, nicht nur Einkommen
   - Autonomie, Meisterschaft, Sinn
+  - Work in Public als Lern- und Kollaborationsmodus: Prozesse werden sichtbar, wodurch natürliche Kollaborateure angezogen werden.
 
 - **Multiplayer:**
   - Aufgabenverteilung in der Stadt
   - lokale Märkte, Kooperation, gegenseitige Hilfe
   - Arbeit als gemeinschaftliches Projekt (Stadt als Spielfeld für Talente)
+  - Work in Public: sichtbare Projekte schaffen offene Kollaborationsfelder statt klassische Teams.
 
 - **Worldbuilding:**
   - globale Arbeitsteilung, globale Lieferketten
   - sinnvolle globale Institutionen & Projekte
   - Arbeit der Menschheit: Systeme stabilisieren, Leid reduzieren, Schönheit schaffen
+  - Work in Public auf globaler Ebene: offene Forschung, transparente Experimente und globale Kollaborationsfelder.
 
 ### Beziehungen
 
