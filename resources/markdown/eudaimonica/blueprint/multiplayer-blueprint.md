@@ -32,6 +32,9 @@
   - **Körper:** Infrastruktur
   - **Geist:** Governance, Entscheidungslogik
   - **Seele:** Kultur, Geschichten, Rituale
+- Selbstorganisation & Signale:
+  - die Stadt steuert sich primär über offene Signale (Kosten, Zufriedenheit, Beteiligung) statt über zentrale Kontrolle
+  - Preise und „Kosten“ (Geld, Zeit, Energie, Frust) sind Datenpunkte dafür, wo Systeme schlecht gebaut sind oder nicht mehr passen
 
 ### **C. Metaphern**
 - Stadt als Organismus:
@@ -123,6 +126,17 @@
   - Strom, Mobilität, Werkzeuge, Wissen.
 - Autonomie, Meisterschaft, Sinn:
   - Menschen gestalten aktiv mit, statt nur „bedient“ zu werden.
+- Work in Public in der Stadt:
+  - Menschen arbeiten sichtbar an ihren Projekten (Werkstätten, Labs, digitale Räume)
+  - dadurch entstehen keine klassischen „Teams mit Mitarbeitenden“, sondern Kollaborationsfelder, in die man sich freiwillig einklinken kann
+  - Lernen, Fehler und Fortschritte werden öffentlich und dadurch zum Gemeingut der Stadt
+- Einkommenswege in einer eudaimonischen Stadt:
+  - klassische Produkte & Dienstleistungen (bewusst klein, ohne Wachstumszwang, mit Fokus auf Wirkung statt auf maximale Skalierung)
+  - spendenbasierte Angebote (z.B. Begleitung, Coaching, Reparatur – finanziert von Menschen, die profitiert haben, für die nächste Generation)
+  - gemeinschaftsfinanzierte Rollen, wenn die Stadt bestimmte Tätigkeiten als essenziell einstuft (z.B. Pflege, Bildung, Forschung, Infrastruktur)
+- Effektivität statt Auslastung:
+  - Menschen arbeiten eher wenige, sehr fokussierte Stunden an hochrelevanten Themen
+  - freie Zeit fließt in Familie, Nachbarschaft, Bildung, innere Arbeit und Spiel – nicht in künstliche Beschäftigung
 
 ### **C. Beziehungen / Gemeinschaft**
 - Nachbarschaften & Netzwerke:
@@ -157,6 +171,10 @@
   - transparente Kosten- und Nutzenrechnung.
 - Feedbackschleifen:
   - regelmäßige Retros für Quartiere und Stadt (Was funktioniert? Was nicht?)
+- Stadtweite Aufgabenliste:
+  - jede Person kann Aufgaben für die Stadt eintragen und mit einer Belohnung versehen
+  - andere können die Belohnung erhöhen, wenn sie das Problem ebenfalls als relevant empfinden
+  - hohe Belohnungen zeigen hohen Leidensdruck und machen Prioritäten sichtbar
 
 ### **C. Meisterwerktage der Stadt**
 - Feste und bewusste „Highlight-Tage“:
@@ -175,6 +193,10 @@
   - „Wir gehen zu Fuß / fahren Rad innerhalb von 1 km².“
 - Informationsflüsse:
   - offene Dashboards zu Kosten, Energie, Projekten.
+- Stadtweite Aufgabenliste als Mechanik:
+  - Aufgaben mit dauerhaft hoher oder immer wieder steigender Belohnung sind ein Warnsignal: Hier ist das zugrunde liegende System schlecht gebaut oder nicht mehr zeitgemäß
+  - wenn Aufgaben sehr teuer oder kaum erledigt werden, ist das ein Impuls, Strukturen zu vereinfachen, zu automatisieren oder ganz neu zu denken
+  - sinkende Belohnungen oder verschwundene Aufgaben zeigen: Systeme wurden verbessert, das Ungleichgewicht hat sich aufgelöst
 
 ### **B. Entscheidungslogik**
 - Infrastruktur = Sensor:
@@ -190,6 +212,8 @@
 - Soziale Leitplanken:
   - kein Ausschluss durch Mieten, Zugang zu Grundversorgung für alle.
 - Transparente Grundregeln statt unüberschaubarer Detailverbote.
+- Kosten als Diagnosetool:
+  - stark steigende Kosten in bestimmten Bereichen (z.B. Müll, Pflege, Verkehr) werden nicht als „ungünstige Ausgaben“, sondern als Diagnose verstanden: Hier braucht das System ein Redesign, nicht nur mehr Effizienz
 
 ---
 
