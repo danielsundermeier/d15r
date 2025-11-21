@@ -35,16 +35,23 @@
 - Selbstorganisation & Signale:
   - die Stadt steuert sich primär über offene Signale (Kosten, Zufriedenheit, Beteiligung) statt über zentrale Kontrolle
   - Preise und „Kosten“ (Geld, Zeit, Energie, Frust) sind Datenpunkte dafür, wo Systeme schlecht gebaut sind oder nicht mehr passen
+- Stadt im Ruhemodus:
+  - Stadtstrukturen sind so gestaltet, dass sie Ruhe, Klarheit und langsame, bewusste Mobilität begünstigen (zu Fuß, Rad, Boot), statt Dauerstress und Hektik zu erzeugen.
+  - Infrastruktur ist in die Landschaft eingebettet, nicht gegen sie gebaut.
 
 ### **C. Metaphern**
 - Stadt als Organismus:
-  - Infrastruktur = Körper, Versorgungsnetz = Kreislauf, Informationssysteme = Nervensystem.
+  - Infrastruktur = Körper
+  - Flüsse / Kanäle = Blutbahnen (Transport von Menschen, Gütern und Energie)
+  - Versorgungstunnel entlang der Wasserwege = Nervensystem (Strom, Daten, Sensorik)
+  - Waldgärten als „Bindegewebe“ und Immunsystem rund um die Stadt
 - Stadt als Multiplayer-Spiel:
   - Viele Avatare, ein gemeinsames Spielfeld.
 - Normalverteilung / „Glockenkurve“:
   - Optimum liegt in der Mitte – zu viel und zu wenig schaden gleichermaßen (Dichte, Verkehr, Regeln, Freiheit).
 - Flüsse / Kanäle / Adern:
-  - Versorgung und Informationsflüsse als „Blutbahnen“ der Stadt.
+  - künstliche Flüsse, die sich in die Landschaft einfügen, dienen als leise, langsame und erlebbare Versorgungsadern der Stadt (Transport, Energie, Nahrung, Erholung).
+
 
 ---
 
@@ -114,6 +121,10 @@
   - Energie, Wasser, Nahrung, Müll, lokale Produktion.
 - Umweltqualität:
   - Luft, Lärm, Grünflächen, Boden, Biodiversität.
+  - Waldgärten als multifunktionaler Ring um die Stadt:
+    - Nahrungsproduktion, Naherholung, Mikroklima, Biodiversität und Bewegungsraum zugleich.
+  - Wasserwege als Ökosysteme statt reine Technik:
+    - künstliche Flüsse mit Pflanzen und Fischen, die Kühlung, Selbstreinigung und zusätzliche Nahrung für die Stadt liefern.
 - Soziale Sicherheit:
   - Orte der Ruhe, Rückzugsmöglichkeiten, sichere Wege (keine Autos, gut beleuchtete Wege).
 
@@ -145,6 +156,8 @@
   - Feste, Rituale, offene Küchen, Kantine, gemeinsames Essen.
 - Konfliktkultur:
   - Räume und Prozesse für Mediation, Bürgerräte, Talking Circles.
+- Begegnungsräume am Wasser:
+  - Kanal-Hütten, Stege, Badestellen und Uferwege als natürliche Treffpunkte für Spaziergänge, gemeinsames Essen, Spielen und Entspannen.
 - Inklusion & Diversität:
   - unterschiedliche Einkommen, Altersgruppen, Hintergründe bewusst mischen.
 
@@ -163,6 +176,8 @@
   - gemeinsame Arbeitszeiten
   - offene Lern- und Maker-Zeiten
   - Zeiten für Gemeinschaft (z.B. Lagerfeuer, Konzerte, Gesprächsrunden)
+- Alltag entlang der Adern der Stadt:
+  - viele Wege des täglichen Lebens (Arbeit, Bewegung, Erholung) verlaufen bewusst entlang von Waldgärten und Wasserwegen, sodass Gesundheit, Begegnung und Mobilität sich gegenseitig verstärken.
 
 ### **B. Beteiligungs-Protokolle**
 - Wie werden Entscheidungen getroffen?
@@ -193,6 +208,8 @@
   - „Wir gehen zu Fuß / fahren Rad innerhalb von 1 km².“
 - Informationsflüsse:
   - offene Dashboards zu Kosten, Energie, Projekten.
+- Versorgungsadern:
+  - wo neue Gräben für Wasserwege entstehen, werden parallel Versorgungstunnel für Strom- und Datenleitungen mitgebaut; Wartung findet unterirdisch und ohne Störung von Natur- und Sozialraum statt.
 - Stadtweite Aufgabenliste als Mechanik:
   - Aufgaben mit dauerhaft hoher oder immer wieder steigender Belohnung sind ein Warnsignal: Hier ist das zugrunde liegende System schlecht gebaut oder nicht mehr zeitgemäß
   - wenn Aufgaben sehr teuer oder kaum erledigt werden, ist das ein Impuls, Strukturen zu vereinfachen, zu automatisieren oder ganz neu zu denken
@@ -224,7 +241,8 @@
 ### **A. Infrastruktur (Körper der Stadt)**
 - Energie, Wasser, Nahrung, Wohnen, Mobilität
 - Lokale Kreisläufe, kurze Wege, Redundanzen
-- Kanäle, Flüsse, Tunnel als Versorgungsadern
+- Flüsse und Kanäle als Versorgungsadern der Stadt:
+  - eingebettet in die Landschaft, leise, solarüberdacht, mit parallel verlaufenden Versorgungstunneln; sie verbinden die Stadt mit ihren Nachbarstädten und bilden das zirkulierende Blut- und Nervensystem der Region.
 
 ### **B. Governance (Geist der Stadt)**
 - Grundrechte, Sicherheit, Bildung, Gesundheit
