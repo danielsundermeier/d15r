@@ -1505,6 +1505,27 @@ Anstatt davor wegzulaufen oder uns abzulenken, gehen wir direkt darauf zu.
 
 So überwinden wir unsere Ängste und erweitern unsere Komfortzone.
 
+### Einladung
+
+Was stört dich gerade in deinem Leben? Was ist die Erbse unter deinem Matratzenstapel?
+
+Ich möchte die einladen, dich auf die Suche zu machen und diese Erbse zu finden.
+
+Es ist der erste Schritt, um dein Leben zu verändern.
+
+Spüre in dich und folge deinem inneren Kompass.
+
+Stell dich aufrecht hin und atme tief ein. Lege den Schalter um und stelle eine Verbidnung zu dir selbst her.
+
+Dann kannst du dir folgende Fragen stellen:
+
+- Was ist die eine Sache, von der du weißt, dass wenn du sie tun würdest, dein Leben am meisten profitieren würde?
+- Was ist die eine Sache, de du tust, von der du weißt, dass sie dich zurückhält?
+
+Und dann mach den ersten Schritt.
+
+Starte deine nächste Quest und werde zu der besten Version deiner selbst.
+
 ### Nachklang
 
 Die Philosophie gilt auch für sich selbst.
