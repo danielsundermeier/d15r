@@ -943,71 +943,91 @@ Wir können dafür sorgen, dass wir schon morgens die ersten Erfolge feiern und 
 
 ## Algorithmen
 
-### Gewohnheiten
+Algorithmen sind die unsichtbare Regel-Logik hinter den sichtbaren Protokollen. Während Protokolle uns zeigen, *wie* ein guter Tag aussieht, definieren Algorithmen die *Wenn-Dann-Regeln*, die diese Tage möglich machen. Sie sind der Code des Alltags – automatisierte Entscheidungsstrukturen, die uns helfen, auch in schwierigen Momenten das Richtige zu tun.
 
-Die meisten unserer Handlungen sind Gewohnheiten. Sie sind die Autopilot-Programme unseres Gehirns, die uns helfen, Energie zu sparen.
+### Gewohnheiten als Code des Alltags
 
-Die Basalganglien sind der Teil unseres Gehirns, der für die Steuerung von Gewohnheiten zuständig ist. Sie ermöglichen es uns, komplexe Handlungen automatisch auszuführen, ohne darüber nachdenken zu müssen.
+Die meisten unserer Handlungen sind Gewohnheiten. Sie sind die Autopilot-Programme unseres Gehirns, die uns helfen, Energie zu sparen. Gewohnheiten sind lebendige Algorithmen: einmal programmiert, laufen sie automatisch ab.
 
-Ihnen ist aber egal, ob die Gewohnheit gut oder schlecht für uns ist. Sie führen sie einfach aus, wenn der Auslöser da ist.
+Die Basalganglien sind der Teil unseres Gehirns, der für die Steuerung von Gewohnheiten zuständig ist. Sie ermöglichen es uns, komplexe Handlungen automatisch auszuführen, ohne darüber nachdenken zu müssen. Ihnen ist aber egal, ob die Gewohnheit gut oder schlecht für uns ist. Sie führen sie einfach aus, wenn der Auslöser da ist.
 
-Immer wenn wir etwas tun, wird es beim nächsten Mal etwas leichter wieder die gleiche Entscheidung zu treffen. Das ist der Grund, warum wir mit jeder Handlung auch unseren Charakter formen. Wir werden zu der Person, die wir durch unsere Handlungen repräsentieren.
+**Gewohnheiten bestehen aus drei Teilen:**
 
-Wir etablieren Gewohnheiten über unsere Wiederholungen. Deshalb ist die Beständigkeit so wichtig. Wenn wir eine Gewohnheit an einem Tag nicht ausgeführt haben, setzen wir alles daran, sie am nächsten Tag wieder auszuführen.
+- **Auslöser** (Trigger)
+- **Verhalten** (Routine)
+- **Belohnung** (Reward)
 
-Sie zwei Tage in Folge ausfallen zu lassen ist Gewohnheitsselbstmord.
+Immer wenn wir etwas tun, wird es beim nächsten Mal etwas leichter, wieder die gleiche Entscheidung zu treffen. Mit jeder Handlung formen wir unseren Charakter. Wir werden zu der Person, die wir durch unsere Handlungen repräsentieren.
 
-Gewohnheiten bestehen aus drei Teilen:
+### Wenn-Dann-Regeln (Implementation Intentions)
 
-- Auslöser
-- Verhalten
-- Belohnung
+Der Kern aller Algorithmen sind Wenn-Dann-Strukturen. Sie verwandeln vage Absichten in konkrete Handlungsanweisungen:
 
-### Verhaltensforschung
+- **Wenn** ich aufwache, **dann** trinke ich ein Glas Wasser
+- **Wenn** ich mich gestresst fühle, **dann** mache ich drei tiefe Atemzüge
+- **Wenn** es 18:00 Uhr ist, **dann** reflektiere ich meinen Tag
 
-Handlung = Motivation + Fähigkeit + Auslöser
+Diese Regeln funktionieren, weil sie die Entscheidungslast reduzieren. Statt jedes Mal neu zu überlegen, haben wir bereits festgelegt, wie wir reagieren.
 
-Wir können es in einen Diagramm darstellen. Auf der X-Achse ist die Fähigkeit von schwer bis leicht und auf der Y-Achse die Motivation von niedrig bis hoch.
+### Die Fogg-Formel: Verhalten verstehen
 
-Dadurch ergibt sich eine Aktionszone, in der die Handlung ausgeführt wird. Alles über der Linie wird gemacht, alles darunter nicht.
+**Handlung = Motivation + Fähigkeit + Auslöser**
+
+BJ Foggs Verhaltensforschung zeigt: Verhalten tritt nur auf, wenn drei Faktoren gleichzeitig vorhanden sind. Fehlt einer, passiert nichts.
 
 Je höher die Motivation und die Fähigkeit sind, umso wahrscheinlicher ist es, dass wir die Handlung ausführen, sobald der Auslöser da ist.
 
-Aus diesem Grund setzen wir uns lächerlich kleine Ziele für unsere Gewohnheiten.
+**Daraus ergibt sich der wichtigste Algorithmus:**
+Mache die gewünschte Handlung so klein, dass sie kaum Motivation oder Fähigkeit erfordert.
 
 - 1 Liegestütz
-- Meditieren für 1 Atemzug
+- 1 Atemzug meditieren
 - 1 Satz lesen
 
-An den meisten Tagen werden wir mehr tun, weil wir schon angefangen haben. Entscheidend ist aber, dass wir die Strähne nicht unterbrechen. Wir können unsere Gewohnheiten auf diese Weise auch an den schlechtesten Tagen durchziehen.
+An den meisten Tagen werden wir mehr tun, weil wir schon angefangen haben. Entscheidend ist aber, dass wir die Strähne nicht unterbrechen.
 
-Direkt nachdem wir eine Gewohnheit ausgeführt haben, belohnen wir uns dafür. Wir feiern unseren Erfolg, um unser Gehirn zu trainieren. Das ist unsere Belohnung. Das macht es leichter, die Gewohnheit zu etablieren und beizubehalten.
+### Bright Lines: Klare Grenzen
 
-Auch wenn es sich merkwürdig anfühlt, ist es wichtig, dass wir uns dafür loben. Wir stärken dadurch die Verbindung zwischen Verhalten und Belohnung.
+Bright Lines sind nicht verhandelbare Regeln – klare, binäre Entscheidungen ohne Grauzone:
 
-### Etablieren
+- Kein Alkohol unter der Woche
+- Handy bleibt im Schlafzimmer stumm
+- Jeden Morgen 10 Minuten schreiben
 
-Wir etablieren eine Gewohnheit, indem wir sie regelmäßig ausführen. Je öfter wir sie wiederholen, umso stärker wird die Verbindung in unserem Gehirn.
+Sie funktionieren, weil sie Willenskraft sparen. Es gibt keine Diskussion, keine Ausnahme, keine Ermüdung durch ständige Mikro-Entscheidungen.
 
-Der erste Schritt ist den Auslöser so offensichtlich wie möglich zu machen. Wenn wir zum Beispiel mehr Wasser trinken wollen, stellen wir eine Flasche Wasser auf unseren Schreibtisch.
+### Trigger-Stacking: Gewohnheiten verketten
 
-Wenn wir meditieren wollen, legen wir unsere Meditationskissen an einen Ort an dem wir darüber stolpern.
+Wir können bestehende Gewohnheiten als Auslöser für neue nutzen:
 
-### Ablegen
+- **Nach** dem Zähneputzen **→** 2 Minuten Stretching
+- **Nach** dem ersten Kaffee **→** wichtigste Aufgabe des Tages
+- **Nach** dem Abendessen **→** Dankbarkeits-Reflexion
 
-Sobald wir eine Gewohnheit etabliert haben, ist sie für immer in unseren Basalganglien gespeichert. Wir bleiben also anfällig dafür, sie wieder auszuführen, wenn der Auslöser da ist.
+Der Drang der ersten Handlung wird zum Auslöser der zweiten. So entstehen Gewohnheitsketten, die sich selbst verstärken.
 
-Um eine Gewohnheit abzulegen, tun wir das Gegenteil von dem, was wir beim Etablieren gemacht haben.
+### Umgebungs-Design: Der Kontext als Algorithmus
 
-Wir müssen den Auslöser identifizieren und ihn vermeiden. Am besten entfernen wir ihn vollständig aus unserem Umfeld.
+Unsere Umgebung programmiert unser Verhalten. Gute Algorithmen gestalten den Kontext so, dass gewünschtes Verhalten wahrscheinlicher wird:
 
-Ohne ihn kommt es zu keiner Handlung.
+**Erwünschte Gewohnheit fördern:**
 
-Unsere Umgebung ist hier der wichtigste Faktor. Wenn der Auslöser nicht da ist, können wir die Gewohnheit nicht ausführen. Deshalb werden wir leichter rückfällig, wenn wir in einer Umgebung sind, die uns an die Gewohnheit erinnert.
+- Wasserflasche auf den Schreibtisch
+- Sportkleidung sichtbar bereitlegen
+- Buch neben das Bett legen
 
-Wir können auch eine andere Handlung mit einem bestehenden Auslöser verknüpfen. Der Drang etwas zu tun ist schon da und wir nutzen ihn, um eine neue Gewohnheit zu etablieren.
+**Unerwünschte Gewohnheit erschweren:**
 
-Bewusstsein ist auch ein wichtiger Faktor. In Studien ist es den Teilnehmern leichter gefallen, wenn sie bewusst geraucht haben. Sie sind aus dem Autopilot-Modus herausgekommen und konnten die Situation reflektieren.
+- Smartphone in anderen Raum
+- Süßigkeiten aus Sichtweite
+- Social Media Apps vom Homescreen entfernen
+
+### Bewusste Unterbrechung: Aus dem Autopilot aussteigen
+
+Manchmal müssen wir den Algorithmus bewusst unterbrechen. Bewusstsein ist dabei ein wichtiger Faktor. Studien zeigen: Menschen fällt es leichter, schlechte Gewohnheiten zu ändern, wenn sie sie bewusst ausführen. Sie steigen aus dem Autopilot-Modus aus und können die Situation reflektieren.
+
+**Der Pause-Algorithmus:**
+**Wenn** ich einen Impuls spüre **→** **dann** halte ich 10 Sekunden inne **→** **dann** frage ich: "Dient mir das gerade?"
 
 ## Fundament
 

@@ -598,7 +598,7 @@
 
 ## VII. Algorithmen
 
-**STATUS: TODO**
+**STATUS: DONE (Komplette Überarbeitung als Regel-Logik-Kapitel)**
 
 **Ist in `play.md`:**
 - Abschnitt „Gewohnheiten“ (Basalganglien, Auslöser–Verhalten–Belohnung).
