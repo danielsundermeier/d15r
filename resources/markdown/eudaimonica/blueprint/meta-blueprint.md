@@ -33,6 +33,17 @@
 - **Stadt:** Infrastruktur – Governance – Kultur
 - **Planet:** Biosphäre – Globale Koordination – Humanität
 - Jede Ebene: ≥ 3 Kräfte für Balance
+- Organismus-Metapher (fraktal):
+  - Individuum: Körper mit Blutbahnen (Energie, Aufmerksamkeit), Nervensystem (Signale) und Bindegewebe (Gewohnheiten)
+  - Stadt: künstliche Flüsse als Blutbahnen (Transport, Energie, Nahrung), Versorgungstunnel als Nervensystem (Strom, Daten), Waldgärten als Bindegewebe und Immunsystem
+  - Planet: globale Wasseradern als Blutbahnen der Zivilisation, weltweite Leitungs- und Dateninfrastruktur als Nervensystem, Vegetations- und Ökosystemnetzwerk als Bindegewebe
+- Myzel-Metapher:
+  - alle Ebenen nutzen Netzwerke, die organisch wachsen, sich verzweigen und Redundanzen bilden
+  - natürliche Infrastruktur (Wege, Wasser, Wald) bildet die Grundlage für Balance statt externe Kontrolle
+- Meta-Prinzip:
+  - Die drei organischen Grundstrukturen (Blutbahnen/Wasseradern, Nervensystem/Versorgungsleitungen, Bindegewebe/Waldgärten & Wege) wiederholen sich auf allen Ebenen.
+  - Systeme wachsen organisch entlang der Landschaft, nicht entlang abstrakter Linien.
+  - Balance entsteht durch natürliche Rhythmen, langsame Mobilität und Infrastruktur, die mit der Natur statt gegen sie arbeitet.
 
 ---
 
@@ -57,6 +68,9 @@
 - Schmerz, Stress und hohe Preise werden nicht moralisch bewertet, sondern als Hinweise genutzt, wo Systeme neu gebaut oder vereinfacht werden müssen.
 - Je höher der Leidensdruck, desto stärker der Impuls für Experimente, Kollaboration und Systemwechsel.
 - Ziel ist eine Kultur selbstkorrigierender Systeme: statt mehr Kontrolle zu erzeugen, machen wir die Signale sichtbarer und verbessern die Strukturen.
+- Wasseradern als Feedbacksystem:
+  - Flüsse und künstliche Wasserwege machen Ungleichgewichte sichtbar (Verschmutzung, stagnierende Bereiche, Übernutzung)
+  - sie fungieren als natürliche Diagnosetools für ökologische und soziale Balance auf allen Ebenen
 
 ---
 
@@ -87,6 +101,9 @@
 ## B. Kaskaden
 - Ungleichgewicht erzeugt Folge-Ungleichgewichte
 - Balance im Kleinen → Balance im Großen
+- Infrastrukturkaskaden:
+  - ausgewogene Wasser-, Energie- und Bewegungswege erzeugen Gleichgewicht in höheren Ebenen (Individuum → Stadt → Region → Welt)
+  - Dysmetria in Infrastruktur wirkt sofort auf Lebensqualität, Kultur und Identität zurück
 
 ---
 
@@ -132,6 +149,9 @@
 ### Reward
 - Umschaltmoment: massive Entlastung
 - „Alles fällt an seinen Platz“
+- Infrastruktur als Spielbrett:
+  - natürliche Wege (Waldgärten, Wasseradern, Stege) strukturieren den Tagesablauf und machen Gleichgewicht intuitiv erfahrbar
+  - Momente am Wasser oder im Wald dienen als natürliche Reset-Punkte im Tagesrhythmus
 
 ---
 
