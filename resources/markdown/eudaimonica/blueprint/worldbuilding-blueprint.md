@@ -3,12 +3,16 @@
 ## `worldbuilding-blueprint.md`
 
 ```markdown
-# Worldbuilding – Canvas
+# Worldbuilding – Canvas & Status-Tracker
 
-> Arbeitsdokument für die Struktur von **worldbuilding.md** (Welt / Zivilisation).
-> Dieses Canvas ist die Landkarte für das dritte Buch: Es sammelt alle Bausteine (Ideen, Konzepte, Mechaniken), damit der eigentliche Text in `worldbuilding.md` freier, erzählerischer und organischer bleiben kann.
+> **Status-Tracker für worldbuilding.md** – Jede Zeile ist eine Aufgabe, die wir abhaken können.
 >
-> **Hinweis:** Das Canvas ist kein fertiger Text, sondern eine strukturelle Übersicht. Es darf sich verändern, wachsen und immer wieder neu sortiert werden.
+> **GitHub Task Lists:**
+> - `- [ ]` = Noch zu erledigen
+> - `- [x]` = Komplett umgesetzt
+> - `- [ ] 🔄` = Teilweise umgesetzt (in Bearbeitung)
+>
+> **Hinweis:** Dies ist unser zentrales Arbeits- und Tracking-Dokument. GitHub zeigt automatisch den Gesamtfortschritt an.
 
 ---
 
@@ -20,35 +24,38 @@
 ## Eudaimonologie
 
 ### **A. Zweck**
-- [ ] Planetarisches Aufblühen (Eudaimonia der Welt)
-- [ ] Menschheit als Hüterin der Biosphäre, nicht als Ausbeuterin
-- [ ] Globale Systeme im Gleichgewicht:
-  - [ ] zwischen Mensch und Natur,
-  - [ ] zwischen Gegenwart und Zukunft,
-  - [ ] zwischen Regionen und Kulturen.
+
+- [x] Planetarisches Aufblühen (Eudaimonia der Welt)
+- [x] Menschheit als Hüterin der Biosphäre, nicht als Ausbeuterin
+- [ ] 🔄 Globale Systeme im Gleichgewicht:
+  - [ ] 🔄 zwischen Mensch und Natur,
+  - [ ] 🔄 zwischen Gegenwart und Zukunft,
+  - [ ] 🔄 zwischen Regionen und Kulturen.
 - [ ] Welt im Gleichgewicht: **Eudaimonica**
 - [ ] Welt im Ungleichgewicht: **Dysmetria** – die Welt ohne Maß & Mitte (Überkonsum, Ausbeutung, Kollaps)
 
 ### **B. Kernprinzipien**
-- [ ] Fraktale Homöostase:
-  - [ ] Ungleichgewicht in lokalen Systemen (Städte, Nationen) kaskadiert nach oben – und umgekehrt.
-- [ ] Keine unbegrenzte Expansion:
-  - [ ] Planetare Grenzen definieren den Rahmen des Spiels.
-- [ ] Globale Eudaimonia:
-  - [ ] Aufblühen der Menschheit innerhalb der ökologischen Grenzen.
-- [ ] Biosphäre – globale Koordination – Humanität:
-  - [ ] Dreiklang des planetarischen Gleichgewichts.
+
+- [ ] 🔄 Fraktale Homöostase:
+  - [ ] 🔄 Ungleichgewicht in lokalen Systemen (Städte, Nationen) kaskadiert nach oben – und umgekehrt.
+- [x] Keine unbegrenzte Expansion:
+  - [x] Planetare Grenzen definieren den Rahmen des Spiels.
+- [x] Globale Eudaimonia:
+  - [x] Aufblühen der Menschheit innerhalb der ökologischen Grenzen.
+- [ ] 🔄 Biosphäre – globale Koordination – Humanität:
+  - [ ] 🔄 Dreiklang des planetarischen Gleichgewichts.
 
 ### **C. Metaphern**
-- [ ] Menschheit als Spielerin im „Planetary Game“:
-  - [ ] Wir haben die Fähigkeit, die Spielregeln (Systeme) zu verändern.
-- [ ] Planet als Raumschiff / Garten:
-  - [ ] begrenzte Ressourcen, gemeinsame Verantwortung.
-- [ ] Welt als Organismus:
-    - [ ] Städte als Organe, die spezifische Aufgaben übernehmen
-    - [ ] künstliche Flüsse als Blutbahnen der Zivilisation (Transport, Energie, Nahrung)
-    - [ ] Versorgungstunnel entlang der Flüsse als Nervensystem (Strom, Daten, Sensorik)
-    - [ ] Waldgärten und natürliche Vegetation als globales Bindegewebe und Immunsystem
+
+- [x] Menschheit als Spielerin im „Planetary Game":
+  - [x] Wir haben die Fähigkeit, die Spielregeln (Systeme) zu verändern.
+- [x] Planet als Raumschiff / Garten:
+  - [x] begrenzte Ressourcen, gemeinsame Verantwortung.
+- [ ] 🔄 Welt als Organismus:
+  - [x] Städte als Organe, die spezifische Aufgaben übernehmen
+  - [ ] künstliche Flüsse als Blutbahnen der Zivilisation (Transport, Energie, Nahrung)
+  - [ ] Versorgungstunnel entlang der Flüsse als Nervensystem (Strom, Daten, Sensorik)
+  - [ ] Waldgärten und natürliche Vegetation als globales Bindegewebe und Immunsystem
 - [ ] Dysmetria vs. Eudaimonica:
   - [ ] zwei Zivilisationspfade, zwei Geschichten der Welt.
 
@@ -63,14 +70,15 @@
 - [ ] Globale Trägheit („So war es immer“), Verlustangst, Zynismus
 
 ### **B. Mitspieler**
-- [ ] Globale Leitplanken:
-  - [ ] planetare Grenzen, Menschenrechte, internationale Abkommen.
-- [ ] Internationale Kooperation:
-  - [ ] Wissenschaftsnetzwerke, Gesundheits- und Klimainstitutionen.
-- [ ] Globale Zivilgesellschaft:
-  - [ ] Bewegungen, Netzwerke, Projekte, die über Grenzen hinweg wirken.
-- [ ] Geteiltes Narrativ:
-  - [ ] „Wir sitzen im selben Boot“ – Menschheit als ein „Wir“.
+
+- [x] Globale Leitplanken:
+  - [x] planetare Grenzen, Menschenrechte, internationale Abkommen.
+- [ ] 🔄 Internationale Kooperation:
+  - [ ] 🔄 Wissenschaftsnetzwerke, Gesundheits- und Klimainstitutionen.
+- [ ] 🔄 Globale Zivilgesellschaft:
+  - [ ] 🔄 Bewegungen, Netzwerke, Projekte, die über Grenzen hinweg wirken.
+- [x] Geteiltes Narrativ:
+  - [x] „Wir sitzen im selben Boot" – Menschheit als ein „Wir".
 
 ### **C. Mechaniken**
 - [ ] Je näher die Menschheit an einem echten globalen Optimum ist, desto sensibler wird das System:
@@ -94,10 +102,11 @@
 ## Identität
 
 ### **A. Identität der Menschheit**
-- [ ] Wer sind wir als Spezies?
-  - [ ] hypersoziale, gestaltende, empathische Wesen – oder Raubtier mit Werkzeugen?
-- [ ] Identität als Gleichgewichts-Pattern:
-  - [ ] zeigt sich daran, welche planetaren Gleichgewichte wir halten können.
+
+- [x] Wer sind wir als Spezies?
+  - [x] hypersoziale, gestaltende, empathische Wesen – oder Raubtier mit Werkzeugen?
+- [ ] 🔄 Identität als Gleichgewichts-Pattern:
+  - [ ] 🔄 zeigt sich daran, welche planetaren Gleichgewichte wir halten können.
 
 ### **B. Werkzeuge**
 - [ ] Globale Vision & Antivision:
@@ -123,18 +132,19 @@
 > Auf planetarer Ebene spiegeln sich dieselben Bereiche wie im Individuum – nur größer.
 
 ### **A. Gesundheit (Planetare Gesundheit)**
-- [ ] Klima, Ökosysteme, Biodiversität, Wasserzyklen
+
+- [x] Klima, Ökosysteme, Biodiversität, Wasserzyklen
 - [ ] künstliche Flüsse als globale Adern:
-  - [ ] wo immer möglich werden bestehende Flussläufe genutzt („Natur zuerst“)
+  - [ ] wo immer möglich werden bestehende Flussläufe genutzt („Natur zuerst")
   - [ ] neue Wasserwege werden als lebendige Ökosysteme gestaltet, nicht als sterile technische Kanäle
   - [ ] variable Strömung: je nach Region ruhige oder leicht fließende Abschnitte
 - [ ] Versorgungstunnel entlang der Wasserwege:
   - [ ] parallele unterirdische Leitungen (Strom, Daten, Sensorik)
   - [ ] wartungsfreundlich und unsichtbar in die Landschaft integriert
-- [ ] Globale Gesundheitssysteme:
-  - [ ] Pandemievorsorge, Forschung, offene Daten, Impfstoffverteilung.
-- [ ] Resilienz der Weltwirtschaft:
-  - [ ] Lieferketten, Krisenfestigkeit, regionale Kreisläufe.
+- [x] Globale Gesundheitssysteme:
+  - [x] Pandemievorsorge, Forschung, offene Daten, Impfstoffverteilung.
+- [ ] 🔄 Resilienz der Weltwirtschaft:
+  - [ ] 🔄 Lieferketten, Krisenfestigkeit, regionale Kreisläufe.
 -
 - [ ] Wasseradern als ökologische Korridore:
   - [ ] durchgehende Habitatskorridore für Tiere und Pflanzen
@@ -146,17 +156,18 @@
   - [ ] macht Hotels auf globaler Ebene weitgehend überflüssig
 
 ### **B. Beitrag / Arbeit der Menschheit**
-- [ ] Hauptaufgaben:
-  - [ ] Systeme stabilisieren,
-  - [ ] Leid reduzieren,
-  - [ ] Schönheit und Möglichkeiten schaffen.
+
+- [x] Hauptaufgaben:
+  - [x] Systeme stabilisieren,
+  - [x] Leid reduzieren,
+  - [x] Schönheit und Möglichkeiten schaffen.
 - [ ] Aufbau eines globalen Wasser- und Energienetzes:
   - [ ] künstliche Flüsse und ihre Solardächer verbinden Transport, Energieerzeugung und Nahrungssysteme
   - [ ] dieses Netz ersetzt einen Großteil von Autobahnen, Schwerlastverkehr und zerstörerischer Infrastruktur
-- [ ] Globale Arbeitsteilung:
-  - [ ] Landwirtschaft, Produktion, Forschung, Care-Arbeit – fair verteilt und entlohnt.
-- [ ] Sinn auf Zivilisationsebene:
-  - [ ] Wofür nutzen wir unsere kollektive Intelligenz und Technologie?
+- [x] Globale Arbeitsteilung:
+  - [x] Landwirtschaft, Produktion, Forschung, Care-Arbeit – fair verteilt und entlohnt.
+- [x] Sinn auf Zivilisationsebene:
+  - [x] Wofür nutzen wir unsere kollektive Intelligenz und Technologie?
 - [ ] Wasserwege als kulturelle Achsen:
   - [ ] Reisen auf langsamen Wasserwegen wird Teil der gelebten Weltkultur (Lernen, Austausch, Begegnung statt reiner Beschleunigung)
 - [ ] Work in Public auf Zivilisationsebene:
@@ -254,30 +265,33 @@
 > Das Spielfeld des Worldbuildings: Ohne stabiles Fundament ist alles andere Kosmetik.
 
 ### **A. Biosphäre (Körper des Planeten)**
-- [ ] Planetare Grenzen:
-  - [ ] Klima, Stickstoff, Phosphor, Landnutzung, Süßwasser, Chemikalien, Ozeane, Biodiversität.
-- [ ] Schutz & Regeneration:
-  - [ ] Renaturierung, Schutzgebiete, Regenerationsprojekte.
+
+- [x] Planetare Grenzen:
+  - [x] Klima, Stickstoff, Phosphor, Landnutzung, Süßwasser, Chemikalien, Ozeane, Biodiversität.
+- [ ] 🔄 Schutz & Regeneration:
+  - [ ] 🔄 Renaturierung, Schutzgebiete, Regenerationsprojekte.
 - [ ] Wasseradern als Teil der Regeneration:
   - [ ] Renaturierung bestehender Flüsse und Ergänzung durch künstliche, ökologische Wasserwege
   - [ ] Kombination aus Flusskorridoren, Waldgärten und Feuchtgebieten als zentrale Regenerationsstruktur des Planeten
 
 ### **B. Globale Koordination (Geist der Welt)**
-- [ ] Infrastruktur:
-  - [ ] Internet, Energie- und Transportnetze, Gesundheitsnetzwerke
+
+- [ ] 🔄 Infrastruktur:
+  - [ ] 🔄 Internet, Energie- und Transportnetze, Gesundheitsnetzwerke
   - [ ] globales Wasser- und Energie-Myzel aus künstlichen Flüssen mit Solardächern und Versorgungstunneln als leises, resilientes Rückgrat der Zivilisation
-- [ ] Institutionen:
-  - [ ] UN & Nachfolgeorganisationen, globale Gesundheitsbehörden, Klimaräte, wissenschaftliche Gremien.
-- [ ] Leitplanken:
-  - [ ] verbindliche Grundrechte, faire Verfahren, offene Daten.
+- [ ] 🔄 Institutionen:
+  - [ ] 🔄 UN & Nachfolgeorganisationen, globale Gesundheitsbehörden, Klimaräte, wissenschaftliche Gremien.
+- [x] Leitplanken:
+  - [x] verbindliche Grundrechte, faire Verfahren, offene Daten.
 
 ### **C. Humanität (Seele der Welt)**
-- [ ] Globale Werte:
-  - [ ] Würde, Freiheit, Verantwortung für zukünftige Generationen.
-- [ ] Kulturelle Vielfalt:
-  - [ ] viele Wege, Mensch zu sein – innerhalb gemeinsamer Leitplanken.
-- [ ] Geschichte der Menschheit:
-  - [ ] von der Rivalität zur Kooperation, vom Überleben zum Aufblühen.
+
+- [x] Globale Werte:
+  - [x] Würde, Freiheit, Verantwortung für zukünftige Generationen.
+- [x] Kulturelle Vielfalt:
+  - [x] viele Wege, Mensch zu sein – innerhalb gemeinsamer Leitplanken.
+- [x] Geschichte der Menschheit:
+  - [x] von der Rivalität zur Kooperation, vom Überleben zum Aufblühen.
 
 ---
 

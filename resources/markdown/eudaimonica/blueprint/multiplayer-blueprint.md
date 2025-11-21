@@ -1,9 +1,14 @@
-# Multiplayer – Canvas
+# Multiplayer – Status Tracker & Ideation Canvas
 
-> Arbeitsdokument für die Struktur von **multiplayer.md** (Stadt / Gemeinschaft).
-> Dieses Canvas ist die Landkarte für das zweite Buch: Es sammelt alle Bausteine (Ideen, Konzepte, Mechaniken), damit der eigentliche Text in `multiplayer.md` freier, erzählerischer und organischer bleiben kann.
+> **Status-Tracker für multiplayer.md** (Stadt / Gemeinschaft – soziale Skala der Eudaimonica)
+> Dieses Canvas dient als GitHub-kompatible Aufgabenliste und Ideensammlung für das zweite Buch der Eudaimonica-Serie. Es zeigt, welche Konzepte bereits in `multiplayer.md` umgesetzt sind und welche noch entwickelt werden müssen.
 >
-> **Hinweis:** Das Canvas ist kein fertiger Text, sondern eine strukturelle Übersicht. Es darf sich verändern, wachsen und immer wieder neu sortiert werden.
+> **GitHub Task List Symbole:**
+> - [x] = Vollständig in multiplayer.md implementiert
+> - [ ] 🔄 = Teilweise implementiert oder angedeutet
+> - [ ] = Noch nicht implementiert, Konzept für Zukunft
+>
+> **Hinweis:** Dieses Canvas wächst und verändert sich mit dem Fortschritt der Arbeit an multiplayer.md.
 
 ---
 
@@ -15,39 +20,42 @@
 ## Eudaimonologie
 
 ### **A. Zweck**
-- [ ] Kollektives Aufblühen (Eudaimonia der Stadt)
-- [ ] Gemeinsame Arete: Menschen setzen ihre Stärken für das Gemeinwohl ein
-- [ ] Stadt als lebendiger Organismus im Gleichgewicht
-- [ ] Leben im **Ruhemodus** auf Gemeinschaftsebene statt Dauer-Stressmodus (Angst, Kontrolle, Misstrauen)
-- [ ] Das „richtige Spiel“ der Stadt finden (Eudaimonica) statt das „falsche Spiel“ (Hedonica: reine Konsum- und Status-Stadt)
+
+- [x] Kollektives Aufblühen (Eudaimonia der Stadt)
+- [x] Gemeinsame Arete: Menschen setzen ihre Stärken für das Gemeinwohl ein
+- [x] Stadt als lebendiger Organismus im Gleichgewicht
+- [ ] 🔄 Leben im **Ruhemodus** auf Gemeinschaftsebene statt Dauer-Stressmodus (Angst, Kontrolle, Misstrauen)
+- [x] Das „richtige Spiel" der Stadt finden (Eudaimonica) statt das „falsche Spiel" (Hedonica: reine Konsum- und Status-Stadt)
 
 ### **B. Kernprinzipien**
-- [ ] Gleichgewicht ist ein Prozess, kein Endzustand:
+
+- [x] Gleichgewicht ist ein Prozess, kein Endzustand:
   - [ ] Die Stadt balanciert ständig zwischen Stabilität und Wandel.
-- [ ] Fraktale Homöostase:
-  - [ ] Ungleichgewicht im Individuum aggregiert sich zu Stadt-Ungleichgewicht – und umgekehrt.
-- [ ] Lokales vs. globales Optimum:
-  - [ ] Stadt kann in scheinbar „funktionierenden“ Mustern stecken bleiben (Autofokus, Konsum, Isolation), ohne das bessere Gleichgewicht zu kennen.
-- [ ] Körper–Geist–Seele der Stadt:
-  - [ ] **Körper:** Infrastruktur
-  - [ ] **Geist:** Governance, Entscheidungslogik
-  - [ ] **Seele:** Kultur, Geschichten, Rituale
-- [ ] Selbstorganisation & Signale:
-  - [ ] die Stadt steuert sich primär über offene Signale (Kosten, Zufriedenheit, Beteiligung) statt über zentrale Kontrolle
-  - [ ] Preise und „Kosten“ (Geld, Zeit, Energie, Frust) sind Datenpunkte dafür, wo Systeme schlecht gebaut sind oder nicht mehr passen
-- [ ] Stadt im Ruhemodus:
-  - [ ] Stadtstrukturen sind so gestaltet, dass sie Ruhe, Klarheit und langsame, bewusste Mobilität begünstigen (zu Fuß, Rad, Boot), statt Dauerstress und Hektik zu erzeugen.
+- [ ] 🔄 Fraktale Homöostase:
+  - [ ] 🔄 Ungleichgewicht im Individuum aggregiert sich zu Stadt-Ungleichgewicht – und umgekehrt.
+- [x] Lokales vs. globales Optimum:
+  - [x] Stadt kann in scheinbar „funktionierenden" Mustern stecken bleiben (Autofokus, Konsum, Isolation), ohne das bessere Gleichgewicht zu kennen.
+- [x] Körper–Geist–Seele der Stadt:
+  - [x] **Körper:** Infrastruktur
+  - [x] **Geist:** Governance, Entscheidungslogik
+  - [x] **Seele:** Kultur, Geschichten, Rituale
+- [ ] 🔄 Selbstorganisation & Signale:
+  - [ ] 🔄 die Stadt steuert sich primär über offene Signale (Kosten, Zufriedenheit, Beteiligung) statt über zentrale Kontrolle
+  - [ ] Preise und „Kosten" (Geld, Zeit, Energie, Frust) sind Datenpunkte dafür, wo Systeme schlecht gebaut sind oder nicht mehr passen
+- [ ] 🔄 Stadt im Ruhemodus:
+  - [ ] 🔄 Stadtstrukturen sind so gestaltet, dass sie Ruhe, Klarheit und langsame, bewusste Mobilität begünstigen (zu Fuß, Rad, Boot), statt Dauerstress und Hektik zu erzeugen.
   - [ ] Infrastruktur ist in die Landschaft eingebettet, nicht gegen sie gebaut.
 
 ### **C. Metaphern**
-- [ ] Stadt als Organismus:
-  - [ ] Infrastruktur = Körper
+
+- [x] Stadt als Organismus:
+  - [x] Infrastruktur = Körper
   - [ ] Flüsse / Kanäle = Blutbahnen (Transport von Menschen, Gütern und Energie)
   - [ ] Versorgungstunnel entlang der Wasserwege = Nervensystem (Strom, Daten, Sensorik)
-  - [ ] Waldgärten als „Bindegewebe“ und Immunsystem rund um die Stadt
-- [ ] Stadt als Multiplayer-Spiel:
-  - [ ] Viele Avatare, ein gemeinsames Spielfeld.
-- [ ] Normalverteilung / „Glockenkurve“:
+  - [ ] Waldgärten als „Bindegewebe" und Immunsystem rund um die Stadt
+- [ ] 🔄 Stadt als Multiplayer-Spiel:
+  - [ ] 🔄 Viele Avatare, ein gemeinsames Spielfeld.
+- [ ] Normalverteilung / „Glockenkurve":
   - [ ] Optimum liegt in der Mitte – zu viel und zu wenig schaden gleichermaßen (Dichte, Verkehr, Regeln, Freiheit).
 - [ ] Flüsse / Kanäle / Adern:
   - [ ] künstliche Flüsse, die sich in die Landschaft einfügen, dienen als leise, langsame und erlebbare Versorgungsadern der Stadt (Transport, Energie, Nahrung, Erholung).
@@ -58,18 +66,20 @@
 ## Antifragilität
 
 ### **A. Gegenspieler**
-- [ ] Gruppendenken, Echokammern, Polarisierung
-- [ ] Statusspiele, Konkurrenz als Nullsummenspiel
-- [ ] Intransparente Machtstrukturen, Bürokratie
-- [ ] Misstrauen in Institutionen und zwischen Menschen
-- [ ] Kurzfristiges Krisenmanagement statt langfristiger Aufbau
+
+- [ ] 🔄 Gruppendenken, Echokammern, Polarisierung
+- [x] Statusspiele, Konkurrenz als Nullsummenspiel
+- [ ] 🔄 Intransparente Machtstrukturen, Bürokratie
+- [x] Misstrauen in Institutionen und zwischen Menschen
+- [ ] 🔄 Kurzfristiges Krisenmanagement statt langfristiger Aufbau
 
 ### **B. Mitspieler**
-- [ ] Gemeinsame Werte und Leitprinzipien („Stadt-Daimon“)
-- [ ] Gute Institutionen als „Gandalf“:
-  - [ ] Sie schützen die Spielregeln, nicht einzelne Spieler.
-- [ ] Transparente Daten und offene Informationen
-- [ ] Orte der Begegnung und des Vertrauens (Plätze, Werkstätten, Kantine, Waldgarten)
+
+- [x] Gemeinsame Werte und Leitprinzipien („Stadt-Daimon")
+- [ ] 🔄 Gute Institutionen als „Gandalf":
+  - [ ] 🔄 Sie schützen die Spielregeln, nicht einzelne Spieler.
+- [ ] 🔄 Transparente Daten und offene Informationen
+- [x] Orte der Begegnung und des Vertrauens (Plätze, Werkstätten, Kantine, Waldgarten)
 
 ### **C. Mechaniken**
 - [ ] Je näher die Stadt an einem echten Gleichgewicht ist, desto sensibler reagiert sie auf Störungen:
@@ -129,7 +139,8 @@
   - [ ] Orte der Ruhe, Rückzugsmöglichkeiten, sichere Wege (keine Autos, gut beleuchtete Wege).
 
 ### **B. Beitrag / Arbeit**
-- [ ] Stadt als Spielfeld für Talente:
+
+- [x] Stadt als Spielfeld für Talente:
   - [ ] Werkstätten, Labs, Lernräume, Co-Working, gemeinsames Eudaimonium.
 - [ ] Arbeit als Beitrag:
   - [ ] Projekte für Stadtverbesserung statt nur Jobs zur Existenzsicherung.
@@ -150,16 +161,17 @@
   - [ ] freie Zeit fließt in Familie, Nachbarschaft, Bildung, innere Arbeit und Spiel – nicht in künstliche Beschäftigung
 
 ### **C. Beziehungen / Gemeinschaft**
-- [ ] Nachbarschaften & Netzwerke:
-  - [ ] Mehrgenerationenhäuser, Cluster-Wohnen, Co-Housing.
-- [ ] Kultur des Miteinanders:
-  - [ ] Feste, Rituale, offene Küchen, Kantine, gemeinsames Essen.
-- [ ] Konfliktkultur:
-  - [ ] Räume und Prozesse für Mediation, Bürgerräte, Talking Circles.
+
+- [ ] 🔄 Nachbarschaften & Netzwerke:
+  - [ ] 🔄 Mehrgenerationenhäuser, Cluster-Wohnen, Co-Housing.
+- [x] Kultur des Miteinanders:
+  - [x] Feste, Rituale, offene Küchen, Kantine, gemeinsames Essen.
+- [ ] 🔄 Konfliktkultur:
+  - [ ] 🔄 Räume und Prozesse für Mediation, Bürgerräte, Talking Circles.
 - [ ] Begegnungsräume am Wasser:
   - [ ] Kanal-Hütten, Stege, Badestellen und Uferwege als natürliche Treffpunkte für Spaziergänge, gemeinsames Essen, Spielen und Entspannen.
-- [ ] Inklusion & Diversität:
-  - [ ] unterschiedliche Einkommen, Altersgruppen, Hintergründe bewusst mischen.
+- [x] Inklusion & Diversität:
+  - [x] unterschiedliche Einkommen, Altersgruppen, Hintergründe bewusst mischen.
 
 ### **D. Gebäude & Infrastruktur (Organismus-Architektur)**
 - [ ] Gebäude als Organe der Stadt: jedes erfüllt eine Funktion (Gemeinschaft, Arbeit, Erholung, Energieproduktion)
@@ -191,24 +203,25 @@
   - [ ] viele Wege des täglichen Lebens (Arbeit, Bewegung, Erholung) verlaufen bewusst entlang von Waldgärten und Wasserwegen, sodass Gesundheit, Begegnung und Mobilität sich gegenseitig verstärken.
 
 ### **B. Beteiligungs-Protokolle**
-- [ ] Wie werden Entscheidungen getroffen?
-  - [ ] Crowdfunding + Beteiligung (Skin in the Game)
-  - [ ] offene Vorschlagsplattformen
-  - [ ] transparente Kosten- und Nutzenrechnung.
-- [ ] Feedbackschleifen:
-  - [ ] regelmäßige Retros für Quartiere und Stadt (Was funktioniert? Was nicht?)
-- [ ] Stadtweite Aufgabenliste:
-  - [ ] jede Person kann Aufgaben für die Stadt eintragen und mit einer Belohnung versehen
-  - [ ] andere können die Belohnung erhöhen, wenn sie das Problem ebenfalls als relevant empfinden
-  - [ ] hohe Belohnungen zeigen hohen Leidensdruck und machen Prioritäten sichtbar
 
-- [ ] Crowdfunding-Demokratie für Bauprojekte:
-  - [ ] jede Person kann Gebäude-/Raum-/Dienstleistungs-Projekte vorschlagen
-  - [ ] Projekte erhalten Finanzierung durch Geld, Arbeitsbeteiligung oder Know-how
-  - [ ] Skin in the Game als zentrales Entscheidungsprinzip
-- [ ] vollständige Transparenz:
-  - [ ] Baukosten, Betriebskosten, Energiebedarf und Nutzen öffentlich einsehbar
-  - [ ] Steuern leiten sich direkt aus realen Ausgaben ab (Abomodell)
+- [ ] 🔄 Wie werden Entscheidungen getroffen?
+  - [ ] 🔄 Crowdfunding + Beteiligung (Skin in the Game)
+  - [ ] 🔄 offene Vorschlagsplattformen
+  - [ ] 🔄 transparente Kosten- und Nutzenrechnung.
+- [ ] 🔄 Feedbackschleifen:
+  - [ ] 🔄 regelmäßige Retros für Quartiere und Stadt (Was funktioniert? Was nicht?)
+- [x] Stadtweite Aufgabenliste:
+  - [x] jede Person kann Aufgaben für die Stadt eintragen und mit einer Belohnung versehen
+  - [x] andere können die Belohnung erhöhen, wenn sie das Problem ebenfalls als relevant empfinden
+  - [x] hohe Belohnungen zeigen hohen Leidensdruck und machen Prioritäten sichtbar
+
+- [ ] 🔄 Crowdfunding-Demokratie für Bauprojekte:
+  - [ ] 🔄 jede Person kann Gebäude-/Raum-/Dienstleistungs-Projekte vorschlagen
+  - [ ] 🔄 Projekte erhalten Finanzierung durch Geld, Arbeitsbeteiligung oder Know-how
+  - [ ] 🔄 Skin in the Game als zentrales Entscheidungsprinzip
+- [ ] 🔄 vollständige Transparenz:
+  - [ ] 🔄 Baukosten, Betriebskosten, Energiebedarf und Nutzen öffentlich einsehbar
+  - [ ] 🔄 Steuern leiten sich direkt aus realen Ausgaben ab (Abomodell)
 - [ ] Mindestbeteiligung verhindert Elitenbildung:
   - [ ] kein Projekt kann von Einzelpersonen dominiert oder allein finanziert werden
 
