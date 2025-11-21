@@ -6,6 +6,8 @@ use App\Support\Markdown;
 
 trait HasMarkdown
 {
+    private const WORDS_PER_MINUTE = 200;
+
     public function getBodyAttribute(): string
     {
         if (is_null($this->markdown_body)) {

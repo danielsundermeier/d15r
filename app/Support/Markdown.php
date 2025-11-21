@@ -2,22 +2,28 @@
 
 namespace App\Support;
 
-use League\CommonMark\CommonMarkConverter;
+use League\CommonMark\MarkdownConverter;
 use League\CommonMark\Environment\Environment;
-use League\CommonMark\Extension\Autolink\AutolinkExtension;
-use League\CommonMark\Extension\DisallowedRawHtml\DisallowedRawHtmlExtension;
-use League\CommonMark\Extension\Footnote\FootnoteExtension;
-use League\CommonMark\Extension\HeadingPermalink\HeadingPermalinkExtension;
-use League\CommonMark\Extension\Mention\MentionExtension;
-use League\CommonMark\Extension\Strikethrough\StrikethroughExtension;
 use League\CommonMark\Extension\Table\TableExtension;
+use League\CommonMark\Extension\Mention\MentionExtension;
+use League\CommonMark\Extension\Autolink\AutolinkExtension;
+use League\CommonMark\Extension\Footnote\FootnoteExtension;
 use League\CommonMark\Extension\TaskList\TaskListExtension;
+use League\CommonMark\Extension\CommonMark\CommonMarkCoreExtension;
+use League\CommonMark\Extension\Strikethrough\StrikethroughExtension;
+use League\CommonMark\Extension\DisallowedRawHtml\DisallowedRawHtmlExtension;
 
 class Markdown
 {
     public static function convertToHtml(string $text) : string
     {
-        $environment = Environment::createCommonMarkEnvironment();
+        $config = [
+            'allow_unsafe_links' => false,
+        ];
+
+        $environment = new Environment($config);
+
+        $environment->addExtension(new CommonMarkCoreExtension());
 
         $environment->addExtension(new AutolinkExtension());
         $environment->addExtension(new DisallowedRawHtmlExtension());
@@ -26,14 +32,11 @@ class Markdown
         $environment->addExtension(new TaskListExtension());
 
         // Version > 1.4 needed
-        $environment->addExtension(new HeadingPermalinkExtension());
         $environment->addExtension(new MentionExtension());
         $environment->addExtension(new FootnoteExtension());
 
-        $converter = new CommonMarkConverter([
-            'allow_unsafe_links' => false,
-        ], $environment);
+        $converter = new MarkdownConverter($environment);
 
-        return $converter->convertToHtml($text);
+        return $converter->convert($text);
     }
 }

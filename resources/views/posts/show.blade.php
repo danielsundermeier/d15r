@@ -14,7 +14,7 @@
             <h1>
                 <span class="mt-2 block text-4xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">{{ $post->title }}</span>
             </h1>
-            <div class="text-sm leading-6">{{ $post->published_at->format('d.m.Y') }}</div>
+            <div class="text-sm leading-6">{{ $post->published_at->format('d.m.Y') }} - {{ $post->reading_time }} min</div>
         </div>
         <div class="mt-6 prose prose-sky prose-lg text-gray-500 mx-auto">
 

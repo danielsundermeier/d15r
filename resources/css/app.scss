@@ -18,6 +18,22 @@
     line-height: 2.5rem; /* 40px */
 }
 
+.heading-permalink {
+    visibility: hidden;
+}
+
+.table-of-contents {
+    @apply mt-4 space-y-3 text-sm;
+}
+
+.table-of-contents a {
+    @apply text-sky-500;
+}
+
+.table-of-contents li ul {
+    @apply mt-2 space-y-3 pl-5 text-slate-500 dark:text-slate-400;
+}
+
 #post {
 
     h1 {
@@ -36,4 +52,39 @@
         @apply w-full rounded-lg
     }
 
+}
+
+#book {
+
+    h1 {
+        @apply text-3xl tracking-tight text-slate-900 dark:text-white;
+    }
+
+    h2 {
+        @apply text-2xl font-bold my-3
+    }
+
+    h3 {
+        @apply text-xl font-bold my-2
+    }
+
+    h4 {
+        @apply text-lg font-bold my-2
+    }
+
+    h5 {
+        @apply text-base font-bold my-2
+    }
+
+    h6 {
+        @apply text-sm font-bold my-2
+    }
+
+    a {
+        @apply text-sky-500;
+    }
+
+    a:hover {
+        @apply underline;
+    }
 }

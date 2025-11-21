@@ -19,8 +19,6 @@ class Post extends Model
 
     const ROUTE_NAME = 'posts';
 
-    const WORDS_PER_MINUTE = 200;
-
     protected $appends = [
         //
     ];
