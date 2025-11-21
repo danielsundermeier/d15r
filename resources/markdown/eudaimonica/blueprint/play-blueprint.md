@@ -20,12 +20,12 @@
 - Leben im Gleichgewicht (Ruhemodus) statt im Stressmodus
 - Das „richtige Spiel“ finden (Eudaimonia) statt das „falsche Spiel“ (Hedonica)
 
-### **B. Kernprinzipien**
 - Gleichgewicht ist ein Prozess, kein Ziel
 - Evolution durch Mikro-Schritte
 - Flow als natürlicher Zustand, wenn Herausforderung ↔ Fähigkeit passt
 - Entwicklung hat kein festes Ende: Das Potenzial ist prinzipiell grenzenlos und nie vollständig erfassbar („unergründlich“)
 - Körper–Geist–Seele als Dreiklang der Balance
+- Eigene Probleme als Startpunkt: ich löse mein eigenes Ungleichgewicht / meine eigenen Herausforderungen und teile die Lösung mit anderen
 
 ### **C. Metaphern**
 - Fahrradfahren → ständiges Ausbalancieren
@@ -52,6 +52,10 @@
 - Sensitivität steigt mit Nähe zum Gleichgewicht
 - Umschaltmomente (plötzliche Entlastung bei tiefer Ursache)
 - Lokale Optima als Fallen → globales Optimum erst sichtbar nach Wachstum
+- Preis / Leidensdruck als Feedback:
+  - persönliche „Kosten“ (Zeit, Energie, Geld, Frust) zeigen, wo etwas in unserem System nicht stimmig ist
+  - je höher der Leidensdruck, desto stärker der Impuls hinzuschauen und zu experimentieren
+  - Schmerz wird nicht verdrängt, sondern als Datenquelle genutzt
 
 ---
 
@@ -89,6 +93,19 @@
 - Meisterschaft
 - Sinn
 - Arbeit als dynamische Quest → Eliminieren, optimieren, automatisieren
+- Geld verdienen als Nebenprodukt von echtem Problemlösen:
+  - ich beginne bei meinen eigenen Schmerzen und Ungleichgewichten und entwickle Lösungen, die auch anderen dienen
+- Drei Hauptpfade, wie Einkommen entsteht:
+  - klassische Produkte & Dienstleistungen (bewusst klein, ohne Wachstumszwang, idealerweise erfolgs- statt zeitbasiert vergütet)
+  - spendenbasierte Angebote (z.B. Coaching / „Eudaimonia-Architekt“: Hilfe jetzt, Finanzierung durch zukünftige Generation der Erfolgreichen)
+  - gemeinschaftsfinanzierte Rollen (wenn die Gemeinschaft eine Tätigkeit als essenziell erkennt und gemeinsam trägt)
+- Work in Public:
+  - ich arbeite sichtbar an meinen Projekten
+  - dadurch ziehe ich keine „Mitarbeitenden“, sondern Kollaborateure an, die vom gleichen Thema bewegt sind
+  - Lernen, Fehler und Fortschritte werden Teil des gemeinsamen Wissens der Gemeinschaft
+- Effektivität statt Auslastung:
+  - 1 Stunde fokussierte, sinnvolle Arbeit pro Tag kann genügen, wenn Fundament und Gleichgewicht stimmen
+  - überschüssige Zeit fließt in Familie, Freunde, innere Arbeit und Spiel
 
 ### **C. Liebe / Beziehungen**
 - Selbstliebe
@@ -128,6 +145,7 @@
 ### **A. Mikro-Strukturen**
 - Gewohnheiten
 - Trigger → Gefühl → Handlung → Zustand
+- bewusster Umgang mit „Kosten“: wenn etwas sich wiederholt teuer, schwer oder energieraubend anfühlt, wird es zum Startpunkt einer Mini-Quest (Analyse → Experiment → neues Muster)
 
 ### **B. Entscheidungslogik**
 - Körper = Sensor
