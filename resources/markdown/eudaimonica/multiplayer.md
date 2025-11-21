@@ -292,58 +292,11 @@ Dann kommen wir zurück und schlagen die Idee in unserer Stadt vor oder bleiben 
 
 Ähnlich wie in einem Open World Spiel haben wir alle Freiheiten, können aber auch langsam lernen, mit dieser Freiheit umzugehen. Es gibt geführte Quests, die uns langsam heranführen oder wir erkunden die Welt auf unsere Weise.
 
-### Lebensbereiche
+## Lebensbereiche
 
-#### Energie
+### Gesundheit
 
-- Nahwärmenetz, wir nutzen die Abwärme der Gebäude
-- Solarenergie auf den Dächern, Solarfarbe an den Wänden
-- Windenergie am Stadtrand
-- Energiespeicher in Form von Batterien
-
-- Unterirdische Wärmepumpe für die gesamte Stadt?
-- Biogasanlage in Kombination mit Kläranalage?
-- Unterirdische Mini-Atomkraftwerke, die Atommüll verwerten?
-
-Jede Stadt sollte sich mit den Grundlagen selbst versorgen können.
-
-Dadurch entsteht auch eine einzigartige Identität und Kultur. Es gibt lokale und saisonale Besonderheiten.
-
-Das spiegelt sich dann in der Energieversorgung, der Ernährung, der Architektur und dem Lebensstil wider.
-
-Außerdem gibt es Sicherheit und Stabilität. Wir sind nicht von globalen Lieferketten abhängig außerdem sparen wir uns Transportwege und -kosten.
-
-Gleichzeitig machen wir davon natürlich auch weiterhin Gebrauch. Wir leben in einer vernetzten Welt und profitieren von den Vorteilen.
-
-##### P2P Strommarkt
-
-Wir richten einen Peer-to-Peer (P2P) Strommarkt ein. Produzenten und Verbraucher können darüber Energie direkt miteinander handeln – ohne klassische Zwischenhändler und ohne zentrale Preisvorgabe.
-
-Kernprinzip: Strom folgt dorthin, wo er gerade am meisten gebraucht und am sinnvollsten genutzt wird. Angebot und Nachfrage werden lokal ausgeglichen, das System reguliert sich weitgehend selbst.
-
-P2P-Strom ist damit nicht nur eine technische, sondern auch eine kulturelle Veränderung:
-
-- weg von „Ich verbrauche Strom von einem anonymen Versorger“
-- hin zu „Wir versorgen uns gegenseitig in einem gemeinsamen Netz“
-- von zentraler Kontrolle zu geteiltem Besitz an der Infrastruktur
-- von künstlicher Knappheit zu sichtbarem Überfluss dort, wo gut geplant wurde
-
-Die Preise entstehen dynamisch durch Angebot und Nachfrage. Transportwege und -verluste sind Teil des Preises, sodass lokale Produzenten einen natürlichen Vorteil haben. Wer nahe an der Produktion ist, profitiert von günstigeren Preisen; wer weit entfernt ist, hat einen Anreiz, selbst zu produzieren oder energieintensive Nutzung zu verlagern.
-
-So entsteht ein dezentrales Netzwerk von Energiezellen, das sich selbst organisiert: Haushalte, Betriebe und ganze Stadtmodule können sowohl Erzeuger als auch Verbraucher sein. Überschüsse werden automatisch an diejenigen weitergeleitet, die sie gerade brauchen.
-
-Ein solcher P2P-Strommarkt bringt das Energiesystem ins Gleichgewicht:
-
-- transparent und nachvollziehbar
-- lokal kontrollierbar
-- robust gegenüber Ausfällen einzelner Knoten
-- anpassungsfähig bei veränderten Bedingungen
-
-Energie wird zu etwas, das wir miteinander teilen, nicht zu einem Machtinstrument. Das reduziert strukturellen Stress, stärkt Autonomie und Vertrauen und macht sichtbar, dass genug für alle da ist, wenn wir sinnvoll planen und verbinden.
-
-Energieintensive Anwendungen siedeln sich dort an, wo besonders viel und damit günstige Energie zur Verfügung steht. Produktion folgt der Logik der Energie – nicht umgekehrt.
-
-#### Arbeit
+### Beitrag
 
 In unserem Beruf spezialisieren wir uns immer weiter.
 
@@ -410,7 +363,11 @@ Das gleiche gilt für Büros und unsere Freizeitgestaltung.
 
 Das gibt es zwar alles schon, aber es ist nicht unseres. Wir müssen für die Nutzung bezahlen und haben keinen Einfluss darauf, wie es gestaltet ist.
 
-#### Liebe
+Wenn jemand nichts beitragen möchte und nur konsumieren will, ist das in Ordnung. Solange genug andere Menschen da sind, die mitmachen.
+
+Es ist aber ein Signal, dass die Person nicht im Gleichgewicht ist und vielleicht Unterstützung braucht.
+
+### Beziehungen
 
 Die Stadt sollte ein Ort der Begegnung sein. Wir sollten immer wieder Menschen über den Weg laufen, die wir bewundern oder in die wir uns verlieben können.
 
@@ -426,7 +383,7 @@ Das bekämpft die Einsamkeit und führt zu Zusammenhalt. Wir sind alle daran int
 
 Die Stadt produziert nicht mehr primär Güter, sondern Lebensqualität, Sinn und Verbindung.
 
-## Tage als Meisterwerke
+## Protokolle
 
 Die Stadt kann uns dabei unterstützen, unsere Tage als Meisterwerke zu gestalten.
 
@@ -438,7 +395,7 @@ Wir müssen uns nicht mehr um alles kümmern, sondern können auf Bestehendes zu
 
 In Gesellschaft fällt es uns nochmal leichter. Wir müssen dabei nicht alle das gleiche tun, wir können uns aber gegenseitig inspirieren und motivieren.
 
-## Struktur
+## Algorithmen
 
 Die Stadt gibt uns eine Struktur, die uns dabei unterstützt, unsere Tage als Meisterwerke zu gestalten.
 
@@ -521,95 +478,126 @@ Kultur ersetzt Kontrolle. Je stärker die Kultur des Beitrags ist, desto weniger
 
 ## Fundament
 
-### Ernährung
+### Infrastruktur
 
-Wir essen alle Mahlzeiten in einer Kantine. Unsere Ernährung wird von Ernährungsberatern geplant und von Köchen zubereitet.
+#### Energie
+
+- Nahwärmenetz, wir nutzen die Abwärme der Gebäude
+- Solarenergie auf den Dächern, Solarfarbe an den Wänden
+- Windenergie am Stadtrand
+- Energiespeicher in Form von Batterien
+
+- Unterirdische Wärmepumpe für die gesamte Stadt?
+- Biogasanlage in Kombination mit Kläranalage?
+- Unterirdische Mini-Atomkraftwerke, die Atommüll verwerten?
+
+Jede Stadt sollte sich mit den Grundlagen selbst versorgen können.
+
+Dadurch entsteht auch eine einzigartige Identität und Kultur. Es gibt lokale und saisonale Besonderheiten.
+
+Das spiegelt sich dann in der Energieversorgung, der Ernährung, der Architektur und dem Lebensstil wider.
+
+Außerdem gibt es Sicherheit und Stabilität. Wir sind nicht von globalen Lieferketten abhängig außerdem sparen wir uns Transportwege und -kosten.
+
+Gleichzeitig machen wir davon natürlich auch weiterhin Gebrauch. Wir leben in einer vernetzten Welt und profitieren von den Vorteilen.
+
+##### P2P Strommarkt
+
+Wir richten einen Peer-to-Peer (P2P) Strommarkt ein. Produzenten und Verbraucher können darüber Energie direkt miteinander handeln – ohne klassische Zwischenhändler und ohne zentrale Preisvorgabe.
+
+Kernprinzip: Strom folgt dorthin, wo er gerade am meisten gebraucht und am sinnvollsten genutzt wird. Angebot und Nachfrage werden lokal ausgeglichen, das System reguliert sich weitgehend selbst.
+
+P2P-Strom ist damit nicht nur eine technische, sondern auch eine kulturelle Veränderung:
+
+- weg von „Ich verbrauche Strom von einem anonymen Versorger“
+- hin zu „Wir versorgen uns gegenseitig in einem gemeinsamen Netz“
+- von zentraler Kontrolle zu geteiltem Besitz an der Infrastruktur
+- von künstlicher Knappheit zu sichtbarem Überfluss dort, wo gut geplant wurde
+
+Die Preise entstehen dynamisch durch Angebot und Nachfrage. Transportwege und -verluste sind Teil des Preises, sodass lokale Produzenten einen natürlichen Vorteil haben. Wer nahe an der Produktion ist, profitiert von günstigeren Preisen; wer weit entfernt ist, hat einen Anreiz, selbst zu produzieren oder energieintensive Nutzung zu verlagern.
+
+So entsteht ein dezentrales Netzwerk von Energiezellen, das sich selbst organisiert: Haushalte, Betriebe und ganze Stadtmodule können sowohl Erzeuger als auch Verbraucher sein. Überschüsse werden automatisch an diejenigen weitergeleitet, die sie gerade brauchen.
+
+Ein solcher P2P-Strommarkt bringt das Energiesystem ins Gleichgewicht:
+
+- transparent und nachvollziehbar
+- lokal kontrollierbar
+- robust gegenüber Ausfällen einzelner Knoten
+- anpassungsfähig bei veränderten Bedingungen
+
+Energie wird zu etwas, das wir miteinander teilen, nicht zu einem Machtinstrument. Das reduziert strukturellen Stress, stärkt Autonomie und Vertrauen und macht sichtbar, dass genug für alle da ist, wenn wir sinnvoll planen und verbinden.
+
+Energieintensive Anwendungen siedeln sich dort an, wo besonders viel und damit günstige Energie zur Verfügung steht. Produktion folgt der Logik der Energie – nicht umgekehrt.
+
+#### Nahrung
+
+Wir essen alle Mahlzeiten gemeinsam in einer Kantine. Unsere Ernährung wird von Ernährungsberatern geplant und von Köchen zubereitet.
 
 Nach dem zweiten Weltkrieg haben die Deutschen Schweine gehalten, um die Küchenabfälle zu verwerten.
 
 Um die Kantinen gibt es einen Schweinegarten. Dort leben Schweine und Hühner. Zusätzlich wird dort Grünschnitt abgeladen.
 
-Im Zusammenspiel mit den Tieren entsteht Kompost. Die Hühner verteilen ihn und die Schweine graben ihn um. Zusätzlich wird es durch ihre Ausscheidungen angereichert.
+Im Zusammenspiel mit den Tieren entsteht Kompost. Die Hühner verteilen ihn und die Schweine graben ihn um. Zusätzlich wird er durch ihre Ausscheidungen angereichert.
 
-Wir produzieren so aus unseren Abfällen Fleisch, Eier und Kompost. Die Tiere leben ein gutes Leben und wir haben eine nachhaltige Kreislaufwirtschaft.
+Wir produzieren so aus unseren Abfällen Fleisch, Eier und Kompost. Die Tiere leben ein gutes Leben und wir haben eine regenerative Kreislaufwirtschaft.
 
 Das Besteck wird von den Gästen auf Tabletts einsortiert, die direkt in die Spülmaschine gefahren werden. Das Tablett wird automatisch gereinigt, wieder zurückgebracht und das Geschirr kann von den nächsten Gästen benutzt werden.
 
-### Bewegung
+#### Mobilität
 
 Der Waldgarten dient gleichzeitig als Erholungsgebiet. Es gibt viele Wege und Plätze, die zum Verweilen einladen, sowie Bereiche für Sport und Spiel.
 
-#### Fuß und Fahrrad
+Die Städte sind durch Kanäle miteinander verbunden. Sie ziehen sich wie ein Netz durch die Landschaft.
+
+Sie werden für den Transport von Personen und Gütern genutzt.
+
+Wie bei allen Systemen achten wir hier auch darauf, dass sie wartungsarm, langlebig und anpassungsfähig sind.
+
+Das System hat mehrere Funktionen und es entsteht ein Netzwerk von Wasserwegen, die die Städte verbinden. Wir haben Redundanz und Flexibilität.
+
+Es sind aber keine künstlichen Wannen, die von der Landschaft abgetrennt sind, sondern sie integrieren sich in die Umgebung. Es sind lebende Ökosysteme.
+
+Sie reinigen das Wasser, bieten Lebensraum für Tiere und Pflanzen und sind attraktive Erholungsgebiete.
+
+Neben den Flüssen, die es sowieso schon gibt, werden zusätzliche angelegt und verbunden.
+
+Sie werden in die Landschaft integriert, um die Biodiversität zu erhöhen und Lebensräume zu schaffen, die gleichzeitig für den Transport und den Nahrungsmittelproduktion genutzt werden können.
+
+Wir nehmen längere Strecken in Kauf und versuchen so wenig Schleusen und Tunnel wie möglich zu bauen.
+
+An den Schleusen gibt es Orte, die zum Verweilen einladen.
+
+Außerdem werden neben den Flüssen Leitungen für Wasser, Energie und Daten unterirdisch zwischen den Städten verlegt. Wir müssen sowieso Gräben ausheben, also können wir gleich alles in einem Rutsch machen.
+
+Die Kanäle sind teilweise von Solaranlagen bedeckt, um Energie zu erzeugen. Das reduziert die Verdunstung und schützt die Wasserqualität. Gleichzeitig werden die Solarmodule gekühlt, was ihre Effizienz erhöht.
+
+Wir nutzen sie auch für die Fischzucht.
+
+Slow Travel ist ein wichtiger Bestandteil des Lebensstils. Wir reisen mit dem Boot, zu Fuß oder Fahrrad zwischen den Städten.
+
+Es gibt keine Autos oder Züge mehr.
+
+Es ist die Anti-Autobahn-Zivilisation.
+
+Autobahnen schneiden Landschaften entzwei. Kanäle verweben sie miteinander.
+
+Unsere künstlichen Flüsse sind Transportweg, Wildnis, Nahrungsquelle und Lebensraum zugleich – Infrastruktur, die atmet und ernährt
+
+##### Fuß und Fahrrad
 
 Innerhalb der Stadt bewegen wir uns zu Fuß oder mit dem Fahrrad. Alles, was wir zum Leben brauchen, ist in 15 Minuten zu Fuß oder mit dem Fahrrad erreichbar.
 
-#### U-Bahn
+##### Boot
 
-Die Städte sind durch eine U-Bahn miteinander verbunden. Sie ist im Zentrum jeder Stadt.
+Es gibt autonome Boote, die Personen und Güter transportieren.
 
-Die Haltestellen sind so gestaltet, dass die Schienen bei der Einfahrt ansteigen und bei der Ausfahrt wieder abfallen. Dadurch wird die Energie für die Beschleunigung der Züge aus der potenziellen Energie gewonnen.
+##### Logistik
 
-Die Züge fahren autonom.
+Da die meisten Menschen sowieso jeden Tag zum Eudaimonium gehen, können sie dort ihre Post und Pakete abholen und zurückgeben. Dadurch sparen wir uns viele Lieferfahrzeuge in der Stadt.
 
-#### Logistik
+#### Gebäude
 
-Neben den U-Bahnen gibt es Schienen für den Güterverkehr.
-
-Außerdem werden hier Leitungen für Wasser, Energie und Daten unterirdisch zwischen den Städten verlegt.
-
-Da die meisten Menschen sowieso jeden Tag zum Eudaimonium gehen, können sie dort auch ihre Post und Pakete abholen und zurückgeben. Dadurch sparen wir uns viele Lieferfahrzeuge in der Stadt.
-
-### Schlaf
-
-Wir nutzen unsere Wohnung hauptsächlich zum Schlafen. Der private Wohnraum kann dadurch kleiner und günstiger sein.
-
-Wir können ihn dann auch darauf optimieren.
-
-### Atmung
-
-Die Stadt sorgt für frische Luft und eine angenehme Atmosphäre. Es gibt viele Pflanzen und Bäume, die für ein gutes Klima sorgen.
-
-### Aufmerksamkeit
-
-Die Stadt bietet viele Orte der Ruhe und Entspannung. Orte, an denen wir uns zurückziehen und unsere Gedanken ordnen können.
-
-Unsere Aufmerksamkeit wird nicht durch Werbung oder andere Ablenkungen gestört.
-
-Die Technologie ist eher im Hintergrund präsent und unterstützt uns, anstatt uns zu dominieren.
-
-Kreativität und konzentriertes Arbeiten werden gefördert. Multitasking und ständige Unterbrechungen werden vermieden.
-
-Da es keine Autos in der Stadt gibt, ist es auch deutlich leiser.
-
-### Zelebrieren
-
-Die Stadt bietet viele Orte der Begegnung und des Austauschs. Orte, an denen wir gemeinsam feiern und das Leben genießen können.
-
-Sie unterstützt uns auf unserem Weg der Persönlichkeitsentwicklung, wofür wir Dankbarkeit empfinden können.
-
-Wir fühlen uns von der Stadt getragen und unterstützt. Dafür können wir sie wertschätzen und achten.
-
-Wir sehen unseren Beitrag und investieren in die Stadt, weil wir wissen, dass sie uns hilft.
-
-Es ist ein Geben und Nehmen. Eine Symbiose, von der alle profitieren.
-
-Wir wachsen gemeinsam und entwickeln uns weiter.
-
-### Florieren
-
-Die Finanzierungsstruktur der Stadt ist wie ein Unternehmen oder eine Genossenschaft organisiert.
-
-Der Zweck jeder Stadt ist es, ihren Bewohnern zu dienen und ihre Lebensqualität zu verbessern.
-
-Deshalb investiert die Stadt intensiv in die Bewohner und die Infrastruktur. Wovon sie selbst wiederrum profitiert. Die Menschen sind glücklich und erfolgreich und wollen etwas zurück geben.
-
-Es sind zwei Seiten derselben Medaille. Wenn die eine floriert, profitiert auch die andere.
-
-#### Finanzierung
-
-Die Städte finanzieren sich über Landbesitz und Unternehmensgewinne. Das Land (und die Gebäude?) gehören der Stadt. Die Bewohner können sie für eine lange Zeit pachten, aber nicht besitzen.
-
-Die Bewohner bestimmen aber, was auf dem Land passiert.
+Die Bewohner bestimmen, was auf dem Land passiert.
 
 Es werden Projekte ausgeschrieben in denen die Bewohner ihre Ideen vorstellen können. Die besten werden ausgewählt und umgesetzt.
 
@@ -627,7 +615,65 @@ Wir haben eine echte Gelegenheit unsere Umgebung zu gestalten, sehen, was mit un
 
 Wir nutzen die Schwarmintelligenz der Bewohner, um die Stadt zu gestalten.
 
-#### Zugang statt Besitz
+#### Wohnen
+
+Wir nutzen unsere Wohnung hauptsächlich zum Schlafen. Der private Wohnraum kann dadurch kleiner und günstiger sein.
+
+Wir können ihn dann auch darauf optimieren.
+
+Jede Stadt hält eine Reserve an Wohnungen von 10% für Katastrophenfälle vor. So können wir Menschen aufnehmen, die ihre Wohnung verloren haben.
+
+Die meiste Zeit stehen sie aber leer und können kostenlos für Kurzzeitaufenthalte und Reisende genutzt werden.
+
+Dadurch brauchen wir keine Hotels und die Besucher leben, wie die Bewohner.
+
+Es ist ein Investment in den Zusammenhalt der Gemeinschaft.
+
+#### Atmung
+
+Die Stadt sorgt für frische Luft und eine angenehme Atmosphäre. Es gibt viele Pflanzen und Bäume, die für ein gutes Klima sorgen.
+
+### Governance
+
+#### Florieren
+
+Die Finanzierungsstruktur der Stadt ist wie ein Unternehmen, eine Genossenschaft oder Stiftung organisiert.
+
+Der Zweck jeder Stadt ist es, ihren Bewohnern zu dienen und ihre Lebensqualität zu verbessern.
+
+Deshalb investiert die Stadt intensiv in die Bewohner und die Infrastruktur. Wovon sie selbst wiederrum profitiert. Die Menschen sind glücklich und erfolgreich und wollen etwas zurück geben.
+
+Es sind zwei Seiten derselben Medaille. Wenn die eine floriert, profitiert auch die andere.
+
+##### Finanzierung
+
+Die Grundversorgung, Infrastruktur, Diensleistungen und Produkte, die von der Stadt bereitgestellt werden, sind wie eine Art Abomodell zu verstehen.
+
+Allerdings nicht auf individueller Basis, sondern auf Gemeinschaftsebene.
+
+Die Bevölkerung entscheidet darüber wofür die Steuern verwendet werden und jeder kann nachvollziehen, wie das Geld eingesetzt wird.
+
+Transparenz ist hier ein wichtiger Faktor. Alle Einnahmen und Ausgaben sind öffentlich einsehbar.
+
+Somit kann die Bevölkerung selbst bestimmen, wie sie leben will und ihre Steuern dafür einsetzen. Somit bestimmt die Bevölkerung ihre eigene Besteuerung und Lebensweise.
+
+Wenn sie mehr wollen, müssen sie mehr bezahlen oder die Kosten senken.
+
+Das reduziert Verschwendung und sorgt dafür, dass die Ressourcen dort eingesetzt werden, wo sie am meisten gebraucht werden.
+
+Wenn etwas nicht funktioniert, können wir es anpassen oder abschaffen.
+
+Der Preis ist auch hier ein Signal. Wenn etwas teurer wird, fangen wir an es zu überdenken.
+
+Er dient als Feedbackmechanismus, um herauszufinden, ob wir auf dem richtigen Weg sind.
+
+Je teurer etwas wird, umso mehr Menschen werden darauf aufmerksam und beschäftigen sich mit dem Thema.
+
+Das Ziel ist die Kosten immer weiter zu senken. Steigende Preise deuten auf Gelengenheiten zur Optimierung und Ineffizienzen hin.
+
+Es zeigt uns, dass das System nicht im Gleichgewicht ist und wir etwas ändern dürfen.
+
+##### Zugang statt Besitz
 
 Bewohner können Anteile an Unternehmen oder Gebäuden kaufen oder durch ihre Arbeit daran erwerben. Dafür bekommen wir kostenlosen Zugang. Ansonsten können wir dafür bezahlen.
 
@@ -653,7 +699,7 @@ So hätten wir eine Verbindung zu unserer Heimat und einen weiteren Grund, dass 
 
 Es handelt sich auch immer nur um Luxusartikel. Die Grundversorgung ist immer gewährleistet und wird weiter ausgebaut.
 
-#### Wettbewerb und Zusammenarbeit
+##### Wettbewerb und Zusammenarbeit
 
 Die Stadt soll lebenswert sein. Wenn es nicht gelingt die Bewohner zu halten, verliert die Stadt ihre Existenzgrundlage.
 
@@ -664,6 +710,44 @@ Es zeigt uns, dass etwas nicht stimmt und wir etwas ändern dürfen.
 Auf diese Weise stehen alle Städte in Konkurrenz zueinander. Die Bewohner können sich aussuchen, wo sie leben wollen. Es geht aber eher um die Art, wie sie leben wollen und nicht um den Preis oder die Ausstattung.
 
 Viel wichtiger ist aber die Zusammenarbeit zwischen den Städten. Sie tauschen Wissen und Ressourcen aus, um gemeinsam zu gedeihen. Wir übernehmen, was funktioniert, und helfen uns gegenseitig bei Herausforderungen.
+
+##### Unternehmen
+
+Jeder kann auch weiterhin ein Unternehmen gründen und Produkte oder Dienstleistungen anbieten.
+
+Es sind aber keine klassischen Unternehmen mehr, die auf Gewinnmaximierung ausgelegt sind.
+
+Es sind Experimente, um herauszufinden, wie wir leben wollen.
+
+Sie dienen dazu, Produkte und Dienstleistungen im Kleinen zu testen. Wenn sie sich durchsetzen, werden sie Teil der Grundversorgung.
+
+### Kultur
+
+#### Aufmerksamkeit
+
+Die Stadt bietet viele Orte der Ruhe und Entspannung. Orte, an denen wir uns zurückziehen und unsere Gedanken ordnen können.
+
+Unsere Aufmerksamkeit wird nicht durch Werbung oder andere Ablenkungen gestört.
+
+Die Technologie ist eher im Hintergrund präsent und unterstützt uns, anstatt uns zu dominieren.
+
+Kreativität und konzentriertes Arbeiten werden gefördert. Multitasking und ständige Unterbrechungen werden vermieden.
+
+Da es keine Autos in der Stadt gibt, ist es auch deutlich leiser.
+
+#### Zelebrieren
+
+Die Stadt bietet viele Orte der Begegnung und des Austauschs. Orte, an denen wir gemeinsam feiern und das Leben genießen können.
+
+Sie unterstützt uns auf unserem Weg der Persönlichkeitsentwicklung, wofür wir Dankbarkeit empfinden können.
+
+Wir fühlen uns von der Stadt getragen und unterstützt. Dafür können wir sie wertschätzen und achten.
+
+Wir sehen unseren Beitrag und investieren in die Stadt, weil wir wissen, dass sie uns hilft.
+
+Es ist ein Geben und Nehmen. Eine Symbiose, von der alle profitieren.
+
+Wir wachsen gemeinsam und entwickeln uns weiter.
 
 ## Experimente
 
