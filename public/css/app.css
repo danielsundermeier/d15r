@@ -2158,8 +2158,27 @@ select {
 }
 
 .table-of-contents a {
+  font-weight: 400;
   --tw-text-opacity: 1;
-  color: rgb(14 165 233 / var(--tw-text-opacity));
+  color: rgb(100 116 139 / var(--tw-text-opacity));
+}
+
+.table-of-contents a:hover {
+  --tw-text-opacity: 1;
+  color: rgb(51 65 85 / var(--tw-text-opacity));
+}
+
+@media (prefers-color-scheme: dark) {
+
+  .table-of-contents a {
+    --tw-text-opacity: 1;
+    color: rgb(148 163 184 / var(--tw-text-opacity));
+  }
+
+  .table-of-contents a:hover {
+    --tw-text-opacity: 1;
+    color: rgb(203 213 225 / var(--tw-text-opacity));
+  }
 }
 
 .table-of-contents li ul {
@@ -2276,10 +2295,6 @@ select {
 #book a {
   --tw-text-opacity: 1;
   color: rgb(14 165 233 / var(--tw-text-opacity));
-}
-#book a:hover {
-  -webkit-text-decoration-line: underline;
-          text-decoration-line: underline;
 }
 .focus-within\:ring-2:focus-within {
   --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
@@ -2907,10 +2922,6 @@ select {
     padding-left: 2.5rem;
   }
 
-  .lg\:pt-0 {
-    padding-top: 0px;
-  }
-
   .lg\:pr-0 {
     padding-right: 0px;
   }
@@ -2918,12 +2929,20 @@ select {
   .lg\:pl-8 {
     padding-left: 2rem;
   }
+
+  .lg\:pt-0 {
+    padding-top: 0px;
+  }
 }
 @media (min-width: 1280px) {
 
   .xl\:sticky {
     position: -webkit-sticky;
     position: sticky;
+  }
+
+  .xl\:top-0 {
+    top: 0px;
   }
 
   .xl\:-mr-6 {
@@ -2956,14 +2975,14 @@ select {
     padding-right: 3rem;
   }
 
-  .xl\:py-16 {
-    padding-top: 4rem;
-    padding-bottom: 4rem;
-  }
-
   .xl\:px-16 {
     padding-left: 4rem;
     padding-right: 4rem;
+  }
+
+  .xl\:py-16 {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
   }
 
   .xl\:pr-12 {
