@@ -36,4 +36,39 @@
 
     </div>
 
+    <script type="text/javascript">
+        document.addEventListener("DOMContentLoaded", function() {
+            // Highlight the current section in the TOC based on scroll position
+            const tocLinks = document.querySelectorAll('nav a[href^="#"]');
+            const sections = Array.from(tocLinks).map(link => document.querySelector(link.getAttribute('href')));
+
+            function onScroll() {
+                const scrollPosition = window.scrollY + 50; // Offset for better visibility
+                let currentSectionIndex = -1;
+
+                sections.forEach((section, index) => {
+                    if (section.offsetTop <= scrollPosition) {
+                        currentSectionIndex = index;
+                    }
+                });
+
+                tocLinks.forEach((link, index) => {
+                    if (index === currentSectionIndex) {
+                        link.scrollIntoView({ block: 'nearest', behavior: 'smooth', container: 'nearest' });
+                        link.classList.add('!text-sky-500');
+                    } else {
+                        link.classList.remove('!text-sky-500');
+                    }
+                });
+            }
+
+            let scrollTimeout;
+            window.addEventListener('scroll', () => {
+                clearTimeout(scrollTimeout);
+                scrollTimeout = setTimeout(onScroll, 25);
+            });
+            onScroll(); // Initial call to set the correct state
+        });
+    </script>
+
 @endsection
