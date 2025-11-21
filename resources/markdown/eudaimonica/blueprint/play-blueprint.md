@@ -19,13 +19,15 @@
 - Arete als tägliche Bestleistung im Rahmen der eigenen Möglichkeiten
 - Leben im Gleichgewicht (Ruhemodus) statt im Stressmodus
 - Das „richtige Spiel“ finden (Eudaimonia) statt das „falsche Spiel“ (Hedonica)
-
 - Gleichgewicht ist ein Prozess, kein Ziel
 - Evolution durch Mikro-Schritte
 - Flow als natürlicher Zustand, wenn Herausforderung ↔ Fähigkeit passt
 - Entwicklung hat kein festes Ende: Das Potenzial ist prinzipiell grenzenlos und nie vollständig erfassbar („unergründlich“)
 - Körper–Geist–Seele als Dreiklang der Balance
 - Eigene Probleme als Startpunkt: ich löse mein eigenes Ungleichgewicht / meine eigenen Herausforderungen und teile die Lösung mit anderen
+- Alltag im Gleichgewicht: Arbeit, Bewegung und Erholung als drei sich abwechselnde Blöcke (z.B. fokussierte Arbeit, natürliche Bewegung, bewusste Erholung)
+- Umgebung als Mitspieler: natürliche Infrastruktur (Waldgärten, Wasser, Wege) erleichtert Gleichgewicht statt Disziplin zu erzwingen
+- Slow Travel als Lebenshaltung: Reisen als Erlebnis und Lernfeld, nicht als schneller Wechsel von A nach B
 
 ### **C. Metaphern**
 - Fahrradfahren → ständiges Ausbalancieren
@@ -64,6 +66,7 @@
 ### **A. Identität = Gleichgewichts-Kohärenz**
 - Die „Mitte“, die wir halten können
 - Jede Entwicklungsebene schafft eine neue Identität
+- Selbstverständnis als „Zelle“ in einem größeren Organismus (Stadt, Welt): persönliche Gleichgewichte tragen zur kollektiven Balance bei
 
 ### **B. Werkzeuge**
 - Vision & Antivision
@@ -87,6 +90,8 @@
 - Atmung
 - Nervensystem / Emotionen
 - innere Ruhe
+- Alltagsbewegung statt Fitnessstudio: Gehen, Radfahren, Schwimmen, Spielen im Waldgarten
+- Bewegung als Nebenprodukt der Infrastruktur: Wege, Kanäle und Waldgärten laden automatisch zu Aktivität ein
 
 ### **B. Arbeit / Beitrag**
 - Autonomie
@@ -106,6 +111,7 @@
 - Effektivität statt Auslastung:
   - 1 Stunde fokussierte, sinnvolle Arbeit pro Tag kann genügen, wenn Fundament und Gleichgewicht stimmen
   - überschüssige Zeit fließt in Familie, Freunde, innere Arbeit und Spiel
+- Arbeit, Bewegung und Erholung werden über den Tag verteilt, statt in getrennten „Lebensbereiche-Schubladen“ zu existieren – der Tag selbst ist die Einheit des Gleichgewichts
 
 ### **C. Liebe / Beziehungen**
 - Selbstliebe
@@ -123,11 +129,14 @@
 - Rhythmus statt Uhrzeit
 - Morgen-/Abendroutinen
 - Energiephasen nutzen
+- Drei-Blöcke-Struktur: wiederkehrender Rhythmus aus Arbeit, Bewegung und Erholung als Grundgerüst eines guten Tages
+- Beispielrhythmus: mit der Sonne aufwachen, leichter Einstieg (Licht, Bewegung, Tagebuch), 60–90 Minuten Fokusarbeit, Bewegung (z.B. Schwimmen, Radfahren, Spaziergang im Waldgarten), bewusste Pausen und soziale Zeiten in der Stadt
 
 ### B. Protokoll
 - Stabilisator im Ungleichgewicht (siehe auch Antifragilität)
 - Rückkehrpunkt in Richtung Mitte
 - praktische Umsetzung der Regeln aus dem Kapitel Eudaimonia
+- Protokolle beinhalten nicht nur Tätigkeiten, sondern auch Wege und Orte (z.B. täglicher Gang zum Wasser, Runde durch den Waldgarten, feste Ruheplätze)
 
 ### **C. Spielmechanik**
 - Jede Handlung als Mini-Quest: kleine Schritte Richtung Gleichgewicht
@@ -158,6 +167,7 @@
 
 ### **A. Körper**
 - Ernährung, Bewegung, Schlaf, Atmung
+- Umgebung, die den Körper unterstützt: Zugang zu Licht, frischer Luft, Wasser und natürlichen Bewegungsräumen (Wege, Waldgärten, Kanäle)
 
 ### **B. Geist**
 - Aufmerksamkeit
