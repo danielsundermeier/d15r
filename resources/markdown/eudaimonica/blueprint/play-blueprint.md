@@ -28,6 +28,8 @@
 - Alltag im Gleichgewicht: Arbeit, Bewegung und Erholung als drei sich abwechselnde Blöcke (z.B. fokussierte Arbeit, natürliche Bewegung, bewusste Erholung)
 - Umgebung als Mitspieler: natürliche Infrastruktur (Waldgärten, Wasser, Wege) erleichtert Gleichgewicht statt Disziplin zu erzwingen
 - Slow Travel als Lebenshaltung: Reisen als Erlebnis und Lernfeld, nicht als schneller Wechsel von A nach B
+- Besitz-Minimalismus: möglichst wenig eigenes Zeug, möglichst viele geteilte Ressourcen (Wohnungen, Kleidung, Gemeinschaftsräume), um Energie und Aufmerksamkeit zu entlasten
+- Vertrauen in Infrastruktur: Ich kann leicht leben und reisen, weil die Stadt mich trägt (Wohnungen, Kantinen, Commons), statt alles selbst besitzen zu müssen
 
 ### **C. Metaphern**
 - Fahrradfahren → ständiges Ausbalancieren
@@ -92,6 +94,7 @@
 - innere Ruhe
 - Alltagsbewegung statt Fitnessstudio: Gehen, Radfahren, Schwimmen, Spielen im Waldgarten
 - Bewegung als Nebenprodukt der Infrastruktur: Wege, Kanäle und Waldgärten laden automatisch zu Aktivität ein
+- Besitz-Minimalismus als Energie-Booster: weniger Dinge bedeuten weniger Entscheidungen, weniger Organisation und mehr freie Energie für das Wesentliche
 
 ### **B. Arbeit / Beitrag**
 - Autonomie
@@ -108,6 +111,7 @@
   - ich arbeite sichtbar an meinen Projekten
   - dadurch ziehe ich keine „Mitarbeitenden“, sondern Kollaborateure an, die vom gleichen Thema bewegt sind
   - Lernen, Fehler und Fortschritte werden Teil des gemeinsamen Wissens der Gemeinschaft
+- Ich nutze geteilte Infrastruktur (Kantinen, Kleidung, Räume), um meinen Alltag zu vereinfachen und mehr Energie für Beitrag, Beziehungen und innere Arbeit freizuhaben
 - Effektivität statt Auslastung:
   - 1 Stunde fokussierte, sinnvolle Arbeit pro Tag kann genügen, wenn Fundament und Gleichgewicht stimmen
   - überschüssige Zeit fließt in Familie, Freunde, innere Arbeit und Spiel
