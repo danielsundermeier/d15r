@@ -553,7 +553,7 @@ Aber wir können uns nur für Dinge entscheiden, die wir kennen. Wir haben am An
 
 Je mehr wir wissen und können, umso mehr Spielraum bekommen wir.
 
-Selbstführung bedeutet für mich, diese Fähigkeit Schritt für Schritt auszubauen. Indem wir innehalten, bevor wir handeln, unsere Gefühle wahrnehmen und unsere Werte kennen, können wir Entscheidungen treffen, die zu dem Menschen passen, der wir sein wollen – nicht nur zu unseren spontanen Impulsen. 
+Selbstführung bedeutet für mich, diese Fähigkeit Schritt für Schritt auszubauen. Indem wir innehalten, bevor wir handeln, unsere Gefühle wahrnehmen und unsere Werte kennen, können wir Entscheidungen treffen, die zu dem Menschen passen, der wir sein wollen – nicht nur zu unseren spontanen Impulsen.
 
 Freier Wille ist letztendlich die Fähigkeit, unser Gleichgewicht bewusst zu wählen. Statt automatisch auf Stressmodus oder alte Muster zu verfallen, können wir in der Pause zwischen Reiz und Reaktion fragen: "Was würde mich jetzt zurück in meine Mitte bringen?" Unser freier Wille wird dann nicht zu einem abstrakten Konzept, sondern zu einer praktischen Fähigkeit im Alltag: Wir lenken unseren Avatar bewusst durch das Spiel des Lebens, statt uns nur von äußeren Reizen und alten Mustern steuern zu lassen.
 
