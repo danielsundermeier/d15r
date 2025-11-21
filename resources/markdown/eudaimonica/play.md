@@ -279,25 +279,25 @@ Alles passiert für uns und hilft uns zu wachsen und uns weiterzuentwickeln.
 
 ### Motivation & Widerstand
 
-Motivation fühlt sich oft an wie etwas, das von außen kommen muss. Wir warten darauf, dass sie uns irgendwann trifft, wie ein Funke, der plötzlich ein Feuer entfacht. Aber im echten Leben ist Motivation unzuverlässig. Sie kommt selten dann, wenn wir sie brauchen, und verschwindet oft genau dann, wenn wir bereit wären, loszulegen.
+Motivation fühlt sich oft an wie etwas, das von außen kommen muss. Wir warten darauf, dass sie uns irgendwann trifft, wie ein Funke, der plötzlich ein Feuer entfacht. Aber im echten Leben ist Motivation unzuverlässig. Sie erscheint selten dann, wenn wir sie brauchen, und verschwindet oft genau in dem Moment, in dem wir bereit wären loszulegen.
 
-Widerstand hingegen ist immer da. Er taucht auf, sobald wir etwas Wichtiges tun wollen. Je bedeutender die Aufgabe, desto stärker der Widerstand. Er ist wie ein unsichtbarer Gegenspieler, der uns von dem fernhalten will, was uns langfristig gut tun würde.
+Widerstand hingegen ist verlässlich. Er taucht immer dann auf, wenn etwas wichtig ist. Je bedeutender die Aufgabe, desto stärker der Widerstand. Er ist wie ein unsichtbarer Gegenspieler, der uns von dem fernhalten will, was langfristig gut für uns wäre.
 
-Ich habe gelernt:
-**Motivation folgt dem Handeln – nicht umgekehrt.**
-Wenn wir warten, bis wir motiviert sind, fangen wir nie an. Aber wenn wir anfangen, entsteht Motivation fast automatisch. Wir schaffen Momentum, unser Körper gibt uns Energie zurück, und plötzlich fühlt sich das, was vorher unmöglich wirkte, leicht an.
+Das Entscheidende ist:
+Motivation folgt dem Handeln – nicht umgekehrt.
+Wenn wir darauf warten, uns motiviert zu fühlen, fangen wir nie an. Aber wenn wir beginnen, auch nur winzig klein, entsteht Motivation fast automatisch. Momentum baut sich auf, der Körper gibt Energie zurück — und plötzlich fühlt sich das, was vorher unüberwindbar schien, leicht an.
 
 Widerstand ist keine Schwäche, sondern ein Signal.
 Er zeigt uns genau das an, was wir als Nächstes tun sollten.
 
 Wenn ich spüre, dass ich mich vor etwas drücke, weiß ich:
-**Da liegt mein Wachstum.**
-Der Widerstand markiert den Weg zum nächsten Level.
+Dahinter liegt mein Wachstum.
+Widerstand markiert den Weg zum nächsten Level.
 
-Bequemlichkeit wirkt kurzfristig angenehm, aber langfristig lähmend. Sie verkleinert unsere Komfortzone immer weiter, bis das Leben selbst sich eng anfühlt. Aktivität dagegen eröffnet Möglichkeiten. Sie gibt uns das Gefühl von Lebendigkeit und Autonomie. Jede Handlung, selbst eine winzige, ist ein Schritt zurück in die eigene Kraft.
+Bequemlichkeit wirkt kurzfristig angenehm, aber langfristig lähmend. Sie verkleinert unsere Komfortzone immer weiter, bis das Leben sich eng anfühlt. Aktivität dagegen eröffnet Möglichkeiten. Jede Handlung, selbst eine winzige, ist ein Schritt zurück in die eigene Kraft und zurück ins Gleichgewicht.
 
-Der Schlüssel im Spiel des Lebens ist deshalb nicht Motivation, sondern **Anfangswiderstand minimieren**.
-Wir machen die erste Handlung so klein, dass sie kaum Widerstand erzeugt:
+Der Schlüssel im Spiel des Lebens ist nicht Motivation, sondern Anfangswiderstand minimieren.
+Wir machen die erste Handlung so klein, dass sie kaum Widerstand erzeugt — ein Algorithmus, der immer funktioniert:
 
 - 1 Minute schreiben
 - 1 Atemzug meditieren
@@ -305,13 +305,13 @@ Wir machen die erste Handlung so klein, dass sie kaum Widerstand erzeugt:
 - 1 Absatz lesen
 - 1 Nachricht beantworten
 
-Wenn wir erst dabei sind, entsteht der Rest fast von selbst.
+Sobald wir in Bewegung sind, entsteht der Rest fast von selbst.
 
-Widerstand wird niemals verschwinden. Er begleitet uns auf jedem Level, weil er ein Teil unserer Biologie ist. Aber er verliert seine Macht, wenn wir ihn nicht mehr als Hindernis sehen, sondern als Einladung. Er ist der Marker, der uns zeigt, wo unser nächster Schritt liegt.
+Widerstand wird niemals verschwinden. Er begleitet uns auf jedem Level, weil er Teil unserer Biologie ist. Aber er verliert seine Macht, wenn wir ihn nicht mehr als Hindernis sehen, sondern als Einladung. Er ist der Marker, der uns zeigt, wo unser nächster Schritt liegt — und damit der präziseste Kompass, den wir haben.
 
 Motivation ist flüchtig.
-**Disziplin ist Freiheit.**
-Und Widerstand ist unser Kompass.
+Disziplin ist Freiheit.
+Und Widerstand ist unser Kompass, besonders in der Nähe unseres Optimums — denn dort werden seine Signale feiner, aber auch bedeutender.
 
 ### Das Protokoll als Anker im Gleichgewicht
 
