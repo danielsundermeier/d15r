@@ -64,6 +64,12 @@ Das große „Warum“ auf dieser Ebene klären. Was bedeutet Eudaimonia hier? W
 - **Worldbuilding (Planet):** Biosphäre – globale Koordination – Humanität
   → physischer Planet, globales Denken/Kooperation, Ethik & Menschheitsnarrativ
 
+**Organismus- & Myzel-Perspektive (alle Ebenen):**
+- **Körper / Infrastruktur / Biosphäre** bilden den physischen Träger.
+- **Blutbahnen / Wasseradern / Transportwege** versorgen das System mit Energie, Ressourcen und Verbindung.
+- **Nervensystem / Daten- & Versorgungsleitungen** koordinieren Signale und Entscheidungen.
+- **Bindegewebe / Waldgärten & Wege** verbinden alles zu einem lebendigen Netz.
+
 ---
 
 ## Antifragilität
@@ -170,6 +176,11 @@ Welche Hauptbereiche bestimmen das Aufblühen auf dieser Ebene?
 - Symptome tauchen oft „oben“ auf (z.B. Erschöpfung, Konflikte), die Ursachen liegen tiefer.
 - Wir können in jedem Bereich tiefer „hinabsteigen“, bis wir die eigentliche Ursache (die „Erbse“) finden.
 - Wenn wir diese tiefe Störung beheben, kann sich das gesamte System entlasten.
+
+**Infrastruktur als Querhebel:**
+- Wasser-, Energie- und Bewegungswege wirken immer gleichzeitig auf mehrere Lebensbereiche.
+- Gut gestaltete Infrastruktur erzeugt Kaskaden von Gleichgewicht (z.B. gesunde Umwelt, bessere Beziehungen, sinnvoller Beitrag).
+- Schlecht gestaltete Infrastruktur (z.B. Lärm, Stressmobilität, Verschmutzung) erzeugt Dysmetria, die sich bis in Identität und Kultur fortsetzt.
 
 **Gemeinsame Struktur in allen Büchern:**
 
