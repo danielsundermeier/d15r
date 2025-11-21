@@ -30,7 +30,8 @@ class MarkdownWithTocController extends Controller
 
     public function show(string $section)
     {
-        $markdown_path = 'markdown/eudaimonica/' . $section . '.md';
+        $directory = dirname($this->markdown_path);
+        $markdown_path = $directory . '/' . $section . '.md';
 
         abort_if(!file_exists(resource_path($markdown_path)), 404);
 
