@@ -51,6 +51,13 @@
 - Verlustangst = Angst, die Mitte zu verlieren
 - Entwicklung = Fähigkeit zur Rückkehr wird schneller
 
+## D. Preis- & Schmerzsignale als Feedback
+
+- Auf allen Ebenen (Individuum, Stadt, Welt) sind steigende „Kosten“ (Zeit, Geld, Energie, Aufmerksamkeit, Leid, Frust) Datenpunkte für Ungleichgewicht.
+- Schmerz, Stress und hohe Preise werden nicht moralisch bewertet, sondern als Hinweise genutzt, wo Systeme neu gebaut oder vereinfacht werden müssen.
+- Je höher der Leidensdruck, desto stärker der Impuls für Experimente, Kollaboration und Systemwechsel.
+- Ziel ist eine Kultur selbstkorrigierender Systeme: statt mehr Kontrolle zu erzeugen, machen wir die Signale sichtbarer und verbessern die Strukturen.
+
 ---
 
 # III. Identität – Wer wir werden
@@ -134,11 +141,22 @@
 - Trigger → Gefühl → Handlung → Zustand
 - Ungleichgewicht = Datenpunkt
 - Gleichgewicht = Orientierung
+- „Kosten“ (z.B. Geld, Zeit, Energie, Aufmerksamkeit) und subjektiver Leidensdruck sind Teil dieser Schleife: sie markieren Stellen, an denen das System reibt oder schlecht gebaut ist.
 
 ## B. Entscheidungslogik
 - **Geist:** Navigation
 - **Körper:** Sensorik
 - **Seele:** Bedeutung / Richtung
+
+## C. Work in Public & Kollaborationsfelder
+
+- Nicht nur Ergebnisse, sondern auch Prozesse werden sichtbar gemacht („Work in Public“).
+- Sichtbarkeit zieht Kollaborateure an, die vom gleichen Problem oder Thema bewegt sind – statt klassische Hierarchien mit „Mitarbeitenden“ aufzubauen.
+- Offenes Arbeiten beschleunigt Lernzyklen: Fehler, Experimente und Lösungen werden zum Gemeingut und können fraktal auf allen Ebenen genutzt werden.
+- Fraktale Anwendung:
+  - Individuum: eigene Projekte, Experimente und Lernwege teilen.
+  - Stadt: offene Werkstätten, Labs, Eudaimonien und digitale Räume als Kollaborationsfelder.
+  - Welt: offene Forschung, globale Netzwerke, geteilte Daten und Protokolle für gemeinsame Probleme.
 
 ---
 
