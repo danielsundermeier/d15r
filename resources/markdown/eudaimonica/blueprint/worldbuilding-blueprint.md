@@ -44,6 +44,11 @@
   - Wir haben die Fähigkeit, die Spielregeln (Systeme) zu verändern.
 - Planet als Raumschiff / Garten:
   - begrenzte Ressourcen, gemeinsame Verantwortung.
+- Welt als Organismus:
+    - Städte als Organe, die spezifische Aufgaben übernehmen
+    - künstliche Flüsse als Blutbahnen der Zivilisation (Transport, Energie, Nahrung)
+    - Versorgungstunnel entlang der Flüsse als Nervensystem (Strom, Daten, Sensorik)
+    - Waldgärten und natürliche Vegetation als globales Bindegewebe und Immunsystem
 - Dysmetria vs. Eudaimonica:
   - zwei Zivilisationspfade, zwei Geschichten der Welt.
 
@@ -119,20 +124,37 @@
 
 ### **A. Gesundheit (Planetare Gesundheit)**
 - Klima, Ökosysteme, Biodiversität, Wasserzyklen
+- künstliche Flüsse als globale Adern:
+  - wo immer möglich werden bestehende Flussläufe genutzt („Natur zuerst“)
+  - neue Wasserwege werden als lebendige Ökosysteme gestaltet, nicht als sterile technische Kanäle
+  - variable Strömung: je nach Region ruhige oder leicht fließende Abschnitte
+- Versorgungstunnel entlang der Wasserwege:
+  - parallele unterirdische Leitungen (Strom, Daten, Sensorik)
+  - wartungsfreundlich und unsichtbar in die Landschaft integriert
 - Globale Gesundheitssysteme:
   - Pandemievorsorge, Forschung, offene Daten, Impfstoffverteilung.
 - Resilienz der Weltwirtschaft:
   - Lieferketten, Krisenfestigkeit, regionale Kreisläufe.
+-
+- Wasseradern als ökologische Korridore:
+  - durchgehende Habitatskorridore für Tiere und Pflanzen
+  - verbessern Temperaturregulierung, Luftfeuchtigkeit und lokale Mikroklimata
+  - verbinden Waldgärten, Städte und landwirtschaftliche Flächen zu einem durchgehenden Lebensnetz
 
 ### **B. Beitrag / Arbeit der Menschheit**
 - Hauptaufgaben:
   - Systeme stabilisieren,
   - Leid reduzieren,
   - Schönheit und Möglichkeiten schaffen.
+- Aufbau eines globalen Wasser- und Energienetzes:
+  - künstliche Flüsse und ihre Solardächer verbinden Transport, Energieerzeugung und Nahrungssysteme
+  - dieses Netz ersetzt einen Großteil von Autobahnen, Schwerlastverkehr und zerstörerischer Infrastruktur
 - Globale Arbeitsteilung:
   - Landwirtschaft, Produktion, Forschung, Care-Arbeit – fair verteilt und entlohnt.
 - Sinn auf Zivilisationsebene:
   - Wofür nutzen wir unsere kollektive Intelligenz und Technologie?
+- Wasserwege als kulturelle Achsen:
+  - Reisen auf langsamen Wasserwegen wird Teil der gelebten Weltkultur (Lernen, Austausch, Begegnung statt reiner Beschleunigung)
 - Work in Public auf Zivilisationsebene:
   - globale Probleme werden nicht hinter verschlossenen Türen bearbeitet, sondern transparent und offen geteilt
   - Staaten, Städte, Forschungsteams und Bürger:innen veröffentlichen Experimente, Fehler und Fortschritte
@@ -158,6 +180,9 @@
   - Wiederaufforstung, Stadtumbau, Infrastrukturwandel.
 - Globale Lernzyklen:
   - Krise → Erkenntnis → Umbau → Integration → neues Gleichgewicht.
+- Ausbau der Wasseradern:
+  - jede Generation erweitert, regeneriert und verfeinert das Netz künstlicher Flüsse und ihrer Versorgungsstrukturen
+  - langfristige Projekte wie Flussrenaturierung, Kanal-Myzel und globale Aquakulturräume werden über Jahrzehnte hinweg geplant
 
 ### **B. Globale Prozesse**
 - Konferenzen, Gipfel, Abkommen:
@@ -186,6 +211,9 @@
   - Pandemien, Naturkatastrophen, Finanzkrisen.
 - Gemeinsame Leitplanken:
   - Was ist tabu? (z.B. bestimmte Waffen, bestimmte Ausbeutungsformen).
+- Wasser- und Flussprotokolle:
+  - gemeinsame Regeln für Nutzung, Schutz und Ausbau der künstlichen Flüsse und ihrer Ökosysteme
+  - fairer Zugang zu Transport, Energie und Nahrung entlang dieser Adern
 
 ### **B. Markt- und Technologiestrukturen**
 - Regeln, die bestimmen, was sich lohnt:
@@ -213,10 +241,14 @@
   - Klima, Stickstoff, Phosphor, Landnutzung, Süßwasser, Chemikalien, Ozeane, Biodiversität.
 - Schutz & Regeneration:
   - Renaturierung, Schutzgebiete, Regenerationsprojekte.
+- Wasseradern als Teil der Regeneration:
+  - Renaturierung bestehender Flüsse und Ergänzung durch künstliche, ökologische Wasserwege
+  - Kombination aus Flusskorridoren, Waldgärten und Feuchtgebieten als zentrale Regenerationsstruktur des Planeten
 
 ### **B. Globale Koordination (Geist der Welt)**
 - Infrastruktur:
-  - Internet, Energie- und Transportnetze, Gesundheitsnetzwerke.
+  - Internet, Energie- und Transportnetze, Gesundheitsnetzwerke
+  - globales Wasser- und Energie-Myzel aus künstlichen Flüssen mit Solardächern und Versorgungstunneln als leises, resilientes Rückgrat der Zivilisation
 - Institutionen:
   - UN & Nachfolgeorganisationen, globale Gesundheitsbehörden, Klimaräte, wissenschaftliche Gremien.
 - Leitplanken:
