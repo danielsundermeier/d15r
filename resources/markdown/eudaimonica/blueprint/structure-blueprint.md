@@ -46,6 +46,9 @@ Das große „Warum“ auf dieser Ebene klären. Was bedeutet Eudaimonia hier? W
 **Strukturprinzip:**
 - Gleichgewicht entsteht durch mindestens **drei Kräfte** (≥ 3), nicht durch einfache Gegensätze.
 - Systeme sind Holons: Jede Ebene besteht aus Teil-Systemen, die eigenen Gesetzen folgen.
+- **Triadische Struktur im Kosmos:** Die Drei-Kraft-Balance manifestiert sich auf allen Ebenen der Realität
+- **Universelle Definition von Gleichgewicht:** Balance zwischen mindestens drei Kräften, die sich gegenseitig regulieren
+- **Fraktale Verschachtelung:** Jedes System enthält Subsysteme mit derselben triadischen Struktur
 
 **Dreieck & Pyramide:**
 - Auf jeder Ebene gibt es ein „Dreieck“ bzw. ein System aus ≥ 3 Kräften, das sich ins Gleichgewicht bringen lässt.
@@ -67,6 +70,10 @@ Das große „Warum“ auf dieser Ebene klären. Was bedeutet Eudaimonia hier? W
   → Körper der Stadt, Denk- & Entscheidungsprozesse, Seele/Kultur der Gemeinschaft
 - **Worldbuilding (Planet):** Biosphäre – globale Koordination – Humanität
   → physischer Planet, globales Denken/Kooperation, Ethik & Menschheitsnarrativ
+- **Meta-Ebene:** Information – Energie – Bewusstsein
+  → universelle Bausteine der Realität in triadischer Balance
+- **Verhältnis-Struktur:** Teil A + Teil B + Beziehung C
+  → jede Beziehung als eigenständige „dritte Größe" mit emergenten Eigenschaften
 
 **Organismus- & Myzel-Perspektive (alle Ebenen):**
 - **Körper / Infrastruktur / Biosphäre** bilden den physischen Träger.
@@ -218,7 +225,8 @@ Welche Hauptbereiche bestimmen das Aufblühen auf dieser Ebene?
   - Stärken einsetzen, Flow erleben
   - Arbeit als Beitrag, nicht nur Einkommen
   - Autonomie, Meisterschaft, Sinn
-  - Work in Public als Lern- und Kollaborationsmodus: Prozesse werden sichtbar, wodurch natürliche Kollaborateure angezogen werden.
+  - **Work in Public** als Lern- und Kollaborationsmodus: Prozesse werden sichtbar, wodurch natürliche Kollaborateure angezogen werden
+  - Triadisches System: Individuelle Fähigkeiten + Kollektive Projekte + Sichtbare Prozesse
 
 - **Multiplayer:**
   - Aufgabenverteilung in der Stadt
@@ -352,6 +360,8 @@ Gleichgewicht auf dieser Ebene ist Voraussetzung für stabile höhere Ebenen.
 Alles wieder zusammenführen. Vom Detail zurück zum Ganzen.
 - Die Formel / Metapher der Ebene spiegelt immer dasselbe Muster:
   Gleichgewicht aus mehreren Kräften, fraktal verschachtelt, mit einem Optimum, das wir nie vollständig besitzen, aber immer besser treffen können.
+- **Der Eudaimonische Ouroboros:** Aufwärtsspirale durch Gleichgewicht → bessere Systeme → bessere Menschen → mehr Gleichgewicht
+- **Erfahrbar vs. Erklärbar:** Eudaimonica ist primär erfahrbar – Erklärungen sind Hilfsmittel für die Erfahrung
 
 **Leitfragen:**
 - Wie lässt sich das Kapitel / Buch in eine einfache Formel oder Metapher bringen?

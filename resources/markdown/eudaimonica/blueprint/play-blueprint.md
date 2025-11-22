@@ -26,7 +26,10 @@
 - [x] Evolution durch Mikro-Schritte
 - [x] Flow als natürlicher Zustand, wenn Herausforderung ↔ Fähigkeit passt
 - [ ] 🔄 Entwicklung hat kein festes Ende: Das Potenzial ist prinzipiell grenzenlos und nie vollständig erfassbar („unergründlich")
-- [ ] 🔄 Körper–Geist–Seele als Dreiklang der Balance
+- [x] Körper–Geist–Seele als Dreiklang der Balance
+- [ ] Gleichgewicht als Fähigkeit: Wie Fahrradfahren – einmal gelernt, nie verloren
+- [ ] Gleichgewicht = die optimale Beziehung aller Teile eines Systems
+- [ ] Dynamische Regulation: ständige mikrofeine Anpassung, Loslassen, getragen werden
 - [ ] Eigene Probleme als Startpunkt: ich löse mein eigenes Ungleichgewicht / meine eigenen Herausforderungen und teile die Lösung mit anderen
 - [ ] Alltag im Gleichgewicht: Arbeit, Bewegung und Erholung als drei sich abwechselnde Blöcke (z.B. fokussierte Arbeit, natürliche Bewegung, bewusste Erholung)
 - [ ] Umgebung als Mitspieler: natürliche Infrastruktur (Waldgärten, Wasser, Wege) erleichtert Gleichgewicht statt Disziplin zu erzwingen
@@ -57,6 +60,9 @@
 - [x] Daimon / innere Stimme / Genius
 - [x] Körperliche Signale (Energie, Emotionen)
 - [x] Flow als Signal korrekter Schwierigkeit
+- [ ] Verbindung mit anderen Menschen als Orientierungsquelle
+- [ ] Eudaimonia-Architekt als Resonanzraum und Begleitung
+- [ ] Andere Menschen als „Spiegel" für Selbsterkenntnis
 
 ### **C. Mechaniken**
 
@@ -67,6 +73,12 @@
   - [ ] 🔄 persönliche „Kosten" (Zeit, Energie, Geld, Frust) zeigen, wo etwas in unserem System nicht stimmig ist
   - [ ] 🔄 je höher der Leidensdruck, desto stärker der Impuls hinzuschauen und zu experimentieren
   - [ ] 🔄 Schmerz wird nicht verdrängt, sondern als Datenquelle genutzt
+- [ ] Veränderung fühlt sich erst schlechter an (Wachstumsschmerz)
+- [ ] Das lokale Optimum muss verlassen werden, um das globale zu erreichen
+- [ ] Der „Endboss" taucht auf – der letzte Widerstand vor dem Durchbruch
+- [ ] Wer durchhält, „steigt ein Level auf"
+- [ ] Orientierung entsteht durch Verbindung (echtes Zuhören, Gesehenwerden)
+- [ ] Verbindung erzeugt: Loslassen, Leichtigkeit, Entspannung, Freiheit, Freude
 
 ---
 
@@ -77,6 +89,9 @@
 - [ ] 🔄 Die „Mitte", die wir halten können
 - [ ] 🔄 Jede Entwicklungsebene schafft eine neue Identität
 - [ ] Selbstverständnis als „Zelle" in einem größeren Organismus (Stadt, Welt): persönliche Gleichgewichte tragen zur kollektiven Balance bei
+- [ ] Abstraktion trennt uns von uns selbst → Meaning Crisis
+- [ ] Wir erkennen unsere goldene Mitte nicht von innen heraus
+- [ ] Ohne Spiegel (andere Menschen) verlieren wir Orientierung
 
 ### **B. Werkzeuge**
 
@@ -207,6 +222,15 @@
 - [ ] 🔄 Dankbarkeit
 - [x] Authentizität
 - [ ] 🔄 finanzielle Basis
+
+### **D. Eudaimonia-Architekt (1:1-Begleitung)**
+
+- [ ] Kein Lehrer, kein Guru — ein Resonanzraum
+- [ ] Hält die Verbindung, bis der Mensch selbst balancieren kann
+- [ ] Ziel: sich selbst überflüssig machen
+- [ ] Der Architekt ist „Yoda" oder „Gandalf"
+- [ ] Verbindung ist der Startpunkt für jede Transformation
+- [ ] Begleitung durch Wachstumsschmerz und „Endboss"-Momente
 
 ---
 

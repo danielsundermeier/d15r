@@ -11,6 +11,11 @@
 - [ ] Gleichgewicht entsteht durch **≥ 3 Kräfte**
 - [ ] Dreiklänge = häufiges Muster, aber **nicht dogmatisch**
 - [ ] Systeme sind **Holons** (Holons enthalten Holons)
+- [ ] Universelle Definition von Gleichgewicht:
+  - [ ] Gleichgewicht ist die optimale Beziehung aller Teile eines Systems zueinander, sodass das Ganze sich selbst trägt, reguliert und weiterentwickelt
+- [ ] Die drei Bausteine aller Realität:
+  - [ ] Teil A + Teil B + die Beziehung zwischen A & B (C)
+  - [ ] Diese Struktur ist überall fraktal
 
 ## B. Dreieck + Pyramide
 - [ ] Ebene: Gleichgewicht zwischen ≥ 3 Kräften
@@ -19,9 +24,14 @@
 - [ ] Potenzial: **grenzenlos, unergründlich („unknowable“)**
 
 ## C. Fraktale Homöostase
+
 - [ ] Ungleichgewicht kaskadiert
 - [ ] Gleichgewicht kaskadiert
 - [ ] Ursache liegt fast immer tiefer (Holon-Abstieg)
+- [ ] Der Eudaimonische Ouroboros:
+  - [ ] Abwärts: Ungleichgewicht → schlechtere Systeme → schlechtere Menschen → noch mehr Ungleichgewicht
+  - [ ] Aufwärts: Gleichgewicht → bessere Systeme → bessere Menschen → mehr Gleichgewicht
+  - [ ] Eudaimonica ist der Meta-Prozess, der den Kreis nach oben dreht
 
 ## D. Lokales vs globales Optimum
 - [ ] „Was wir nicht kennen, vermissen wir nicht“
@@ -52,6 +62,15 @@
   - [ ] Projekte entstehen bottom-up durch Beteiligung (Geld, Zeit, Arbeit, Wissen).
   - [ ] Mindestbeteiligung verhindert Elitenbildung.
   - [ ] Transparenz der Kosten erzeugt natürliche Feedbackschleifen.
+
+## F. Erfahrbar vs. Erklärbar
+
+- [ ] **Eudaimonica ist erfahrbar**, nicht nur erklärbar
+- [ ] Die Erfahrung der Balance ist der Kern, nicht das theoretische Verständnis
+- [ ] Erklärungen sind Hilfsmittel für die Erfahrung, aber nicht das Ziel
+- [ ] **Wie-Fragen** führen zur Erfahrung, **Warum-Fragen** zur Erklärung
+- [ ] Der Eudaimonische Ouroboros ist spürbar: Gleichgewicht → bessere Systeme → bessere Menschen → mehr Gleichgewicht
+- [ ] Eudaimonica ist der Meta-Prozess, der diesen Kreis nach oben dreht
 
 ---
 
