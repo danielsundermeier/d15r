@@ -171,12 +171,12 @@ Das ist emotionale Reife. Das ist persönliche Evolution.
 
 Der Dreiklang aus **Teilen → Beziehung → emergentem Ganzen** funktioniert auf allen Ebenen:
 
-**Körper:** Ernährung + Schlaf + Bewegung → Gesundheit
-**Geist:** Gedanken + Gefühle + Fokus → Klarheit
-**Familie:** Menschen + Kommunikation + Vertrauen → Liebe
-**Stadt:** Infrastruktur + Menschen + Kultur → Lebensqualität
-**Ökosystem:** Wasser + Pflanzen + Tiere → Leben
-**Wirtschaft:** Angebot + Nachfrage + Information → Koordination
+- **Körper:** Ernährung + Schlaf + Bewegung → Gesundheit
+- **Geist:** Gedanken + Gefühle + Fokus → Klarheit
+- **Familie:** Menschen + Kommunikation + Vertrauen → Liebe
+- **Stadt:** Infrastruktur + Menschen + Kultur → Lebensqualität
+- **Ökosystem:** Wasser + Pflanzen + Tiere → Leben
+- **Wirtschaft:** Angebot + Nachfrage + Information → Koordination
 
 Überall dasselbe Prinzip: **Optimale Verbindung erzeugt emergente Qualitäten.**
 
