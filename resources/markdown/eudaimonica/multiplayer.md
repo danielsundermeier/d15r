@@ -531,17 +531,127 @@ Energieintensive Anwendungen siedeln sich dort an, wo besonders viel und damit g
 
 #### Nahrung
 
-Wir essen alle Mahlzeiten gemeinsam in einer Kantine. Unsere Ernährung wird von Ernährungsberatern geplant und von Köchen zubereitet.
+Wir essen alle Mahlzeiten gemeinsam in einer großen Kantine.
+Sie ist das Herz unserer Gemeinschaft – ein Ort, an dem wir uns treffen, austauschen und zusammenkommen.
+Unsere Ernährung orientiert sich an natürlichen Lebensmitteln, Saisonalität und einfachen Prinzipien: frisch, nahrhaft, evolutionskonform.
 
-Nach dem zweiten Weltkrieg haben die Deutschen Schweine gehalten, um die Küchenabfälle zu verwerten.
+Ernährungsberater und Köche arbeiten zusammen. Sie planen die Mahlzeiten nicht technokratisch, sondern so, wie es die Natur vorsieht:
+mit den Lebensmitteln, die unsere Systeme gerade hervorbringen.
 
-Um die Kantinen gibt es einen Schweinegarten. Dort leben Schweine und Hühner. Zusätzlich wird dort Grünschnitt abgeladen.
+##### Der Kreislauf der Küche
 
-Im Zusammenspiel mit den Tieren entsteht Kompost. Die Hühner verteilen ihn und die Schweine graben ihn um. Zusätzlich wird er durch ihre Ausscheidungen angereichert.
+Um die Kantinen entsteht ein kleiner „Schweinegarten“.
+Dort leben Schweine und Hühner. Sie verwerten:
 
-Wir produzieren so aus unseren Abfällen Fleisch, Eier und Kompost. Die Tiere leben ein gutes Leben und wir haben eine regenerative Kreislaufwirtschaft.
+- Küchenreste
+- Grünschnitt
+- Biomasse aus dem Waldgarten
 
-Das Besteck wird von den Gästen auf Tabletts einsortiert, die direkt in die Spülmaschine gefahren werden. Das Tablett wird automatisch gereinigt, wieder zurückgebracht und das Geschirr kann von den nächsten Gästen benutzt werden.
+Die Tiere übernehmen die Arbeit für uns:
+
+- Schweine wühlen und belüften den Boden
+- Hühner verteilen den Kompost
+- ihre Ausscheidungen reichern die Erde an
+
+So entsteht ein selbstlaufender Nährstoffkreislauf.
+Wir produzieren aus unseren Abfällen Fleisch, Eier und hochwertigen Kompost – und die Tiere leben ein gutes, artgerechtes Leben.
+
+##### Automatisierung
+
+Nach dem Essen sortieren die Gäste das Besteck auf Tabletts, die direkt in die Spülmaschine fahren.
+Alles wird automatisch gereinigt und kehrt auf kurzem Weg wieder an seinen Platz zurück.
+So schaffen wir ein effizientes System mit minimalem Aufwand.
+
+##### Waldgarten
+
+Wir gestalten Systeme, die sich selbst tragen – wie ein funktionierendes Ökosystem.
+Deshalb verzichten wir auf konventionelle Landwirtschaft und nutzen stattdessen **Permakultur** und **Waldgärten**.
+
+Ein essbarer Wald umgibt die Stadt. Er besteht aus mehreren Schichten:
+
+1. hohe Bäume (Nüsse, Kastanien)
+2. kleinere Obstbäume
+3. Sträucher (Beeren)
+4. Kräuter und Stauden
+5. Bodendecker
+6. Wurzelgemüse
+7. Kletterpflanzen
+
+Als Vorlage dient das Konzept "Restoration Agriculture" von Mark Shepard.
+
+Die Bäume werden in Reihen gepflanzt, die wie Obstplantagen bewirtschaftet werden.
+
+So Produzieren wir Nüsse, Obst, Beeren, Kräuter und Gemüse in einem stabilen System.
+
+Als Grundnahrungsmittel können uns Kastanien, Walnüsse und Eicheln dienen.
+
+Dazwischen entstehen Wiesen für die Tierhaltung.
+Die Tiere erhalten jeden Tag eine frische Weide.
+Das steigert die Bodenfruchtbarkeit und imitiert natürliche Herdenbewegungen.
+
+Mehrere Tierarten nutzen die gleiche Fläche:
+
+- Gänse (reine Grasfresser → perfekte Eierproduktion)
+- Schafe und Ziegen (für Milch und Fleisch)
+- Kühe und Rinder (für Milch und Fleisch)
+- Bienen (für Bestäubung und Honig)
+- Hühner und Schweine (zur Kompostproduktion)
+
+###### Selektion statt Pflege
+
+Wir wollen Pflanzen, die ohne uns auskommen.
+Deshalb säen wir viele Samen und wählen nur jene Pflanzen aus, die:
+
+- robust sind
+- keine Pflege benötigen
+- gut mit unserem Klima zurechtkommen
+- sich von selbst durchsetzen
+
+Das ist Evolution in Aktion.
+
+###### Nebenprodukte
+
+Der Waldgarten produziert nicht nur Lebensmittel, sondern auch:
+
+- Holz
+- Biomasse für Kompost
+- Pilze (auf Holz und Kompost)
+- Lebensraum für Tiere
+- natürliche Kühlung und Schatten
+
+Und er ist gleichzeitig ein Erholungsgebiet: Wege, Plätze, Lichtungen – ein Ort zum Spielen, Sport treiben und Entspannen.
+
+###### Wasser
+
+Die Flüsse, die unsere Städte miteinander verbinden, werden ebenfalls Teil des Nahrungsökosystems.
+Dort züchten wir:
+
+- Fische
+- Muscheln
+- Algen
+- Enten und Gänse
+
+In einigen Regionen bauen wir Ställe direkt über dem Wasser.
+Die Böden sind durchlässig:
+Die Ausscheidungen der Tiere landen im Wasser und werden zu Nährstoffen für die Fische.
+So entsteht ein weiterer natürlicher Kreislauf.
+
+Am Ufer oder an den Piers stehen **Fischräder**.
+Sie bestehen aus zwei Netz-Schaufeln:
+Wenn wir das Rad drehen, holen wir die Fische mit minimalem Aufwand aus dem Wasser.
+
+##### Der vollständige Kreislauf
+
+1. Menschen essen in der Kantine
+2. Küchenreste gehen an Schweine & Hühner
+3. Tiere erzeugen Kompost
+4. Kompost nährt den Waldgarten
+5. Waldgarten liefert Nahrung, Biomasse & Holz
+6. Tiere und Pflanzen verstärken sich gegenseitig
+7. Wasserökosysteme liefern Fisch & Algen
+8. Alles fließt zurück in die Küche
+
+Ein System, das sich immer weiter verbessert.
 
 #### Mobilität
 
@@ -1041,36 +1151,6 @@ Durch den Überfluss lernen wir, wann wir genug haben. Wir müssen zuerst über 
 Wir merken dann, dass wir gar nicht so viel brauchen, wie wir dachten.
 
 Das gibt uns Sicherheit und wir fangen an, uns auf das Wesentliche zu konzentrieren.
-
-## Waldgarten
-
-Wir wollen Systeme gestalten, die sich selbst erhalten und wachsen.
-
-Deshalb verzichten wir auf konventionelle Landwirtschaft und setzen stattdessen auf Permakultur.
-
-Wir setzen daher auf Eier, Milch (-produkte), Fleisch, Fisch, Obst, Nüsse und Pilze.
-
-Für die Eierproduktion nutzen wir Gänse, weil die sich vollkommen von Gras ernähren können.
-
-Enten können bei den Teichen gehalten werden.
-
-Hühner und Schweine werden in der Kompostproduktion eingesetzt und fressen die Reste aus der Küche.
-
-Ziel ist es nach dem Aufbau des Systems so wenig Pflegeaufwand wie möglich zu haben und im besten Fall nur noch Ernten zu müssen.
-
-Der Waldgarten ist ein essbarer Wald, der die Stadt umgibt. Er besteht aus mehreren Schichten von Pflanzen, die zusammen ein funktionierendes Ökosystem bilden.
-
-Als Vorlage dient das Konzept "Restoration Agriculture" von Mark Shepard.
-
-Die Bäume werden in Reihen gepflanzt, um die Pflege und Ernte zu erleichtern. Dazwischen legen wir Wiesen für die Tierhaltung an.
-
-Die Tiere werden jeden Tag auf eine frische Weide getrieben. Das erhöht die Bodenfruchtbarkeit und immitiert das natürliche Verhalten der Tiere und Pflanzen.
-
-Mehrere Tierarten nutzen die selbe Fläche. Dadurch wird die Weide optimal genutzt.
-
-Bei den Bäumen sortieren wir konsequent aus. Wir wollen Pflanzen, um die wir uns nicht kümmern müssen. Dazu säen wir sehr viele Samen aus und entfernen die Pflanzen, die die nicht von allein wachsen können und nicht unseren Kriterien entsprechen.
-
-Der Waldgarten dient gleichzeitig als Erholungsgebiet. Es gibt viele Wege und Plätze, die zum Verweilen einladen, sowie Bereiche für Sport und Spiel.
 
 ## Regierung
 
