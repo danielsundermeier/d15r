@@ -59,6 +59,11 @@
   - [ ] Flüsse / Kanäle = Blutbahnen (Transport von Menschen, Gütern und Energie)
   - [ ] Versorgungstunnel entlang der Wasserwege = Nervensystem (Strom, Daten, Sensorik)
   - [ ] Waldgärten als „Bindegewebe" und Immunsystem rund um die Stadt
+- [ ] **Stadt als Netzwerk von Geodome-Zellen:**
+  - [ ] Dezentrale Struktur statt zentraler Blöcke: viele kleine Experimente (50-150 Menschen/Dome)
+  - [ ] Jeder Dome = Holon (eigenständig + eingebettet)
+  - [ ] Erhöhte Anpassungsfähigkeit und weniger systemische Risiken
+  - [ ] Stadt funktioniert wie lebendes System, nicht wie Rasterplan
 - [ ] 🔄 Stadt als Multiplayer-Spiel:
   - [ ] 🔄 Viele Avatare, ein gemeinsames Spielfeld.
 - [ ] Normalverteilung / „Glockenkurve":
@@ -109,6 +114,12 @@
   - [ ] Zwei Menschen in Verbindung schaffen eine neue Kultur in Miniaturform
   - [ ] Das skaliert natürlich → Kettenreaktion
   - [ ] Die ersten leben noch ohne unterstützende Systeme → hohe Schwierigkeit → Pionierarbeit
+- [ ] **Architektur-Revolution - Falshe Annahmen hinterfragen:**
+  - [ ] Wir bauen auf stillschweigend akzeptierten Formen (Rechtecke, Straßenraster, Blöcke)
+  - [ ] Darauf stapeln wir komplexere Systeme (Energie, Verkehr, Politik) → erzeugt Ungleichgewicht
+  - [ ] **Naturformen sind effizienter:** Bienen nutzen Sechsecke, Kuppeln sind statisch stabiler
+  - [ ] Radikales Umdenken: organische Formen statt rechteckige Stadt-Architektur
+  - [ ] **Evolvierbarkeit vs. "Fertigkeit":** Gebäude als anschlussfähige Systeme, nicht als Endprodukte
 
 ---
 
@@ -196,15 +207,53 @@
   - [x] unterschiedliche Einkommen, Altersgruppen, Hintergründe bewusst mischen.
 
 ### **D. Gebäude & Infrastruktur (Organismus-Architektur)**
+
+#### **Geodome als Grundeinheit**
+- [ ] **Geodome-Architektur:** Kuppelförmige Gebäude mit ca. 4 Stockwerken als städtische Holons
+  - [ ] Größe: 50–150 Menschen pro Dome (überschaubare Gemeinschaft)
+  - [ ] Jeder Dome ist eigenständiger sozialer, ökologischer und energetischer Organismus
+  - [ ] Stadt entsteht aus Netzwerk vieler Domes statt Straßenraster aus Rechteckblöcken
+- [ ] **Natürliche Materialien & Isolation:**
+  - [ ] Dicke Wände mit Quaderballen (lokal produzierbar, luftdurchlässig, natürlich isolierend)
+  - [ ] Lehm-/Kalkputz, Holz für natürliches Raumklima ohne High-Tech-Systeme
+  - [ ] System stabilisiert sich selbst, braucht weniger externe Energie
+- [ ] **Erddeckung & Waldgarten:**
+  - [ ] Kuppel mit Erde bedeckt für hervorragende Isolierung und thermische Masse
+  - [ ] Waldgarten direkt auf dem Gebäude: Nahrung, Biodiversität, Wasserhaltekapazität
+  - [ ] Natur ist nicht nur "um die Stadt", sondern **auf** den Gebäuden
+- [ ] **Durchsichtige Solarmodule als Hülle:**
+  - [ ] "Fenster" der Kuppel sind durchsichtige PV-Module
+  - [ ] Tageslicht + Stromproduktion gleichzeitig
+  - [ ] Oberfläche = Schutz + Licht + Energie (Mehrfachnutzung)
+- [ ] **Zentraler Klimazylinder:**
+  - [ ] Zylinder in Dome-Mitte bringt Tageslicht ins Erdgeschoss
+  - [ ] Natürliche Klimaregulierung wie Termitenhügel (vertikale Luftströmung)
+  - [ ] Wohnräume um Zylinder und an Außenwand angeordnet
+
+#### **Organismus-Prinzipien**
 - [ ] Gebäude als Organe der Stadt: jedes erfüllt eine Funktion (Gemeinschaft, Arbeit, Erholung, Energieproduktion)
-- [ ] Erdgeschoss immer als Gemeinschaftsebene: Küchen, Arbeitsräume, Sport, Schwimmen, Musik, Lernen, offene Werkstätten
-- [ ] darüber kleine, effiziente Wohnungen, da das Leben primär draußen und in Gemeinschaftsbereichen stattfindet
-- [ ] Dächer als Terrassen, Gärten und Energiequellen (Solar, Regenwasser)
-- [ ] jedes Gebäude unterschiedlich gestaltet → Vielfalt, Redundanz, keine zentralen Flaschenhälse
+- [ ] **Erdgeschoss als Gemeinschaftszentrum:**
+  - [ ] Maximal offener Raum mit Küchen, Arbeitsräumen, Sport, Musik, Lernen, offenen Werkstätten
+  - [ ] Trennwände dienen gleichzeitig als tragende Elemente
+- [ ] **Darüber kleine, effiziente Wohnungen:** Leben primär in Gemeinschaftsbereichen
+- [ ] **Evolvierbare Struktur statt "fertiges" Gebäude:**
+  - [ ] Sichtbare, modulare Infrastruktur (magnetische Innenwände/Paneele)
+  - [ ] Verkabelung zugänglich und nachrüstbar (AC zu DC-Wechsel möglich)
+  - [ ] Sichtbare Holzbalken als Träger für Leitungen
 - [ ] Reservekapazität (ca. 10% Wohnungen frei): für Katastrophen, Gäste, spontane Mobilität
 - [ ] Reisende können diese freien Wohnungen kostenlos nutzen → Hotels werden überflüssig
 - [ ] Kleidung als Commons: grundlegende Kleidung wird in öffentlichen Räumen bereitgestellt (ähnlich Arbeitskleidung im Krankenhaus)
 - [ ] zentrale, gemeinschaftliche Wäscherei → drastische Energie- und Ressourceneinsparung
+
+#### **Zukunfts-Architektur: Wachsende Gebäude**
+- [ ] **Programmierbare Materie:** Gebäude nicht bauen, sondern wachsen lassen
+  - [ ] Pilzmyzel als programmierbares Baumaterial
+  - [ ] DNA-Ebene: Form und Eigenschaften aus biologischem Code
+  - [ ] Maximale Flexibilität durch Arbeit auf tiefster Materialebene
+- [ ] **Korrektur - Gemeinschaft vor Individualität:**
+  - [ ] Nicht mitwachsende Einzelhäuser (zu individualistisch)
+  - [ ] Sondern: Mehrfamilienhäuser mit Mehrfachnutzung für echte Gemeinschaft
+  - [ ] Leben findet in der Gemeinschaft statt, nicht isoliert im Einzelhaus
 
 ---
 
