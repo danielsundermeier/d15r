@@ -296,6 +296,34 @@ Dann kommen wir zurück und schlagen die Idee in unserer Stadt vor oder bleiben 
 
 ### Gesundheit
 
+Gesundheit ist in der Stadt kein individueller Luxus und keine Reparaturleistung, die wir erst dann in Anspruch nehmen, wenn etwas kaputtgegangen ist. Sie ist ein kollektives Projekt und Teil der Grundversorgung. Ziel ist es, den Körper im Gleichgewicht zu halten, statt fortlaufend Schäden zu beheben.
+
+Dafür kombinieren wir drei Ebenen:
+
+- **Umgebung** – eine Stadt, die Bewegung, gutes Essen, Ruhe, Begegnung und frische Luft selbstverständlich macht.
+- **Struktur** – leicht zugängliche Gesundheitszentren, in denen wir regelmäßig einchecken können, ohne Angst vor Kosten oder Verurteilung.
+- **Daten** – intelligente, möglichst unsichtbare Systeme (z.B. über Toilette, Wearables, Spiegel), die frühzeitig Hinweise auf Ungleichgewichte geben.
+
+Gesundheit bedeutet hier nicht Perfektion, sondern **Balancieren**. Wir müssen nicht alles optimieren, sondern lernen, die Signale unseres Körpers und der Daten zu verstehen: Schlaf, Belastung, Verdauung, Stress, Erholung. Wenn etwas aus der Spur gerät, ist das kein persönliches Versagen, sondern ein Einladung, gemeinsam nachzujustieren.
+
+Die Gesundheitszentren sind weniger klassische Arztpraxen als interdisziplinäre Teams: Ärzt:innen, Therapeut:innen, Trainer:innen, Ernährungsberater:innen und Menschen, die sich mit emotionaler Gesundheit auskennen. Sie verstehen sich nicht als Autoritäten, die sagen, was richtig ist, sondern als Mitspieler, die uns helfen, unsere eigenen Ziele zu erreichen und unser Fundament zu stabilisieren.
+
+Ein Teil der Betreuung kann durch Künstliche Intelligenz unterstützt werden: einfache Fragen, Auswertung von Mustern, Vorschläge für Anpassungen. Für die wirklich wichtigen Gespräche – Angst, Lebensstil, Beziehungen, Sinnfragen – bleibt der menschliche Kontakt im Zentrum. Die KI ist Assistenz, nicht Ersatz.
+
+Gesundheit ist ein Recht und kein Privileg. Niemand sollte in einer Stadt leben, in der vermeidbares Leid aus Geldmangel, Unwissen oder fehlender Struktur entsteht. Eine gute Stadt erkennt ihren Gesundheitszustand an dem ihrer Bewohner: Je mehr Menschen im Gleichgewicht sind, desto gesünder ist auch sie selbst.
+
+Ein oft übersehener Teil der Gesundheit ist die **soziale Dimension**. Isolation ist für den Menschen eines der schädlichsten Dinge überhaupt – in der Psychologie gilt lange Isolation als eine der härtesten Strafen, weil sie unser Nervensystem aus dem Gleichgewicht bringt. Einsamkeit ist Stress. Nähe ist Heilung.
+
+Darum ist eine gesunde Stadt nicht nur ein Ort der medizinischen Versorgung, sondern ein Ort der **ständigen, natürlichen Begegnung**. Wir laufen einander über den Weg. Menschen bemerken, wenn jemand aus dem Gleichgewicht gerät. Hilfe entsteht nicht aus Pflicht, sondern aus Beziehung.
+
+Gesundheit wird so zu einem **kollektiven Projekt**, das automatisch entsteht, wenn Menschen in echter Gemeinschaft leben. Die Umgebung selbst wirkt wie ein Heilfaktor.
+
+Die Stadt betrachtet Gesundheit evolutionär: Wir gestalten Systeme so, dass Krankheiten gar nicht erst entstehen. Umgebung, Routinen, Ernährung, Beziehungen, Schlafrhythmus, Luftqualität und tägliche Bewegung sind die eigentlichen Medikamente. Medizinische Eingriffe bleiben wichtig – aber als zweite Verteidigungslinie, nicht als erste.
+
+Die Daten der Stadt helfen uns, Muster früh zu erkennen. Nicht zur Überwachung, sondern zur Prävention: anonymisierte Muster zeigen, ob Schlaf, Stress oder Ernährung sich verschieben. So kann die Stadt ihre Angebote, Zeiten, Menüs und Bewegungsräume anpassen. Gesundheit wird ein dynamisches Gleichgewicht, das im Zusammenspiel von Mensch und Stadt entsteht.
+
+Eine gesunde Stadt ist nicht die, in der Menschen perfekt leben, sondern die, in der Ungleichgewicht früh sichtbar wird – und in der Unterstützung selbstverständlich ist. Nicht Kontrolle, sondern Kultur macht uns gesund.
+
 ### Beitrag
 
 In unserem Beruf spezialisieren wir uns immer weiter.
@@ -398,36 +426,6 @@ In Gesellschaft fällt es uns nochmal leichter. Wir müssen dabei nicht alle das
 ## Algorithmen
 
 Die Stadt gibt uns eine Struktur, die uns dabei unterstützt, unsere Tage als Meisterwerke zu gestalten.
-
-### Gesundheit
-
-Gesundheit ist in der Stadt kein individueller Luxus und keine Reparaturleistung, die wir erst dann in Anspruch nehmen, wenn etwas kaputtgegangen ist. Sie ist ein kollektives Projekt und Teil der Grundversorgung. Ziel ist es, den Körper im Gleichgewicht zu halten, statt fortlaufend Schäden zu beheben.
-
-Dafür kombinieren wir drei Ebenen:
-
-- **Umgebung** – eine Stadt, die Bewegung, gutes Essen, Ruhe, Begegnung und frische Luft selbstverständlich macht.
-- **Struktur** – leicht zugängliche Gesundheitszentren, in denen wir regelmäßig einchecken können, ohne Angst vor Kosten oder Verurteilung.
-- **Daten** – intelligente, möglichst unsichtbare Systeme (z.B. über Toilette, Wearables, Spiegel), die frühzeitig Hinweise auf Ungleichgewichte geben.
-
-Gesundheit bedeutet hier nicht Perfektion, sondern **Balancieren**. Wir müssen nicht alles optimieren, sondern lernen, die Signale unseres Körpers und der Daten zu verstehen: Schlaf, Belastung, Verdauung, Stress, Erholung. Wenn etwas aus der Spur gerät, ist das kein persönliches Versagen, sondern ein Einladung, gemeinsam nachzujustieren.
-
-Die Gesundheitszentren sind weniger klassische Arztpraxen als interdisziplinäre Teams: Ärzt:innen, Therapeut:innen, Trainer:innen, Ernährungsberater:innen und Menschen, die sich mit emotionaler Gesundheit auskennen. Sie verstehen sich nicht als Autoritäten, die sagen, was richtig ist, sondern als Mitspieler, die uns helfen, unsere eigenen Ziele zu erreichen und unser Fundament zu stabilisieren.
-
-Ein Teil der Betreuung kann durch Künstliche Intelligenz unterstützt werden: einfache Fragen, Auswertung von Mustern, Vorschläge für Anpassungen. Für die wirklich wichtigen Gespräche – Angst, Lebensstil, Beziehungen, Sinnfragen – bleibt der menschliche Kontakt im Zentrum. Die KI ist Assistenz, nicht Ersatz.
-
-Gesundheit ist ein Recht und kein Privileg. Niemand sollte in einer Stadt leben, in der vermeidbares Leid aus Geldmangel, Unwissen oder fehlender Struktur entsteht. Eine gute Stadt erkennt ihren Gesundheitszustand an dem ihrer Bewohner: Je mehr Menschen im Gleichgewicht sind, desto gesünder ist auch sie selbst.
-
-Ein oft übersehener Teil der Gesundheit ist die **soziale Dimension**. Isolation ist für den Menschen eines der schädlichsten Dinge überhaupt – in der Psychologie gilt lange Isolation als eine der härtesten Strafen, weil sie unser Nervensystem aus dem Gleichgewicht bringt. Einsamkeit ist Stress. Nähe ist Heilung.
-
-Darum ist eine gesunde Stadt nicht nur ein Ort der medizinischen Versorgung, sondern ein Ort der **ständigen, natürlichen Begegnung**. Wir laufen einander über den Weg. Menschen bemerken, wenn jemand aus dem Gleichgewicht gerät. Hilfe entsteht nicht aus Pflicht, sondern aus Beziehung.
-
-Gesundheit wird so zu einem **kollektiven Projekt**, das automatisch entsteht, wenn Menschen in echter Gemeinschaft leben. Die Umgebung selbst wirkt wie ein Heilfaktor.
-
-Die Stadt betrachtet Gesundheit evolutionär: Wir gestalten Systeme so, dass Krankheiten gar nicht erst entstehen. Umgebung, Routinen, Ernährung, Beziehungen, Schlafrhythmus, Luftqualität und tägliche Bewegung sind die eigentlichen Medikamente. Medizinische Eingriffe bleiben wichtig – aber als zweite Verteidigungslinie, nicht als erste.
-
-Die Daten der Stadt helfen uns, Muster früh zu erkennen. Nicht zur Überwachung, sondern zur Prävention: anonymisierte Muster zeigen, ob Schlaf, Stress oder Ernährung sich verschieben. So kann die Stadt ihre Angebote, Zeiten, Menüs und Bewegungsräume anpassen. Gesundheit wird ein dynamisches Gleichgewicht, das im Zusammenspiel von Mensch und Stadt entsteht.
-
-Eine gesunde Stadt ist nicht die, in der Menschen perfekt leben, sondern die, in der Ungleichgewicht früh sichtbar wird – und in der Unterstützung selbstverständlich ist. Nicht Kontrolle, sondern Kultur macht uns gesund.
 
 ### Bildung & Persönlichkeitsentwicklung
 
@@ -843,7 +841,7 @@ Wir haben eine echte Gelegenheit unsere Umgebung zu gestalten, sehen, was mit un
 
 Wir nutzen die Schwarmintelligenz der Bewohner, um die Stadt zu gestalten.
 
-#### Geodome als Grundeinheit
+##### Geodome als Grundeinheit
 
 Wir nutzen natürliche Formen und Strukturen, um Gebäude zu bauen, die wirklich mit der Natur arbeiten.
 Der Geodome ist dabei die ideale Grundform. Eine moderne Weiterentwicklung der Höhlenarchitektur –
@@ -855,7 +853,7 @@ Der Geodome ist dabei die ideale Grundform. Eine moderne Weiterentwicklung der H
 - schön
 - evolvierbar
 
-##### Form & Struktur
+###### Form & Struktur
 
 Ein Geodome ist eine Kuppelstruktur aus Dreiecken oder Waben.
 Durch diese Geometrie verteilt sich die Last gleichmäßig über die gesamte Hülle.
@@ -874,7 +872,7 @@ Höhlen, Termitenhügel, Schneekuppeln, Pflanzenstrukturen, Zellformen.
 
 Der Dome ist die technische Umsetzung dieser universellen Prinzipien.
 
-##### Der Klimazylinder
+###### Der Klimazylinder
 
 Im Zentrum des Domes steht ein Klimazylinder.
 Er bringt Tageslicht tief ins Gebäude und sorgt für natürliche Belüftung – nach dem Vorbild der Termitenhügel.
@@ -888,7 +886,7 @@ Diese Klimadynamik funktioniert ohne komplexe Technik:
 
 Das Gebäude atmet.
 
-##### Erde, Waldgarten & Mikroklima
+###### Erde, Waldgarten & Mikroklima
 
 Die Kuppel wird mit Erde bedeckt.
 Darauf entsteht ein Waldgarten, der gleichzeitig isoliert, beschattet, Wasser speichert und ein stabiles Mikroklima erzeugt.
@@ -905,7 +903,7 @@ Die Pflanzen erzeugen zusätzlich Frische, Schatten, Biodiversität und Heimatge
 
 So entsteht ein Gebäude, das nicht nur „steht“, sondern **lebt**.
 
-##### Energie & Licht
+###### Energie & Licht
 
 Auf der Kuppel werden durchsichtige Solarmodule integriert.
 Sie erzeugen Energie und lassen dennoch Licht hindurch.
@@ -919,9 +917,9 @@ So entsteht:
 
 Zusätzlich wird Regenwasser gesammelt und für Bewässerung und Hausnutzung gespeichert.
 
-##### Raumaufteilung
+###### Raumaufteilung
 
-###### Erdgeschoss – Gemeinschaft
+**Erdgeschoss – Gemeinschaft**
 
 Das Erdgeschoss ist offen für gemeinschaftliche Aktivitäten und Dienste:
 
@@ -938,7 +936,7 @@ Trennwände dienen der Akustik und Strukturierung, können aber geöffnet oder e
 Runde Formen erzeugen automatisch Nähe, Verbindung und Begegnung.
 Es gibt keinen „hinten“ und „vorne“, sondern einen gemeinsamen Mittelpunkt.
 
-###### Obere Stockwerke – Privatheit im Gleichgewicht
+**Obere Stockwerke – Privatheit im Gleichgewicht**
 
 Die oberen Ebenen bieten Rückzugsräume.
 Sie sind kleiner und effizient, weil das Leben vor allem unten stattfindet.
@@ -953,7 +951,7 @@ So bleibt die Struktur flexibel, anpassbar und reparierbar.
 
 Die Wohnungen sind ringförmig um den Zylinder angeordnet und zusätzlich an der Außenseite der Kuppel, um maximales Tageslicht und gute Belüftung zu bekommen.
 
-##### Größe & Gemeinschaftsdynamik
+###### Größe & Gemeinschaftsdynamik
 
 Wir bevorzugen viele kleine Gebäude statt weniger große.
 Ein Dome für **50–150 Bewohner** ist eine natürliche Gemeinschaftsgröße:
@@ -977,7 +975,7 @@ Jedes Gebäude ist ein Holon:
 
 Gemeinsam entsteht ein lebendes, vernetztes Stadtsystem, das flexibel bleibt und sich ständig weiterentwickelt.
 
-##### Kurze Zusammenfassung
+###### Kurze Zusammenfassung
 
 Der Geodome ist nicht nur eine architektonische Form.
 Er ist die **architektonische Manifestation der Eudaimonica**:
