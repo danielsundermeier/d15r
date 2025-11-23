@@ -615,6 +615,155 @@ Wir haben eine echte Gelegenheit unsere Umgebung zu gestalten, sehen, was mit un
 
 Wir nutzen die Schwarmintelligenz der Bewohner, um die Stadt zu gestalten.
 
+#### Geodome als Grundeinheit
+
+Wir nutzen natürliche Formen und Strukturen, um Gebäude zu bauen, die wirklich mit der Natur arbeiten.
+Der Geodome ist dabei die ideale Grundform. Eine moderne Weiterentwicklung der Höhlenarchitektur –
+**Höhlenarchitektur 2.0**:
+
+- lichtdurchflutet
+- energiepositiv
+- modular
+- schön
+- evolvierbar
+
+##### Form & Struktur
+
+Ein Geodome ist eine Kuppelstruktur aus Dreiecken oder Waben.
+Durch diese Geometrie verteilt sich die Last gleichmäßig über die gesamte Hülle.
+Das macht den Dome extrem stabil – selbst bei großen Durchmessern und enormen Lasten.
+
+Er hat außerdem ein sehr gutes Verhältnis von Oberfläche zu Volumen.
+Das bedeutet:
+
+- **weniger Material**
+- **weniger Wärmeverlust**
+- **bessere Dämmung**
+- **natürliche Energieeffizienz**
+
+In der Natur hat sich diese Form überall bewährt:
+Höhlen, Termitenhügel, Schneekuppeln, Pflanzenstrukturen, Zellformen.
+
+Der Dome ist die technische Umsetzung dieser universellen Prinzipien.
+
+##### Der Klimazylinder
+
+Im Zentrum des Domes steht ein Klimazylinder.
+Er bringt Tageslicht tief ins Gebäude und sorgt für natürliche Belüftung – nach dem Vorbild der Termitenhügel.
+
+Diese Klimadynamik funktioniert ohne komplexe Technik:
+
+- warme Luft steigt nach oben
+- frische Luft strömt nach
+- Feuchtigkeit wird reguliert
+- Temperatur bleibt stabil
+
+Das Gebäude atmet.
+
+##### Erde, Waldgarten & Mikroklima
+
+Die Kuppel wird mit Erde bedeckt.
+Darauf entsteht ein Waldgarten, der gleichzeitig isoliert, beschattet, Wasser speichert und ein stabiles Mikroklima erzeugt.
+
+Die Erdschicht wirkt wie eine natürliche Klimahülle:
+
+- im Sommer kühl
+- im Winter warm
+- immer temperaturstabil
+- feuchtigkeitsregulierend
+- akustisch angenehm
+
+Die Pflanzen erzeugen zusätzlich Frische, Schatten, Biodiversität und Heimatgefühle.
+
+So entsteht ein Gebäude, das nicht nur „steht“, sondern **lebt**.
+
+##### Energie & Licht
+
+Auf der Kuppel werden durchsichtige Solarmodule integriert.
+Sie erzeugen Energie und lassen dennoch Licht hindurch.
+
+So entsteht:
+
+- Stromproduktion über Teile der Hülle
+- natürliche Beleuchtung
+- Blick in den Himmel, selbst aus dem Bett
+- Energieüberschuss statt Energieverbrauch
+
+Zusätzlich wird Regenwasser gesammelt und für Bewässerung und Hausnutzung gespeichert.
+
+##### Raumaufteilung
+
+###### Erdgeschoss – Gemeinschaft
+
+Das Erdgeschoss ist offen für gemeinschaftliche Aktivitäten und Dienste:
+
+- Kantine
+- Gemeinschaftsraum
+- Werkstatt
+- Co-Working
+- Café
+- Lern- und Begegnungsräume
+
+Der Raum ist bewusst flexibel gehalten.
+Trennwände dienen der Akustik und Strukturierung, können aber geöffnet oder entfernt werden, um große Veranstaltungen zu ermöglichen.
+
+Runde Formen erzeugen automatisch Nähe, Verbindung und Begegnung.
+Es gibt keinen „hinten“ und „vorne“, sondern einen gemeinsamen Mittelpunkt.
+
+###### Obere Stockwerke – Privatheit im Gleichgewicht
+
+Die oberen Ebenen bieten Rückzugsräume.
+Sie sind kleiner und effizient, weil das Leben vor allem unten stattfindet.
+
+Damit Stockwerke im Dome funktionieren, nutzen wir:
+
+- ringförmige Plattformen
+- einen tragenden Klimazylinder
+- modulare Holzrahmen, die eingehängt werden können
+
+So bleibt die Struktur flexibel, anpassbar und reparierbar.
+
+Die Wohnungen sind ringförmig um den Zylinder angeordnet und zusätzlich an der Außenseite der Kuppel, um maximales Tageslicht und gute Belüftung zu bekommen.
+
+##### Größe & Gemeinschaftsdynamik
+
+Wir bevorzugen viele kleine Gebäude statt weniger große.
+Ein Dome für **50–150 Bewohner** ist eine natürliche Gemeinschaftsgröße:
+
+- überschaubar
+- vertrauensbasiert
+- direkt
+- wenig Bürokratie
+- echte Beziehungen
+- klare Identität
+
+So können wir experimentieren, verschiedene Lebensstile testen und evolutionär wachsen.
+
+Viele dieser Gebäude bilden zusammen eine Stadt.
+Jedes Gebäude ist ein Holon:
+
+- eigenständig
+- autark
+- robust
+- aber Teil eines größeren Ganzen
+
+Gemeinsam entsteht ein lebendes, vernetztes Stadtsystem, das flexibel bleibt und sich ständig weiterentwickelt.
+
+##### Kurze Zusammenfassung
+
+Der Geodome ist nicht nur eine architektonische Form.
+Er ist die **architektonische Manifestation der Eudaimonica**:
+
+- Naturprinzipien
+- Gleichgewicht
+- Gemeinschaft
+- Autonomie
+- Evolution
+- Minimaler Aufwand, maximale Wirkung
+- 80/20 in Reinform
+
+Er ist eine baubare, praktische und gleichzeitig tief philosophische Grundeinheit für Städte der Zukunft.
+
 #### Wohnen
 
 Wir nutzen unsere Wohnung hauptsächlich zum Schlafen. Der private Wohnraum kann dadurch kleiner und günstiger sein.
