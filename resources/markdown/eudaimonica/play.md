@@ -212,6 +212,14 @@ Das grundlegende Prinzip des Spiels ist einfach: **Wir finden immer wieder zurü
 Das klingt banal, ist aber der Kern jeder Entwicklung.
 Jedes Mal, wenn wir aus der Mitte geraten, zeigt uns das Leben präzise an, wo wir hinschauen müssen. Und jedes Mal entsteht daraus ein Weg zurück – tiefer, klarer und stabiler als zuvor.
 
+- Gefühle, die wir bekämpfen, spannen uns an und blockieren den Geist.
+- Gefühle, die wir spüren, fließen durch, lösen sich und schaffen Raum.
+- Sobald Raum entsteht, entsteht Klarheit.
+- Sobald Klarheit entsteht, fließen die Ideen.
+
+Wenn wir die Gefühle akzeptieren, kehren wir in Gleichgewicht zurück.
+Und Gleichgewicht ist der Zustand, in dem unser Geist sein volles Potenzial entfaltet.
+
 Doch bevor wir ins Gleichgewicht zurückkehren können, müssen wir drei Dinge tun:
 
 1. **Wir müssen bemerken, dass wir im Ungleichgewicht sind.**
