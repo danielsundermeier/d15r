@@ -859,6 +859,36 @@ Je authentischer wir werden, desto mehr Energie haben wir. Wir hören auf, gegen
 
 Authentizität ist damit nicht nur ein persönliches Ideal, sondern ein zentraler Baustein eines eudaimonischen Lebens. Sie ist die Grundlage dafür, dass wir die Quests wählen, die wirklich zu uns gehören – und zu dem Menschen werden, der wir sein können, wenn wir die inneren und äußeren Widerstände überwinden.
 
+### Narrative & die innere Geschichte
+
+Unsere Identität entsteht nicht nur aus Erfahrungen, Entscheidungen und Gewohnheiten – sie entsteht vor allem aus den Geschichten, die wir uns über uns selbst erzählen. Diese inneren Narrative sind wie der Code unseres Avatars: Sie bestimmen, wie wir die Welt interpretieren, wie wir Widerstand wahrnehmen, wann wir uns überfordern und wie wir unser eigenes Potenzial einschätzen.
+
+Wir können die Realität nicht direkt steuern – aber wir können steuern, **wie wir sie deuten**. Und diese Deutung beeinflusst alles: unsere Gefühle, unsere Motivation, unsere Entscheidungen und am Ende unsere Identität.
+
+Viele unserer Geschichten stammen nicht von uns. Wir übernehmen sie von Eltern, Schule, Gesellschaft oder Kultur, oft lange bevor wir reflektieren können. Geschichten wie:
+
+- „Ich muss leisten, um wertvoll zu sein.“
+- „Ich darf erst leben, wenn ich genug Sicherheit habe.“
+- „Ich bin nicht gut genug.“
+- „Andere wissen besser, was richtig ist.“
+
+Diese Narrative wirken wie unsichtbare Grenzen im Spiel. Sie halten uns klein, obwohl das Spielfeld unendlich groß ist.
+
+Doch wir können diese Geschichten **neu schreiben**. Nicht als Selbstbetrug, sondern als bewusste, gesunde „Gehirnwäsche“, die uns zurück in unser Gleichgewicht führt. Wir waschen uns sowieso täglich das Gehirn – durch Wiederholung, durch Medien, durch Routine. Die Frage ist nicht *ob*, sondern *womit*.
+
+Ein persönliches Narrativ ist gesund, wenn es uns:
+
+- stärkt statt schwächt
+- orientiert statt verwirrt
+- motiviert statt lähmt
+- verbindet statt isoliert
+- wachsen lässt statt klein hält
+
+Ein gutes Narrativ macht uns antifragil. Wir erkennen Trigger als Hinweise, nicht als Bedrohung. Wir sehen Konflikte als Quests, nicht als Fehler. Widerstand zeigt uns den nächsten Schritt. Gefühle werden zu Wegweisern. Wir entwickeln ein inneres Gleichgewicht, das uns in jeder Situation stabil hält.
+
+**Unsere Geschichten formen uns – und wir formen unser Leben durch die Geschichten, an die wir glauben.**
+Identität ist deshalb weniger das, was wir sind, sondern das, was wir bereit sind zu erzählen.
+
 ### Selbstbild
 
 Menschen, die während eines Sehtests die Rolle eines Piloten gespielt haben, haben besser abgeschnitten.
