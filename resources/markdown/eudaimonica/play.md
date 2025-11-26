@@ -387,6 +387,14 @@ Die teilen wir dann mit anderen.
 
 ## Antifragilität
 
+Antifragilität bedeutet in Eudaimonica etwas sehr Konkretes: Wir werden nicht stärker, weil wir mehr aushalten – sondern weil wir lernen, innere Blockaden aufzulösen.
+
+Das Entscheidende ist die Schleife dahinter:
+
+**Ein Trigger ist kein Problem, sondern ein Eingang. Wenn wir ihn fühlen statt vor ihm zu fliehen, lösen wir ein Stück der Blockade. Wenn sich die Blockade löst, erweitern wir unsere Freiheit. Mit jeder Freiheit betreten wir ein neues Gebiet im Leben – und damit das nächste Level.**
+
+Wir steigen also nicht auf, weil wir äußerlich „mehr schaffen“, sondern weil wir innerlich **weniger festhängen**. Level bedeuten in diesem Spiel: **mehr innerer Spielraum, mehr Gleichgewicht, mehr Wahrheit.**
+
 Selbstvertrauen ist das Vertrauen in uns und unsere Fähigkeiten. Wie jede Art von Vertrauen, müssen wir es uns verdienen.
 
 Das schaffen wir, indem wir das tun, was wir uns vornehmen.
@@ -570,7 +578,7 @@ Es führt uns zu den Stellen, an denen Evolution möglich ist.
 
 ---
 
-## Warum Spüren die Grundlage der Antifragilität ist
+### Warum Spüren die Grundlage der Antifragilität ist
 
 Antifragilität bedeutet nicht, alles auszuhalten.
 Es bedeutet, die richtigen Reize zu nutzen und die falschen zu vermeiden.
@@ -908,6 +916,21 @@ Es wird niemals langweilig, weil die Level sich immer an uns anpassen und niemal
 
 ### Die 11 Stufen jeder Quest
 
+Die gesamte Spielmechanik von Antifragilität lässt sich auf eine einzige Schleife reduzieren:
+
+**Trigger → Spüren → Wellen → Auflösung → Gleichgewicht → neues Gebiet → neuer Trigger**
+
+- **Trigger** zeigen uns, wo wir nicht frei sind.
+- Durch **Spüren** lassen wir die Energie in Bewegung kommen.
+- In **Wellen** tauchen die gleichen Themen immer wieder auf – bis wir sie wirklich verstanden haben.
+- In der **Auflösung** fällt der innere Widerstand weg.
+- Im **Gleichgewicht** entsteht Klarheit, und neue Möglichkeiten werden sichtbar.
+- Mit jedem neuen **Gebiet** im Leben kommen neue Aufgaben, neue Trigger, neue Chancen zum Wachsen.
+
+Level bedeuten in diesem Spiel: Nicht „höher, schneller, weiter“, sondern **größerer innerer Handlungsspielraum**.
+
+Mit dieser Schleife im Hinterkopf können wir uns jetzt die 11 Stufen jeder Quest anschauen.
+
 #### 0 – NPC-Modus (Unbewusstheit)
 
 Am Anfang jeder Quest reagieren wir wie ein NPC: unbewusst, reaktiv, fremdgesteuert.
@@ -1156,7 +1179,6 @@ Ein lebenslanger Weg.
 Das ist Antifragilität.
 Das ist das Herz von Play.
 Das ist das evolutionäre Fundament von Eudaimonica.
-
 
 ## Identität
 
