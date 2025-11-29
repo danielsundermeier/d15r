@@ -1,10 +1,16 @@
 # Avatar
 
-## Aufbau
+## I. Einleitung – Der menschliche Avatar
+
+*(noch kein Inhalt – wird später gefüllt)*
+
+## II. Architektur des Körpers – Die Hardware
+
+### Aufbau
 
 Unser Körper besteht aus Zellen, die sich zu Geweben zusammenschließen, die wiederum Organe bilden, die den Organismus formen.
 
-### Zellen
+#### Zellen
 
 Eine Zelle ist die kleinste Einheit des Lebens. Sie hat eine Membran, die sie von der Umgebung abgrenzt, und enthält verschiedene Organellen, die spezifische Funktionen erfüllen.
 
@@ -21,7 +27,7 @@ Eine Zelle ist die kleinste Einheit des Lebens. Sie hat eine Membran, die sie vo
 - Peroxisomen: Bauen Fettsäuren ab und entgiften die Zelle.
 - Zentriolen: Beteiligen sich an der Zellteilung.
 
-### Gewebe
+#### Gewebe
 
 Zellen gleichen Typs schließen sich zu Geweben zusammen. Es gibt vier Haupttypen von Geweben im menschlichen Körper:
 
@@ -30,7 +36,7 @@ Zellen gleichen Typs schließen sich zu Geweben zusammen. Es gibt vier Haupttype
 - Muskelgewebe: Ermöglicht Bewegung.
 - Nervengewebe: Überträgt elektrische Signale.
 
-### Organe
+#### Organe
 
 Verschiedene Gewebe arbeiten zusammen, um Organe zu bilden. Jedes Organ hat eine spezifische Funktion im Körper.
 
@@ -52,7 +58,7 @@ Verschiedene Gewebe arbeiten zusammen, um Organe zu bilden. Jedes Organ hat eine
 - Fortpflanzungsorgane: Ermöglichen die Fortpflanzung.
 - Sinnesorgane: Nehmen Reize aus der Umgebung wahr.
 
-## Biomechanik
+### Biomechanik
 
 Unser Körper hat sich perfekt an das aufrechte Gehen angepasst. Alles ist darauf ausgelegt optimal mit der Schwerkraft zu arbeiten.
 
@@ -76,29 +82,14 @@ Wenn wir mit falscher Haltung trainieren, verstärken wir die Fehlstellung und d
 
 Das was eigentlich eine Hilfe sein soll, wird so zum Problem.
 
-## Rhythmen
 
-Wir haben uns über Millionen von Jahren an die Rhythmen der Natur angepasst.
+## III. Das Nervensystem – Betriebssystem des Avatars
 
-### Zirkadianer Rhythmus
-
-Einer der wichtigsten ist der Tag-Nacht-Rhythmus. Fast alle unsere Zellen haben eine innere Uhr, die sich an den 24-Stunden-Rhythmus anpasst.
-
-Wir sind mit der Sonne aufgewacht und mit ihr wieder eingeschlafen. Das Licht gibt den Takt vor und stellt unsere innere Uhr.
-
-Wenn wir uns nicht an diesen Rhythmus halten, gerät unsere innere Uhr aus dem Takt. Das hat Auswirkungen auf unseren Hormonhaushalt, unseren Stoffwechsel und unser Immunsystem.
-
-### Ultradianer Rhythmus
-
-Es gibt aber auch kürzere Rhythmen, die sogenannten ultradianen Rhythmen. Diese dauern weniger als 24 Stunden und betreffen zum Beispiel unsere Leistungsfähigkeit im Laufe des Tages.
-
-Unser Körper hat Phasen hoher und niedriger Leistungsfähigkeit. Nach 60-90 Minuten intensiver Arbeit brauchen wir eine Phase der Erholung.
-
-## Gehirn
+### Gehirn
 
 Unser Gehirn ist das komplexeste Organ in unserem Körper. Es besteht aus etwa 86 Milliarden Neuronen, die durch Synapsen miteinander verbunden sind.
 
-### Drei-Gehirne-Model
+#### Drei-Gehirne-Model
 
 Das Modell basiert lose auf der Theorie von Paul MacLean (1970er Jahre), die aber heute eher als metaphorisch gilt – das Gehirn ist viel komplexer. Es unterteilt das Gehirn in drei Hauptbereiche, die unterschiedliche Funktionen haben:
 
@@ -106,13 +97,13 @@ Das Modell basiert lose auf der Theorie von Paul MacLean (1970er Jahre), die abe
 2. Das limbische System (emotionales / mittleres Gehirn)
 3. Neokortex (höheres Denken)
 
-#### Das Stammhirn (Reptiliengehirn)
+##### Das Stammhirn (Reptiliengehirn)
 
 - **Funktion:** Basisfunktionen des Überlebens: Atmung, Herzschlag, Reflexe, Instinkte.
 - **Merkmale:** Sehr alt evolutionär, automatisch, emotional wenig flexibel.
 - **Beispiele:** Kampf-oder-Flucht-Reaktionen, grundlegende Bedürfnisse wie Hunger, Fortpflanzung.
 
-#### Das limbische System (emotionales / mittleres Gehirn)
+##### Das limbische System (emotionales / mittleres Gehirn)
 
 - **Funktion:** Emotionen, Motivation, Lernen, soziale Bindungen.
 - **Hauptbestandteile:** Amygdala, Hippocampus, Hypothalamus.
@@ -120,7 +111,7 @@ Das Modell basiert lose auf der Theorie von Paul MacLean (1970er Jahre), die abe
 - **Die Amygdala:** Teil dieses Systems, speziell für Angst, Bedrohungserkennung und emotionale Gewichtung von Erlebnissen zuständig.
 - **Häufig wird das als „mittleres Gehirn“ bezeichnet.**
 
-#### Neokortex (höheres Denken)
+##### Neokortex (höheres Denken)
 
 - **Funktion:** Logik, Planung, Sprache, abstraktes Denken, Problemlösen.
 - **Merkmale:** Sehr entwickelter Teil des menschlichen Gehirns, vor allem beim Menschen stark ausgebildet.
@@ -136,21 +127,21 @@ Das Modell basiert lose auf der Theorie von Paul MacLean (1970er Jahre), die abe
 
 Wir können das Drei-Gehirne-Modell auf das tägliche Leben übertragen – Kopf, Herz und Bauch als Metaphern für die drei Ebenen der Entscheidungsfindung.
 
-#### Bauch – Instinkt / Stammhirn
+##### Bauch – Instinkt / Stammhirn
 
 - Entscheidungen aus dem Bauch heraus sind oft **schnell, intuitiv, auf Überleben oder unmittelbare Bedürfnisse ausgerichtet**.
 - „Bauchgefühl“ = unbewusste, evolutionär gespeicherte Erfahrung.
 - Vorteil: Schnell, zuverlässig in Gefahrensituationen.
 - Nachteil: Kann impulsiv sein, ohne langfristige Folgen zu berücksichtigen.
 
-#### Herz – Emotion / Limbisches System
+##### Herz – Emotion / Limbisches System
 
 - Entscheidungen aus dem Herzen spiegeln **Gefühle, Empathie, soziale Bindungen, Motivation** wider.
 - „Mein Herz sagt ja…“ bedeutet: Wir spüren innerlich, was sich richtig oder stimmig anfühlt.
 - Vorteil: Verbundenheit, Intuition für Menschen und Werte.
 - Nachteil: Emotionen können auch täuschen oder kurzfristig stark sein.
 
-#### Kopf – Rationalität / Neokortex
+##### Kopf – Rationalität / Neokortex
 
 - Entscheidungen aus dem Kopf sind **bewusst, logisch, analytisch, planend**.
 - Vorteil: Abwägen, Zukunft berücksichtigen, Konsequenzen einschätzen.
@@ -158,7 +149,7 @@ Wir können das Drei-Gehirne-Modell auf das tägliche Leben übertragen – Kopf
 
 ---
 
-#### Authentizität entsteht, wenn…
+##### Authentizität entsteht, wenn…
 
 - Bauch, Herz und Kopf **im Einklang arbeiten**.
 - Dann:
@@ -171,7 +162,7 @@ Wir können das Drei-Gehirne-Modell auf das tägliche Leben übertragen – Kopf
 
 Unter Stress läuft unser Gehirn nach einem sehr alten, automatischen Prinzip ab:
 
-#### Stressmodus / Kampf-oder-Flucht
+##### Stressmodus / Kampf-oder-Flucht
 
 - **Amygdala & Stammhirn übernehmen die Kontrolle.**
   - Wir reagieren impulsiv, reflexartig, ohne bewusstes Abwägen.
@@ -183,12 +174,12 @@ Unter Stress läuft unser Gehirn nach einem sehr alten, automatischen Prinzip ab
   - Empathie und Feinfühligkeit für andere werden reduziert.
   - Gefühle werden oft durch Angst, Wut oder Panik überlagert.
 
-#### Folge
+##### Folge
 
 - Entscheidungen unter Stress sind oft **nicht authentisch**, weil Bauch, Herz und Kopf nicht gleichzeitig zusammenwirken.
 - Wir handeln überlebensorientiert oder defensiv, nicht aus stimmiger innerer Mitte.
 
-#### Schlüssel zum Einklang
+##### Schlüssel zum Einklang
 
 - **Ruhe, Sicherheit, Entspannung** bringen den Neokortex und das limbische System zurück „online“.
 - Dann können wir wieder **rational, emotional und intuitiv gleichzeitig** agieren → authentisches Handeln.
@@ -269,6 +260,7 @@ Ich kann mir gut vorstellen, dass unsere Vorfahren die meiste Zeit des Tages in 
 ### Wahrnehmung
 
 Das RAS (Reticular Activating System) ist ein Filter im Gehirn, der für die Steuerung der Aufmerksamkeit und des Bewusstseins zuständig ist. Es ist ein Netzwerk im Hirnstamm, das irrelevante Sinneseindrücke herausfiltert, sodass nur wichtige Informationen ins Bewusstsein gelangen. Die Funktion des RAS ist es, das Gehirn zu aktivieren, den Fokus zu lenken und die enorme Menge an sensorischen Daten zu verarbeiten.
+
 Funktionen des RAS
 
 **Filterung von Sinneseindrücken:**
@@ -283,7 +275,142 @@ Das RAS ist entscheidend für das allgemeine Bewusstsein und die Wachheit des ge
 **Selektive Wahrnehmung:**
 Die Filterfunktion des RAS ist nicht objektiv. Unsere Einstellungen und Überzeugungen beeinflussen, welche Informationen wir wahrnehmen und welche wir ignorieren, was zu selektiver Wahrnehmung führt.
 
-## Homeostase
+### Gefühle
+
+Gefühle sind innere, subjektive Wahrnehmungen, die durch innere oder äußere Reize ausgelöst werden und sich oft als psychophysiologische Reaktionen äußern. Sie können als angenehme oder unangenehme Empfindungen wie Freude, Wut, Trauer oder Angst erlebt werden und beeinflussen unser Denken, Handeln und unsere Einstellung zur Umwelt. Im engeren Sinne sind sie die bewusste, interpretierte Form von Emotionen.
+
+Gefühle sind innere Signale – keine Befehle, aber Hinweise.
+
+Sie erfüllen drei grundlegende Aufgaben:
+
+1. Gefühle zeigen uns, was uns wichtig ist. (Werte-Kompass)
+2. Gefühle regulieren unser Verhalten. (Biologisches Frühwarnsystem)
+3. Gefühle verbinden uns mit anderen. (Sozialer Klebstoff)
+
+#### Gefühle zeigen uns, was uns wichtig ist. (Werte-Kompass)
+
+Ohne Gefühle wüssten wir nicht, was uns berührt, motiviert, verletzt, begeistert.
+
+- Freude zeigt uns, wo Lebenskraft hinwill.
+- Wut zeigt, wo eine Grenze verletzt wird.
+- Angst zeigt, was Schutz braucht.
+- Trauer zeigt, was Bedeutung hatte.
+
+Gefühle machen also **unsere Bedürfnisse und Werte sichtbar**.
+Ohne sie wären wir rein rational – aber richtungslos.
+
+#### Gefühle regulieren unser Verhalten. (Biologisches Frühwarnsystem)
+
+Sie sind wie eine eingebaute Navigationshilfe:
+
+- Angst bringt uns in Sicherheit.
+- Ekel schützt vor Gefahren.
+- Neugier treibt uns zum Erkunden.
+
+Sie sind **evolutionäre Mechanismen**, die uns helfen, in der Welt zu überleben, bevor der Verstand überhaupt Zeit hat.
+
+#### Gefühle verbinden uns mit anderen. (Sozialer Klebstoff)
+
+Wir erkennen an Gefühlen anderer, was sie brauchen und wie es ihnen geht.
+Ohne Gefühle gäbe es:
+
+- keine Empathie
+- kein Mitgefühl
+- keine Bindung
+- keine Kooperation
+
+Sie sind die Sprache der Beziehung.
+
+#### Zusammengenommen
+
+Gefühle sind **Signalsysteme**, die uns helfen…
+
+- uns selbst zu verstehen,
+- in einer komplexen Welt zu handeln,
+- mit anderen verbunden zu bleiben.
+
+Oder in einem Satz:
+
+> **Gefühle sind wie das empfindliche Gleichgewicht beim Fahrradfahren – ständig in Bewegung, ständig korrigierend, und absolut entscheidend, um nicht zu stürzen.**
+
+---
+
+Laut der Neurowissenschaftlerin Jill Bolte Taylor gibt es vier grundlegende Gefühle, die unser Erleben prägen: Angst, Wut, Freude und Liebe. Diese Gefühle sind tief in unserem Gehirn verankert und beeinflussen unser Verhalten und unsere Entscheidungen.
+
+Die eigentliche Gefühlsregung dauert maximal 90 Sekunden. Danach sind nur noch die Gedanken und Geschichten, die wir uns darüber erzählen, übrig. Sie können die Emotion verlängern oder abschwächen.
+
+Gefühle bleiben auch, wenn wir sie nicht fühlen. Wir können sie unterdrücken oder ignorieren, aber sie sind immer noch da und beeinflussen unser Verhalten. Früher oder später müssen wir uns ihnen stellen.
+
+Wenn wir unsere Gefühle unterdrücken, leidet auch unsere kognitive Leistungsfähigkeit. Unser Gehirn verbraucht Energie, um die unterdrückten Gefühle zu kontrollieren, was uns erschöpft und weniger fokussiert macht.
+
+### Regulation: Stress & Ruhe
+
+Unser Avatar besitzt zwei grundlegende Betriebsmodi, die sein gesamtes Erleben prägen: **Stress** und **Ruhe**. Sie bestimmen, wie viel Energie uns zur Verfügung steht, wie wir fühlen, denken und handeln. Beide Modi sind biologisch notwendig – doch ihre Balance entscheidet darüber, wie gut unser Avatar funktioniert.
+
+#### Stress: Aktivierung & Schutz
+
+Der Stressmodus ist ein uraltes Schutzprogramm. Er schaltet den Körper auf **Bedrohung**:
+
+- erhöhte Wachsamkeit
+- schnelle Reaktionen
+- Fokus auf unmittelbare Probleme
+- Ausschüttung von Stresshormonen
+- eingeschränkter Zugang zu Kreativität und sozialen Fähigkeiten
+
+Stress ist nicht „schlecht“. Er ist ein **Werkzeug zur Bewältigung von Herausforderungen**. Er versorgt uns mit Energie, wenn wir sie brauchen. Aber wenn wir zu lange dort bleiben, überhitzt das System: wir werden gereizt, ängstlich, erschöpft oder impulsiv.
+
+#### Ruhe: Erholung & Verbindung
+
+Der Ruhemodus ist das Gegenprogramm. Er stellt den Körper auf **Sicherheit**:
+
+- Entspannung
+- Regeneration
+- offener Blick
+- Zugang zu Kreativität, Empathie und spielerischer Neugier
+
+Nur im Ruhemodus kann der Avatar seine Ressourcen wieder aufbauen. Hier entstehen Lernen, tiefe Beziehungen und das Gefühl von Sinn.
+
+#### Das zentrale Prinzip: Regulation
+
+Gesundes Leben bedeutet nicht, immer entspannt zu sein. Genauso wenig bedeutet es, Stress zu vermeiden.
+Es bedeutet, **zwischen den Modi wechseln zu können**, passend zur Situation.
+
+Regulation heißt:
+
+- wahrnehmen, in welchem Zustand der Avatar gerade ist
+- verstehen, was er braucht
+- ihm helfen, wieder in Balance zu kommen
+
+Stress ist wie Beschleunigen, Ruhe wie Bremsen. Ohne Beschleunigung kommen wir nicht voran. Ohne Bremsen verlieren wir die Kontrolle.
+
+#### Warum das wichtig ist
+
+Alle weiteren Bestandteile der Philosophie – individuelles Wohlbefinden (Play), Kooperation (Multiplayer) und der Aufbau funktionierender Welten (Worldbuilding) – hängen davon ab, in welchem Modus wir uns befinden.
+Ein dysregulierter Avatar kann nicht spielen, nicht gut zusammenarbeiten und keine klaren Entscheidungen treffen.
+
+Regulation ist deshalb eine der grundlegenden Funktionen des menschlichen Avatars. Sie bildet die Basis dafür, dass wir unsere Fähigkeiten überhaupt nutzen können.
+
+
+## IV. Rhythmen – Die zeitliche Struktur des Avatars
+
+Wir haben uns über Millionen von Jahren an die Rhythmen der Natur angepasst.
+
+### Zirkadianer Rhythmus
+
+Einer der wichtigsten ist der Tag-Nacht-Rhythmus. Fast alle unsere Zellen haben eine innere Uhr, die sich an den 24-Stunden-Rhythmus anpasst.
+
+Wir sind mit der Sonne aufgewacht und mit ihr wieder eingeschlafen. Das Licht gibt den Takt vor und stellt unsere innere Uhr.
+
+Wenn wir uns nicht an diesen Rhythmus halten, gerät unsere innere Uhr aus dem Takt. Das hat Auswirkungen auf unseren Hormonhaushalt, unseren Stoffwechsel und unser Immunsystem.
+
+### Ultradianer Rhythmus
+
+Es gibt aber auch kürzere Rhythmen, die sogenannten ultradianen Rhythmen. Diese dauern weniger als 24 Stunden und betreffen zum Beispiel unsere Leistungsfähigkeit im Laufe des Tages.
+
+Unser Körper hat Phasen hoher und niedriger Leistungsfähigkeit. Nach 60-90 Minuten intensiver Arbeit brauchen wir eine Phase der Erholung.
+
+
+## V. Homeostase
 
 Homeostase ist der Prozess, durch den der Körper ein stabiles inneres Milieu aufrechterhält, trotz äußerer Veränderungen. Dies umfasst die Regulierung von Temperatur, pH-Wert, Flüssigkeits- und Elektrolythaushalt sowie anderen physiologischen Parametern.
 
@@ -297,7 +424,8 @@ Prozesse der Homeostase:
 - Säure-Basen-Haushalt: Aufrechterhaltung des pH-Werts im Blut.
 - Blutdruckregulation: Kontrolle des Blutdrucks.
 
-## Metabolismus
+
+## VI. Metabolismus
 
 Der Metabolismus umfasst alle biochemischen Prozesse, die in unserem Körper ablaufen, um Energie zu gewinnen, aufzubauen und zu reparieren. Er besteht aus zwei Hauptprozessen:
 
@@ -355,119 +483,6 @@ Die Proteinbiosynthese ist der Prozess, durch den Zellen Proteine herstellen. Si
 
 Enzyme sind Proteine, die biochemische Reaktionen im Körper katalysieren. Sie sind entscheidend für den Stoffwechsel, da sie die Geschwindigkeit von Reaktionen erhöhen, ohne dabei selbst verbraucht zu werden.
 
-## Gefühle
+## VII. Integration – Der Avatar als Gesamtsystem
 
-Gefühle sind innere, subjektive Wahrnehmungen, die durch innere oder äußere Reize ausgelöst werden und sich oft als psychophysiologische Reaktionen äußern. Sie können als angenehme oder unangenehme Empfindungen wie Freude, Wut, Trauer oder Angst erlebt werden und beeinflussen unser Denken, Handeln und unsere Einstellung zur Umwelt. Im engeren Sinne sind sie die bewusste, interpretierte Form von Emotionen.
-
-Gefühle sind innere Signale – keine Befehle, aber Hinweise.
-
-Sie erfüllen drei grundlegende Aufgaben:
-
-1. Gefühle zeigen uns, was uns wichtig ist. (Werte-Kompass)
-2. Gefühle regulieren unser Verhalten. (Biologisches Frühwarnsystem)
-3. Gefühle verbinden uns mit anderen. (Sozialer Klebstoff)
-
-### Gefühle zeigen uns, was uns wichtig ist. (Werte-Kompass)
-
-Ohne Gefühle wüssten wir nicht, was uns berührt, motiviert, verletzt, begeistert.
-
-- Freude zeigt uns, wo Lebenskraft hinwill.
-- Wut zeigt, wo eine Grenze verletzt wird.
-- Angst zeigt, was Schutz braucht.
-- Trauer zeigt, was Bedeutung hatte.
-
-Gefühle machen also **unsere Bedürfnisse und Werte sichtbar**.
-Ohne sie wären wir rein rational – aber richtungslos.
-
-### Gefühle regulieren unser Verhalten. (Biologisches Frühwarnsystem)
-
-Sie sind wie eine eingebaute Navigationshilfe:
-
-- Angst bringt uns in Sicherheit.
-- Ekel schützt vor Gefahren.
-- Neugier treibt uns zum Erkunden.
-
-Sie sind **evolutionäre Mechanismen**, die uns helfen, in der Welt zu überleben, bevor der Verstand überhaupt Zeit hat.
-
-### Gefühle verbinden uns mit anderen. (Sozialer Klebstoff)
-
-Wir erkennen an Gefühlen anderer, was sie brauchen und wie es ihnen geht.
-Ohne Gefühle gäbe es:
-
-- keine Empathie
-- kein Mitgefühl
-- keine Bindung
-- keine Kooperation
-
-Sie sind die Sprache der Beziehung.
-
-### Zusammengenommen
-
-Gefühle sind **Signalsysteme**, die uns helfen…
-
-- uns selbst zu verstehen,
-- in einer komplexen Welt zu handeln,
-- mit anderen verbunden zu bleiben.
-
-Oder in einem Satz:
-
-> **Gefühle sind wie das empfindliche Gleichgewicht beim Fahrradfahren – ständig in Bewegung, ständig korrigierend, und absolut entscheidend, um nicht zu stürzen.**
-
----
-
-Laut der Neurowissenschaftlerin Jill Bolte Taylor gibt es vier grundlegende Gefühle, die unser Erleben prägen: Angst, Wut, Freude und Liebe. Diese Gefühle sind tief in unserem Gehirn verankert und beeinflussen unser Verhalten und unsere Entscheidungen.
-
-Die eigentliche Gefühlsregung dauert maximal 90 Sekunden. Danach sind nur noch die Gedanken und Geschichten, die wir uns darüber erzählen, übrig. Sie können die Emotion verlängern oder abschwächen.
-
-Gefühle bleiben auch, wenn wir sie nicht fühlen. Wir können sie unterdrücken oder ignorieren, aber sie sind immer noch da und beeinflussen unser Verhalten. Früher oder später müssen wir uns ihnen stellen.
-
-Wenn wir unsere Gefühle unterdrücken, leidet auch unsere kognitive Leistungsfähigkeit. Unser Gehirn verbraucht Energie, um die unterdrückten Gefühle zu kontrollieren, was uns erschöpft und weniger fokussiert macht.
-
-## Regulation: Stress & Ruhe
-
-Unser Avatar besitzt zwei grundlegende Betriebsmodi, die sein gesamtes Erleben prägen: **Stress** und **Ruhe**. Sie bestimmen, wie viel Energie uns zur Verfügung steht, wie wir fühlen, denken und handeln. Beide Modi sind biologisch notwendig – doch ihre Balance entscheidet darüber, wie gut unser Avatar funktioniert.
-
-### Stress: Aktivierung & Schutz
-
-Der Stressmodus ist ein uraltes Schutzprogramm. Er schaltet den Körper auf **Bedrohung**:
-
-- erhöhte Wachsamkeit
-- schnelle Reaktionen
-- Fokus auf unmittelbare Probleme
-- Ausschüttung von Stresshormonen
-- eingeschränkter Zugang zu Kreativität und sozialen Fähigkeiten
-
-Stress ist nicht „schlecht“. Er ist ein **Werkzeug zur Bewältigung von Herausforderungen**. Er versorgt uns mit Energie, wenn wir sie brauchen. Aber wenn wir zu lange dort bleiben, überhitzt das System: wir werden gereizt, ängstlich, erschöpft oder impulsiv.
-
-### Ruhe: Erholung & Verbindung
-
-Der Ruhemodus ist das Gegenprogramm. Er stellt den Körper auf **Sicherheit**:
-
-- Entspannung
-- Regeneration
-- offener Blick
-- Zugang zu Kreativität, Empathie und spielerischer Neugier
-
-Nur im Ruhemodus kann der Avatar seine Ressourcen wieder aufbauen. Hier entstehen Lernen, tiefe Beziehungen und das Gefühl von Sinn.
-
-### Das zentrale Prinzip: Regulation
-
-Gesundes Leben bedeutet nicht, immer entspannt zu sein. Genauso wenig bedeutet es, Stress zu vermeiden.
-Es bedeutet, **zwischen den Modi wechseln zu können**, passend zur Situation.
-
-Regulation heißt:
-
-- wahrnehmen, in welchem Zustand der Avatar gerade ist
-- verstehen, was er braucht
-- ihm helfen, wieder in Balance zu kommen
-
-Stress ist wie Beschleunigen, Ruhe wie Bremsen. Ohne Beschleunigung kommen wir nicht voran. Ohne Bremsen verlieren wir die Kontrolle.
-
-### Warum das wichtig ist
-
-Alle weiteren Bestandteile der Philosophie – individuelles Wohlbefinden (Play), Kooperation (Multiplayer) und der Aufbau funktionierender Welten (Worldbuilding) – hängen davon ab, in welchem Modus wir uns befinden.
-Ein dysregulierter Avatar kann nicht spielen, nicht gut zusammenarbeiten und keine klaren Entscheidungen treffen.
-
-Regulation ist deshalb eine der grundlegenden Funktionen des menschlichen Avatars. Sie bildet die Basis dafür, dass wir unsere Fähigkeiten überhaupt nutzen können.
-
-[Übersicht](/eudaimonica)
+*(noch kein Inhalt – wird später gefüllt)*
