@@ -103,6 +103,20 @@ Das was eigentlich eine Hilfe sein soll, wird so zum Problem.
 
 ## III. Das Nervensystem – Betriebssystem des Avatars
 
+Unser Avatar besteht aus Organen, Muskeln, Knochen, Blutgefäßen, Drüsen und unzähligen biochemischen Prozessen. Aber all das wäre nur ein Haufen gut sortierter Materie, wenn es nicht ein System gäbe, das alles koordiniert, steuert und miteinander verbindet.
+
+Dieses System ist das **Nervensystem**.
+
+Es ist nicht einfach nur eine „Verkabelung“, die Signale von A nach B schickt. Es ist vielmehr das **Betriebssystem** des Avatars: Es entscheidet, wie wir die Welt wahrnehmen, wie wir sie bewerten – und in welchem Zustand unser gesamter Organismus gerade läuft.
+
+Im Kern beantwortet das Nervensystem immer wieder dieselbe Frage:
+
+> **Bin ich sicher genug, um zu wachsen – oder muss ich mich schützen?**
+
+Alles Weitere leitet sich daraus ab.
+
+---
+
 ### Anatomie & Aufbau
 
 Sehr vereinfacht besteht das Nervensystem aus drei großen Bereichen:
