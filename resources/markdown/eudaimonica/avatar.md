@@ -148,6 +148,136 @@ Gesundheit bedeutet, **flexibel wechseln zu können** – je nachdem, was die Si
 
 ---
 
+### Gehirn
+
+Unser Gehirn ist das komplexeste Organ in unserem Körper. Es besteht aus etwa 86 Milliarden Neuronen, die durch Synapsen miteinander verbunden sind.
+
+#### Drei-Gehirne-Model
+
+Das Modell basiert lose auf der Theorie von Paul MacLean (1970er Jahre), die aber heute eher als metaphorisch gilt – das Gehirn ist viel komplexer. Es unterteilt das Gehirn in drei Hauptbereiche, die unterschiedliche Funktionen haben:
+
+1. Das Stammhirn (Reptiliengehirn)
+2. Das limbische System (emotionales / mittleres Gehirn)
+3. Neokortex (höheres Denken)
+
+##### Das Stammhirn (Reptiliengehirn)
+
+- **Funktion:** Basisfunktionen des Überlebens: Atmung, Herzschlag, Reflexe, Instinkte.
+- **Merkmale:** Sehr alt evolutionär, automatisch, emotional wenig flexibel.
+- **Beispiele:** Kampf-oder-Flucht-Reaktionen, grundlegende Bedürfnisse wie Hunger, Fortpflanzung.
+
+##### Das limbische System (emotionales / mittleres Gehirn)
+
+- **Funktion:** Emotionen, Motivation, Lernen, soziale Bindungen.
+- **Hauptbestandteile:** Amygdala, Hippocampus, Hypothalamus.
+- **Merkmale:** Schnelle emotionale Reaktionen; erzeugt Gefühle wie Angst, Freude, Wut.
+- **Die Amygdala:** Teil dieses Systems, speziell für Angst, Bedrohungserkennung und emotionale Gewichtung von Erlebnissen zuständig.
+- **Häufig wird das als „mittleres Gehirn“ bezeichnet.**
+
+##### Neokortex (höheres Denken)
+
+- **Funktion:** Logik, Planung, Sprache, abstraktes Denken, Problemlösen.
+- **Merkmale:** Sehr entwickelter Teil des menschlichen Gehirns, vor allem beim Menschen stark ausgebildet.
+- **Beispiele:** Entscheidungen abwägen, moralisches Denken, Selbstreflexion, komplexe Sprache.
+
+---
+
+**Kurz gesagt:**
+
+- Stammhirn → Instinkte / Überleben
+- Limbisches System → Emotionen / Motivation (hier sitzt die Amygdala)
+- Neokortex → Rationales, bewusstes Denken
+
+Wir können das Drei-Gehirne-Modell auf das tägliche Leben übertragen – Kopf, Herz und Bauch als Metaphern für die drei Ebenen der Entscheidungsfindung.
+
+##### Bauch – Instinkt / Stammhirn
+
+- Entscheidungen aus dem Bauch heraus sind oft **schnell, intuitiv, auf Überleben oder unmittelbare Bedürfnisse ausgerichtet**.
+- „Bauchgefühl“ = unbewusste, evolutionär gespeicherte Erfahrung.
+- Vorteil: Schnell, zuverlässig in Gefahrensituationen.
+- Nachteil: Kann impulsiv sein, ohne langfristige Folgen zu berücksichtigen.
+
+##### Herz – Emotion / Limbisches System
+
+- Entscheidungen aus dem Herzen spiegeln **Gefühle, Empathie, soziale Bindungen, Motivation** wider.
+- „Mein Herz sagt ja…“ bedeutet: Wir spüren innerlich, was sich richtig oder stimmig anfühlt.
+- Vorteil: Verbundenheit, Intuition für Menschen und Werte.
+- Nachteil: Emotionen können auch täuschen oder kurzfristig stark sein.
+
+##### Kopf – Rationalität / Neokortex
+
+- Entscheidungen aus dem Kopf sind **bewusst, logisch, analytisch, planend**.
+- Vorteil: Abwägen, Zukunft berücksichtigen, Konsequenzen einschätzen.
+- Nachteil: Kann zu „Überdenken“ oder Paralyse führen, wenn Herz und Bauch ignoriert werden.
+
+---
+
+##### Authentizität entsteht, wenn…
+
+- Bauch, Herz und Kopf **im Einklang arbeiten**.
+- Dann:
+  - Bauch sagt: „Das fühlt sich richtig an.“
+  - Herz sagt: „Ich will das wirklich.“
+  - Kopf sagt: „Es ist sinnvoll und umsetzbar.“
+- **Ergebnis:** Entscheidungen fühlen sich stimmig an, wir handeln klar und selbstbestimmt – wir handeln **authentisch**.
+
+---
+
+Unter Stress läuft unser Gehirn nach einem sehr alten, automatischen Prinzip ab:
+
+##### Stressmodus / Kampf-oder-Flucht
+
+- **Amygdala & Stammhirn übernehmen die Kontrolle.**
+  - Wir reagieren impulsiv, reflexartig, ohne bewusstes Abwägen.
+  - Logik, Planung und manchmal auch die Verbindung zu unseren Gefühlen werden **vorübergehend unterdrückt**.
+- **Neokortex („Kopf“) wird „offline“ geschaltet:**
+  - Wir denken weniger klar, handeln eher instinktiv.
+  - Kreativität, Weitsicht, moralische Abwägung sind eingeschränkt.
+- **Limbisches System („Herz“) kann ebenfalls blockiert sein:**
+  - Empathie und Feinfühligkeit für andere werden reduziert.
+  - Gefühle werden oft durch Angst, Wut oder Panik überlagert.
+
+##### Folge
+
+- Entscheidungen unter Stress sind oft **nicht authentisch**, weil Bauch, Herz und Kopf nicht gleichzeitig zusammenwirken.
+- Wir handeln überlebensorientiert oder defensiv, nicht aus stimmiger innerer Mitte.
+
+##### Schlüssel zum Einklang
+
+- **Ruhe, Sicherheit, Entspannung** bringen den Neokortex und das limbische System zurück „online“.
+- Dann können wir wieder **rational, emotional und intuitiv gleichzeitig** agieren → authentisches Handeln.
+- Praktisch heißt das: Wenn du gerade wütend, verängstigt oder unter Druck bist, ist es fast unmöglich, klar zu entscheiden. Erst nach einem Moment der Beruhigung kann die Balance entstehen.
+
+#### Asymmetrie
+
+Unser Gehirn ist in zwei Hälften geteilt, die unterschiedliche Funktionen haben. Die linke Hemisphäre ist für logisches Denken, Sprache und Analyse zuständig. Die rechte Hemisphäre ist für Kreativität, Intuition und räumliches Denken verantwortlich.
+
+Das hat sich entwickelt, weil wir unsere Umgebung im Blick behalten mussten, wenn wir zum Beispiel etwas trinken wollten.
+
+Interessanterweise ist die Entwicklung von einem Gehirn zu einem geteilten Gehirn erfolgt und nicht andersherum.
+
+Die Evolution neigt zu Spezialisierung und Arbeitsteilung. Jedes Organ hat eine bestimmte Funktion und arbeitet mit den anderen zusammen. Wenn die Aufgaben zu groß werden, macht es Sinn, sie aufzuteilen.
+
+Ein Oktopus hat zum Beispiel ein zentrales Gehirn, aber auch in jedem Arm ein eigenes kleines Gehirn. So können die Arme unabhängig voneinander agieren und trotzdem zusammenarbeiten.
+
+Wir haben auch Neuronen in unserem Darm und in unserem Herzen. Diese Organe haben eine eigene Intelligenz und können unabhängig vom Gehirn Entscheidungen treffen.
+
+Die beiden Hälften arbeiten zusammen und ergänzen sich gegenseitig. Wenn wir beide Seiten unseres Gehirns nutzen, können wir komplexe Probleme besser lösen und kreativer denken.
+
+Außerdem haben sie die Fähigkeit die mit der jeweils anderen Seite zu kommunizieren aber auch zu unterdrücken.
+
+Diese Asymmetrie zeigt sich auch in unserem Denken. Wir haben auf der einen Seite die Fähigkeit uns intensiv auf eine Sache zu konzentrieren und auf der anderen Seite die Fähigkeit, das große Ganze zu sehen und Zusammenhänge zu erkennen.
+
+Wenn wir uns intensiv mit einer Sache beschäftigen und nicht weiterkommen, hilft oft eine Pause. Wir können dann Abstand gewinnen und neue Perspektiven einnehmen. Die rechte Gehirnhälfte kann dann neue Verbindungen herstellen und kreative Lösungen finden. Daher kommen unsere "Shower-Thoughts".
+
+Plötzlich haben wir eine neue Idee oder Lösung, die uns vorher nicht eingefallen ist.
+
+Wir neigen dazu sehr viel mit der linken Gehirnhälfte zu arbeiten. Wir analysieren, planen und strukturieren. Das ist wichtig, aber es kann auch dazu führen, dass wir uns in Details verlieren und den Überblick verlieren.
+
+Die linke Gehirnhälfte ist ein gutes Werkzeug, sollte aber der rechten Gehirnhälfte das Planen und Entscheiden überlassen.
+
+Ich kann mir gut vorstellen, dass unsere Vorfahren die meiste Zeit des Tages in der rechten Gehirnhälfte verbracht haben. Sie mussten die Umgebung im Blick behalten. Wenn dann eine Gefahr auftauchte, konnten sie schnell in die linke Gehirnhälfte wechseln und sich darauf konzentrieren.
+
 ### Sicherheit vs. Gefahr – der zentrale Schalter
 
 Damit das Nervensystem sinnvoll reagieren kann, muss es in jedem Moment einschätzen, **wie sicher oder gefährlich** die Situation ist.
@@ -367,137 +497,6 @@ Die Filterfunktion des RAS ist nicht objektiv. Unsere Einstellungen und Überzeu
 - Tensegrity
 - Warum Bewegung das Nervensystem regeneriert
 - Der Körper als Informationssystem
-
-### Gehirn
-
-Unser Gehirn ist das komplexeste Organ in unserem Körper. Es besteht aus etwa 86 Milliarden Neuronen, die durch Synapsen miteinander verbunden sind.
-
-#### Drei-Gehirne-Model
-
-Das Modell basiert lose auf der Theorie von Paul MacLean (1970er Jahre), die aber heute eher als metaphorisch gilt – das Gehirn ist viel komplexer. Es unterteilt das Gehirn in drei Hauptbereiche, die unterschiedliche Funktionen haben:
-
-1. Das Stammhirn (Reptiliengehirn)
-2. Das limbische System (emotionales / mittleres Gehirn)
-3. Neokortex (höheres Denken)
-
-##### Das Stammhirn (Reptiliengehirn)
-
-- **Funktion:** Basisfunktionen des Überlebens: Atmung, Herzschlag, Reflexe, Instinkte.
-- **Merkmale:** Sehr alt evolutionär, automatisch, emotional wenig flexibel.
-- **Beispiele:** Kampf-oder-Flucht-Reaktionen, grundlegende Bedürfnisse wie Hunger, Fortpflanzung.
-
-##### Das limbische System (emotionales / mittleres Gehirn)
-
-- **Funktion:** Emotionen, Motivation, Lernen, soziale Bindungen.
-- **Hauptbestandteile:** Amygdala, Hippocampus, Hypothalamus.
-- **Merkmale:** Schnelle emotionale Reaktionen; erzeugt Gefühle wie Angst, Freude, Wut.
-- **Die Amygdala:** Teil dieses Systems, speziell für Angst, Bedrohungserkennung und emotionale Gewichtung von Erlebnissen zuständig.
-- **Häufig wird das als „mittleres Gehirn“ bezeichnet.**
-
-##### Neokortex (höheres Denken)
-
-- **Funktion:** Logik, Planung, Sprache, abstraktes Denken, Problemlösen.
-- **Merkmale:** Sehr entwickelter Teil des menschlichen Gehirns, vor allem beim Menschen stark ausgebildet.
-- **Beispiele:** Entscheidungen abwägen, moralisches Denken, Selbstreflexion, komplexe Sprache.
-
----
-
-**Kurz gesagt:**
-
-- Stammhirn → Instinkte / Überleben
-- Limbisches System → Emotionen / Motivation (hier sitzt die Amygdala)
-- Neokortex → Rationales, bewusstes Denken
-
-Wir können das Drei-Gehirne-Modell auf das tägliche Leben übertragen – Kopf, Herz und Bauch als Metaphern für die drei Ebenen der Entscheidungsfindung.
-
-##### Bauch – Instinkt / Stammhirn
-
-- Entscheidungen aus dem Bauch heraus sind oft **schnell, intuitiv, auf Überleben oder unmittelbare Bedürfnisse ausgerichtet**.
-- „Bauchgefühl“ = unbewusste, evolutionär gespeicherte Erfahrung.
-- Vorteil: Schnell, zuverlässig in Gefahrensituationen.
-- Nachteil: Kann impulsiv sein, ohne langfristige Folgen zu berücksichtigen.
-
-##### Herz – Emotion / Limbisches System
-
-- Entscheidungen aus dem Herzen spiegeln **Gefühle, Empathie, soziale Bindungen, Motivation** wider.
-- „Mein Herz sagt ja…“ bedeutet: Wir spüren innerlich, was sich richtig oder stimmig anfühlt.
-- Vorteil: Verbundenheit, Intuition für Menschen und Werte.
-- Nachteil: Emotionen können auch täuschen oder kurzfristig stark sein.
-
-##### Kopf – Rationalität / Neokortex
-
-- Entscheidungen aus dem Kopf sind **bewusst, logisch, analytisch, planend**.
-- Vorteil: Abwägen, Zukunft berücksichtigen, Konsequenzen einschätzen.
-- Nachteil: Kann zu „Überdenken“ oder Paralyse führen, wenn Herz und Bauch ignoriert werden.
-
----
-
-##### Authentizität entsteht, wenn…
-
-- Bauch, Herz und Kopf **im Einklang arbeiten**.
-- Dann:
-  - Bauch sagt: „Das fühlt sich richtig an.“
-  - Herz sagt: „Ich will das wirklich.“
-  - Kopf sagt: „Es ist sinnvoll und umsetzbar.“
-- **Ergebnis:** Entscheidungen fühlen sich stimmig an, wir handeln klar und selbstbestimmt – wir handeln **authentisch**.
-
----
-
-Unter Stress läuft unser Gehirn nach einem sehr alten, automatischen Prinzip ab:
-
-##### Stressmodus / Kampf-oder-Flucht
-
-- **Amygdala & Stammhirn übernehmen die Kontrolle.**
-  - Wir reagieren impulsiv, reflexartig, ohne bewusstes Abwägen.
-  - Logik, Planung und manchmal auch die Verbindung zu unseren Gefühlen werden **vorübergehend unterdrückt**.
-- **Neokortex („Kopf“) wird „offline“ geschaltet:**
-  - Wir denken weniger klar, handeln eher instinktiv.
-  - Kreativität, Weitsicht, moralische Abwägung sind eingeschränkt.
-- **Limbisches System („Herz“) kann ebenfalls blockiert sein:**
-  - Empathie und Feinfühligkeit für andere werden reduziert.
-  - Gefühle werden oft durch Angst, Wut oder Panik überlagert.
-
-##### Folge
-
-- Entscheidungen unter Stress sind oft **nicht authentisch**, weil Bauch, Herz und Kopf nicht gleichzeitig zusammenwirken.
-- Wir handeln überlebensorientiert oder defensiv, nicht aus stimmiger innerer Mitte.
-
-##### Schlüssel zum Einklang
-
-- **Ruhe, Sicherheit, Entspannung** bringen den Neokortex und das limbische System zurück „online“.
-- Dann können wir wieder **rational, emotional und intuitiv gleichzeitig** agieren → authentisches Handeln.
-- Praktisch heißt das: Wenn du gerade wütend, verängstigt oder unter Druck bist, ist es fast unmöglich, klar zu entscheiden. Erst nach einem Moment der Beruhigung kann die Balance entstehen.
-
-#### Asymmetrie
-
-Unser Gehirn ist in zwei Hälften geteilt, die unterschiedliche Funktionen haben. Die linke Hemisphäre ist für logisches Denken, Sprache und Analyse zuständig. Die rechte Hemisphäre ist für Kreativität, Intuition und räumliches Denken verantwortlich.
-
-Das hat sich entwickelt, weil wir unsere Umgebung im Blick behalten mussten, wenn wir zum Beispiel etwas trinken wollten.
-
-Interessanterweise ist die Entwicklung von einem Gehirn zu einem geteilten Gehirn erfolgt und nicht andersherum.
-
-Die Evolution neigt zu Spezialisierung und Arbeitsteilung. Jedes Organ hat eine bestimmte Funktion und arbeitet mit den anderen zusammen. Wenn die Aufgaben zu groß werden, macht es Sinn, sie aufzuteilen.
-
-Ein Oktopus hat zum Beispiel ein zentrales Gehirn, aber auch in jedem Arm ein eigenes kleines Gehirn. So können die Arme unabhängig voneinander agieren und trotzdem zusammenarbeiten.
-
-Wir haben auch Neuronen in unserem Darm und in unserem Herzen. Diese Organe haben eine eigene Intelligenz und können unabhängig vom Gehirn Entscheidungen treffen.
-
-Die beiden Hälften arbeiten zusammen und ergänzen sich gegenseitig. Wenn wir beide Seiten unseres Gehirns nutzen, können wir komplexe Probleme besser lösen und kreativer denken.
-
-Außerdem haben sie die Fähigkeit die mit der jeweils anderen Seite zu kommunizieren aber auch zu unterdrücken.
-
-Diese Asymmetrie zeigt sich auch in unserem Denken. Wir haben auf der einen Seite die Fähigkeit uns intensiv auf eine Sache zu konzentrieren und auf der anderen Seite die Fähigkeit, das große Ganze zu sehen und Zusammenhänge zu erkennen.
-
-Wenn wir uns intensiv mit einer Sache beschäftigen und nicht weiterkommen, hilft oft eine Pause. Wir können dann Abstand gewinnen und neue Perspektiven einnehmen. Die rechte Gehirnhälfte kann dann neue Verbindungen herstellen und kreative Lösungen finden. Daher kommen unsere "Shower-Thoughts".
-
-Plötzlich haben wir eine neue Idee oder Lösung, die uns vorher nicht eingefallen ist.
-
-Wir neigen dazu sehr viel mit der linken Gehirnhälfte zu arbeiten. Wir analysieren, planen und strukturieren. Das ist wichtig, aber es kann auch dazu führen, dass wir uns in Details verlieren und den Überblick verlieren.
-
-Die linke Gehirnhälfte ist ein gutes Werkzeug, sollte aber der rechten Gehirnhälfte das Planen und Entscheiden überlassen.
-
-Ich kann mir gut vorstellen, dass unsere Vorfahren die meiste Zeit des Tages in der rechten Gehirnhälfte verbracht haben. Sie mussten die Umgebung im Blick behalten. Wenn dann eine Gefahr auftauchte, konnten sie schnell in die linke Gehirnhälfte wechseln und sich darauf konzentrieren.
-
 
 ### Lernen & Neuroplastizität
 
