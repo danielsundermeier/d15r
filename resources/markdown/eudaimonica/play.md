@@ -2125,9 +2125,9 @@ Sobald wir uns sicher fühlen, passiert etwas Erstaunliches: Wir atmen tiefer. W
 
 Doch Sicherheit besteht nicht nur aus einem Element. Wir erleben sie auf drei Ebenen:
 
-- Körper: das Gefühl von Stabilität.
-- Geist: das Gefühl von Orientierung.
-- Seele: das Gefühl von Verbindung.
+- **Körper**: das Gefühl von Stabilität.
+- **Geist**: das Gefühl von Orientierung.
+- **Seele**: das Gefühl von Verbindung.
 
 Diese drei Formen sind miteinander verwoben. Wenn eine fehlt, geraten die anderen ins Wanken. Wenn alle drei vorhanden sind, entsteht ein Zustand, den wir selten bewusst benennen, aber jeder sofort wiedererkennt: innere Ruhe, Klarheit, Offenheit, Mut, Lebendigkeit. Das Gleichgewicht.
 
@@ -2135,35 +2135,21 @@ Im Folgenden tauchen wir in die drei Formen von Sicherheit ein. Nicht als Theori
 
 #### Körper – Innere Sicherheit
 
-Viele von uns leben in einem Alltag,
-der sich anfühlt wie ständiger leichter Gegenwind.
-Wir kommen von einem Termin,
-denken schon an den nächsten,
-und dazwischen versuchen wir irgendwie
-zu funktionieren.
+Viele von uns leben in einem Alltag, der sich anfühlt wie ständiger leichter Gegenwind.
 
-Wir hetzen von Aufgabe zu Aufgabe,
-von Verpflichtung zu Verpflichtung,
-immer in der Hoffnung,
-dass es bald ruhiger wird —
-und doch wird es selten ruhiger.
+Wir kommen von einem Termin, denken schon an den nächsten, und dazwischen versuchen wir irgendwie zu funktionieren.
 
-Wir nehmen uns vieles vor,
-haben Pläne, Wünsche, Ideen…
+Wir hetzen von Aufgabe zu Aufgabe, von Verpflichtung zu Verpflichtung, immer in der Hoffnung, dass es bald ruhiger wird — und doch wird es selten ruhiger.
+
+Wir nehmen uns vieles vor, haben Pläne, Wünsche, Ideen…
+
 und dann ist die Woche plötzlich vorbei.
-Wir verschieben Dinge auf später,
-auf „nächsten Monat“,
-auf „nach dem Urlaub“ —
-und irgendwann steht wieder Weihnachten vor der Tür
-und wir fragen uns,
-wo die Zeit geblieben ist.
 
-Das fühlt sich an wie Leben,
-aber oft ist es eher Überleben.
+Wir verschieben Dinge auf später, auf „nächsten Monat“, auf „nach dem Urlaub“ und irgendwann steht wieder Weihnachten vor der Tür und wir fragen uns, wo die Zeit geblieben ist.
 
-Und wenn alles zu viel wird,
-zieht es uns in das,
-was wir „Komfortzone“ nennen:
+Das fühlt sich an wie Leben, aber oft ist es eher Überleben.
+
+Und wenn alles zu viel wird, zieht es uns in das, was wir „Komfortzone“ nennen:
 
 - das Essen, das uns kurz beruhigt
 - die Serie, die wir schon kennen
@@ -2171,78 +2157,47 @@ was wir „Komfortzone“ nennen:
 - das Ausschlafen am Wochenende
 - die kleinen Gewohnheiten, die uns festhalten
 
-Von außen sieht das aus wie Faulheit oder Bequemlichkeit.
-Doch in Wahrheit steckt etwas viel Menschlicheres dahinter:
+Von außen sieht das aus wie Faulheit oder Bequemlichkeit. Doch in Wahrheit steckt etwas viel Menschlicheres dahinter:
 
-**Unser Körper versucht, Sicherheit zu erzeugen.
-So gut er es kann.**
+**Unser Körper versucht, Sicherheit zu erzeugen. So gut er es kann.**
 
-Wenn das Außen chaotisch ist,
-versucht er, im Innen Stabilität zu schaffen —
-nicht durch Freiheit,
-sondern durch Wiederholung.
+Wenn das Außen chaotisch ist, versucht er, im Innen Stabilität zu schaffen — nicht durch Freiheit, sondern durch Wiederholung.
 
-Wir leben im Versuch,
-innezuhalten,
-durch Dinge, die vertraut sind.
-Dinge, die uns kurz beruhigen.
-Dinge, die uns ein kleines Gefühl von Halt geben.
+Wir leben im Versuch, innezuhalten, durch Dinge, die vertraut sind. Dinge, die uns kurz beruhigen. Dinge, die uns ein kleines Gefühl von Halt geben.
 
-Diese Muster sind kein Fehler.
-Sie sind Biologie.
-Es ist unser Nervensystem,
-das sagt:
+Diese Muster sind kein Fehler. Sie sind Biologie. Es ist unser Nervensystem,das sagt:
 
-„Ich brauche etwas Verlässliches,
-sonst komme ich nicht durch den Tag.“
+„Ich brauche etwas Verlässliches, sonst komme ich nicht durch den Tag.“
 
 Doch genau dort beginnt das Paradox:
 
-Wir haben **Abenteuer draußen**
-— Termine, Hektik, Überraschungen, Entscheidungen —
-und **Routine drinnen**
-— die gleichen Gewohnheiten,
-die gleichen Abläufe,
-die gleichen Versuche, uns zu beruhigen.
+Wir haben **Abenteuer draußen** — Termine, Hektik, Überraschungen, Entscheidungen — und **Routine drinnen** — die gleichen Gewohnheiten, die gleichen Abläufe, die gleichen Versuche, uns zu beruhigen.
 
-Es sieht lebendig aus,
-fühlt sich aber innen oft leer oder flach an.
-Wir bewegen uns viel,
-aber kommen nicht wirklich voran.
+Es sieht lebendig aus, fühlt sich aber innen oft leer oder flach an. Wir bewegen uns viel, aber kommen nicht wirklich voran.
 
-Das ist kein schlechtes Leben —
-es ist einfach ein anstrengendes.
-Und es ist verständlich,
-dass ein Körper darin nach Auswegen sucht.
+Das ist kein schlechtes Leben — es ist einfach ein anstrengendes. Und es ist verständlich, dass ein Körper darin nach Auswegen sucht.
 
-Vielleicht müssen wir dieses Muster
-nicht härter leben,
-sondern **umdrehen**.
+Vielleicht müssen wir dieses Muster nicht härter leben, sondern **umdrehen**.
 
 Nicht als Disziplin.
+
 Nicht als Selbstoptimierung.
+
 Sondern als Einladung:
 
-**Was wäre,
-wenn das Außen der sichere Rahmen wird
-und das Innen wieder lebendig sein darf?**
+**Was wäre, wenn das Außen der sichere Rahmen wird und das Innen wieder lebendig sein darf?**
 
-Wenn Struktur im Außen nicht einengt,
-sondern entlastet?
+Wenn Struktur im Außen nicht einengt, sondern entlastet?
 
-Wenn Routinen nicht gefangen halten,
-sondern tragen?
+Wenn Routinen nicht gefangen halten, sondern tragen?
 
-Wenn unser Tag uns nicht mehr überrollt,
-sondern uns hält?
+Wenn unser Tag uns nicht mehr überrollt, sondern uns hält?
 
-Dann müssen wir im Inneren
-nicht mehr verzweifelt Stabilität erzwingen.
-Sie entsteht.
-Ganz leise, aber zuverlässig.
+Dann müssen wir im Inneren nicht mehr verzweifelt Stabilität erzwingen.
 
-Und in diesem Halt
-wird das Innen plötzlich weit:
+Sie entsteht. Ganz leise, aber zuverlässig.
+
+Und in diesem Halt wird das Innen plötzlich weit:
 
 - Neugier taucht wieder auf
 - Mut wächst
@@ -2250,16 +2205,9 @@ wird das Innen plötzlich weit:
 - Projekte werden begehbar
 - die Heldenreise beginnt leise in uns
 
-Außen Routine — innen Abenteuer.
-Das ist kein System.
-Es ist ein Gefühl.
+Außen Routine — innen Abenteuer. Das ist kein System. Es ist ein Gefühl.
 
-Ein Gefühl, das sagt:
-
-„Ich falle nicht mehr.
-Ich stehe.
-Und weil ich stehe,
-kann ich endlich losgehen.“
+Ein Gefühl, das sagt: „Ich falle nicht mehr. Ich stehe. Und weil ich stehe, kann ich endlich losgehen.“
 
 ---
 
