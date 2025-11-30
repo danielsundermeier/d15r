@@ -44,7 +44,7 @@ hinzuschauen, zu verstehen, zu integrieren und das eigene Leben Schritt für Sch
 
 ## Identität
 
-## Lebensbereiche
+## Holons
 
 ## Protokolle
 
