@@ -1765,15 +1765,17 @@ Die Antivision macht das, was wir vermeiden wollen, sichtbar und konkret. Sie is
 
 Am Ende entsteht unsere Identität nicht durch Nachdenken, sondern durch Erfahrung. Jede Entscheidung, jede Quest und jede Handlung verschiebt unser Gleichgewicht ein kleines Stück – und daraus entstehen neue Muster, die schließlich zu unserem „Ich“ werden. Wir entdecken, wer wir sind, indem wir spielen, scheitern, lernen und wieder aufstehen. Identität ist daher kein Zustand, sondern ein Prozess: ein sich ständig verfeinerndes Gleichgewicht, das sich durch das Tun formt – einen Tag, eine Quest, ein Level nach dem anderen.
 
-## Lebensbereiche
+## Holons
 
-### Die drei Grundbereiche: Körper, Geist und Seele
+### Die drei Holons: Körper, Geist und Seele
 
 Auch wenn sich unser Leben von außen in tausend Bereiche zerlegen lässt – Job, Familie, Hobbys, Finanzen, Gesundheit, Kreativität, Spiritualität –, läuft im Inneren immer das gleiche Muster ab. Wenn wir einen Schritt zurücktreten, lassen sich all diese Facetten auf drei grundlegende Bereiche zurückführen:
 
 - **Körper**
 - **Geist**
 - **Seele**
+
+Jeder dieser Bereiche ist ein eigenes kleines Ganzes – ein Holon: etwas, das für sich steht und gleichzeitig Teil von etwas Größerem ist.
 
 Das sind keine esoterischen Etiketten, sondern drei Perspektiven auf ein und dasselbe Leben. Drei Zugänge zu derselben Erfahrung. Drei Seiten eines Gleichgewichtssystems.
 
@@ -1880,7 +1882,7 @@ Körper, Geist und Seele lassen sich analytisch trennen, aber im Alltag wirken s
 - Eine destruktive Geschichte im Geist verändert, wie sich die Seele anfühlt.
 - Eine verletzte Seele verändert, wie sich der Körper anspannt oder erschöpft.
 
-Deshalb sprechen wir von **Lebensbereichen**, aber meinen in Wirklichkeit **ein einziges zusammenhängendes Gleichgewichtssystem**, das wir von drei Seiten aus betrachten.
+Deshalb sprechen wir von **Holons**, aber meinen in Wirklichkeit **ein einziges zusammenhängendes Gleichgewichtssystem**, das wir von drei Seiten aus betrachten.
 
 Im nächsten Schritt schauen wir uns an, warum jedes Gleichgewichtssystem immer aus mindestens drei Kräften besteht – und warum das Dreieck aus Körper, Geist und Seele kein Zufall, sondern ein universelles Muster ist.
 
@@ -2222,10 +2224,11 @@ Wir stehen mit einem Bein im Gefängnis, wenn wir unsere Steuererklärung selbst
 Wenn die Welt nicht nachvollziehbar ist, versucht der Geist, die Lücken zu füllen. Er denkt mehr. Er zweifelt mehr. Er plant mehr. Er analysiert jedes Detail. Er versucht, die Zukunft durch Kontrolle zu sichern, weil sie sich nicht mehr sicher anfühlt. Doch Kontrolle ersetzt keine Orientierung.
 
 Ohne systemische Sicherheit lebt der Geist in einem Zustand von permanentem Misstrauen:
-Misstrauen gegenüber Systemen.
-Misstrauen gegenüber Informationen.
-Misstrauen gegenüber anderen Menschen.
-Misstrauen gegenüber sich selbst.
+
+- Misstrauen gegenüber Systemen.
+- Misstrauen gegenüber Informationen.
+- Misstrauen gegenüber anderen Menschen.
+- Misstrauen gegenüber sich selbst.
 
 Es ist eine Form der geistigen Erschöpfung, die wir selten bewusst wahrnehmen. Ein Leben im Nebel. Wir bewegen uns, aber wir wissen nicht wohin. Wir treffen Entscheidungen, ohne zu wissen, worauf sie sich stützen. Wir versuchen, die Realität an unser inneres Chaos anzupassen – statt unser inneres Modell an die Realität.
 
