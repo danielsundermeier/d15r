@@ -172,7 +172,7 @@ Wir sehen das, was unser System für wichtig hält.
 Bewusstsein ist die Fähigkeit, diesen Automatismus zu unterbrechen.
 Es ist der Moment, in dem wir sagen:
 
-> „Stopp. Ich schaue jetzt bewusst hin.“
+> Stopp. Ich schaue jetzt bewusst hin.
 
 Bewusstsein richtet Aufmerksamkeit.
 Und Aufmerksamkeit ist wie ein Cursor im Betriebssystem:

@@ -89,6 +89,9 @@
 - [ ] Verlustangst = Angst, die Mitte zu verlieren
 - [ ] Entwicklung = Fähigkeit zur Rückkehr wird schneller
 
+> Wahre Transformation entsteht nicht durch Bruch, sondern durch Umfließen –
+durch kleine evolutionäre Schritte, die sich anpassen, integrieren und das Ganze ohne Zwang verwandeln.
+
 ## D. Preis- & Schmerzsignale als Feedback
 
 - [ ] Auf allen Ebenen (Individuum, Stadt, Welt) sind steigende „Kosten“ (Zeit, Geld, Energie, Aufmerksamkeit, Leid, Frust) Datenpunkte für Ungleichgewicht.
