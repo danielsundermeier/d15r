@@ -2009,137 +2009,111 @@ immer wieder.
 
 ### Sicherheit als Grundlage für Gleichgewicht
 
-Viele von uns versuchen, einen Punkt innerer Ruhe mit Mitteln zu erreichen, die genau das Gegenteil bewirken. Wir drücken, ziehen, kämpfen, straffen uns an. Wir glauben, wir müssten entschlossener sein, disziplinierter, stärker. Wenn etwas nicht funktioniert, erhöhen wir den Druck. Wir geben uns noch weniger Pausen, setzen uns noch höhere Ziele, treiben uns noch ein Stück weiter.
+Viele von uns versuchen, einen Punkt innerer Ruhe mit Mitteln zu erreichen, die genau das Gegenteil bewirken. Wir drücken, ziehen, kämpfen, strengen uns an. Wir glauben, wir müssten entschlossener sein, disziplinierter, stärker. Wenn etwas nicht funktioniert, erhöhen wir den Druck. Wir geben uns noch weniger Pausen, setzen uns noch höhere Ziele, treiben uns noch ein Stück weiter.
 
 Und jedes Mal sind wir überzeugt: *„Beim nächsten Versuch klappt es. Ich muss nur mehr machen.“*
 
-Mehr Geld.
-Mehr Erfolge.
-Mehr Anerkennung.
-Mehr Kontrolle über den Körper.
-Mehr Selbstoptimierung.
+- Mehr Geld.
+- Mehr Erfolge.
+- Mehr Anerkennung.
+- Mehr Kontrolle über den Körper.
+- Mehr Selbstoptimierung.
 
 Wir rennen — und merken oft gar nicht, dass wir nicht auf etwas zulaufen,
 sondern vor etwas weglaufen.
 
-Diese Anstrengung fühlt sich an wie Fortschritt,
-aber sie ist eine Abwärtsspirale, die uns immer weiter vom Gleichgewicht entfernt.
-Denn Ungleichgewicht erzeugt mehr Ungleichgewicht.
-Stress erzeugt mehr Stress.
-Druck erzeugt mehr Druck.
+Diese Anstrengung fühlt sich an wie Fortschritt, aber sie ist eine Abwärtsspirale, die uns immer weiter vom Gleichgewicht entfernt.
 
-Je mehr wir ziehen, desto enger wird das System.
-Desto weniger Spielraum hat es.
-Desto härter müssen wir arbeiten, um es zusammenzuhalten.
-Bis wir irgendwann glauben, dass das Leben eben so ist:
-angespannt, eng, unruhig.
+Denn Ungleichgewicht erzeugt mehr Ungleichgewicht. Stress erzeugt mehr Stress.Druck erzeugt mehr Druck.
 
-Doch was wir selten sehen —
-weil es sich nicht laut bemerkbar macht —
-ist, dass Gleichgewicht nicht durch Kraft entsteht,
-sondern durch **Sicherheit**.
+Je mehr wir ziehen, desto enger wird das System. Desto weniger Spielraum hat es.Desto härter müssen wir arbeiten, um es zusammenzuhalten. Bis wir irgendwann glauben, dass das Leben eben so ist: angespannt, eng, unruhig.
+
+Doch was wir selten sehen — weil es sich nicht laut bemerkbar macht — ist, dassGleichgewicht nicht durch Kraft entsteht, sondern durch **Sicherheit**.
 
 Sicherheit ist der Zustand, in dem das Nervensystem nicht kämpfen muss.
+
 Nicht fliehen.
+
 Nicht beweisen.
+
 Nicht beschleunigen.
+
 Sondern einfach nur sein darf.
 
-Sicherheit ist die Voraussetzung dafür,
-dass Körper, Geist und Seele überhaupt miteinander sprechen können.
-Sie ist der Boden, auf dem sich das Dreieck stabilisieren kann.
-Sie schafft den Raum, in dem Spannungen uns tragen,
-statt auseinanderzuziehen.
+Sicherheit ist die Voraussetzung dafür, dass Körper, Geist und Seele überhaupt miteinander sprechen können. Sie ist der Boden, auf dem sich das Dreieck stabilisieren kann. Sie schafft den Raum, in dem Spannungen uns tragen, statt auseinanderzuziehen.
 
 Und vor allem schenkt Sicherheit uns **Kapazität**.
-Wenn unser System nicht damit beschäftigt ist,
-innere Spannungen auszugleichen,
-wird Energie frei — echte Energie.
-Energie, die wir plötzlich in unser Leben investieren können:
-in unsere Beziehungen,
-in unsere Arbeit,
-in unsere Entwicklung,
-in das, was uns ruft.
 
-Ein System im Stress verbraucht fast alles,
-nur um sich selbst zusammenzuhalten.
+Wenn unser System nicht damit beschäftigt ist, innere Spannungen auszugleichen, wird Energie frei — echte Energie. Energie, die wir plötzlich in unser Leben investieren können:
+
+- in unsere Beziehungen
+- in unsere Arbeit
+- in unsere Entwicklung
+- in das, was uns ruft
+
+Ein System im Stress verbraucht fast alles, nur um sich selbst zusammenzuhalten.
+
 Ein sicheres System kann sich bewegen.
-Nicht, weil alles leicht wäre,
-sondern weil nichts mehr im Hintergrund zieht.
 
-Und dann passiert etwas,
-das sich nie durch Druck herstellen lässt:
-**Mut kommt zurück.**
-**Neugier taucht wieder auf.**
-**Wir bekommen Lust, uns auf das Leben einzulassen.**
+Nicht, weil alles leicht wäre, sondern weil nichts mehr im Hintergrund zieht.
 
-Mit der wachsenden Sicherheit tauchen Fähigkeiten auf,
-die wir in angespannten Zeiten oft verlieren:
-**Intuition**, die uns leise sagt, was stimmig ist.
-**Kreativität**, die neue Wege zeigt,
-wo vorher nur Mauern waren.
-**Empathie**, die uns wieder spüren lässt,
-wie andere fühlen.
+Und dann passiert etwas, das sich nie durch Druck herstellen lässt:
 
-Wir wenden uns wieder der Welt zu.
-Wir suchen Kontakt statt Rückzug.
-Wir nehmen wieder teil,
-statt nur zu funktionieren.
+- **Mut kommt zurück.**
+- **Neugier taucht wieder auf.**
+- **Wir bekommen Lust, uns auf das Leben einzulassen.**
 
-Und dann passiert etwas,
-das sich anfühlt wie ein inneres Aufbrechen:
-**Wir haben wieder Kraft – echte Kraft.**
-Nicht Überlebensenergie, die verpufft,
-sondern Lebensenergie, die trägt.
+Mit der wachsenden Sicherheit tauchen Fähigkeiten auf, die wir in angespannten Zeiten oft verlieren:
 
-Die Energie, die vorher dafür draufging,
-unser Inneres zusammenzuhalten,
-steht plötzlich für das Leben selbst zur Verfügung.
+- **Intuition**, die uns leise sagt, was stimmig ist.
+- **Kreativität**, die neue Wege zeigt, wo vorher nur Mauern waren.
+- **Empathie**, die uns wieder spüren lässt, wie andere fühlen.
 
-Und wir spüren:
-*Es geht wieder los.*
+Wir wenden uns wieder der Welt zu. Wir suchen Kontakt statt Rückzug. Wir nehmen wieder teil, statt nur zu funktionieren.
+
+Und dann passiert etwas, das sich anfühlt wie ein inneres Aufbrechen: **Wir haben wieder Kraft – echte Kraft.**
+
+Nicht Überlebensenergie, die verpufft, sondern Lebensenergie, die trägt.
+
+Die Energie, die vorher dafür draufging, unser Inneres zusammenzuhalten, steht plötzlich für das Leben selbst zur Verfügung.
+
+Und wir spüren: *Es geht wieder los.*
 
 Wir wollen gestalten.
+
 Wir wollen wachsen.
+
 Wir wollen Neues ausprobieren.
+
 Wir wollen uns entwickeln, uns zeigen, uns ausprobieren.
 
-Nicht, weil jemand uns antreibt.
-Nicht, weil wir es müssten.
-Sondern weil etwas in uns sich nach Ausdruck sehnt.
-Weil Sicherheit Raum geschaffen hat,
-in dem Neugier wieder Wurzeln schlagen kann.
+Nicht, weil jemand uns antreibt. Nicht, weil wir es müssten. Sondern weil etwas in uns sich nach Ausdruck sehnt.
 
-Es ist der Moment, in dem Antrieb nicht von außen kommt,
-sondern von innen.
-Eine Bewegung, die nicht erschöpft,
-sondern nährt.
-Weil sie aus dem gleichen Ort stammt wie Ruhe:
-aus Sicherheit.
+Weil Sicherheit Raum geschaffen hat, in dem Neugier wieder Wurzeln schlagen kann.
+
+Es ist der Moment, in dem Antrieb nicht von außen kommt, sondern von innen.
+
+Eine Bewegung, die nicht erschöpft, sondern nährt.
+
+Weil sie aus dem gleichen Ort stammt wie Ruhe: aus Sicherheit.
 
 Wenn unser System sicher ist, müssen wir die Mitte nicht erzwingen.
+
 **Aber wir müssen uns ihr zuwenden.**
-Sicherheit nimmt uns nicht die Herausforderungen ab —
-sie macht uns bereit für sie.
-Sie gibt uns den Boden,
-von dem aus wir uns unseren Ängsten stellen können,
-statt vor ihnen wegzulaufen.
-Sie gibt uns die Klarheit,
-unseren nächsten Schritt zu sehen,
-und die Kraft, ihn tatsächlich zu gehen.
+
+Sicherheit nimmt uns nicht die Herausforderungen ab — sie macht uns bereit für sie.
+
+Sie gibt uns den Boden, von dem aus wir uns unseren Ängsten stellen können, statt vor ihnen wegzulaufen.
+
+Sie gibt uns die Klarheit, unseren nächsten Schritt zu sehen, und die Kraft, ihn tatsächlich zu gehen.
 
 Mit Sicherheit rennen wir nicht mehr blind ins Unbekannte.
-Wir bewegen uns bewusster hinein —
-Schritt für Schritt,
-getragen von etwas in uns,
-das nicht mehr gegen uns arbeitet.
 
-Und dann merken wir:
-Der Weg zur Mitte beginnt nicht mit Druck,
-sondern mit einem Ausatmen.
-Mit dem Gefühl,
-dass wir nicht mehr vor uns selbst fliehen müssen.
-Dass es sicher genug ist, hinzuschauen.
+Wir bewegen uns bewusster hinein — Schritt für Schritt, getragen von etwas in uns, das nicht mehr gegen uns arbeitet.
+
+Und dann merken wir: Der Weg zur Mitte beginnt nicht mit Druck, sondern mit einem Ausatmen.
+
+Mit dem Gefühl, dass wir nicht mehr vor uns selbst fliehen müssen. Dass es sicher genug ist, hinzuschauen.
 
 ---
 
