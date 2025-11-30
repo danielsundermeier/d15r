@@ -204,7 +204,7 @@ Aus vielen Einzelmomenten entsteht ein Modell der Welt – und von uns selbst.
 
 Ein gutes Modell der Welt erzeugt Vorhersagbarkeit.
 
-> „Ich weiß in etwa, was passiert, wenn ich das tue.“
+> Ich weiß in etwa, was passiert, wenn ich das tue.
 
 Unser Gehirn ist ein Vorhersageorgan.
 Es vergleicht ständig: Was erwarte ich? Was tritt wirklich ein?
@@ -1862,9 +1862,11 @@ Sie ist auch der Bereich, in dem **Beziehungen** stattfinden – zu anderen Mens
 
 Die Seele ist damit der Teil unseres Systems, der uns sagt:
 
-> „Das fühlt sich stimmig an.“
-> oder
-> „Irgendwas hier ist schief, auch wenn ich es noch nicht benennen kann.“
+> Das fühlt sich stimmig an.
+
+oder
+
+> Irgendwas hier ist schief, auch wenn ich es noch nicht benennen kann.
 
 Und genau dieses Gefühl ist oft der erste Hinweis darauf, dass irgendwo im Fraktal ein Ungleichgewicht sitzt, das wir noch nicht verstanden haben.
 
