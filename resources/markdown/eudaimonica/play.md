@@ -2096,13 +2096,26 @@ Er wird fairer, klarer, hilfreicher.
 
 Er wird ein Verbündeter.
 
+Doch der Trainer kann nur dann wirklich hilfreich werden, wenn unser System sicher genug ist, seine Signale unverzerrt wahrzunehmen.
+
+Im Stress klingt er wie ein Gegner.
+
+In Sicherheit klingt er wie jemand, der uns stärkt.
+
+Der Trainer ist nicht hart, weil etwas mit dir nicht stimmt – er klingt hart, wenn dein System im Schutzmodus ist.
+
+Je sicherer du wirst, desto klarer, konstruktiver und unterstützender wird seine Stimme.
+
 ---
 
 #### Der Mentor: die überhörte Stimme
 
 Der zweite Begleiter ist ebenso wichtig, doch wesentlich leiser.
+
 Er drängt nicht.
+
 Er schreit nicht.
+
 Er zwingt sich nie in den Vordergrund.
 
 Deshalb überhören ihn viele Menschen.
@@ -2110,6 +2123,7 @@ Deshalb überhören ihn viele Menschen.
 Wir nennen ihn den **Mentor**.
 
 Der Mentor ist die innere Weisheit, die Orientierung schenkt.
+
 Er zeigt uns:
 
 - wer wir sein können
@@ -2117,19 +2131,31 @@ Er zeigt uns:
 - was uns wirklich wichtig ist
 - warum sich ein Weg lohnt
 
-Er löst unsere Ängste nicht auf –
-aber er zeigt, was *hinter* ihnen liegt.
+Er löst unsere Ängste nicht auf –aber er zeigt, was *hinter* ihnen liegt.
+
 Er gibt die Perspektive, die wir brauchen, um mutig zu werden.
 
 Der Mentor ist der ruhige Blick von oben.
+
 Die sanfte Stimme, die uns öffnet statt uns zu drücken.
+
 Die Kraft, die uns erinnert, dass wir nicht verloren sind.
 
 Er ist **das Zuckerbrot**, das uns Hoffnung, Klarheit und Richtung gibt.
 
-Und je mehr wir ihm zuhören,
-je stiller wir werden,
-desto klarer spricht er.
+Doch der Mentor ist nur zugänglich, wenn unser inneres System offen ist.
+
+Nicht weil er leise wäre – sondern weil Angst seine Frequenz überlagert.
+
+In einem angespannten Zustand wird seine Stimme schwach, fern oder scheinbar „nicht existent“.
+
+Sobald Sicherheit entsteht, taucht der Mentor fast von selbst wieder auf: ruhig, klar, unaufgeregt.
+
+Was vorher wie Schweigen wirkte, war nur die Enge unseres Nervensystems.
+
+In einem offenen Zustand ist seine Richtung plötzlich selbstverständlich spürbar.
+
+Und je mehr wir ihm zuhören, je stiller wir werden, desto klarer spricht er.
 
 ---
 
@@ -2197,8 +2223,19 @@ Sie sind der Mechanismus, der das ganze Spiel trägt.
 - Der Mentor öffnet dein Herz.
 - Der Trainer stärkt deinen Willen.
 
-Gemeinsam erzeugen sie die Evolution,
-die dich im Laufe des Lebens formt.
+Gemeinsam erzeugen sie die Evolution, die dich im Laufe des Lebens formt.
+
+Mentor und Trainer sind die beiden inneren Kräfte, durch die Evolution überhaupt stattfindet:
+
+- Der **Mentor** zeigt die Richtung der Entwicklung – das Potenzial, die Vision, die größere Wahrheit.
+- Der **Trainer** erzeugt die Bewegung – die Energie, die Konfrontation, die Handlung.
+
+Sie sind zwei Aspekte desselben Prozesses:
+
+**Wahrheit → Mitte → Bewegung.**
+
+Ohne den Mentor wüssten wir nicht wohin.
+Ohne den Trainer würden wir nie losgehen.
 
 ---
 
