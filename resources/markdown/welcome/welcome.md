@@ -1,25 +1,25 @@
-# Eudaimonica
+# Das Geheimnis ist nicht mehr Kraft, sondern ein längerer Hebel.
 
-## Ein Weg zurück ins Gleichgewicht
+In Asterix gibt es eine Szene, in der Obelix und Miraculix nebeneinander stehen und Steine zerschmettern.
 
-Ich beschäftige mich damit, warum unser Leben, unsere Städte und unsere Systeme immer häufiger aus der Balance geraten – und was passiert, wenn wir diese Balance wiederfinden.
+Obelix schlägt mit purer Kraft. Ein Schlag – und der Fels ist weg. Er kann das, weil er unendliche Energie besitzt. Ein Ausnahmezustand. Ein Wunder des Zufalls.
 
-Ich schreibe über das Zusammenspiel von allem:
-über Menschen, Gemeinschaften und die Welt,
-über Systeme, Beziehungen und Muster, die sich wiederholen.
+Miraculix macht es anders: Er sucht die richtige Stelle. Er tippt den Stein nur leicht an – und er zerfällt genauso.
 
-Ich arbeite öffentlich.
-Ich teile meine Gedanken, Experimente und Erkenntnisse, während sie entstehen.
-Nicht, weil ich Antworten habe, sondern weil ich glaube, dass aus offenem Denken etwas Neues entstehen kann.
+Zwei Prinzipien. Energie oder Hebel. Kraft oder Klarheit.
 
-[Eudaimonica](/eudaimonica) ist mein Versuch, zu verstehen:
-Wie fühlt sich ein Leben im Gleichgewicht an?
-Wie sieht eine Gemeinschaft aus, die sich selbst reguliert?
-Was passiert, wenn wir uns an der Natur orientieren statt gegen sie zu arbeiten?
+Viele Menschen versuchen im Leben, wie Obelix zu handeln: mehr Energie, mehr Disziplin, mehr Optimierung, mehr Druck.
 
-Hier sammle ich meine Texte, meine Notizen und die Entwicklung meiner [Philosophie](/philosophy).
-Vielleicht findest du darin etwas, das dich inspiriert oder dir Orientierung gibt.
+Doch Obelix ist eine Ausnahme. Unendliche Kraft ist nicht nachmachbar.
+
+Also beginnt die Suche nach dem eigenen Zaubertrank – und führt oft zu Selbstvorwürfen, Erschöpfung und dem Gefühl, nicht zu genügen.
+
+Doch es gibt den anderen Weg: den Hebel. Den Punkt, an dem die Welt nachgibt. Den kleinen Schlag, der alles verändert.
 
 [Hier](/philosophy) findest Du eine Übersicht über die Philosophie.
 
 Wenn du direkt tiefer eintauchen möchtest, findest du in [Eudaimonica](/eudaimonica) die ausführlichere Version.
+
+## Aktuelle Artikel
+
+Hier erscheinen meine aktuellsten Artikel, Gedanken und Impulse

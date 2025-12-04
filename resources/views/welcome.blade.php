@@ -12,7 +12,7 @@
     </div>
 </div>
 
-<div id="post" class="relative py-16 bg-white overflow-hidden">
+<div id="post" class="relative py-4 bg-white overflow-hidden">
     <div class="px-4 sm:px-6 lg:px-8">
         <div class="mt-6 prose prose-sky prose-lg text-gray-500 mx-auto">
 
@@ -22,7 +22,7 @@
     </div>
 </div>
 
-<div id="post" class="relative py-16 bg-white overflow-hidden">
+<div id="post" class="relative pb-8 bg-white overflow-hidden">
 	<div class="relative px-4 sm:px-6 lg:px-8">
 		<div class="mt-6 prose prose-sky prose-lg text-gray-500 mx-auto">
 			@foreach ($posts as $post)
