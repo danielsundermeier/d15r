@@ -27,7 +27,6 @@ class UpdateFromFilesCommand extends Command
     private function tweeted(): void
     {
         $tweets = Tweet::query()
-            ->where('type', Type::POST)
             ->whereNotNull('tweet_id')
             ->get();
 
@@ -55,7 +54,7 @@ class UpdateFromFilesCommand extends Command
                 $scheduledAt = Carbon::parse($tweetData['date'])->setTime(0, 0, 0);
                 $tweet = Tweet::updateOrCreate([
                     'type' => Type::POST,
-                    'scheduled_at' => $scheduledAt,
+                    'scheduled_at' => $scheduledAt->getTimestamp(),
                 ], [
                     'text' => $tweetData['message'],
                     'source' => $basename,

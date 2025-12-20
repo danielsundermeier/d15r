@@ -38,7 +38,7 @@ class ImportCommand extends Command
                 $tweet = Tweet::updateOrCreate([
                     'type' => Type::DAYLY,
                     'source' => 'play.md',
-                    'scheduled_at' => $scheduledAt,
+                    'scheduled_at' => $scheduledAt->getTimestamp(),
                 ], [
                     'text' => $tweetData['message'],
                 ]);
@@ -62,7 +62,7 @@ class ImportCommand extends Command
                 $scheduledAt = Carbon::parse($tweetData['date'])->setTime(0, 0, 0);
                 $tweet = Tweet::updateOrCreate([
                     'type' => Type::POST,
-                    'scheduled_at' => $scheduledAt,
+                    'scheduled_at' => $scheduledAt->getTimestamp(),
                 ], [
                     'text' => $tweetData['message'],
                     'source' => $basename,
