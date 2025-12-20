@@ -18,8 +18,8 @@ class UpdateFromFilesCommand extends Command
         $this->info('Updating tweeted posts...');
         $this->tweeted();
 
-        $this->info('Updating scheduled posts...');
-        $this->posts();
+        // $this->info('Updating scheduled posts...');
+        // $this->posts();
 
         return self::SUCCESS;
     }
@@ -35,7 +35,7 @@ class UpdateFromFilesCommand extends Command
             $this->line($tweet->scheduled_at->toDateString());
 
             $tweet->update([
-                'scheduled_at' => $tweet->tweeted_at->setTime(0, 0, 0),
+                'scheduled_at' => $tweet->tweeted_at->setTime(0, 0, 0)->getTimestamp(),
             ]);
         }
     }
