@@ -41,6 +41,7 @@ class CreateCommand extends Command
         $responseData = $response->json();
 
         $tweet->update([
+            'scheduled_at' => $tweet->scheduled_at->setTime(0, 0, 0),
             'tweet_id' => $responseData['data']['id'],
             'tweeted_at' => now(),
         ]);
