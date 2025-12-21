@@ -16,11 +16,11 @@ class CreateTweetsTable extends Migration
         Schema::create('tweets', function (Blueprint $table) {
             $table->id();
 
-            $table->timestamp('scheduled_at');
+            $table->dateTime('scheduled_at');
             $table->text('text');
 
             $table->string('tweet_id')->nullable();
-            $table->timestamp('tweeted_at')->nullable();
+            $table->dateTime('tweeted_at')->nullable();
 
             $table->timestamps();
         });
