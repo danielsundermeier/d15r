@@ -126,6 +126,10 @@
 			<nav class="-mx-5 -my-2 flex flex-wrap justify-center" aria-label="Footer">
 
 				<div class="px-5 py-2">
+					<a href="{{ route('about.index') }}" target="_blank" class="text-base text-gray-300 hover:text-white"> Über mich </a>
+				</div>
+
+				<div class="px-5 py-2">
 					<a href="https://notes.d15r.de" target="_blank" class="text-base text-gray-300 hover:text-white"> Wissenssammlung </a>
 				</div>
 

@@ -74,9 +74,9 @@ Wenn die Verbindungen in unserem Leben optimal sind, fühlt sich alles leicht, k
 
 Wir bestehen aus drei verbundenen Ebenen:
 
-**1. Körper** – unsere biologische Grundlage
-**2. Geist** – unser Denken und Fühlen
-**3. Seele** – die lebendige Verbindung zwischen beiden
+- **Körper** – unsere biologische Grundlage
+- **Geist** – unser Denken und Fühlen
+- **Seele** – die lebendige Verbindung zwischen beiden
 
 Erst wenn alle drei im Einklang sind, entstehen:
 

@@ -1,20 +1,122 @@
-# Das Geheimnis ist nicht mehr Kraft, sondern ein längerer Hebel.
+# Willkommen in Eudaimonica: Dem Spiel, das sich jeder Gamer wünscht
 
-In Asterix gibt es eine Szene, in der Obelix und Miraculix nebeneinander stehen und Steine zerschmettern.
+---
 
-Obelix schlägt mit purer Kraft. Ein Schlag – und der Fels ist weg. Er kann das, weil er unendliche Energie besitzt. Ein Ausnahmezustand. Ein Wunder des Zufalls.
+Stell dir ein Spiel vor
 
-Miraculix macht es anders: Er sucht die richtige Stelle. Er tippt den Stein nur leicht an – und er zerfällt genauso.
+- ohne Ladebildschirm.
+- ohne Grenzen.
+- ohne Ende.
 
-Zwei Prinzipien. Energie oder Hebel. Kraft oder Klarheit.
+Eine Welt, größer als alles, was je gebaut wurde.
 
-Viele Menschen versuchen im Leben, wie Obelix zu handeln: mehr Energie, mehr Disziplin, mehr Optimierung, mehr Druck.
+Und du bist mittendrin.
 
-Doch Obelix ist eine Ausnahme. Unendliche Kraft ist nicht nachmachbar.
+---
 
-Also beginnt die Suche nach dem eigenen Zaubertrank – und führt oft zu Selbstvorwürfen, Erschöpfung und dem Gefühl, nicht zu genügen.
+## Willkommen im Spiel des Lebens
 
-Doch es gibt den anderen Weg: den Hebel. Den Punkt, an dem die Welt nachgibt. Den kleinen Schlag, der alles verändert.
+Ein ganzer Planet zum Erkunden. Ozeane. Berge. Städte. Wälder. Kulturen. Sprachen. Geschichten.
+
+Milliarden anderer Spieler. Jeder einzigartig. Jeder mit eigenen Quests.
+
+Kein Durchlauf gleicht dem anderen.
+
+---
+
+## Unendliche Möglichkeiten
+
+Du kannst:
+
+- lernen, was immer du willst
+- reisen, wohin du willst
+- Fähigkeiten entwickeln, die du dir heute noch nicht vorstellen kannst
+
+Du kannst bauen. Zerstören. Heilen. Gestalten.
+
+Du kannst Systeme erschaffen. Gemeinschaften. Städte. Zukünfte.
+
+---
+
+## Perfektes Feedback
+
+Dieses Spiel ist brutal ehrlich.
+
+Jede Entscheidung hat Konsequenzen. Jeder Schritt verändert die Welt. Nichts bleibt ohne Wirkung.
+
+Du bekommst ständig Feedback:
+
+- durch deinen Körper
+- durch deine Gefühle
+- durch die Realität selbst
+
+Kein RNG. Keine versteckten Regeln. Keine Ausreden.
+
+---
+
+## Kein Endboss. Kein Abspann
+
+Es gibt kein „Gewonnen“. Kein „Fertig“.
+
+Das Spiel entwickelt sich weiter, weil **du** dich weiterentwickelst.
+
+Neue Herausforderungen entstehen, weil du gewachsen bist.
+
+Das ist kein Fehler. Das ist das Feature.
+
+---
+
+## Völlige Freiheit
+
+Es gibt keine vorgegebenen Klassen. Keine festen Rollen. Keine Pflichtquests.
+
+Du entscheidest:
+
+- wie du spielst
+- mit wem du spielst
+- wofür du deine Zeit einsetzt
+
+Du kannst jederzeit neu anfangen. Die Richtung ändern. Alles umbauen.
+
+---
+
+## Warum fühlt es sich dann oft klein an?
+
+Weil viele vergessen haben, dass sie spielen.
+
+Weil sie glauben, sie müssten funktionieren, statt zu erkunden.
+
+Weil sie grinden, statt zu leben.
+
+---
+
+## Eudaimonica
+
+Eudaimonica ist kein neues Spiel.
+
+Es ist der Moment, in dem du merkst, **was du hier eigentlich spielst**.
+
+Ein Perspektivwechsel. Ein Aufwachen im Spiel.
+
+---
+
+## Die Einladung
+
+Wenn du spürst, dass das Leben mehr ist als To-do-Listen und Durchhalten –
+
+wenn du ahnst, dass hier etwas Unglaubliches passiert –
+
+dann ist das kein Zufall.
+
+> **Du bist nicht hier, um zu überleben. Du bist hier, um zu spielen.**
+
+---
+
+## Eudaimonica
+
+**Das größte Spiel aller Zeiten läuft bereits.**
+
+---
 
 [Hier](/philosophy) findest Du eine Übersicht über die Philosophie.
 
