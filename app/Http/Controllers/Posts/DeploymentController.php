@@ -51,6 +51,7 @@ class DeploymentController extends Controller
         }
 
         Artisan::call('guides:import');
+        Artisan::call('tweets:import');
     }
 
     protected function updateOrcreatePost(string $filename)
