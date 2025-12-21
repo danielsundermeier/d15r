@@ -62,10 +62,10 @@ class ImportCommand extends Command
                 $scheduledAt = Carbon::parse($tweetData['date'])->setTime(0, 0, 0);
                 $tweet = Tweet::updateOrCreate([
                     'type' => Type::POST,
+                    'source' => $basename,
                     'scheduled_at' => $scheduledAt,
                 ], [
                     'text' => $tweetData['message'],
-                    'source' => $basename,
                 ]);
                 $this->line("\t" . ($key + 1) . "\t" . $tweet->scheduled_at->format('Y-m-d') . "\t" . $tweet->text);
             }
