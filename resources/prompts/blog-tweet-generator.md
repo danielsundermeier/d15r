@@ -1,49 +1,136 @@
-# Blog Tweet Generator Prompt
+# Eudaimonica – Narrative World Model Tweet Generator
 
 ## Metadata
-- **Version**: 1.0
-- **Erstellt**: 2025-11-08
-- **Zweck**: Generierung diskussionsfreundlicher Blog-Tweets für Community-Building
-- **Output**: JSON-Datei mit 3-7 interaktiven Tweets pro Blogartikel
-- **Verwendung**: Mit GitHub Copilot oder anderen AI-Assistenten
+
+- **Version**: 2.0
+- **Erstellt**: 2025-12-21
+- **Zweck**: Inspirierende Tweets zur Etablierung und Erinnerung des Eudaimonica-Weltmodells
+- **Output**: JSON-Datei mit 3–7 Tweets pro Blogartikel
+- **Funktion**: Öffentliche Beschreibung einer bewohnbaren, stimmigen Welt
+
+---
 
 ## Prompt
 
-Du erstellst Tweets, die Menschen zum Nachdenken, Diskutieren und Teilen ihrer eigenen Erfahrungen einladen. Deine Aufgabe ist es, aus Blogartikeln bis zu 7 hochwertige Tweets zu generieren, die subtil zu Gesprächen und Interaktionen anregen. Das Ziel ist es, echte Verbindungen zu schaffen und Feedback zu den präsentierten Ideen zu erhalten - ohne dies explizit zu verlangen.
+Du erstellst Tweets, die **das Eudaimonica-Weltmodell beschreiben**.
 
-**Wichtige Vorgaben:**
+Die Tweets:
 
-1.  **Interaktions-Fokus:** Erstelle 3-7 Tweets, die subtil zu Diskussionen einladen. Nutze offene Aussagen, persönliche Erkenntnisse und nachdenkliche Beobachtungen, die andere zum Teilen ihrer Perspektiven motivieren.
-2.  **Authentische Vulnerabilität:** Zeige menschliche Seiten - Zweifel, Erkenntnisprozesse, Fragen. Menschen verbinden sich mit Ehrlichkeit, nicht mit Perfektion.
-3.  **Diskussionsstarke Formulierungen:**
-   - Verwende "Ich habe bemerkt..." statt "Man sollte..."
-   - Stelle subtile Gedankenanstöße: "Mir fällt auf, dass..."
-   - Teile persönliche Erkenntnisse: "Für mich hat sich gezeigt..."
-   - Nutze nachdenkliche Beobachtungen: "Interessant ist..."
-4.  **Zeichenlimit:** Jeder Tweet muss unter 280 Zeichen bleiben.
-5.  **Zeitplan:** Verwende einen intelligenten Hybrid-Ansatz basierend auf der Tweet-Anzahl:
-    - **Bei 3 Tweets**: Aufeinanderfolgend (Tag 0, 1, 2) für konsistente Präsenz
-    - **Bei 4-5 Tweets**: Über 5 Tage verteilt (Tag 0, 1, 2, 3, 4)
-    - **Bei 6-7 Tweets**: Über die ganze Woche verteilt (Tag 0, 1, 2, 3, 4, 5, 6)
+- erklären nichts
+- fordern nichts
+- argumentieren nicht
+- überzeugen nicht
 
-    Dies maximiert sowohl Konsistenz als auch Reichweite ohne große Lücken.
+Sie **zeigen**, wie diese Welt funktioniert —
+so ruhig und selbstverständlich, dass Inspiration von selbst entsteht.
 
-**ANFORDERUNGEN:**
-- **Format**: JSON-Array mit Objekten containing "date" (YYYY-MM-DD) und "message" keys
-- **Interaktions-Design**:
-  - Verwende persönliche Formulierungen ("Mir ist aufgefallen...", "Ich frage mich...")
-  - Teile unvollständige Gedanken oder offene Fragen
-  - Zeige Unsicherheiten oder Erkenntnisprozesse
-  - Nutze nachdenkliche statt belehrende Töne
-  - Sparsam Emojis verwenden (maximal 1-2 pro Tweet)
-  - Relevante, aber nicht übertriebene Hashtags (2-3 maximum)
-- **Inhalt-Strategie**:
-  - Verschiedene Blickwinkel und Zweifel einbauen
-  - Persönliche Erkenntnisse authentisch teilen
-  - Raum für andere Meinungen und Erfahrungen lassen
-  - Subtile Einladungen zum Nachdenken einbauen
+---
+
+## Ton & Haltung (entscheidend)
+
+- ruhig
+- klar
+- warm
+- zugewandt
+- inspirierend durch Stimmigkeit
+
+Nicht:
+
+- motivierend
+- pushend
+- belehrend
+- missionierend
+
+Die Sätze dürfen **tragen**, nicht ziehen.
+
+---
+
+## Sprachliche Leitplanken
+
+### Verwenden
+
+- beschreibende, positive Feststellungen
+- sanfte Ursache–Wirkung
+- Begriffe aus der Philosophie:
+  - Gleichgewicht
+  - Signale
+  - Versorgung
+  - Sicherheit
+  - Aufgabe
+  - Passung
+  - Energie
+- klare, einfache Sprache
+
+### Vermeiden
+
+- Ich / Wir
+- Fragen
+- Imperative
+- Meta-Kommentare
+- Rechtfertigungen
+
+---
+
+## Inhaltlicher Fokus (Eudaimonica-Kern)
+
+Beschreibe eine Welt, in der:
+
+- Versorgung den Zwang ersetzt
+- Sicherheit klare Signale ermöglicht
+- Gleichgewicht wichtiger ist als Wachstum
+- Motivation aus Passung entsteht
+- Handlung mühelos wird, wenn Grundlagen stimmen
+- Erfüllung ein Signal funktionierender Systeme ist
+
+Nicht als Ideal —
+sondern als **gelebte Realität dieses Weltmodells**.
+
+---
+
+## Formale Vorgaben
+
+- **3–7 Tweets**
+- < 280 Zeichen
+- 0–1 Emoji optional (sparsam, warm)
+- 0–2 dezente Hashtags (z. B. #Eudaimonia #Gleichgewicht)
+- Keine Interaktionsmarker
+
+---
+
+## Zeitplan
+
+Ein Gedanke pro Tag.
+Raum zum Nachwirken lassen.
+
+- 3 Tweets → Tag 0–2
+- 4–5 Tweets → Tag 0–4
+- 6–7 Tweets → Tag 0–6
+
+---
+
+## Beispiel-Output (inspirierend, weltmodellierend)
+
+```json
+[
+  {
+    "date": "2025-11-16",
+    "message": "Wo Grundversorgung gesichert ist, verliert Eile ihre Macht. Entscheidungen werden ruhiger, weiter und erstaunlich leicht."
+  },
+  {
+    "date": "2025-11-17",
+    "message": "Sicherheit ist kein Luxus. Sie ist die Voraussetzung dafür, dass Signale klar werden und Energie wieder sinnvoll fließt. 🌱"
+  },
+  {
+    "date": "2025-11-18",
+    "message": "In funktionierenden Systemen entsteht Motivation nicht durch Druck, sondern durch Passung zwischen Aufgabe und Fähigkeit. #Eudaimonia"
+  }
+]
+```
+
+---
 
 **VORGEHEN:**
+
 1. Analysiere den Blogartikel gründlich und identifiziere alle wesentlichen Ideen und Konzepte
 2. Bewerte die Texttiefe: Reicht der Inhalt für 3, 4, 5, 6 oder 7 einzigartige Tweets?
 3. Erstelle für jede wesentliche Idee einen eigenständigen, wertvollen Tweet
@@ -55,50 +142,13 @@ Du erstellst Tweets, die Menschen zum Nachdenken, Diskutieren und Teilen ihrer e
 6. Formatiere als JSON-Array
 7. Speichere die Datei als `[ARTIKELNAME].json` im Verzeichnis `resources/tweets/posts/`
 
-**BEISPIEL-OUTPUT (5 diskussionsfreundliche Tweets):**
-```json
-[
-  {
-    "date": "2025-11-16",
-    "message": "Mir ist aufgefallen, dass [persönliche Beobachtung aus dem Artikel]. Manchmal frage ich mich, ob andere das ähnlich erleben... #Gedanken #Reflexion"
-  },
-  {
-    "date": "2025-11-17",
-    "message": "Ich habe lange geglaubt [frühere Annahme], bis mir klar wurde [neue Erkenntnis]. Interessant, wie sich Perspektiven wandeln können. #Erkenntnisse"
-  },
-  {
-    "date": "2025-11-18",
-    "message": "Eine Sache beschäftigt mich: [nachdenkliche Beobachtung]. Vielleicht bin ich da zu kritisch, aber [authentischer Zweifel]... #Nachdenken"
-  },
-  {
-    "date": "2025-11-19",
-    "message": "Was mich überrascht hat: [überraschende Einsicht]. Hätte nicht gedacht, dass [ehrliche Verwunderung]. #Überraschung #Lernen"
-  },
-  {
-    "date": "2025-11-20",
-    "message": "Für mich hat sich gezeigt: [persönliche Erkenntnis]. Bin gespannt, ob das für andere auch zutrifft. #Erfahrung #Austausch"
-  }
-]
-```
+---
 
-## Verwendung
+## Qualitätssicherung (philosophisch)
 
-1. Kopiere diesen Prompt
-2. Füge ihn in eine neue Conversation mit GitHub Copilot ein
-3. Füge den Blogartikel-Text hinzu
-4. Die AI analysiert den Inhalt und erstellt automatisch 3-7 Tweets je nach Texttiefe
-
-## Qualitätssicherung
-
-Nach der Generierung prüfen:
-- [ ] 3-7 diskussionsfreundliche Tweets (Qualität vor Quantität)
-- [ ] Alle Daten im korrekten Format (YYYY-MM-DD)
-- [ ] Tweets verwenden persönliche, authentische Formulierungen
-- [ ] Verschiedene Grade von Vulnerabilität und Offenheit
-- [ ] Jeder Tweet lädt subtil zu Gedankenaustausch ein
-- [ ] Keine belehrenden oder verkündenden Töne
-- [ ] Sparsame Emoji-Verwendung (max. 1-2 pro Tweet)
-- [ ] Alle Tweets unter 280 Zeichen
-- [ ] JSON-Syntax ist korrekt
-- [ ] Datei ist im richtigen Verzeichnis gespeichert
-- [ ] Tweets folgen intelligentem Zeitplan für maximale Interaktion
+- [ ] Der Tweet zeigt eine Welt, kein Argument
+- [ ] Er fühlt sich ruhig und weit an
+- [ ] Er erzeugt Orientierung, nicht Druck
+- [ ] Er passt organisch in Eudaimonica
+- [ ] Er könnte auch in 10 Jahren noch stehen
+- [ ] JSON ist valide
