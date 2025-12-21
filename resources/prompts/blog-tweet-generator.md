@@ -140,7 +140,7 @@ Raum zum Nachwirken lassen.
    - 4-5 Tweets: Tag 0, 1, 2, 3, 4
    - 6-7 Tweets: Tag 0, 1, 2, 3, 4, 5, 6
 6. Formatiere als JSON-Array
-7. Speichere die Datei als `[ARTIKELNAME].json` im Verzeichnis `resources/tweets/posts/`
+7. Speichere die Datei als `[ARTIKELNAME].json` ohne `.md` im Verzeichnis `resources/tweets/posts/`
 
 ---
 
