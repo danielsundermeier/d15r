@@ -17,14 +17,13 @@ class CreateCommand extends Command
     {
         $tweet = Tweet::query()
             ->where('type', Type::POST)
-            ->whereDate('scheduled_at', now()->toDateString())
             ->whereNull('tweet_id')
+            ->whereDate('scheduled_at', '<=', now()->toDateString())
+            ->orderBy('scheduled_at', 'DESC')
             ->first();
 
         if (!$tweet) {
-            $this->error('No tweet found for today.');
-
-            return self::FAILURE;
+            return self::SUCCESS;
         }
 
         $this->line($tweet->scheduled_at->toDateString() . ': ' . $tweet->text);
