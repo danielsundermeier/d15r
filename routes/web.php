@@ -22,6 +22,8 @@ Route::get('/impressum', function () {
 Route::get('/contact', [ App\Http\Controllers\ContactController::class, 'index' ])->name('contact.index');
 Route::post('/contact', [ App\Http\Controllers\ContactController::class, 'store' ])->name('contact.store');
 
+Route::post('/deploy', [ App\Http\Controllers\DeploymentController::class, 'store' ])->name('deploy.store');
+
 Route::post('/blog/deploy', [ App\Http\Controllers\Posts\DeploymentController::class, 'store' ])->name('posts.deploy.store');
 
 Route::get('/about', [ App\Http\Controllers\AboutController::class, 'index' ])->name('about.index');
