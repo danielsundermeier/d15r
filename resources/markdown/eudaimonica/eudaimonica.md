@@ -20,7 +20,7 @@ Unser Körper ist unser Avatar im Spiel des Lebens. Mit ihm interagieren wir in 
 
 Wenn wir verstehen, wie er funktioniert, können wir ihn gezielt einsetzen und weiterentwickeln. So optimieren wir unser Spielerlebnis und können uns auf die Herausforderungen und Möglichkeiten des Spiels konzentrieren.
 
-[Mehr](/eudaimonica/avatar)
+[Lesen](/eudaimonica/avatar)
 
 ### Spielwelt
 
@@ -30,7 +30,7 @@ Unser Universum beruht auf bestimmten physikalischen Gesetzen. Diese bilden die 
 
 Das Leben auf unserem Planeten beruht auf Komplexität und Evolution. Das ist die Spielmechanik, die das Leben antreibt.
 
-[Mehr](/eudaimonica/universe)
+[Lesen](/eudaimonica/universe)
 
 ## Philosophie
 
@@ -52,42 +52,46 @@ Personen > Gruppen > Städte > Bioregionen > Planet
 
 ### Play
 
-Wir alle wollen ein erfülltes Leben führen und uns zufrieden fühlen.
+Das persönliche Spiel dreht sich um unseren Avatar und wie wir ihn am besten einsetzen können, um das Spiel des Lebens zu meistern. Es geht darum, unsere Fähigkeiten zu entwickeln, unsere Ziele zu erreichen und ein erfülltes Leben zu führen.
 
-Das Ziel ist die Entwicklung und das Wachstum. Wir wollen unsere Stärken zum Wohle aller einsetzen.
-
-Hier geht es darum, wie wir unser Leben gestalten können, um dieses Ziel zu erreichen.
-
-Unser Fundament ist unser Körper. Er ist die Basis, auf der alles andere aufbaut.
-
-Einzelne Personen bilden Familien und kleine Gruppen.
-
-[Mehr](/eudaimonica/play)
+[Lesen](/eudaimonica/play)
 
 ### Multiplayer
 
-Beziehungen sind ein zentraler Bestandteil des Spiels und das höchste Gut.
+Wie sehen Städte in Eudaimonica aus?
 
-Wir können das Spiel des Lebens nicht allein spielen. Es ist ein Multiplayer-Spiel, bei dem Zusammenarbeit und Kommunikation entscheidend sind. Indem wir uns mit anderen Spielern vernetzen, können wir voneinander lernen, uns unterstützen und gemeinsam Herausforderungen meistern.
-
-Wir erschaffen eine Umgebung, die uns beim Spielen unterstützt. Gleichzeitig verbessern wir die Umgebung immer weiter.
-
-Die Referenz ist hier eine Stadt. Sie setzt sich aus vielen einzelnen Spielern, Familien und kleinen Gruppen zusammen.
-
-Durch den Zusammenschluss wird die Versorgung und Sicherheit für alle verbessert. Gemeinsam haben wir völlig neue Möglichkeiten.
-
-[Mehr](/eudaimonica/multiplayer)
+[Lesen](/eudaimonica/multiplayer)
 
 ### Worldbuilding
 
-Die Städte in den Bioregionen der Erde schließen sich zu einem globalen Netzwerk zusammen.
-
 Hier geht es um den Planeten als Ganzes.
 
-Die Zusammenarbeit aller Städte erhöht die Stabilität und Sicherheit noch einmal. Wir können unsere Ressourcen global verteilen und haben Zugriff auf das Wissen und die Fähigkeiten aller Spieler.
+[Lesen](/eudaimonica/worldbuilding)
 
-Wir gestalten die Spielwelt aktiv mit. Indem wir uns für eine nachhaltige und gerechte Welt einsetzen, können wir das Spiel des Lebens für alle Spieler verbessern. Dabei geht es darum, Verantwortung zu übernehmen und bewusst zu handeln.
+### Meta
 
-Jede unserer Handlungen hat Auswirkungen auf die Spielwelt, aber auch auf uns selbst.
+Die Meta-Ebene betrachtet das Spiel des Lebens aus einer übergeordneten Perspektive. Hier geht es darum, die Prinzipien und Mechanismen zu verstehen, die das Spiel antreiben. Die anderen Bücher sind Beispiele dafür, wie diese Prinzipien in der Praxis angewendet werden können.
 
-[Mehr](/eudaimonica/worldbuilding)
+[Lesen](/eudaimonica/meta)
+
+## Mythologie
+
+Die Mythologie des Spiels des Lebens erzählt Geschichten und Legenden, die uns helfen, die Prinzipien und Werte der Eudaimonica zu verstehen. Sie vermittelt uns Inspiration und Orientierung, indem sie uns zeigt, wie andere Spieler das Spiel gemeistert haben.
+
+### Tutorial
+
+Ein Mann im mittleren Alter, entdeckt die Prinzipen von Eudaimonica und lernt, wie er das Spiel des Lebens besser spielen kann. Es ist eine Einführung in die Grundlagen der Philosophie und zeigt, wie Eudaimonica entsteht.
+
+[Lesen](/eudaimonica/tutorial)
+
+### Let's Play
+
+Wir verfolgen das komplette Leben einer Frau in Eudaimonica. Sie entdeckt die Prinzipien und lernt, wie sie das Spiel des Lebens besser spielen kann. Es ist eine inspirierende Geschichte, die zeigt, wie Eudaimonica in der Praxis funktioniert.
+
+[Lesen](/eudaimonica/lets-play)
+
+### New Game+
+
+Die Menschheit ihre Rolle im Spiel des Lebens und wird nach ihrer Erfüllung weise.
+
+[Lesen](/eudaimonica/new-game-plus)
