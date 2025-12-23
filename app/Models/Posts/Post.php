@@ -24,11 +24,7 @@ class Post extends Model
     ];
 
     protected $casts = [
-        //
-    ];
-
-    protected $dates = [
-        'published_at',
+        'published_at' => 'datetime',
     ];
 
     protected $fillable = [

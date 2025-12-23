@@ -32,10 +32,6 @@ class Guide extends Model
         //
     ];
 
-    protected $dates = [
-        //
-    ];
-
     protected $fillable = [
         'directory',
         'slug',

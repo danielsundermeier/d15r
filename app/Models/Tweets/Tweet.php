@@ -14,12 +14,8 @@ class Tweet extends Model
     ];
 
     protected $casts = [
-        //
-    ];
-
-    protected $dates = [
-        'scheduled_at',
-        'tweeted_at',
+        'scheduled_at' => 'datetime',
+        'tweeted_at' => 'datetime',
     ];
 
     protected $fillable = [

@@ -19,10 +19,6 @@ class {{ class }} extends Model
         //
     ];
 
-    protected $dates = [
-        //
-    ];
-
     protected $fillable = [
         //
     ];
