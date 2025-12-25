@@ -18,7 +18,7 @@ class CreateCommand extends Command
         $tweet = Tweet::query()
             ->where('type', Type::POST)
             ->whereNull('tweet_id')
-            ->whereDate('scheduled_at', '<=', now()->toDateString())
+            ->whereDate('scheduled_at', '<=', now('Europe/Berlin')->toDateString())
             ->orderBy('scheduled_at', 'DESC')
             ->first();
 
