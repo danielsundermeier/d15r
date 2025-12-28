@@ -806,7 +806,7 @@ Dort züchten wir:
 
 - Fische
 - Muscheln
-- Algen
+- Wasserlinsen
 - Enten und Gänse
 
 In einigen Regionen bauen wir Ställe direkt über dem Wasser.
@@ -861,11 +861,11 @@ Die Kanäle sind teilweise von Solaranlagen bedeckt, um Energie zu erzeugen. Das
 
 Wir nutzen sie auch für die Fischzucht.
 
+Nähe macht Geschwindigkeit überflüssig. Deshalb können wir langsam reisen und die Umgebung genießen.
+
 Slow Travel ist ein wichtiger Bestandteil des Lebensstils. Wir reisen mit dem Boot, zu Fuß oder Fahrrad zwischen den Städten.
 
-Es gibt keine Autos oder Züge mehr.
-
-Es ist die Anti-Autobahn-Zivilisation.
+wir benötigen weder Autos noch Züge. Es ist die Anti-Autobahn-Zivilisation.
 
 Autobahnen schneiden Landschaften entzwei. Kanäle verweben sie miteinander.
 
