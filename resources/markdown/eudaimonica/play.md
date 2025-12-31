@@ -76,8 +76,8 @@ Und das Wichtigste: Teilnahme beginnt immer klein. Ein einziger klarer Schritt r
 
 Das Leben ist komplex, aber zwei einfache Fragen bringen alle Unklarheit auf den Punkt:
 
-Was möchte ich?
-Was ist jetzt zu tun?
+- Was möchte ich?
+- Was ist jetzt zu tun?
 
 Diese beiden Fragen öffnen das Spiel. Wer sie ehrlich beantwortet, verlässt den Autopiloten und beginnt, sein Leben aktiv zu gestalten. Sie wirken unscheinbar, aber sie sind das Fundament von Selbstwirksamkeit, Entwicklung und innerer Klarheit.
 
