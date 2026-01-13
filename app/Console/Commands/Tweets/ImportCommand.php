@@ -18,8 +18,11 @@ class ImportCommand extends Command
         $this->info('Importing daylies...');
         $this->daylies();
 
-        $this->info('Importing posts...');
-        $this->posts();
+        $this->info('Importing local posts...');
+        $this->posts(resource_path('tweets/posts/*.json'));
+
+        $this->info('Importing blog posts...');
+        $this->posts(storage_path('app/blog/tweets/posts/*.json'));
 
         return self::SUCCESS;
     }
@@ -47,9 +50,9 @@ class ImportCommand extends Command
         }
     }
 
-    private function posts(): void
+    private function posts(string $source): void
     {
-        $files = glob(resource_path('tweets/posts/*.json'));
+        $files = glob($source);
         foreach ($files as $file) {
             $basename = basename($file);
 
