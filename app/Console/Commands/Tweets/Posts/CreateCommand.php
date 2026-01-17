@@ -19,7 +19,7 @@ class CreateCommand extends Command
             ->where('type', Type::POST)
             ->whereNull('tweet_id')
             ->whereDate('scheduled_at', '<=', now('Europe/Berlin')->toDateString())
-            ->orderBy('scheduled_at', 'DESC')
+            ->inRandomOrder()
             ->first();
 
         if (!$tweet) {
