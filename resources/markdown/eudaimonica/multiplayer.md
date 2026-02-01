@@ -564,12 +564,30 @@ Gleichzeitig ist sie weiterhin Teil einer vernetzten Welt – aber nicht abhäng
 Durch lokale Produktion und Speicherung entsteht **Stabilität, Widerstandsfähigkeit und Sicherheit**.
 Transportwege, Kosten und Risiken reduzieren sich drastisch.
 
+##### Überproduktion als Normalzustand
+
+Wir maximieren die Produktion von Energie. Ziel ist es, dass die Menschen in der Stadt nur einen Bruchteil der Energie verbrauchen, die sie selbst erzeugen.
+
+In jeder Stadt gibt es ein Rechenzentrum, dass die überschüssige Energie in Rechenleistung umwandelt.
+
+Auf diese Weise wird jede Kilowattstunde, die nicht lokal verbraucht wird, sinnvoll genutzt und die Menschen brauchen keine Angst zu haben zu wenig Energie zu haben.
+
+Die Prioritäten sind:
+
+- Menschen
+- Infrastruktur
+- Rechenzentren
+
+Wenn weniger Energie erzeugt wird, wird die Rechenleistung reduziert. Da wir einen so enormen Überschuss an Energie haben, sind die Auswirkungen für uns nicht zu spüren.
+
+Rechenzentren sind flexibel und können ihre Leistung sehr schnell anpassen.
+
 ##### Das Energie-Internet (Peer-to-Peer-Energie)
 
 Die Stadt organisiert ihre Energie nicht über zentrale Versorger, sondern über ein **Energie-Internet**:
 ein dezentrales, selbstregulierendes Netzwerk aus Erzeugern, Verbrauchern und Speichern.
 
-###### Grundprinzip: Strom verhält sich wie Daten.
+###### Grundprinzip: Strom verhält sich wie Daten
 
 - Jede Solaranlage, jede Batterie, jedes Gerät wird zu einem eigenen Netzwerkknoten.
 - Jedes Modul misst seine eigene Produktion.
@@ -1069,6 +1087,20 @@ Es ist ein Investment in den Zusammenhalt der Gemeinschaft.
 #### Atmung
 
 Die Stadt sorgt für frische Luft und eine angenehme Atmosphäre. Es gibt viele Pflanzen und Bäume, die für ein gutes Klima sorgen.
+
+#### Rechenzentrum
+
+Rechenleistung hat eine besondere Eigenschaft. Sie ist unersättlich – und gleichzeitig vollkommen elastisch. Sie kann wachsen, pausieren, sich zurückziehen, ohne dass jemand darunter leidet. Wenn mehr Energie da ist, rechnen mehr Kerne. Wenn weniger da ist, laufen einfach ein paar weniger. Kein Licht geht aus. Niemand friert. Schwankungen betreffen keine Menschen mehr, sondern ausschließlich Maschinen.
+
+In den Städten von Eudaimonica wird das Rechenzentrum deshalb zu einem ganz normalen Teil der urbanen Infrastruktur. Wie Wasser, wie Wege, wie Wärme. Es nimmt den Energieüberschuss auf und verwandelt ihn in Forschung, in Simulationen, in bessere Modelle. Es rechnet nicht für Aufmerksamkeit oder Ablenkung, sondern für Erkenntnis. Für das Durchspielen von Möglichkeiten, bevor wir handeln. Für gezieltes Lernen statt blindem Ausprobieren.
+
+Hier zeigt sich etwas Entscheidendes: Rechenleistung ist eines der wenigen Dinge, von denen wir praktisch unbegrenzt mehr bauen können – und immer davon profitieren. Es gibt keinen Punkt, an dem „genug gerechnet“ ist. Mehr Rechenleistung bedeutet mehr Varianten, mehr Hypothesen, mehr Experimente. Sie ist kein Konsum, sie ist eine Investition. Energie wird nicht verbrannt, sondern in Zukunft verwandelt.
+
+Aus diesem einfachen Prinzip entsteht ein selbstverstärkender Kreislauf. Mehr Rechenleistung ermöglicht bessere Forschung. Bessere Forschung senkt Kosten, verbessert Technologien, erschließt neue Energiequellen. Mehr Energie fließt zurück in das Rechenzentrum. Ein System beginnt, sich selbst zu tragen und zu beschleunigen – ohne Druck, ohne Verzicht, ohne moralische Appelle an den Einzelnen.
+
+Fast nebenbei entstehen Effekte, die heute wie Luxus wirken. Abwärme wird allgegenwärtig. Winter-Freibäder, Saunen, beheizte Gehwege, Gewächshäuser das ganze Jahr über. Wärme verliert ihren Ausnahmecharakter. Sie wird banal. Und mit ihr verschwindet ein großer Teil der Alltagsreibung, die unser Leben heute prägt.
+
+Mit der Zeit reicht selbst das nicht mehr. Rechenleistung wächst weiter. Neue Materialien werden erforscht, idealerweise solche, die lokal und im Überfluss vorhanden sind. Der Gedanke liegt nahe: Warum Rechenzentren überhaupt noch an der Oberfläche bauen? Warum nicht dort, wo die Materialien herkommen? Unterirdische Rechenzentren entstehen direkt in den Minen. Rohstoffabbau, Materialforschung, Chipherstellung und Compute rücken zusammen. Aus dem Boden wächst Rechenleistung. Abwärme steigt nach oben und versorgt die Städte.
 
 ### Governance
 
