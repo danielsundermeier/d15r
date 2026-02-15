@@ -1,126 +1,52 @@
-# Willkommen in Eudaimonica: Dem Spiel, das sich jeder Gamer wünscht
+# Klarheit durch Verständnis
 
----
+Ich versuche das Leben zu verstehen.
 
-Stell dir ein Spiel vor
+Nicht theoretisch, sondern praktisch — indem ich beobachte, schreibe und meine eigenen Modelle der Welt entwickle.
 
-- ohne Ladebildschirm.
-- ohne Grenzen.
-- ohne Ende.
+Mein Ziel ist es, die zugrunde liegenden Spielmechaniken zu erkennen, um die Signale wahrnehmen zu können, die gute Entscheidungen ermöglichen. Klarheit entsteht nicht durch Kontrolle, sondern durch Verständnis.
 
-Eine Welt, größer als alles, was je gebaut wurde.
+Das Schreiben ist dabei mein Werkzeug.
+Es hilft mir, Gedanken sichtbar zu machen, Zusammenhänge zu erkennen und mein eigenes Denken zu schärfen.
 
-Und du bist mittendrin.
+Ich teile diese Texte hier, um zu lernen — und um eine Grundlage für Gespräche mit Menschen zu schaffen, die ähnliche Fragen bewegen.
 
----
-
-## Willkommen im Spiel des Lebens
-
-Ein ganzer Planet zum Erkunden. Ozeane. Berge. Städte. Wälder. Kulturen. Sprachen. Geschichten.
-
-Milliarden anderer Spieler. Jeder einzigartig. Jeder mit eigenen Quests.
-
-Kein Durchlauf gleicht dem anderen.
-
----
-
-## Unendliche Möglichkeiten
-
-Du kannst:
-
-- lernen, was immer du willst
-- reisen, wohin du willst
-- Fähigkeiten entwickeln, die du dir heute noch nicht vorstellen kannst
-
-Du kannst bauen. Zerstören. Heilen. Gestalten.
-
-Du kannst Systeme erschaffen. Gemeinschaften. Städte. Zukünfte.
-
----
-
-## Perfektes Feedback
-
-Dieses Spiel ist brutal ehrlich.
-
-Jede Entscheidung hat Konsequenzen. Jeder Schritt verändert die Welt. Nichts bleibt ohne Wirkung.
-
-Du bekommst ständig Feedback:
-
-- durch deinen Körper
-- durch deine Gefühle
-- durch die Realität selbst
-
-Kein RNG. Keine versteckten Regeln. Keine Ausreden.
-
----
-
-## Kein Endboss. Kein Abspann
-
-Es gibt kein „Gewonnen“. Kein „Fertig“.
-
-Das Spiel entwickelt sich weiter, weil **du** dich weiterentwickelst.
-
-Neue Herausforderungen entstehen, weil du gewachsen bist.
-
-Das ist kein Fehler. Das ist das Feature.
-
----
-
-## Völlige Freiheit
-
-Es gibt keine vorgegebenen Klassen. Keine festen Rollen. Keine Pflichtquests.
-
-Du entscheidest:
-
-- wie du spielst
-- mit wem du spielst
-- wofür du deine Zeit einsetzt
-
-Du kannst jederzeit neu anfangen. Die Richtung ändern. Alles umbauen.
-
----
-
-## Warum fühlt es sich dann oft klein an?
-
-Weil viele vergessen haben, dass sie spielen.
-
-Weil sie glauben, sie müssten funktionieren, statt zu erkunden.
-
-Weil sie grinden, statt zu leben.
-
----
+Im [Blog](/blog) findest Du meine aktuellen Gedanken, Experimente und Beobachtungen.
 
 ## Eudaimonica
 
-Eudaimonica ist kein neues Spiel.
+Mir gefällt das Bild des Lebens als Spiel.
 
-Es ist der Moment, in dem du merkst, **was du hier eigentlich spielst**.
+Nicht im Sinne von Gewinnen oder Verlieren, sondern als ein System mit Regeln, Dynamiken und Möglichkeiten, die verstanden werden können.
 
-Ein Perspektivwechsel. Ein Aufwachen im Spiel.
+Ich nenne dieses Spiel Eudaimonica.
 
----
+Der Name kommt von „Eudaimonia“, einem griechischen Wort für ein erfülltes, gelungenes Leben. Es beschreibt einen Zustand, der nicht durch äußeren Erfolg entsteht, sondern durch das Entfalten der eigenen Fähigkeiten im Einklang mit der Realität.
 
-## Die Einladung
+Eudaimonica ist mein Versuch, die Mechaniken dieses Spiels sichtbar zu machen.
 
-Wenn du spürst, dass das Leben mehr ist als To-do-Listen und Durchhalten –
+Eine Art Walkthrough — kein starres Regelwerk, sondern eine Orientierungshilfe.
+Ein Modell, das mit jeder neuen Erfahrung klarer wird.
 
-wenn du ahnst, dass hier etwas Unglaubliches passiert –
+Es ermöglicht uns, nicht bei Null zu beginnen, sondern auf vorhandenem Verständnis aufzubauen und bewusster zu gestalten.
 
-dann ist das kein Zufall.
+Eine Übersicht über die zugrunde liegenden Prinzipien findest Du in der [Philosophie](/philosophy).
 
-> **Du bist nicht hier, um zu überleben. Du bist hier, um zu spielen.**
+Wenn Du tiefer eintauchen möchtest, findest Du in [Eudaimonica](/eudaimonica) die ausführlichere Ausarbeitung.
 
----
+## Eudaimonia Architekt
 
-## Eudaimonica
+Während ich mein eigenes Modell der Welt entwickle, arbeite ich auch mit kleinen Unternehmen zusammen, die ihre eigenen Systeme besser verstehen und bewusst gestalten möchten.
 
-**Das größte Spiel aller Zeiten läuft bereits.**
+Viele Unternehmen wachsen organisch. Prozesse entstehen aus Notwendigkeit und Erfahrung. Doch mit der Zeit wird es schwieriger, den Überblick zu behalten. Entscheidungen fühlen sich unsicher an, Veränderungen riskant.
 
----
+Als Eudaimonia Architekt helfe ich dabei, diese Systeme sichtbar zu machen.
 
-[Hier](/philosophy) findest Du eine Übersicht über die Philosophie.
+Gemeinsam entwickeln wir eine individuelle Software, die Prozesse abbildet, Zusammenhänge klärt und eine stabile Grundlage für Entscheidungen schafft. So entsteht Schritt für Schritt ein System, das nicht mehr vom ständigen Reagieren lebt, sondern bewusst gestaltet werden kann.
 
-Wenn du direkt tiefer eintauchen möchtest, findest du in [Eudaimonica](/eudaimonica) die ausführlichere Version.
+Es ist die gleiche Arbeit auf einer anderen Ebene: Verstehen, um gestalten zu können.
+
+[Hier](/eudaimonia-architect) findest Du mehr über die Zusammenarbeit.
 
 ## Aktuelle Artikel
 
