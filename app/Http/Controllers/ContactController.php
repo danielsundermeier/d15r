@@ -15,6 +15,11 @@ class ContactController extends Controller
 
     public function store(Request $request)
     {
+        return back()->with('status', [
+            'type' => 'warning',
+            'text' => 'Aufgrund von Spam-Bots ist das Kontaktformular vorübergehend deaktiviert.',
+        ]);
+
         $attributes = $request->validate([
             'name' => 'required|string',
             'mail' => 'required|email',
