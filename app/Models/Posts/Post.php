@@ -53,7 +53,7 @@ class Post extends Model
     public static function attributesFromFile(string $path): array
     {
         $filename = basename($path);
-        $content = Storage::get($path);
+        $content = self::contentStartingAtTitle(Storage::get($path));
         $first_line = preg_split('#\r?\n#', $content, 0)[0];
         $title = trim(str_replace('# ', '', $first_line));
 
@@ -64,6 +64,15 @@ class Post extends Model
             'title' => $title,
             'slug' => Str::slug($title, '-', 'de'),
         ];
+    }
+
+    private static function contentStartingAtTitle(string $content): string
+    {
+        if (!preg_match('/^# .+$/m', $content, $matches, PREG_OFFSET_CAPTURE)) {
+            return $content;
+        }
+
+        return substr($content, $matches[0][1]);
     }
 
     public static function createFromFile(array $attributes): self
