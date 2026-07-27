@@ -21,8 +21,8 @@ class ImportCommand extends Command
         $this->info('Importing local posts...');
         $this->posts(resource_path('tweets/posts/*.json'));
 
-        $this->info('Importing blog posts...');
-        $this->posts(storage_path('app/blog/tweets/posts/*.json'));
+        $this->info('Importing X posts...');
+        $this->posts(storage_path('app/x/posts/*.json'));
 
         return self::SUCCESS;
     }

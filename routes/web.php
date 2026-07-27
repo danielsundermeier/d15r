@@ -25,6 +25,7 @@ Route::post('/contact', [ App\Http\Controllers\ContactController::class, 'store'
 Route::post('/deploy', [ App\Http\Controllers\DeploymentController::class, 'store' ])->name('deploy.store');
 
 Route::post('/blog/deploy', [ App\Http\Controllers\Posts\DeploymentController::class, 'store' ])->name('posts.deploy.store');
+Route::post('/x/deploy', [ App\Http\Controllers\Tweets\DeploymentController::class, 'store' ])->name('tweets.deploy.store');
 
 Route::get('/about', [ App\Http\Controllers\AboutController::class, 'index' ])->name('about.index');
 
