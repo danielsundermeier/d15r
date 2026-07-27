@@ -56,8 +56,7 @@ class DeploymentController extends Controller
 
     protected function updateOrcreatePost(string $filename)
     {
-        // if not in root directory
-        if ($filename != basename($filename)) {
+        if (! Post::isArticleFile($filename)) {
             return;
         }
 

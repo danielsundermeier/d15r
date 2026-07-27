@@ -44,7 +44,13 @@ class ImportCommand extends Command
         $files = Storage::files('blog');
         dump($files);
         foreach ($files as $path) {
-            $post = Post::updateOrCreateFromFile($path);
+            $filename = basename($path);
+
+            if (! Post::isArticleFile($filename)) {
+                continue;
+            }
+
+            Post::updateOrCreateFromFile($path);
         }
     }
 }

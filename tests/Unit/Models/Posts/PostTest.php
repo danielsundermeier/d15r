@@ -8,6 +8,17 @@ use Tests\TestCase;
 
 class PostTest extends TestCase
 {
+    public function test_it_recognizes_article_files_by_their_filename_structure(): void
+    {
+        $this->assertTrue(Post::isArticleFile('2026-07-26 Welches Spiel wollen wir spielen?.md'));
+
+        $this->assertFalse(Post::isArticleFile('.gitignore'));
+        $this->assertFalse(Post::isArticleFile('AGENTS.md'));
+        $this->assertFalse(Post::isArticleFile('2026-07-26 Artikel.txt'));
+        $this->assertFalse(Post::isArticleFile('2026-02-30 Ungültiges Datum.md'));
+        $this->assertFalse(Post::isArticleFile('entwürfe/2026-07-26 Artikel.md'));
+    }
+
     public function test_attributes_are_the_same_with_and_without_frontmatter(): void
     {
         Storage::fake();

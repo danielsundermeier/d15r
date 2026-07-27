@@ -35,6 +35,23 @@ class Post extends Model
         'title',
     ];
 
+    public static function isArticleFile(string $path): bool
+    {
+        if ($path !== basename($path)) {
+            return false;
+        }
+
+        if (! preg_match('/^(?<date>\d{4}-\d{2}-\d{2}) .+\.md$/u', $path, $matches)) {
+            return false;
+        }
+
+        try {
+            return Carbon::createFromFormat('!Y-m-d', $matches['date'])->format('Y-m-d') === $matches['date'];
+        } catch (\Throwable) {
+            return false;
+        }
+    }
+
     public static function updateOrCreateFromFile(string $path): self
     {
         $attributes = self::attributesFromFile($path);
