@@ -1,0 +1,95 @@
+# Fachliches Modell von d15r
+
+Dieser Bereich enthält das dauerhaft konsolidierte fachliche Wissen, das für
+das Verstehen und Verändern von d15r benötigt wird.
+
+## Zweck
+
+D15r ist Daniels öffentliches, lebendes Experiment mit der Frage:
+
+> Welcher Mensch entsteht, wenn ich konsequent nach meinem besten aktuellen
+> Weltmodell lebe – und dieses Weltmodell durch das Leben immer weiter
+> verbessere?
+
+Die Webseite dokumentiert keine abgeschlossene Lehre. Sie verbindet Denken,
+Leben, Reflexion und erneutes Handeln zu einer Aufwärtsspirale.
+
+## Fachliche Gegenstände
+
+### Weltmodell
+
+Das Weltmodell ist Daniels bestes aktuelles Verständnis von sich und der
+Realität. Es ist ausdrücklich veränderlich und wird durch Erfahrung geprüft
+und verbessert.
+
+### Philosophie
+
+Die Philosophie verdichtet die grundlegenden Prinzipien des aktuellen
+Weltmodells. Sie ist kein statisches Regelwerk und keine endgültige Wahrheit.
+
+### Eudaimonica
+
+Eudaimonica ist die ausführliche Untersuchung des guten Lebens als
+erlernbares Spiel. Sie bietet Orientierung und Sprache für Entwicklung, ohne
+einen universellen perfekten Plan zu behaupten.
+
+### Journal
+
+Das Journal enthält aktuelle Erfahrungen, Fragen und Beobachtungen. Ein
+einzelner Beitrag ist ein Spielstand, nicht automatisch eine dauerhafte
+philosophische Festlegung.
+
+### Experiment und emergierender Autor
+
+Die Inhalte entstehen aus Daniels Leben, Gedanken und Gesprächen. Eine KI gibt
+ihnen zunehmend eine Form, die Daniel vor der Veröffentlichung nicht selbst
+kontrolliert.
+
+Ziel ist nicht maximale Content-Produktion. Aus dem Weltmodell soll eine
+konsistente Stimme emergieren: ein Autor und Mentor, dem Daniel selbst gerne
+folgt und der ihn mit wechselnden Zugängen daran erinnert, wie er leben möchte.
+
+Die KI ist nicht die Quelle der Erfahrungen oder der Philosophie. Sie ist Teil
+des Rückkopplungsprozesses:
+
+```text
+leben → sprechen → veröffentlichen → lesen → handeln → erfahren → lernen
+```
+
+Der Autor besitzt derzeit bewusst keinen vorgegebenen Namen und keine
+vollständig entworfene Persönlichkeit. Diese Offenheit wird nicht beiläufig
+geschlossen.
+
+### Zusammenarbeit
+
+Unter „Zusammenarbeit“ wird Daniels praktische Arbeit an Systemen und
+Unternehmen zugänglich. Sie ist mit dem Weltmodell verwandt, aber nicht der
+Zweck jedes Inhalts und wird deshalb nicht als globaler Verkaufsaufruf
+inszeniert.
+
+## Beziehungen
+
+- Erfahrung verändert das Weltmodell.
+- Das Weltmodell verdichtet sich in der Philosophie.
+- Eudaimonica arbeitet Teile davon ausführlich aus.
+- Das Journal zeigt aktuelle Anwendung, Zweifel und Entwicklung.
+- Der emergierende Autor gibt dem Weltmodell eine wiedererkennbare Stimme.
+- Die veröffentlichte Stimme wirkt als Erinnerung zurück auf Daniels Handeln.
+- Neues Handeln erzeugt neue Erfahrung und setzt die Spirale fort.
+
+## Fachliche Grenzen
+
+- D15r ist kein KI-Produktmarketing und keine Content-Fabrik.
+- Die Seite behauptet nicht, das optimale Leben bereits gefunden zu haben.
+- Die Philosophie wird nicht als statisch oder abgeschlossen dargestellt.
+- Der Autor wird nicht ohne fachliche Klärung mit Daniel gleichgesetzt.
+- Technische Automatisierung darf die Herkunft der Gedanken aus Daniels Leben
+  und Gesprächen nicht verschleiern.
+- Persönliche, philosophische und geschäftliche Inhalte bleiben unterscheidbar,
+  auch wenn sie aus demselben Weltmodell entstehen.
+
+## Routing
+
+Das fachliche Modell ist aktuell klein genug für diesen gemeinsamen Einstieg.
+Eine eigene Unterdomäne wird erst angelegt, wenn reale Arbeit einen
+eigenständigen Lebenszyklus, eigene Regeln oder gezieltes Routing erfordert.
