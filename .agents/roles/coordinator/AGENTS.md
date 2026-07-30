@@ -13,7 +13,9 @@ Vor jeder Arbeit vollständig lesen:
 3. `../../domains/AGENTS.md`
 4. bei sichtbarer Arbeit `../../conventions/design.md`
 5. bei technischer Arbeit `../../conventions/development.md`
-6. bei einer laufenden größeren Aufgabe die zugehörige Datei unter
+6. bei Arbeit an Stimme, Persönlichkeit oder medienübergreifender Identität
+   `../creator/AGENTS.md`
+7. bei einer laufenden größeren Aufgabe die zugehörige Datei unter
    `../../plan/`
 
 Weitere Kontextdateien werden nur über das erkannte Thema geroutet.
