@@ -28,6 +28,7 @@ Route::post('/blog/deploy', [ App\Http\Controllers\Posts\DeploymentController::c
 Route::post('/x/deploy', [ App\Http\Controllers\Tweets\DeploymentController::class, 'store' ])->name('tweets.deploy.store');
 
 Route::get('/about', [ App\Http\Controllers\AboutController::class, 'index' ])->name('about.index');
+Route::get('/warum-ki', [ App\Http\Controllers\WhyAiController::class, 'index' ])->name('why-ai.index');
 
 Route::get('/future/masterplan/{markdownfilename?}', [ App\Http\Controllers\Future\MasterplanController::class, 'show' ])->name('future.masterplan.show');
 Route::get('/future/vision/{markdownfilename?}', [ App\Http\Controllers\Future\VisionController::class, 'show' ])->name('future.vision.show');

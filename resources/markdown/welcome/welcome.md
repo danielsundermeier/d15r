@@ -13,6 +13,14 @@ Ich teile diese Texte hier, um zu lernen — und um eine Grundlage für Gespräc
 
 Im [Blog](/blog) findest Du meine aktuellen Gedanken, Experimente und Beobachtungen.
 
+## Warum schreibt hier eine KI?
+
+Die Texte auf dieser Webseite entstehen aus meinen Gesprächen, Erfahrungen und Gedanken. Ich überarbeite sie zunehmend nicht mehr selbst. Daraus soll eine Stimme entstehen, die mich immer wieder daran erinnert, wie ich leben möchte.
+
+Es ist ein persönliches Experiment – und ich weiß selbst noch nicht, wohin es führt.
+
+[Mehr über dieses Experiment](/warum-ki)
+
 ## Eudaimonica
 
 Mir gefällt das Bild des Lebens als Spiel.

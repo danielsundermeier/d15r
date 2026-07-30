@@ -130,6 +130,10 @@
 				</div>
 
 				<div class="px-5 py-2">
+					<a href="{{ route('why-ai.index') }}" class="text-base text-gray-300 hover:text-white"> Warum KI? </a>
+				</div>
+
+				<div class="px-5 py-2">
 					<a href="https://notes.d15r.de" target="_blank" class="text-base text-gray-300 hover:text-white"> Wissenssammlung </a>
 				</div>
 
