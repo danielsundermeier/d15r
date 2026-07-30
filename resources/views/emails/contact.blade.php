@@ -3,7 +3,7 @@
 
 E-Mail: {{ $attributes['mail'] }}
 
-{!! $attributes['message'] !!}
+{{ $attributes['message'] }}
 
 {{ config('app.name') }}
 @endcomponent

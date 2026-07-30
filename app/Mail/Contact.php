@@ -30,7 +30,7 @@ class Contact extends Mailable
      */
     public function build()
     {
-        return $this->from($this->attributes['mail'], $this->attributes['name'])
+        return $this->replyTo($this->attributes['mail'], $this->attributes['name'])
             ->subject('Kontaktformular von D15r')
             ->markdown('emails.contact');
     }

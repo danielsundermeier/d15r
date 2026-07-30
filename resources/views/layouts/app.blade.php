@@ -117,9 +117,32 @@
         </div>
     </footer>
 
-    @if (Session::has('status'))
-        <div class="fixed bottom-6 right-6 z-50 max-w-sm rounded-2xl bg-white p-5 text-sm text-slate-700 shadow-xl ring-1 ring-slate-900/10 dark:bg-slate-900 dark:text-slate-200 dark:ring-white/10">
-            Nachricht verschickt. Vielen Dank, ich melde mich.
+    @php
+        $status = session('status');
+        $statusType = is_array($status) ? ($status['type'] ?? 'success') : 'success';
+        $statusText = is_array($status) ? ($status['text'] ?? null) : $status;
+    @endphp
+
+    @if ($statusText)
+        <div role="{{ $statusType === 'error' ? 'alert' : 'status' }}"
+             class="fixed bottom-6 right-6 z-50 max-w-sm rounded-2xl bg-white p-5 text-sm text-slate-700 shadow-xl ring-1 ring-slate-900/10 dark:bg-slate-900 dark:text-slate-200 dark:ring-white/10">
+            <p class="font-semibold
+                @if ($statusType === 'error')
+                    text-red-600 dark:text-red-400
+                @elseif ($statusType === 'warning')
+                    text-amber-600 dark:text-amber-400
+                @else
+                    text-sky-700 dark:text-sky-400
+                @endif">
+                @if ($statusType === 'error')
+                    Fehler
+                @elseif ($statusType === 'warning')
+                    Achtung
+                @else
+                    Hinweis
+                @endif
+            </p>
+            <p class="mt-1">{{ $statusText }}</p>
         </div>
     @endif
 </body>
