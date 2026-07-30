@@ -1,74 +1,61 @@
 @extends('layouts.app')
 
-@section('title')
-{{ $title }}
-@endsection
+@section('title', $title)
 
 @section('content')
+    <header class="border-b border-slate-200 bg-stone-50 dark:border-slate-800 dark:bg-slate-900">
+        <div class="mx-auto max-w-7xl px-5 py-16 sm:px-8 sm:py-24">
+            <p class="text-xs font-semibold uppercase tracking-[0.22em] text-sky-600 dark:text-sky-400">
+                {{ request()->routeIs('philosophy.*') ? 'Aktuelles Weltmodell' : 'Das Spiel des guten Lebens' }}
+            </p>
+            <h1 class="mt-5 max-w-4xl text-4xl font-semibold tracking-[-0.035em] text-slate-900 sm:text-6xl dark:text-white">{{ $title }}</h1>
+            <p class="mt-6 max-w-2xl text-lg leading-8 text-slate-600 dark:text-slate-300">
+                Ein lebendes Dokument. Kein endgültiges Regelwerk, sondern der beste aktuelle Stand meines Verständnisses.
+            </p>
+        </div>
+    </header>
 
-    <div class="relative mx-auto flex w-full max-w-8xl flex-auto justify-center px-2 sm:px-2 lg:px-8 xl:px-12">
-
-        <div class="max-w-2xl min-w-0 flex-auto px-4 py-16 lg:max-w-none lg:pr-0 lg:pl-8 xl:px-16">
-
-            <article>
-
-                <header class="mb-9 space-y-1">
-                    {{-- <p class="font-display text-sm font-medium text-sky-500">Test</p> --}}
-                    <h1 class="font-display text-3xl tracking-tight text-slate-900 dark:text-white">{{ $title }}</h1>
-                </header>
-
-                <div id="book" class="prose max-w-none prose-slate dark:text-slate-400 dark:prose-invert prose-headings:scroll-mt-28 prose-headings:font-display prose-headings:font-normal lg:prose-headings:scroll-mt-34 prose-lead:text-slate-500 dark:prose-lead:text-slate-400 prose-a:font-semibold dark:prose-a:text-sky-400 dark:[--tw-prose-background:var(--color-slate-900)] prose-a:no-underline prose-a:shadow-[inset_0_-2px_0_0_var(--tw-prose-background,#fff),inset_0_calc(-1*(var(--tw-prose-underline-size,4px)+2px))_0_0_var(--tw-prose-underline,var(--color-sky-300))] prose-a:hover:[--tw-prose-underline-size:6px] dark:prose-a:shadow-[inset_0_calc(-1*var(--tw-prose-underline-size,2px))_0_0_var(--tw-prose-underline,var(--color-sky-800))] dark:prose-a:hover:[--tw-prose-underline-size:6px] prose-pre:rounded-xl prose-pre:bg-slate-900 prose-pre:shadow-lg dark:prose-pre:bg-slate-800/60 dark:prose-pre:shadow-none dark:prose-pre:ring-1 dark:prose-pre:ring-slate-300/10 dark:prose-hr:border-slate-800">
+    <div class="bg-white dark:bg-slate-900/30">
+        <div class="relative mx-auto flex max-w-7xl px-5 sm:px-8">
+            <article class="min-w-0 flex-1 py-16 lg:pr-16 lg:py-24">
+                <div id="book" class="prose prose-lg max-w-3xl prose-slate prose-headings:scroll-mt-28 prose-headings:font-semibold prose-headings:tracking-tight prose-a:text-sky-700 prose-a:no-underline hover:prose-a:underline prose-hr:border-slate-200 dark:prose-invert dark:prose-a:text-sky-400 dark:prose-hr:border-slate-800">
                     {!! $content !!}
                 </div>
-
             </article>
 
+            <aside class="hidden w-64 flex-none border-l border-slate-200 py-24 pl-10 xl:block dark:border-slate-800">
+                <nav class="sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto" aria-labelledby="on-this-page-title">
+                    <h2 id="on-this-page-title" class="text-xs font-semibold uppercase tracking-[0.2em] text-slate-900 dark:text-white">Inhalt</h2>
+                    {!! $toc ?? '' !!}
+                </nav>
+            </aside>
         </div>
-
-        <div class="hidden xl:sticky xl:top-19 xl:-mr-6 xl:block xl:h-[calc(100vh-4.75rem)] xl:flex-none xl:overflow-y-auto xl:py-16 xl:pr-6 xl:top-0">
-
-            <nav class="w-48">
-                <h2 id="on-this-page-title" class="font-display text-sm font-medium text-slate-900 dark:text-white">Inhalt</h2>
-                {!! $toc ?? '' !!}
-            </nav>
-
-        </div>
-
     </div>
 
-    <script type="text/javascript">
-        document.addEventListener("DOMContentLoaded", function() {
-            // Highlight the current section in the TOC based on scroll position
-            const tocLinks = document.querySelectorAll('nav a[href^="#"]');
-            const sections = Array.from(tocLinks).map(link => document.querySelector(link.getAttribute('href')));
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const links = Array.from(document.querySelectorAll('.table-of-contents a[href^="#"]'))
+            const sections = links
+                .map(link => document.querySelector(link.getAttribute('href')))
+                .filter(Boolean)
 
-            function onScroll() {
-                const scrollPosition = window.scrollY + 50; // Offset for better visibility
-                let currentSectionIndex = -1;
+            if (! links.length || ! sections.length) return
+
+            const updateActiveLink = () => {
+                let activeIndex = 0
 
                 sections.forEach((section, index) => {
-                    if (section.offsetTop <= scrollPosition) {
-                        currentSectionIndex = index;
-                    }
-                });
+                    if (section.getBoundingClientRect().top <= 140) activeIndex = index
+                })
 
-                tocLinks.forEach((link, index) => {
-                    if (index === currentSectionIndex) {
-                        link.scrollIntoView({ block: 'nearest', behavior: 'smooth', container: 'nearest' });
-                        link.classList.add('!text-sky-500');
-                    } else {
-                        link.classList.remove('!text-sky-500');
-                    }
-                });
+                links.forEach((link, index) => {
+                    link.classList.toggle('!text-sky-600', index === activeIndex)
+                    link.classList.toggle('dark:!text-sky-400', index === activeIndex)
+                })
             }
 
-            let scrollTimeout;
-            window.addEventListener('scroll', () => {
-                clearTimeout(scrollTimeout);
-                scrollTimeout = setTimeout(onScroll, 25);
-            });
-            onScroll(); // Initial call to set the correct state
-        });
+            window.addEventListener('scroll', updateActiveLink, { passive: true })
+            updateActiveLink()
+        })
     </script>
-
 @endsection

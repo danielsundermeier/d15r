@@ -1,73 +1,39 @@
 @extends('layouts.app')
 
+@section('title', 'Impressum & Datenschutz')
+
 @section('content')
 
-    <div class="container">
+    <section class="border-b border-slate-200 bg-stone-50 dark:border-slate-800 dark:bg-slate-900">
+        <div class="mx-auto max-w-7xl px-5 py-20 sm:px-8 sm:py-28">
+            <p class="text-xs font-semibold uppercase tracking-[0.22em] text-amber-600 dark:text-amber-400">Rechtliches</p>
+            <h1 class="mt-5 text-5xl font-semibold tracking-[-0.04em] text-slate-900 sm:text-6xl dark:text-white">Impressum</h1>
 
-    <div id="contact" class="relative bg-white">
-      <div class="absolute inset-0">
-        <div class="absolute inset-y-0 left-0 w-1/2 bg-gray-50"></div>
-      </div>
-      <div class="relative max-w-7xl mx-auto lg:grid lg:grid-cols-5">
-        <div class="bg-gray-50 py-16 px-4 sm:px-6 lg:col-span-2 lg:px-8 lg:py-24 xl:pr-12">
-          <div class="max-w-lg mx-auto">
-            <h2 class="text-2xl font-extrabold tracking-tight text-gray-900 sm:text-3xl">
-                Impressum
-            </h2>
-            <p class="mt-3 text-lg leading-6 text-gray-500">
-                Angaben gemäß § 5 TMG:
-            </p>
-            <p class="mt-3 text-lg leading-6 text-gray-500">
-                Daniel Sundermeier<br />
-                Forststraße 31<br />
-                32423 Minden<br />
-            </p>
-          </div>
+            <div class="mt-12 grid max-w-3xl gap-8 rounded-2xl border border-slate-200 bg-white p-6 sm:grid-cols-2 sm:p-8 dark:border-slate-700 dark:bg-slate-800/50">
+                <div>
+                    <p class="text-xs font-semibold uppercase tracking-[0.2em] text-slate-400 dark:text-slate-500">Angaben gemäß § 5 TMG</p>
+                    <address class="mt-4 text-lg not-italic leading-8 text-slate-700 dark:text-slate-300">
+                        Daniel Sundermeier<br>
+                        Forststraße 31<br>
+                        32423 Minden
+                    </address>
+                </div>
+                <div class="sm:border-l sm:border-slate-200 sm:pl-8 dark:sm:border-slate-700">
+                    <p class="text-xs font-semibold uppercase tracking-[0.2em] text-slate-400 dark:text-slate-500">Kontakt</p>
+                    <p class="mt-4 leading-7 text-slate-600 dark:text-slate-400">
+                        Für Anfragen steht das separate Kontaktformular zur Verfügung.
+                    </p>
+                    <a href="{{ route('contact.index') }}" class="mt-4 inline-flex text-sm font-semibold text-sky-700 transition hover:text-sky-900 dark:text-sky-400 dark:hover:text-sky-300">
+                        Zum Kontakt <span class="ml-2" aria-hidden="true">→</span>
+                    </a>
+                </div>
+            </div>
         </div>
-        <div class="bg-white py-16 px-4 sm:px-6 lg:col-span-3 lg:py-24 lg:px-8 xl:pl-12">
-          <div class="max-w-lg mx-auto lg:max-w-none">
-            <form action="{{ route('contact.store')}}" method="POST" class="grid grid-cols-1 gap-y-6">
-              @csrf
+    </section>
 
-              <div>
-                <label for="name" class="sr-only">Name</label>
-                <input type="text" name="name" id="name" autocomplete="name" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-sky-500 focus:border-sky-500 border-gray-300 rounded-md" placeholder="Name">
-                @error('name')
-                    <p class="mt-2 text-sm text-red-600" id="email-error">{{ $message }}</p>
-                @enderror
-              </div>
-              <div>
-                <label for="mail" class="sr-only">E-Mail</label>
-                <input id="mail" name="mail" type="email" autocomplete="email" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-sky-500 focus:border-sky-500 border-gray-300 rounded-md" placeholder="E-Mail">
-                @error('mail')
-                    <p class="mt-2 text-sm text-red-600" id="email-error">{{ $message }}</p>
-                @enderror
-              </div>
-              <div>
-                <label for="message" class="sr-only">Nachricht</label>
-                <textarea id="message" name="message" rows="4" class="block w-full shadow-sm py-3 px-4 placeholder-gray-500 focus:ring-sky-500 focus:border-sky-500 border-gray-300 rounded-md" placeholder="Nachricht"></textarea>
-                @error('message')
-                    <p class="mt-2 text-sm text-red-600" id="email-error">{{ $message }}</p>
-                @enderror
-              </div>
-              <div>
-                <button type="submit" class="inline-flex justify-center py-3 px-6 border border-transparent shadow-sm text-base font-medium rounded-md text-white bg-sky-600 hover:bg-sky-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-sky-500">
-                  Abschicken
-                </button>
-              </div>
-            </form>
-          </div>
-        </div>
-      </div>
-    </div>
-
-        </div>
-
-
-        <div class="card mt-3">
-
-            <div class="card-header">Datenschutz</div>
-            <div class="card-body">
+    <section class="bg-white dark:bg-slate-900/30">
+        <div class="mx-auto max-w-3xl px-5 py-16 sm:px-8 sm:py-24">
+            <div class="prose prose-slate max-w-none prose-headings:font-semibold prose-headings:tracking-tight prose-a:text-sky-700 prose-a:no-underline hover:prose-a:underline prose-hr:border-slate-200 dark:prose-invert dark:prose-a:text-sky-400 dark:prose-hr:border-slate-800">
 
                 <h2>Datenschutzerklärung</h2><h3 id="dsg-general-intro"></h3><p>Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).<br>
                 <br>
