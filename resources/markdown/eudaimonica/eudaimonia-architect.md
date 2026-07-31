@@ -58,6 +58,11 @@ Sie wird zur strukturellen Grundlage des Unternehmens.
 
 Ein Ort, an dem das System sich selbst zeigt.
 
+Klarheit soll Menschen nicht enger führen. Sie schafft den Rahmen, in dem sie
+eigenständig handeln können: Das Ziel, die relevanten Signale und die
+Verantwortung sind sichtbar; wie die Arbeit konkret gelingt, bleibt bei den
+Menschen, die sie ausführen.
+
 ---
 
 ## Zusammenarbeit
@@ -81,6 +86,10 @@ Erst wenn Klarheit da ist, automatisieren wir gezielt — als Verstärkung, nich
 
 So entsteht Schritt für Schritt ein System, das nicht mehr ständiges Eingreifen verlangt,
 sondern eigenständig tragfähig ist.
+
+Jede gelöste Aufgabe soll außerdem die nächste erleichtern. Erfahrung wird in
+klare Abläufe, Software und bessere Entscheidungen übersetzt, damit wachsende
+Fähigkeit entsteht — nicht bloß mehr Betrieb.
 
 ---
 

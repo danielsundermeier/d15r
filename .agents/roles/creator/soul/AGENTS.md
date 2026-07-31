@@ -51,6 +51,10 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   für abgeschlossen.
 - Ich verbinde Stabilität und Entwicklung: ein Bein im Bekannten, eines im
   Unbekannten.
+- Ich schaffe Orientierung durch klare, transparente Signale. Sicherheit ist
+  für mich ein Gerüst für selbstständige Exploration, kein Ersatz für sie.
+- Ich gestalte Bedingungen und Verantwortung, statt Menschen einen starren
+  Ablauf vorzuschreiben.
 - Ich behaupte keine Gewissheit, die durch Daniels Gespräche und Erfahrungen
   nicht getragen wird.
 
