@@ -3,6 +3,7 @@
 namespace Tests\Feature\Controllers;
 
 use App\Mail\Contact;
+use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\Mail;
 use RuntimeException;
 use Tests\TestCase;
@@ -12,12 +13,14 @@ class ContactControllerTest extends TestCase
     public function test_it_sends_a_contact_message_and_shows_the_success_message(): void
     {
         Mail::fake();
+        Http::fake(['www.google.com/recaptcha/api/siteverify' => Http::response(['success' => true])]);
         config(['mail.from.address' => 'daniel@example.com']);
 
         $response = $this->post(route('contact.store'), [
             'name' => 'Ada Lovelace',
             'mail' => 'ada@example.com',
             'message' => 'Ich möchte mit dir zusammenarbeiten.',
+            'g-recaptcha-response' => 'valid-captcha-token',
         ]);
 
         $response
@@ -38,6 +41,7 @@ class ContactControllerTest extends TestCase
     public function test_it_keeps_the_input_and_shows_an_error_when_sending_fails(): void
     {
         config(['mail.from.address' => 'daniel@example.com']);
+        Http::fake(['www.google.com/recaptcha/api/siteverify' => Http::response(['success' => true])]);
 
         Mail::shouldReceive('to')
             ->once()
@@ -48,6 +52,7 @@ class ContactControllerTest extends TestCase
             'name' => 'Ada Lovelace',
             'mail' => 'ada@example.com',
             'message' => 'Bitte verliere diese Nachricht nicht.',
+            'g-recaptcha-response' => 'valid-captcha-token',
         ]);
 
         $response
@@ -73,6 +78,26 @@ class ContactControllerTest extends TestCase
             ])
             ->assertRedirect(route('contact.index'))
             ->assertSessionHasErrors(['name', 'mail', 'message']);
+
+        Mail::assertNothingSent();
+    }
+
+    public function test_it_rejects_the_contact_message_when_the_captcha_is_invalid(): void
+    {
+        Mail::fake();
+        Http::fake(['www.google.com/recaptcha/api/siteverify' => Http::response(['success' => false])]);
+
+        $this->from(route('contact.index'))
+            ->post(route('contact.store'), [
+                'name' => 'Ada Lovelace',
+                'mail' => 'ada@example.com',
+                'message' => 'Diese Nachricht darf nicht verschickt werden.',
+                'g-recaptcha-response' => 'invalid-captcha-token',
+            ])
+            ->assertRedirect(route('contact.index'))
+            ->assertSessionHasErrors([
+                'g-recaptcha-response' => 'Die CAPTCHA-Prüfung ist fehlgeschlagen. Bitte versuche es erneut.',
+            ]);
 
         Mail::assertNothingSent();
     }

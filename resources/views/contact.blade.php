@@ -41,6 +41,7 @@
                             data-action="submit">
                         Nachricht senden
                     </button>
+                    @error('g-recaptcha-response')<p class="mt-2 text-sm text-red-600 dark:text-red-400">{{ $message }}</p>@enderror
                 </div>
             </form>
         </div>

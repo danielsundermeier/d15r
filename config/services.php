@@ -30,6 +30,10 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
 
+    'recaptcha' => [
+        'secret_key' => env('RECAPTCHA_SECRET_KEY'),
+    ],
+
     'twitter' => [
         'api_key' => env('TWITTER_API_KEY'),
         'api_secret_key' => env('TWITTER_API_SECRET_KEY'),
