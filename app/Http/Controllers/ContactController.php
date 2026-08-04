@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Mail\Contact;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Http;
+use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Validation\ValidationException;
 use Throwable;
@@ -26,16 +27,32 @@ class ContactController extends Controller
         ]);
 
         try {
-            $captchaIsValid = Http::asForm()
+            $captchaAssessment = Http::withHeaders([
+                'X-Goog-Api-Key' => config('services.recaptcha.api_key'),
+            ])
                 ->timeout(5)
-                ->post('https://www.google.com/recaptcha/api/siteverify', [
-                    'secret' => config('services.recaptcha.secret_key'),
-                    'response' => $attributes['g-recaptcha-response'],
-                    'remoteip' => $request->ip(),
+                ->post(sprintf(
+                    'https://recaptchaenterprise.googleapis.com/v1/projects/%s/assessments',
+                    config('services.recaptcha.project_id'),
+                ), [
+                    'event' => [
+                        'token' => $attributes['g-recaptcha-response'],
+                        'siteKey' => config('services.recaptcha.site_key'),
+                        'expectedAction' => 'submit',
+                        'userIpAddress' => $request->ip(),
+                        'userAgent' => $request->userAgent(),
+                    ],
                 ])
-                ->json('success', false);
+                ->throw()
+                ->json();
+
+            $captchaIsValid = data_get($captchaAssessment, 'tokenProperties.valid') === true
+                && data_get($captchaAssessment, 'tokenProperties.action') === 'submit'
+                && data_get($captchaAssessment, 'riskAnalysis.score', 0) >= config('services.recaptcha.minimum_score');
         } catch (Throwable $exception) {
-            report($exception);
+            Log::warning('The reCAPTCHA assessment failed.', [
+                'exception' => $exception::class,
+            ]);
             $captchaIsValid = false;
         }
 
