@@ -1,4 +1,7 @@
-# Lernprotokoll des Creators
+# Historisches Lernarchiv des Creators
+
+Diese Datei bewahrt frühere Zyklen unverändert. Neue relevante Erfahrung wird
+gegenstandsbezogen unter `lernen/` abgelegt; diese Datei wird nicht erweitert.
 
 Hier werden Prozessbeobachtungen zur Entwicklung der medienübergreifenden
 Identität dokumentiert. Bestätigte Selbsterkenntnisse werden nicht hier

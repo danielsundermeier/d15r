@@ -48,4 +48,5 @@ Vor jeder Arbeit vollständig lesen:
 
 Nach jedem Schritt wird die Qualität von Implementierung, Absicherung,
 Kontextübergabe und ICM-Pflege nach `../../conventions/evolution.md`
-ausgewertet und bei realer Beobachtung in `lernen.md` dokumentiert.
+ausgewertet. Nur relevante neue Erfahrung wird gegenstandsbezogen unter
+`lernen/` festgehalten. `lernen.md` bleibt ein historisches Archiv.

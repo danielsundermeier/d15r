@@ -42,44 +42,50 @@ Die aktive Rolle:
    Wirkung,
 7. verändert nur den eigenen Rollenprozess oder den global zuständigen
    Kontext,
-8. dokumentiert die Selektionsentscheidung im eigenen Lernprotokoll.
+8. hält nur eine relevante neue Erfahrung gegenstandsbezogen fest.
 
-Es muss nicht nach jedem Zyklus eine Regel geändert oder ein Experiment
-begonnen werden.
+Es muss nicht nach jedem Zyklus eine Regel geändert, ein Experiment begonnen
+oder eine Lerndatei angelegt werden. Ist nichts Relevantes neu, endet die
+Auswertung ohne Dokumentation.
 
-## Lernprotokolle
+## Lerndateien
 
-Jede Rolle führt bei realer Arbeit ein `lernen.md` in ihrem Rollenverzeichnis.
-Ein Eintrag enthält mindestens:
+Erfahrungen werden nicht an ein fortlaufendes `lernen.md` angehängt. Für einen
+Artikel oder anderen klar benannten Arbeitsgegenstand entsteht bei Bedarf im
+Rollenverzeichnis genau eine Datei unter
+`lernen/YYYY-MM-DD-<gegenstand>.md`. Mehrere Durchgänge am selben Gegenstand
+aktualisieren diese Datei.
+
+Die Datei enthält nur das gegenüber dem bereits bekannten ICM relevante Neue:
 
 ```markdown
-## YYYY-MM-DD – Zyklus
+# Gegenstand
 
-### Beobachtung und Daten
+## Neue Beobachtung
 
-### Laufendes Experiment
+## Selektion
 
-### Erkannte Wirkung
+Beibehalten | Anpassen | Verwerfen
 
-### Selektionsentscheidung
+## Konsequenz
 
-Beibehalten | Anpassen | Verwerfen | Kein Experiment
-
-### Änderung im eigenen Arbeitsbereich
-
-### Neues Experiment und erwartete Wirkung
+Keine | bestehendes Wissen präzisiert | neues Experiment
 ```
 
 Rollenspezifische Erfahrung bleibt bei der Rolle. Rollenübergreifendes
 technisches, gestalterisches oder fachliches Wissen wird stattdessen unter
 `conventions/` beziehungsweise `domains/` konsolidiert.
 
+Konsolidieren bedeutet, bestehende Aussagen zu präzisieren, zu ersetzen oder
+zu entfernen, nicht das ICM chronologisch zu erweitern. Die gegenstandsbezogene
+Lerndatei bleibt als Herkunft erhalten und wird nicht standardmäßig geladen.
+Bestehende `lernen.md` sind historische Archive und werden nicht erweitert.
+
 ## Wachstum durch Teilung
 
-Kontext beginnt in der kleinsten bereits zuständigen Datei. Eine Datei wird
-erst geteilt, wenn sie mehrere eigenständige Verantwortungen trägt, für
-Aufgaben nicht mehr gezielt geladen werden kann oder eine reale Übergabe
-sichtbar wird.
+Kontext beginnt in der kleinsten zuständigen Einheit. Einzelne Erfahrungen
+werden von Beginn an gegenstandsbezogen abgelegt; kanonisches Wissen bleibt
+kompakt und wird in seiner zuständigen Datei konsolidiert.
 
 Das ICM wächst damit wie ein Verbund von Zellen: durch kleine Einheiten mit
 klarer Verantwortung, nicht durch immer größere Zentraldateien.

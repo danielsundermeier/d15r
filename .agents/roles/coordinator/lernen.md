@@ -1,4 +1,7 @@
-# Lernprotokoll des Coordinators
+# Historisches Lernarchiv des Coordinators
+
+Diese Datei bewahrt frühere Zyklen unverändert. Neue relevante Erfahrung wird
+gegenstandsbezogen unter `lernen/` abgelegt; diese Datei wird nicht erweitert.
 
 Hier werden ausschließlich Beobachtungen und Selektionsentscheidungen zur
 Koordination von d15r-Aufgaben dokumentiert.

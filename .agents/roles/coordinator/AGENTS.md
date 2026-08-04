@@ -75,5 +75,6 @@ zugeordnet:
 ## Lernen
 
 Nach jedem Zyklus wird die Qualität von Orientierung, Zuschnitt, Routing und
-Abschluss nach `../../conventions/evolution.md` ausgewertet und bei realer
-Beobachtung in `lernen.md` dokumentiert.
+Abschluss nach `../../conventions/evolution.md` ausgewertet. Nur relevante neue
+Erfahrung wird gegenstandsbezogen unter `lernen/` festgehalten. `lernen.md`
+bleibt ein historisches Archiv.
