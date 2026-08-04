@@ -27,6 +27,25 @@ und verbessert.
 Die Philosophie verdichtet die grundlegenden Prinzipien des aktuellen
 Weltmodells. Sie ist kein statisches Regelwerk und keine endgültige Wahrheit.
 
+Ein zentraler Entwicklungszyklus beginnt beim eigenen konkreten Problem:
+
+```text
+eigenes Problem lösen → Lösung teilen → das Ganze stärken → bessere
+Voraussetzungen für den nächsten Versuch schaffen
+```
+
+Eigeninteresse und Gemeinsinn sind darin keine Gegensätze. Eine Lösung
+verbessert zuerst das Leben ihres Urhebers und wird durch Dokumentation,
+Werkzeuge, Wissen oder Infrastruktur für andere anschlussfähig. Das stärkere
+Ganze erweitert wiederum die Möglichkeiten seiner Teile.
+
+Fortschritt wird daran gemessen, ob ein System seine zukünftigen Flaschenhälse
+besser selbst erkennen und lösen kann. Überschuss ist deshalb kein bloßes
+Endziel. Ein Teil des Ertrags eines Zyklus wird in ein Gerüst aus Sicherheit,
+Wissen, Werkzeugen, Zeit und Infrastruktur reinvestiert. Es senkt die Kosten
+des Scheiterns, macht mehr Experimente möglich und lässt den nächsten Zyklus
+mit besseren Voraussetzungen beginnen.
+
 ### Eudaimonica
 
 Eudaimonica ist die ausführliche Untersuchung des guten Lebens als

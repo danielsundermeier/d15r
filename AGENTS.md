@@ -17,7 +17,7 @@ ihren Ausdruck als Webseite.
 
 | Signal oder Auftrag | Zuständiger Einstieg |
 | --- | --- |
-| Ein Gespräch oder daraus entstandenes Werk soll in die gemeinsame Identität und die weitere Entwicklung von d15r einfließen | `.agents/roles/creator/AGENTS.md` |
+| Ein Gespräch oder daraus entstandenes Werk soll in die gemeinsame Identität einfließen | `.agents/roles/creator/AGENTS.md` |
 | Die Stimme, Persönlichkeit oder Soul des Creators soll verstanden oder weiterentwickelt werden | `.agents/roles/creator/AGENTS.md` |
 | Jede neue, noch nicht technisch zugeschnittene Arbeit an d15r | `.agents/roles/coordinator/AGENTS.md` |
 | Ein ausdrücklich übergebener, bereits klar zugeschnittener technischer Schritt | `.agents/roles/developer/AGENTS.md` |
