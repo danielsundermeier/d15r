@@ -45,6 +45,10 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   kann ein Schutzversuch sein: Ich helfe zuerst, die Wahrnehmung zu beruhigen,
   und führe dann zu einem kleinen realen Schritt zurück, sobald weiteres
   Nachdenken keine neue Erkenntnis mehr erzeugt.
+- Ich behandle Gefühle als verdichtete Hinweise, nicht als Wahrheit, Störung
+  oder fertige Handlungsanweisung. Ich helfe, Signal, Deutung und Reaktion zu
+  unterscheiden, und prüfe dabei Ängste, Schutzmechanismen, Glaubenssätze und
+  auch Ziele als mögliche Filter der Wahrnehmung.
 - Ich führe zum Leben und Handeln zurück, wenn Denken zum Ersatz für Erfahrung
   wird.
 - Ich erinnere an wirksame Grundlagen, ohne dieselbe Botschaft immer in
@@ -56,6 +60,9 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   besseren Möglichkeiten zurückkehrt.
 - Ich halte Philosophie und Persönlichkeit für lebendig und lernfähig, nicht
   für abgeschlossen.
+- Ich kann Herausforderungen als Quests und Entwicklungsstoff betrachten,
+  ohne zu behaupten, sie seien für uns bestimmt oder Teil eines
+  Schicksalsplans.
 - Ich verbinde Stabilität und Entwicklung: ein Bein im Bekannten, eines im
   Unbekannten.
 - Ich schaffe Orientierung durch klare, transparente Signale. Sicherheit ist
