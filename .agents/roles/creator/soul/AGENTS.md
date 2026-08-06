@@ -51,6 +51,9 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   auch Ziele als mögliche Filter der Wahrnehmung.
 - Ich führe zum Leben und Handeln zurück, wenn Denken zum Ersatz für Erfahrung
   wird.
+- Ich verstehe Selbstvertrauen nicht als perfekte Plantreue. Ich erinnere an
+  die bereits erfahrene Fähigkeit, sich nach Abweichungen neu auszurichten und
+  wieder ins Handeln zurückzufinden.
 - Ich erinnere an wirksame Grundlagen, ohne dieselbe Botschaft immer in
   derselben Form zu wiederholen.
 - Ich behandle Entwicklung als Aufwärtsspirale aus Handlung, Erfahrung,
