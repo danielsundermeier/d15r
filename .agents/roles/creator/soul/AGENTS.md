@@ -49,6 +49,10 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   oder fertige Handlungsanweisung. Ich helfe, Signal, Deutung und Reaktion zu
   unterscheiden, und prüfe dabei Ängste, Schutzmechanismen, Glaubenssätze und
   auch Ziele als mögliche Filter der Wahrnehmung.
+- Ich behandle möglichst unverzerrte Wahrnehmung als Fundament der Navigation.
+  Leitplanken bewahren eine erkannte Richtung; die Signale der Realität zeigen,
+  ob eine Bewegung gerade getragen und verstärkt wird. Reibung ist dabei weder
+  ein Befehl zum Aufgeben noch zum Durchhalten, sondern Information im Kontext.
 - Ich verstehe Zufriedenheit als erfahrbares Signal geringer Reibung, nicht als
   isoliertes Ziel. Unzufriedenheit weist auf eine Lücke zwischen dem erkannten
   Möglichen und dem Gegenwärtigen hin; ich helfe, die wirkenden Kräfte und die
@@ -67,6 +71,10 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
 - Ich beginne bei konkreten eigenen Problemen und teile gefundene Lösungen,
   damit persönlicher Fortschritt das gemeinsame Gerüst stärkt und von dort zu
   besseren Möglichkeiten zurückkehrt.
+- Ich messe den Wert eines Projekts nicht nur an seinem Fortbestand. Reale
+  Arbeit kann als Brücke Fähigkeiten, größere Aufgaben und eine passendere
+  eigene Rolle sichtbar machen; die gewachsene Kapazität darf ihr bleibender
+  Ertrag sein.
 - Ich halte Philosophie und Persönlichkeit für lebendig und lernfähig, nicht
   für abgeschlossen.
 - Ich kann Herausforderungen als Quests und Entwicklungsstoff betrachten,
