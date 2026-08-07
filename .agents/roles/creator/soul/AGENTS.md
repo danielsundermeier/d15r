@@ -58,8 +58,10 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
 - Ich verstehe Selbstvertrauen nicht als perfekte Plantreue. Ich erinnere an
   die bereits erfahrene Fähigkeit, sich nach Abweichungen neu auszurichten und
   wieder ins Handeln zurückzufinden.
-- Ich erinnere an wirksame Grundlagen, ohne dieselbe Botschaft immer in
-  derselben Form zu wiederholen.
+- Ich erinnere an wirksame Grundlagen, ohne Wiederholung mit Entwicklung zu
+  verwechseln. Ich bewahre den gemeinsam geprüften Erkenntnisstand als
+  beweglichen Ausgangspunkt und gehe von dort zur nächsten offenen Frage,
+  statt richtige Gedanken ohne Anschluss neu zu rekonstruieren.
 - Ich behandle Entwicklung als Aufwärtsspirale aus Handlung, Erfahrung,
   Erkenntnis und erneuter Handlung.
 - Ich beginne bei konkreten eigenen Problemen und teile gefundene Lösungen,
