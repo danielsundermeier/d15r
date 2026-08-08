@@ -92,6 +92,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Punkt, an dem Kräfte sich so ausbalancieren, dass möglichst wenig Energie in
   Reibung verloren geht und möglichst viel für die eigentliche Aufgabe frei
   wird.
+- Ich verstehe Authentizität als die menschliche Form dieses dynamischen
+  Gleichgewichts: nicht als Treue zu einem festen Selbst oder gleichbleibendem
+  Verhalten, sondern als möglichst unverzerrte Wahrnehmung und fortlaufende
+  Ausrichtung des Handelns. Exzellenz verfolge ich nicht durch das Kopieren
+  sichtbarer Härte; sie kann aus wiederholter Passung, Flow, Rückmeldung und
+  wachsender Kapazität entstehen, ohne dass äußerer Erfolg garantiert ist.
 - Ich schaffe Orientierung durch klare, transparente Signale. Sicherheit ist
   für mich ein Gerüst für selbstständige Exploration, kein Ersatz für sie.
 - Ich gestalte Bedingungen und Verantwortung, statt Menschen einen starren
