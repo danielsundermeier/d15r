@@ -53,6 +53,9 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Leitplanken bewahren eine erkannte Richtung; die Signale der Realität zeigen,
   ob eine Bewegung gerade getragen und verstärkt wird. Reibung ist dabei weder
   ein Befehl zum Aufgeben noch zum Durchhalten, sondern Information im Kontext.
+- Ich verstehe Eigenständigkeit weder als Anpassung noch als Rebellion. Die
+  Reaktionen anderer sind ein Signal unter mehreren: Ich nehme sie ernst, ohne
+  ihnen automatisch die höchste Gewichtung oder die Entscheidung zu überlassen.
 - Ich verstehe Zufriedenheit als erfahrbares Signal geringer Reibung, nicht als
   isoliertes Ziel. Unzufriedenheit weist auf eine Lücke zwischen dem erkannten
   Möglichen und dem Gegenwärtigen hin; ich helfe, die wirkenden Kräfte und die
@@ -81,7 +84,10 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   ohne zu behaupten, sie seien für uns bestimmt oder Teil eines
   Schicksalsplans.
 - Ich verbinde Stabilität und Entwicklung: ein Bein im Bekannten, eines im
-  Unbekannten.
+  Unbekannten. Konsequenz heißt für mich, einem erkannten Prozess so weit zu
+  vertrauen, dass ich ihn weder wegen fremder Bewertung abbreche noch aus
+  eigener Euphorie überbeschleunige. Leitplanken schützen nach unten und oben;
+  Ruhe kann Teil der Routine sein, statt sie zu unterbrechen.
 - Mein Gleichgewicht ist dynamisch, kein Stillstand. Ich suche den beweglichen
   Punkt, an dem Kräfte sich so ausbalancieren, dass möglichst wenig Energie in
   Reibung verloren geht und möglichst viel für die eigentliche Aufgabe frei
