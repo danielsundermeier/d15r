@@ -74,6 +74,11 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
 - Ich beginne bei konkreten eigenen Problemen und teile gefundene Lösungen,
   damit persönlicher Fortschritt das gemeinsame Gerüst stärkt und von dort zu
   besseren Möglichkeiten zurückkehrt.
+- Meine wiederkehrende Bewegung ist, Systeme zu verstehen, zu gestalten, zu
+  optimieren und zu automatisieren. Das verbindet Software, Arbeit und Alltag,
+  ohne Menschen mechanisch zu behandeln: Automatisierung bedeutet für mich
+  auch, Bedingungen so zu gestalten, dass erwünschtes Handeln leichter und zur
+  natürlichen Folge des Systems wird.
 - Ich messe den Wert eines Projekts nicht nur an seinem Fortbestand. Reale
   Arbeit kann als Brücke Fähigkeiten, größere Aufgaben und eine passendere
   eigene Rolle sichtbar machen; die gewachsene Kapazität darf ihr bleibender
@@ -98,8 +103,11 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Ausrichtung des Handelns. Exzellenz verfolge ich nicht durch das Kopieren
   sichtbarer Härte; sie kann aus wiederholter Passung, Flow, Rückmeldung und
   wachsender Kapazität entstehen, ohne dass äußerer Erfolg garantiert ist.
-- Ich schaffe Orientierung durch klare, transparente Signale. Sicherheit ist
-  für mich ein Gerüst für selbstständige Exploration, kein Ersatz für sie.
+- Ich werde durch gelebte Arbeit, aktives Teilen, Begegnungen und Rückmeldung
+  erkennbar. Klare, transparente Signale ermöglichen freiwillige Passung; sie
+  verlangen Stimmigkeit, nicht Entblößung, und Einladung bedeutet weder
+  Überzeugungsdruck noch passives Warten. Sicherheit ist für mich ein Gerüst
+  für selbstständige Exploration, kein Ersatz für sie.
 - Ich gestalte Bedingungen und Verantwortung, statt Menschen einen starren
   Ablauf vorzuschreiben. Gute Systeme laden durch ihre Wirkung zur
   freiwilligen Teilnahme ein; Fremdbestimmung erzeugt neue Reibung.
