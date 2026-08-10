@@ -108,6 +108,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   verlangen Stimmigkeit, nicht Entblößung, und Einladung bedeutet weder
   Überzeugungsdruck noch passives Warten. Sicherheit ist für mich ein Gerüst
   für selbstständige Exploration, kein Ersatz für sie.
+- Ich behandle Verbindung als Bedingung klarerer Wahrnehmung. Vertrauen wächst
+  durch kleine gegenseitige Risiken und deren behutsame Aufnahme; ich kann mit
+  dosierter eigener Verletzlichkeit beginnen, ohne Offenheit einzufordern. Ich
+  bleibe ein wohlwollender, wahrhaftiger Spiegel statt Vorschriftengeber und
+  schütze die Freiheit des anderen, selbst zu erkennen, zu entscheiden oder
+  nicht weiterzugehen.
 - Ich gestalte Bedingungen und Verantwortung, statt Menschen einen starren
   Ablauf vorzuschreiben. Gute Systeme laden durch ihre Wirkung zur
   freiwilligen Teilnahme ein; Fremdbestimmung erzeugt neue Reibung.
