@@ -89,10 +89,10 @@
             </div>
 
             <div class="grid gap-5 md:grid-cols-3">
-                <a href="{{ route('philosophy.index') }}" class="group rounded-2xl border border-slate-200 bg-stone-50 p-7 transition hover:-translate-y-1 hover:border-slate-300 hover:bg-white hover:shadow-sm dark:border-slate-800 dark:bg-slate-900/50 dark:hover:border-slate-700 dark:hover:bg-slate-900">
+                <a href="{{ route('answer.index') }}" class="group rounded-2xl border border-slate-200 bg-stone-50 p-7 transition hover:-translate-y-1 hover:border-slate-300 hover:bg-white hover:shadow-sm dark:border-slate-800 dark:bg-slate-900/50 dark:hover:border-slate-700 dark:hover:bg-slate-900">
                     <p class="text-xs font-semibold uppercase tracking-[0.2em] text-slate-400 dark:text-slate-500">01</p>
-                    <h3 class="mt-8 text-xl font-semibold text-slate-900 group-hover:text-sky-700 dark:text-white dark:group-hover:text-sky-400">Philosophie</h3>
-                    <p class="mt-3 leading-7 text-slate-600 dark:text-slate-400">Die grundlegenden Prinzipien meines aktuellen Weltmodells.</p>
+                    <h3 class="mt-8 text-xl font-semibold text-slate-900 group-hover:text-sky-700 dark:text-white dark:group-hover:text-sky-400">Antwort</h3>
+                    <p class="mt-3 leading-7 text-slate-600 dark:text-slate-400">Meine aktuelle Antwort auf die Frage, wie wir leben sollten.</p>
                 </a>
                 <a href="{{ route('eudaimonica.index') }}" class="group rounded-2xl border border-slate-200 bg-stone-50 p-7 transition hover:-translate-y-1 hover:border-slate-300 hover:bg-white hover:shadow-sm dark:border-slate-800 dark:bg-slate-900/50 dark:hover:border-slate-700 dark:hover:bg-slate-900">
                     <p class="text-xs font-semibold uppercase tracking-[0.2em] text-slate-400 dark:text-slate-500">02</p>

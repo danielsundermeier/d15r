@@ -22,10 +22,13 @@ Das Weltmodell ist Daniels bestes aktuelles Verständnis von sich und der
 Realität. Es ist ausdrücklich veränderlich und wird durch Erfahrung geprüft
 und verbessert.
 
-### Philosophie
+### Antwort
 
-Die Philosophie verdichtet die grundlegenden Prinzipien des aktuellen
-Weltmodells. Sie ist kein statisches Regelwerk und keine endgültige Wahrheit.
+Die Antwort unter `/answer` ist der aktuelle Stand von Daniels lebendem
+Experiment mit der Frage, wie wir leben sollten. Sie gibt keinen universellen
+Lebensentwurf vor, sondern beschreibt, wie der jeweils nächste Schritt durch
+Wahrnehmung, Handlung, Feedback und Lernen gefunden werden kann. Das
+„Regelbuch des Lebens“ ist deshalb weder statisch noch endgültig.
 
 Ein zentraler Entwicklungszyklus beginnt beim eigenen konkreten Problem:
 
@@ -114,7 +117,7 @@ inszeniert.
 ## Beziehungen
 
 - Erfahrung verändert das Weltmodell.
-- Das Weltmodell verdichtet sich in der Philosophie.
+- Das Weltmodell verdichtet sich in der aktuellen Antwort.
 - Eudaimonica arbeitet Teile davon ausführlich aus.
 - Das Journal zeigt aktuelle Anwendung, Zweifel und Entwicklung.
 - Der emergierende Autor gibt dem Weltmodell eine wiedererkennbare Stimme.

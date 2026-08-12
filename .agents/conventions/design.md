@@ -45,7 +45,7 @@ Die Seite soll vermitteln:
 ## Globale Struktur
 
 - Header und Footer bilden auf allen öffentlichen Seiten denselben Rahmen.
-- Die Hauptnavigation unterscheidet Philosophie, Eudaimonica, Journal,
+- Die Hauptnavigation unterscheidet Antwort, Eudaimonica, Journal,
   Experiment und Zusammenarbeit.
 - Ein allgemeiner Verkaufs- oder Kontakt-CTA wird nicht nach jedem Inhalt
   wiederholt.
@@ -75,7 +75,7 @@ eine zurückhaltende Navigation zum vorherigen und nächsten Gedanken.
 
 ### Langform
 
-Philosophie und Eudaimonica sind lebende Dokumente. Auf großen Bildschirmen
+Antwort und Eudaimonica sind lebende Dokumente. Auf großen Bildschirmen
 hilft eine Inhaltsnavigation; auf kleinen Bildschirmen bleibt die
 Textdarstellung vorrangig.
 

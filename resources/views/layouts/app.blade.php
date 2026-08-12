@@ -48,7 +48,7 @@
             </a>
 
             <nav class="hidden items-center gap-8 md:flex" aria-label="Hauptnavigation">
-                <a href="{{ route('philosophy.index') }}" class="text-sm font-medium text-slate-600 transition hover:text-slate-900 dark:text-slate-400 dark:hover:text-white">Philosophie</a>
+                <a href="{{ route('answer.index') }}" class="text-sm font-medium text-slate-600 transition hover:text-slate-900 dark:text-slate-400 dark:hover:text-white">Antwort</a>
                 <a href="{{ route('eudaimonica.index') }}" class="text-sm font-medium text-slate-600 transition hover:text-slate-900 dark:text-slate-400 dark:hover:text-white">Eudaimonica</a>
                 <a href="{{ route('posts.index') }}" class="text-sm font-medium text-slate-600 transition hover:text-slate-900 dark:text-slate-400 dark:hover:text-white">Journal</a>
                 <a href="{{ route('why-ai.index') }}" class="text-sm font-medium text-slate-600 transition hover:text-slate-900 dark:text-slate-400 dark:hover:text-white">Experiment</a>
@@ -81,7 +81,7 @@
              class="border-t border-slate-200 bg-stone-50 px-5 py-5 md:hidden dark:border-slate-800 dark:bg-slate-900"
              aria-label="Mobile Navigation">
             <div class="mx-auto grid max-w-7xl gap-1">
-                <a href="{{ route('philosophy.index') }}" class="rounded-lg px-3 py-3 text-base font-medium hover:bg-white dark:hover:bg-slate-900">Philosophie</a>
+                <a href="{{ route('answer.index') }}" class="rounded-lg px-3 py-3 text-base font-medium hover:bg-white dark:hover:bg-slate-900">Antwort</a>
                 <a href="{{ route('eudaimonica.index') }}" class="rounded-lg px-3 py-3 text-base font-medium hover:bg-white dark:hover:bg-slate-900">Eudaimonica</a>
                 <a href="{{ route('posts.index') }}" class="rounded-lg px-3 py-3 text-base font-medium hover:bg-white dark:hover:bg-slate-900">Journal</a>
                 <a href="{{ route('why-ai.index') }}" class="rounded-lg px-3 py-3 text-base font-medium hover:bg-white dark:hover:bg-slate-900">Über das Experiment</a>

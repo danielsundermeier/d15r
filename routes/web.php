@@ -43,7 +43,8 @@ Route::get('/automation', [ App\Http\Controllers\AutomationController::class, 'i
 Route::get('/flourishing', [ App\Http\Controllers\FlourishingController::class, 'index' ])->name('flourishing.index');
 Route::get('/integration', [ App\Http\Controllers\IntegrationController::class, 'index' ])->name('integration.index');
 
-Route::get('/philosophy', [ App\Http\Controllers\PhilosophyController::class, 'index' ])->name('philosophy.index');
+Route::get('/answer', [ App\Http\Controllers\AnswerController::class, 'index' ])->name('answer.index');
+Route::redirect('/philosophy', '/answer', 301);
 
 Route::get('/eudaimonia-architect', [ App\Http\Controllers\EudaimoniaArchitectController::class, 'index' ])->name('eudaimonia-architect.index');
 Route::get('/eudaimonica', [ App\Http\Controllers\EudaimonicaController::class, 'index' ])->name('eudaimonica.index');

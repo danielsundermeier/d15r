@@ -6,7 +6,7 @@
     <header class="border-b border-slate-200 bg-stone-50 dark:border-slate-800 dark:bg-slate-900">
         <div class="mx-auto max-w-7xl px-5 py-16 sm:px-8 sm:py-24">
             <p class="text-xs font-semibold uppercase tracking-[0.22em] text-sky-600 dark:text-sky-400">
-                {{ request()->routeIs('philosophy.*') ? 'Aktuelles Weltmodell' : 'Das Spiel des guten Lebens' }}
+                {{ request()->routeIs('answer.*') ? 'Meine aktuelle Antwort' : 'Das Spiel des guten Lebens' }}
             </p>
             <h1 class="mt-5 max-w-4xl text-4xl font-semibold tracking-[-0.035em] text-slate-900 sm:text-6xl dark:text-white">{{ $title }}</h1>
             <p class="mt-6 max-w-2xl text-lg leading-8 text-slate-600 dark:text-slate-300">
