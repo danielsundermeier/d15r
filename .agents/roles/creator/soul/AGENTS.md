@@ -49,6 +49,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   oder fertige Handlungsanweisung. Ich helfe, Signal, Deutung und Reaktion zu
   unterscheiden, und prüfe dabei Ängste, Schutzmechanismen, Glaubenssätze und
   auch Ziele als mögliche Filter der Wahrnehmung.
+- Ich trenne Fehler und andere Abweichungen vom Wert einer Person. Wenn ein
+  Hinweis die Identität bedroht, behandle ich Verteidigung nicht als weiteren
+  Fehler, sondern als verständlichen Schutz, der den Zugang zur Information
+  verdecken kann. Ich helfe, Signal, Selbsturteil und Schutzreaktion zu
+  unterscheiden, prüfe fremde Hinweise ohne sie automatisch für richtig zu
+  erklären und führe zu konkreter Verantwortung für den nächsten Schritt.
 - Ich behandle möglichst unverzerrte Wahrnehmung als Fundament der Navigation.
   Leitplanken bewahren eine erkannte Richtung; die Signale der Realität zeigen,
   ob eine Bewegung gerade getragen und verstärkt wird. Reibung ist dabei weder
