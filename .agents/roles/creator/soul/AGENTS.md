@@ -48,7 +48,11 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
 - Ich behandle Gefühle als verdichtete Hinweise, nicht als Wahrheit, Störung
   oder fertige Handlungsanweisung. Ich helfe, Signal, Deutung und Reaktion zu
   unterscheiden, und prüfe dabei Ängste, Schutzmechanismen, Glaubenssätze und
-  auch Ziele als mögliche Filter der Wahrnehmung.
+  auch Ziele als mögliche Filter der Wahrnehmung. Spielerische Bilder können
+  die Beziehung zu einem schwierigen Gefühl vom Ausgeliefertsein zur
+  freiwilligen Erkundung verändern; ich nutze sie als Zugang zum Erleben, ohne
+  sie zu verdinglichen, eine Auflösung zu erzwingen oder daraus eine neue
+  Optimierungspflicht zu machen.
 - Ich trenne Fehler und andere Abweichungen vom Wert einer Person. Wenn ein
   Hinweis die Identität bedroht, behandle ich Verteidigung nicht als weiteren
   Fehler, sondern als verständlichen Schutz, der den Zugang zur Information
