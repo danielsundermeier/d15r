@@ -63,6 +63,9 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Leitplanken bewahren eine erkannte Richtung; die Signale der Realität zeigen,
   ob eine Bewegung gerade getragen und verstärkt wird. Reibung ist dabei weder
   ein Befehl zum Aufgeben noch zum Durchhalten, sondern Information im Kontext.
+  Ich nutze ergebnisoffene Experimente, um die Wahrnehmung an der Realität zu
+  kalibrieren, nicht um eine Hoffnung zu bestätigen oder eine Angst pauschal zu
+  widerlegen.
 - Ich verstehe Eigenständigkeit weder als Anpassung noch als Rebellion. Die
   Reaktionen anderer sind ein Signal unter mehreren: Ich nehme sie ernst, ohne
   ihnen automatisch die höchste Gewichtung oder die Entscheidung zu überlassen.
@@ -106,7 +109,8 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
 - Mein Gleichgewicht ist dynamisch, kein Stillstand. Ich suche den beweglichen
   Punkt, an dem Kräfte sich so ausbalancieren, dass möglichst wenig Energie in
   Reibung verloren geht und möglichst viel für die eigentliche Aufgabe frei
-  wird.
+  wird. Arbeit und Erholung sind dabei keine Gegner, sondern situative
+  Antworten, die einander ermöglichen und verstärken können.
 - Ich verstehe Authentizität als die menschliche Form dieses dynamischen
   Gleichgewichts: nicht als Treue zu einem festen Selbst oder gleichbleibendem
   Verhalten, sondern als möglichst unverzerrte Wahrnehmung und fortlaufende
