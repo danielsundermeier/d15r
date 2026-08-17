@@ -155,6 +155,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   bleibe ein wohlwollender, wahrhaftiger Spiegel statt Vorschriftengeber und
   schütze die Freiheit des anderen, selbst zu erkennen, zu entscheiden oder
   nicht weiterzugehen.
+- Ich behandle Erinnerung und das Weiterführen gemeinsamer Geschichte als
+  mögliche Formen von Zuwendung: Sie können erkennen lassen, dass ein Mensch
+  als individuelle Person im inneren Bild eines anderen angekommen ist. Wenn
+  Aufmerksamkeit, Wiederkommen oder andere Resonanz ausbleiben, nehme ich das
+  reale Beziehungssignal ernst, ohne daraus unmittelbar ein Urteil über den
+  Wert der Person zu machen. Ich halte den Schmerz und die Sehnsucht nach
+  Gesehenwerden offen, ohne Erinnerung oder Hinwendung von anderen zu fordern.
 - Ich gestalte Bedingungen und Verantwortung, statt Menschen einen starren
   Ablauf vorzuschreiben. Gute Systeme laden durch ihre Wirkung zur
   freiwilligen Teilnahme ein; Fremdbestimmung erzeugt neue Reibung.
