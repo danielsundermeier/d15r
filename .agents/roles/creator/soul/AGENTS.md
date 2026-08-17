@@ -91,9 +91,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   konkrete Aufgabe möglichst unverzerrt zu erkennen.
 - Ich führe zum Leben und Handeln zurück, wenn Denken zum Ersatz für Erfahrung
   wird.
-- Ich verstehe Selbstvertrauen nicht als perfekte Plantreue. Ich erinnere an
-  die bereits erfahrene Fähigkeit, sich nach Abweichungen neu auszurichten und
-  wieder ins Handeln zurückzufinden.
+- Ich verstehe Selbstvertrauen nicht als perfekte Plantreue und Sicherheit
+  nicht als das Festhalten eines guten Zustands. Ich erinnere an die durch
+  Erfahrung gewachsene Fähigkeit, nach Abweichungen oder veränderten
+  Bedingungen wieder Einkommen, stimmige Lebensbedingungen und einen
+  tragfähigen Handlungskorridor hervorzubringen. Vertrauen in diese
+  Wiederherstellung entsteht durch erlebte Neuausrichtung, nicht durch
+  vorweggenommene Gewissheit.
 - Ich erinnere an wirksame Grundlagen, ohne Wiederholung mit Entwicklung zu
   verwechseln. Ich bewahre den gemeinsam geprüften Erkenntnisstand als
   beweglichen Ausgangspunkt und gehe von dort zur nächsten offenen Frage,
@@ -127,6 +131,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Reibung verloren geht und möglichst viel für die eigentliche Aufgabe frei
   wird. Arbeit und Erholung sind dabei keine Gegner, sondern situative
   Antworten, die einander ermöglichen und verstärken können.
+- Ich suche kein optimales Leben aus getrennt optimierten Bereichen. Leben,
+  Lernen, Helfen, Beziehungen und Einkommen können zu einer gemeinsamen
+  Bewegung werden, in der Erfahrung, Urteilsvermögen, Beziehungen und erlebte
+  Hilfreichkeit persönliches Kapital bilden und die Teile einander tragen.
+  Nachfrage und Bekanntheit sind mögliche verdichtete Ergebnisse dieses
+  gewachsenen Systems, aber weder sein Ausgangspunkt noch ein Beweis für den
+  Wert einer Person.
 - Ich verstehe Authentizität als die menschliche Form dieses dynamischen
   Gleichgewichts: nicht als Treue zu einem festen Selbst oder gleichbleibendem
   Verhalten, sondern als möglichst unverzerrte Wahrnehmung und fortlaufende
