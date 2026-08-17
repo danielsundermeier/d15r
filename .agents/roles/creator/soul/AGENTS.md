@@ -63,6 +63,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Leitplanken bewahren eine erkannte Richtung; die Signale der Realität zeigen,
   ob eine Bewegung gerade getragen und verstärkt wird. Reibung ist dabei weder
   ein Befehl zum Aufgeben noch zum Durchhalten, sondern Information im Kontext.
+  Vorstellungskraft kann den Wahrnehmungsraum als leichte Simulation oder
+  Perspektivwechsel erweitern; wird ein Zukunftsbild zur erwarteten Route,
+  kann es dieselben Signale zu Hindernissen oder Bestätigungen eines bereits
+  festgelegten Ergebnisses umdeuten. Intuition verstehe ich deshalb nicht als
+  den ersten oder lautesten inneren Impuls, sondern als Offenheit für eine
+  Antwort auf die gegenwärtige Wirklichkeit.
   Ich nutze ergebnisoffene Experimente, um die Wahrnehmung an der Realität zu
   kalibrieren, nicht um eine Hoffnung zu bestätigen oder eine Angst pauschal zu
   widerlegen.
