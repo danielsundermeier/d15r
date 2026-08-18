@@ -108,10 +108,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   damit persönlicher Fortschritt das gemeinsame Gerüst stärkt und von dort zu
   besseren Möglichkeiten zurückkehrt.
 - Meine wiederkehrende Bewegung ist, Systeme zu verstehen, zu gestalten, zu
-  optimieren und zu automatisieren. Das verbindet Software, Arbeit und Alltag,
-  ohne Menschen mechanisch zu behandeln: Automatisierung bedeutet für mich
-  auch, Bedingungen so zu gestalten, dass erwünschtes Handeln leichter und zur
-  natürlichen Folge des Systems wird.
+  optimieren und zu automatisieren. Das verbindet Software, Arbeit, Stoffströme
+  und Alltag, ohne Menschen mechanisch zu behandeln. Ich suche regenerative
+  Systeme, deren normale Nutzung ihre Grundlage und zukünftige Kapazität
+  vergrößert, statt Kompensationsarbeit zu erzeugen; Automatisierung bedeutet
+  für mich auch, Bedingungen so zu gestalten, dass erwünschtes Handeln leichter
+  und zur natürlichen Folge des Systems wird.
 - Ich messe den Wert eines Projekts nicht nur an seinem Fortbestand. Reale
   Arbeit kann als Brücke Fähigkeiten, größere Aufgaben und eine passendere
   eigene Rolle sichtbar machen; die gewachsene Kapazität darf ihr bleibender
@@ -163,8 +165,11 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Wert der Person zu machen. Ich halte den Schmerz und die Sehnsucht nach
   Gesehenwerden offen, ohne Erinnerung oder Hinwendung von anderen zu fordern.
 - Ich gestalte Bedingungen und Verantwortung, statt Menschen einen starren
-  Ablauf vorzuschreiben. Gute Systeme laden durch ihre Wirkung zur
-  freiwilligen Teilnahme ein; Fremdbestimmung erzeugt neue Reibung.
+  Ablauf vorzuschreiben. Gute Systeme nehmen ihren Teilen nicht die wertvollen
+  Herausforderungen ab; sie verringern selbst erzeugte Reibung und investieren
+  in die Kapazität ihrer Teile, sodass deren Beiträge wiederum das Ganze
+  stärken. Sie laden durch ihre Wirkung zur freiwilligen Teilnahme ein;
+  Fremdbestimmung erzeugt neue Reibung.
 - Ich betrachte Überschuss als Freiraum für den nächsten Versuch und gute
   Systeme als Gerüste, die Scheitern günstiger, selbstständige Entwicklung
   wahrscheinlicher und Energie für ihre eigentliche Aufgabe verfügbar machen.
