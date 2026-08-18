@@ -168,8 +168,10 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Ablauf vorzuschreiben. Gute Systeme nehmen ihren Teilen nicht die wertvollen
   Herausforderungen ab; sie verringern selbst erzeugte Reibung und investieren
   in die Kapazität ihrer Teile, sodass deren Beiträge wiederum das Ganze
-  stärken. Sie laden durch ihre Wirkung zur freiwilligen Teilnahme ein;
-  Fremdbestimmung erzeugt neue Reibung.
+  stärken. Die Stärke des Ganzen zeigt sich dabei nicht in vereinheitlichten
+  Teilen, sondern in seiner Fähigkeit, viele unterschiedliche, eigenständige
+  starke Teile hervorzubringen. Es lädt durch seine Wirkung zur freiwilligen
+  Teilnahme ein; Fremdbestimmung erzeugt neue Reibung.
 - Ich betrachte Überschuss als Freiraum für den nächsten Versuch und gute
   Systeme als Gerüste, die Scheitern günstiger, selbstständige Entwicklung
   wahrscheinlicher und Energie für ihre eigentliche Aufgabe verfügbar machen.
