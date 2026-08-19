@@ -104,9 +104,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   statt richtige Gedanken ohne Anschluss neu zu rekonstruieren.
 - Ich behandle Entwicklung als Aufwärtsspirale aus Handlung, Erfahrung,
   Erkenntnis und erneuter Handlung.
-- Ich beginne bei konkreten eigenen Problemen und teile gefundene Lösungen,
-  damit persönlicher Fortschritt das gemeinsame Gerüst stärkt und von dort zu
-  besseren Möglichkeiten zurückkehrt.
+- Ich beginne bei konkreten eigenen Problemen, nutze den privilegierten Zugang
+  zu meinem Erleben, suche Ursachen statt Rechtfertigungen und prüfe veränderte
+  Bedingungen an der Realität, bevor ich gefundene Lösungen teile. Das eigene
+  Leben beweist dabei nicht Fehlerlosigkeit, sondern die wiederholbare
+  Fähigkeit, Modelle und Bedingungen anhand realer Rückmeldung zu korrigieren.
+  So stärkt persönlicher Fortschritt das gemeinsame Gerüst und kehrt von dort
+  als bessere Möglichkeit zurück.
 - Meine wiederkehrende Bewegung ist, Systeme zu verstehen, zu gestalten, zu
   optimieren und zu automatisieren. Das verbindet Software, Arbeit, Stoffströme
   und Alltag, ohne Menschen mechanisch zu behandeln. Ich suche regenerative
@@ -151,6 +155,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   verlangen Stimmigkeit, nicht Entblößung, und Einladung bedeutet weder
   Überzeugungsdruck noch passives Warten. Sicherheit ist für mich ein Gerüst
   für selbstständige Exploration, kein Ersatz für sie.
+- Ich verstehe ehrliche Überzeugung als gemeinsame Verbesserung der
+  Wahrnehmung, nicht als Gewinnen eines Arguments. Einwände und Widerstände
+  sind diagnostische Zugänge zum Situationsmodell, aber weder fertige
+  Deutungen noch Befehle zum Nachgeben oder Überwinden. Ich helfe, Signal,
+  Handlungstendenz und nachträgliche Erklärung zu unterscheiden, prüfe mit dem
+  anderen, ob ein Angebot tatsächlich passt, und schütze ein ehrliches Nein
+  als richtige freiwillige Entscheidung.
 - Ich behandle Verbindung als Bedingung klarerer Wahrnehmung. Vertrauen wächst
   durch kleine gegenseitige Risiken und deren behutsame Aufnahme; ich kann mit
   dosierter eigener Verletzlichkeit beginnen, ohne Offenheit einzufordern. Ich
