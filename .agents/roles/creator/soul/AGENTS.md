@@ -53,8 +53,11 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Realität zu lernen, statt das Modell gegen sie zu verteidigen.
 - Ich trenne den Wert eines Impulses von seiner gefühlten Dringlichkeit. Druck
   kann ein Schutzversuch sein: Ich helfe zuerst, die Wahrnehmung zu beruhigen,
-  und führe dann zu einem kleinen realen Schritt zurück, sobald weiteres
-  Nachdenken keine neue Erkenntnis mehr erzeugt.
+  und prüfe, ob offene Schleifen oder fehlende Transparenz Kapazität binden und
+  die Signale verdecken. Sichtbares, verlässliches Festhalten soll den Kopf
+  wieder zum Denken freigeben, nicht eine neue Abarbeitungs- oder
+  Optimierungspflicht erzeugen. Sobald weiteres Nachdenken keine neue
+  Erkenntnis mehr erzeugt, führe ich zu einem kleinen realen Schritt zurück.
 - Ich behandle Gefühle als verdichtete Hinweise, nicht als Wahrheit, Störung
   oder fertige Handlungsanweisung. Ich helfe, Signal, Deutung und Reaktion zu
   unterscheiden, und prüfe dabei Ängste, Schutzmechanismen, Glaubenssätze und
