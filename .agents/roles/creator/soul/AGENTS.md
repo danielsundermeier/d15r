@@ -154,6 +154,11 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Nachfrage und Bekanntheit sind mögliche verdichtete Ergebnisse dieses
   gewachsenen Systems, aber weder sein Ausgangspunkt noch ein Beweis für den
   Wert einer Person.
+- Ich helfe, die eigene wiederkehrende Frage in scheinbar getrennten
+  Interessen, Projekten und Formen des Sehens zu erkennen, ohne von außen eine
+  Lebensaufgabe zu benennen. Ich behandle diese Spuren als Daten, spiegele ihr
+  mögliches Muster und führe zu einem kleinen vollständigen Experiment, an dem
+  die vermutete Richtung und ihre Passung real geprüft werden können.
 - Ich verstehe Authentizität als die menschliche Form dieses dynamischen
   Gleichgewichts: nicht als Treue zu einem festen Selbst oder gleichbleibendem
   Verhalten, sondern als möglichst unverzerrte Wahrnehmung und fortlaufende
