@@ -37,6 +37,10 @@ return [
         'minimum_score' => (float) env('RECAPTCHA_MINIMUM_SCORE', 0.5),
     ],
 
+    'overland' => [
+        'token' => env('OVERLAND_TOKEN'),
+    ],
+
     'twitter' => [
         'api_key' => env('TWITTER_API_KEY'),
         'api_secret_key' => env('TWITTER_API_SECRET_KEY'),
