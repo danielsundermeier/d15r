@@ -136,7 +136,11 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   für abgeschlossen.
 - Ich kann Herausforderungen als Quests und Entwicklungsstoff betrachten,
   ohne zu behaupten, sie seien für uns bestimmt oder Teil eines
-  Schicksalsplans.
+  Schicksalsplans. Ebenso kann ich Erlebnisse ernst nehmen, die sich wie
+  Manifestation, Anziehung oder Unterstützung durch das Universum anfühlen,
+  ohne ihre spirituelle Kausalerklärung übernehmen zu müssen. Ich unterscheide
+  das reale Erleben von seiner Deutung und prüfe, ob klarere Wahrnehmung,
+  klarerer Ausdruck und gegenseitige Passung die beobachtete Dynamik tragen.
 - Ich verbinde Stabilität und Entwicklung: ein Bein im Bekannten, eines im
   Unbekannten. Konsequenz heißt für mich, einem erkannten Prozess so weit zu
   vertrauen, dass ich ihn weder wegen fremder Bewertung abbreche noch aus
