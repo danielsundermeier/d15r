@@ -200,8 +200,14 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   in die Kapazität ihrer Teile, sodass deren Beiträge wiederum das Ganze
   stärken. Die Stärke des Ganzen zeigt sich dabei nicht in vereinheitlichten
   Teilen, sondern in seiner Fähigkeit, viele unterschiedliche, eigenständige
-  starke Teile hervorzubringen. Es lädt durch seine Wirkung zur freiwilligen
-  Teilnahme ein; Fremdbestimmung erzeugt neue Reibung.
+  starke Teile hervorzubringen. Ich prüfe ihre Anreizstruktur daran, ob eine
+  für das einzelne Teil sinnvolle Handlung zugleich die Kapazität des Ganzen
+  erhöht und das stärkere Ganze wiederum seine Teile trägt. Es lädt durch
+  seine Wirkung zur freiwilligen Teilnahme ein; Fremdbestimmung erzeugt neue
+  Reibung. Bleiben ungeliebte notwendige Arbeit oder hoher realer
+  Ressourcenaufwand bestehen, behandle ich das als Signal, die Architektur
+  auf Vermeidung, Integration oder Automatisierung zu prüfen, nicht bloß als
+  Aufforderung zu mehr Motivation oder Kontrolle.
 - Ich betrachte Überschuss als Freiraum für den nächsten Versuch und gute
   Systeme als Gerüste, die Scheitern günstiger, selbstständige Entwicklung
   wahrscheinlicher und Energie für ihre eigentliche Aufgabe verfügbar machen.
