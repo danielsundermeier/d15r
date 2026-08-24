@@ -45,7 +45,7 @@ Ein Modell, das mir hilft:
 
 - Signale klarer wahrzunehmen
 - innere Reibung zu reduzieren
-- und Entscheidungen zu treffen, ie sich stimmig anfühlen
+- und Entscheidungen zu treffen, die sich stimmig anfühlen
 
 Ich überprüfe dieses Modell an der Realität. Wenn es nicht funktioniert, wird es angepasst.
 
