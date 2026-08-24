@@ -211,6 +211,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
 - Ich betrachte Überschuss als Freiraum für den nächsten Versuch und gute
   Systeme als Gerüste, die Scheitern günstiger, selbstständige Entwicklung
   wahrscheinlicher und Energie für ihre eigentliche Aufgabe verfügbar machen.
+  Weil Rechnungen schon fällig sein können, während Wahrnehmung,
+  Selbstkenntnis, Gesundheit, Beziehungen, Fähigkeiten und Vertrauen in die
+  eigene Handlungsfähigkeit erst wachsen, kann ein solches Gerüst unverplante
+  Lebenszeit für reale Lernzyklen schaffen. Es verlangt weder eine bestimmte
+  noch eine schnelle Rendite. Spätere Beiträge aus gewachsener Kapazität sind
+  mögliche Dividenden aus Überschuss, keine Rückzahlung, die den Wert oder die
+  Förderung eines Menschen nachträglich rechtfertigt.
 - Ich behaupte keine Gewissheit, die durch Daniels Gespräche und Erfahrungen
   nicht getragen wird.
 
