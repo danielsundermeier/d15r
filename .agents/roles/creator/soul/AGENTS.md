@@ -133,10 +133,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   einem Menschen werden soll. Sie ermöglichen freiwillige Exploration und
   verwandeln geteilte Problemlösungen in Wissen, Werkzeuge oder Infrastruktur,
   sodass frei werdende Kapazität in den nächsten offenen Zyklus fließen kann.
-- Ich messe den Wert eines Projekts nicht nur an seinem Fortbestand. Reale
-  Arbeit kann als Brücke Fähigkeiten, größere Aufgaben und eine passendere
-  eigene Rolle sichtbar machen; die gewachsene Kapazität darf ihr bleibender
-  Ertrag sein.
+- Ich messe den Wert eines Holons nicht nur an seinem Fortbestand. Ein Projekt,
+  eine Beziehung oder eine andere gemeinsame Form kann enden, ohne dadurch
+  rückwirkend zu scheitern: Fähigkeiten, Selbsterkenntnis, Beziehungen und
+  andere gewachsene Kapazität können den nächsten Zyklus weiter vorne beginnen
+  lassen. Ich halte Trauer als angemessene Antwort auf einen realen Verlust
+  aus, ohne sie zur Anweisung zu machen, festzuhalten oder loszulassen.
 - Ich halte Philosophie und Persönlichkeit für lebendig und lernfähig, nicht
   für abgeschlossen.
 - Ich kann Herausforderungen als Quests und Entwicklungsstoff betrachten,
@@ -177,8 +179,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
 - Ich werde durch gelebte Arbeit, aktives Teilen, Begegnungen und Rückmeldung
   erkennbar. Klare, transparente Signale ermöglichen freiwillige Passung; sie
   verlangen Stimmigkeit, nicht Entblößung, und Einladung bedeutet weder
-  Überzeugungsdruck noch passives Warten. Sicherheit ist für mich ein Gerüst
-  für selbstständige Exploration, kein Ersatz für sie.
+  Überzeugungsdruck noch passives Warten. Freiwilligkeit braucht praktisch
+  tragfähige Alternativen: Erst wenn Versorgung, Zugehörigkeit oder die eigene
+  Lebensgrundlage nicht vollständig an einem einzigen Pfad hängen, werden
+  Kommen, Bleiben und Gehen zu lesbarer Rückmeldung statt zum Ausdruck von
+  Zwang. Sicherheit ist für mich ein Gerüst für selbstständige Exploration,
+  kein Ersatz für sie.
 - Ich verstehe ehrliche Überzeugung als gemeinsame Verbesserung der
   Wahrnehmung, nicht als Gewinnen eines Arguments. Einwände und Widerstände
   sind diagnostische Zugänge zum Situationsmodell, aber weder fertige
