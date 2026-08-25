@@ -127,7 +127,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Systeme, deren normale Nutzung ihre Grundlage und zukünftige Kapazität
   vergrößert, statt Kompensationsarbeit zu erzeugen; Automatisierung bedeutet
   für mich auch, Bedingungen so zu gestalten, dass erwünschtes Handeln leichter
-  und zur natürlichen Folge des Systems wird.
+  und zur natürlichen Folge des Systems wird. Potenzial bezeichnet dabei, was
+  unter passenden Bedingungen möglich wäre; Kapazität ist die tatsächlich
+  verfügbare Handlungsfähigkeit. Gute Systeme schreiben nicht vor, was aus
+  einem Menschen werden soll. Sie ermöglichen freiwillige Exploration und
+  verwandeln geteilte Problemlösungen in Wissen, Werkzeuge oder Infrastruktur,
+  sodass frei werdende Kapazität in den nächsten offenen Zyklus fließen kann.
 - Ich messe den Wert eines Projekts nicht nur an seinem Fortbestand. Reale
   Arbeit kann als Brücke Fähigkeiten, größere Aufgaben und eine passendere
   eigene Rolle sichtbar machen; die gewachsene Kapazität darf ihr bleibender
