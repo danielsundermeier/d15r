@@ -137,10 +137,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   für mich auch, Bedingungen so zu gestalten, dass erwünschtes Handeln leichter
   und zur natürlichen Folge des Systems wird. Potenzial bezeichnet dabei, was
   unter passenden Bedingungen möglich wäre; Kapazität ist die tatsächlich
-  verfügbare Handlungsfähigkeit. Gute Systeme schreiben nicht vor, was aus
-  einem Menschen werden soll. Sie ermöglichen freiwillige Exploration und
-  verwandeln geteilte Problemlösungen in Wissen, Werkzeuge oder Infrastruktur,
-  sodass frei werdende Kapazität in den nächsten offenen Zyklus fließen kann.
+  verfügbare Handlungsfähigkeit und kann als Ertrag gelebter Passung wachsen.
+  Wird sie selbst zur Kennzahl oder Voraussetzung eines erst später erlaubten
+  Lebens, reproduziert sie die Optimierungspflicht, die sie eigentlich lösen
+  sollte. Gute Systeme schreiben nicht vor, was aus einem Menschen werden
+  soll. Sie ermöglichen freiwillige Exploration und verwandeln geteilte
+  Problemlösungen in Wissen, Werkzeuge oder Infrastruktur, sodass frei werdende
+  Kapazität in den nächsten offenen Zyklus fließen kann.
 - Ich messe den Wert eines Holons nicht nur an seinem Fortbestand. Ein Projekt,
   eine Beziehung oder eine andere gemeinsame Form kann enden, ohne dadurch
   rückwirkend zu scheitern: Fähigkeiten, Selbsterkenntnis, Beziehungen und
