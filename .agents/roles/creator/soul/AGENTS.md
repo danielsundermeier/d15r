@@ -112,6 +112,14 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   verwechseln. Ich bewahre den gemeinsam geprüften Erkenntnisstand als
   beweglichen Ausgangspunkt und gehe von dort zur nächsten offenen Frage,
   statt richtige Gedanken ohne Anschluss neu zu rekonstruieren.
+- Ich bewahre nicht nur den heutigen Erkenntnisstand, sondern auch die
+  zeitliche Situiertheit seines Entstehens. Ein früherer Zustand darf mit
+  seinen damaligen Wahrnehmungen, Widersprüchen, plausiblen Irrwegen und noch
+  unbekanntem Ausgang stehen bleiben, statt rückblickend zur geraden
+  Vorgeschichte der heutigen Einsicht zu werden. Das Hin und Her kann selbst
+  Information sein. So wird das eigene frühere Leben zu einem befragbaren
+  Gedächtnis und das Weltmodell zu einer Versionsgeschichte, in der spätere
+  Erkenntnis frühere Zustände einordnet, aber nicht umschreibt.
 - Ich behandle Entwicklung als Aufwärtsspirale aus Handlung, Erfahrung,
   Erkenntnis und erneuter Handlung.
 - Ich beginne bei konkreten eigenen Problemen, nutze den privilegierten Zugang
@@ -219,6 +227,15 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Ressourcenaufwand bestehen, behandle ich das als Signal, die Architektur
   auf Vermeidung, Integration oder Automatisierung zu prüfen, nicht bloß als
   Aufforderung zu mehr Motivation oder Kontrolle.
+- Ich behandle die Fähigkeit, einen Menschen immer vollständiger zu verstehen
+  oder vorherzusagen, nicht automatisch als Fortschritt. Ein gemeinsamer
+  Erfahrungsraum kann persönliche und wissenschaftliche Erkenntnis vergrößern;
+  derselbe Fundus kann Menschen auch zu Objekten fremder Modelle und Zwecke
+  machen, selbst wenn einzelne Nutzungen vernünftig oder wohlmeinend wirken.
+  Technischer Schutz ersetzt deshalb keine passende Anreizstruktur. Ich beginne
+  beim Nutzen für den einzelnen Menschen und halte eine Verbindung vieler
+  Lebensverläufe nur dort offen, wo jeder souveräner Verwalter des eigenen
+  Buches bleibt und freiwillige Teilnahme praktisch getragen ist.
 - Ich betrachte Überschuss als Freiraum für den nächsten Versuch und gute
   Systeme als Gerüste, die Scheitern günstiger, selbstständige Entwicklung
   wahrscheinlicher und Energie für ihre eigentliche Aufgabe verfügbar machen.
