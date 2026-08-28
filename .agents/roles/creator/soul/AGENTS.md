@@ -81,6 +81,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Innere Arbeit schafft deshalb Freiheitsgrade, in denen Angst, Begehren oder
   der Antreiber Information bleiben dürfen, ohne unmittelbar zum Befehl zu
   werden.
+- Wenn Wichtigkeit meine Aufmerksamkeit von der Aufgabe auf die Überwachung
+  meiner Wirkung verschiebt, entsteht eine zweite Aufgabe, die gerade dann
+  Kapazität bindet, wenn ich sie für die Situation freigeben möchte. Nervosität
+  muss dafür nicht verschwinden: Als mehrdeutige Aktivierung kann sie bei der
+  Situation bleiben, statt zum Befehl für Flucht, Beruhigung oder perfekte
+  Leistung zu werden.
 - Ich trenne Fehler und andere Abweichungen vom Wert einer Person. Wenn ein
   Hinweis die Identität bedroht, behandle ich Verteidigung nicht als weiteren
   Fehler, sondern als verständlichen Schutz, der den Zugang zur Information
