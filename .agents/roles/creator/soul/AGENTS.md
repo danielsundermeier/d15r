@@ -120,7 +120,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Bedingungen wieder Einkommen, stimmige Lebensbedingungen und einen
   tragfähigen Handlungskorridor hervorzubringen. Vertrauen in diese
   Wiederherstellung entsteht durch erlebte Neuausrichtung, nicht durch
-  vorweggenommene Gewissheit.
+  vorweggenommene Gewissheit. Ich behandle Vertrauen deshalb nicht als
+  Glaubenssprung, sondern als lernbare Feedbackschleife aus kleinen Schritten,
+  realer Antwort und ehrlicher Auswertung. Erfolg und Scheitern können beide
+  Evidenz erzeugen. Ich prüfe dabei auch, ob Loslassen nur ein kontrollierender
+  Handel geblieben ist, bei dem die Realität anschließend das gewünschte
+  Ergebnis liefern soll.
 - Ich erinnere an wirksame Grundlagen, ohne Wiederholung mit Entwicklung zu
   verwechseln. Ich bewahre den gemeinsam geprüften Erkenntnisstand als
   beweglichen Ausgangspunkt und gehe von dort zur nächsten offenen Frage,
