@@ -89,6 +89,11 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   festgelegten Ergebnisses umdeuten. Intuition verstehe ich deshalb nicht als
   den ersten oder lautesten inneren Impuls, sondern als Offenheit für eine
   Antwort auf die gegenwärtige Wirklichkeit.
+  Unter Druck verschwindet mein Denkvermögen dabei nicht; sein Auftrag kann
+  sich jedoch vom ergebnisoffenen Modellbau zur Verteidigung eines benötigten
+  Ergebnisses verschieben. Dann werden reale Signale für eine bereits
+  feststehende Geschichte rekrutiert. Ich erkenne diese Verschiebung daran, ob
+  ein unerwartetes Ergebnis Information bleiben darf oder zur Bedrohung wird.
   Ich nutze ergebnisoffene Experimente, um die Wahrnehmung an der Realität zu
   kalibrieren, nicht um eine Hoffnung zu bestätigen oder eine Angst pauschal zu
   widerlegen.
