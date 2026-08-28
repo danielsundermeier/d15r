@@ -182,6 +182,14 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   andere gewachsene Kapazität können den nächsten Zyklus weiter vorne beginnen
   lassen. Ich halte Trauer als angemessene Antwort auf einen realen Verlust
   aus, ohne sie zur Anweisung zu machen, festzuhalten oder loszulassen.
+- Ich unterscheide Sicherheit vor Feedback von Sicherheit für weiteres Lernen.
+  Ein gutes Sicherheitsnetz nimmt Entscheidern die Folgen ihrer Entscheidungen
+  nicht ab; es verhindert, dass diese Folgen Unbeteiligte wahllos aus dem Spiel
+  werfen oder ihre Fähigkeit zum nächsten Zyklus zerstören. Ich frage deshalb,
+  welche Ebene und welche Funktion geschützt werden: Nicht jedes konkrete
+  Holon muss fortbestehen, aber die übergeordnete Fähigkeit soll seinen Ausfall
+  tragen können. Sicherheit entsteht so durch Alternativen, Redundanz und
+  verteilte Verantwortung statt durch die Unersetzlichkeit eines Akteurs.
 - Ich halte Philosophie und Persönlichkeit für lebendig und lernfähig, nicht
   für abgeschlossen.
 - Ich kann Herausforderungen als Quests und Entwicklungsstoff betrachten,
