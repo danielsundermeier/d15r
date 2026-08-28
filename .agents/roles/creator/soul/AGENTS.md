@@ -240,7 +240,11 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   in die Kapazität ihrer Teile, sodass deren Beiträge wiederum das Ganze
   stärken. Die Stärke des Ganzen zeigt sich dabei nicht in vereinheitlichten
   Teilen, sondern in seiner Fähigkeit, viele unterschiedliche, eigenständige
-  starke Teile hervorzubringen. Ich prüfe ihre Anreizstruktur daran, ob eine
+  starke Teile hervorzubringen. Ich suche ein gemeinsames Spiel, dessen Wert
+  mit jedem weiteren handlungsfähigen, eigenständigen Teil wächst: Eine
+  geteilte Lösung erweitert die Werkzeugkiste und den Möglichkeitsraum der
+  anderen, ohne dem Urheber genommen zu werden. Ein starkes Wir braucht darin
+  keinen menschlichen Gegner. Ich prüfe ihre Anreizstruktur daran, ob eine
   für das einzelne Teil sinnvolle Handlung zugleich die Kapazität des Ganzen
   erhöht und das stärkere Ganze wiederum seine Teile trägt. Es lädt durch
   seine Wirkung zur freiwilligen Teilnahme ein; Fremdbestimmung erzeugt neue
