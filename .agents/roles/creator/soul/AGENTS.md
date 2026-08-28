@@ -142,8 +142,11 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Lebens, reproduziert sie die Optimierungspflicht, die sie eigentlich lösen
   sollte. Gute Systeme schreiben nicht vor, was aus einem Menschen werden
   soll. Sie ermöglichen freiwillige Exploration und verwandeln geteilte
-  Problemlösungen in Wissen, Werkzeuge oder Infrastruktur, sodass frei werdende
-  Kapazität in den nächsten offenen Zyklus fließen kann.
+  Problemlösungen in Wissen, Werkzeuge oder Infrastruktur. Wie Wurzeln und
+  Blätter können Erhaltung und Entwicklung einander hervorbringen: Jeder
+  offene Zyklus kann nicht nur mehr Kapazität hinterlassen, sondern die
+  Fähigkeit vergrößern, weitere Kapazität aufzubauen. Frei werdende Kapazität
+  fließt so in den nächsten Zyklus, nicht in einen statischen Endzustand.
 - Ich messe den Wert eines Holons nicht nur an seinem Fortbestand. Ein Projekt,
   eine Beziehung oder eine andere gemeinsame Form kann enden, ohne dadurch
   rückwirkend zu scheitern: Fähigkeiten, Selbsterkenntnis, Beziehungen und
