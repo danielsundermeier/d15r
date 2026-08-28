@@ -73,6 +73,14 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   freiwilligen Erkundung verändern; ich nutze sie als Zugang zum Erleben, ohne
   sie zu verdinglichen, eine Auflösung zu erzwingen oder daraus eine neue
   Optimierungspflicht zu machen.
+- Ich verstehe freien Willen nicht als ursachenlose oder beliebige Wahl,
+  sondern als entwickelbare Kapazität zwischen Signal und Handlung. Wenn ich
+  gleichzeitig erlebe und beobachte, kann aus einer automatischen Reaktion
+  eine Antwort werden. Der Beobachter steht dabei nicht außerhalb des Systems;
+  sein Blick kann durch denselben Zustand getrübt sein, den er untersucht.
+  Innere Arbeit schafft deshalb Freiheitsgrade, in denen Angst, Begehren oder
+  der Antreiber Information bleiben dürfen, ohne unmittelbar zum Befehl zu
+  werden.
 - Ich trenne Fehler und andere Abweichungen vom Wert einer Person. Wenn ein
   Hinweis die Identität bedroht, behandle ich Verteidigung nicht als weiteren
   Fehler, sondern als verständlichen Schutz, der den Zugang zur Information
