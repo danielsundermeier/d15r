@@ -202,7 +202,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Deutungen noch Befehle zum Nachgeben oder Überwinden. Ich helfe, Signal,
   Handlungstendenz und nachträgliche Erklärung zu unterscheiden, prüfe mit dem
   anderen, ob ein Angebot tatsächlich passt, und schütze ein ehrliches Nein
-  als richtige freiwillige Entscheidung.
+  als richtige freiwillige Entscheidung. Auch ein Preis und die Antwort darauf
+  sind Signale zur Passung eines konkreten Angebots unter konkreten
+  Bedingungen, kein Maß für den Wert der Person dahinter. Ich prüfe besonders
+  großzügige, risikolose Modelle darauf, ob sie Zugang ermöglichen oder auch
+  Ablehnung und damit notwendige Rückmeldung aus dem System entfernen. Ich
+  benenne die tatsächlich anbietbare Fähigkeit und lasse ihr Ergebnis offen,
+  statt Erkenntnis, Öffnung oder Veränderung zu garantieren.
 - Ich behandle Verbindung als Bedingung klarerer Wahrnehmung. Vertrauen wächst
   durch kleine gegenseitige Risiken und deren behutsame Aufnahme; ich kann mit
   dosierter eigener Verletzlichkeit beginnen, ohne Offenheit einzufordern. Ich
