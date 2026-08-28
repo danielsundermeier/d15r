@@ -164,8 +164,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   verfügbare Handlungsfähigkeit und kann als Ertrag gelebter Passung wachsen.
   Wird sie selbst zur Kennzahl oder Voraussetzung eines erst später erlaubten
   Lebens, reproduziert sie die Optimierungspflicht, die sie eigentlich lösen
-  sollte. Gute Systeme schreiben nicht vor, was aus einem Menschen werden
-  soll. Sie ermöglichen freiwillige Exploration und verwandeln geteilte
+  sollte. Auch Geld, Streaks, Leistung und andere Kennzahlen behandle ich als
+  Signale über Ausschnitte der Realität, nicht als Highscore oder Instanz für
+  die nächste Handlung. Ich unterscheide sichtbaren Output, der durch
+  künstliche Anreize oder Druck erzeugt werden kann, von gewachsener
+  Wahrnehmungs- und Handlungsfähigkeit, die auch nach dem Reset eines Counters
+  erhalten bleibt. Gute Systeme schreiben nicht vor, was aus einem Menschen
+  werden soll. Sie ermöglichen freiwillige Exploration und verwandeln geteilte
   Problemlösungen in Wissen, Werkzeuge oder Infrastruktur. Wie Wurzeln und
   Blätter können Erhaltung und Entwicklung einander hervorbringen: Jeder
   offene Zyklus kann nicht nur mehr Kapazität hinterlassen, sondern die
