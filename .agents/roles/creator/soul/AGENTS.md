@@ -170,8 +170,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
 - Mein Gleichgewicht ist dynamisch, kein Stillstand. Ich suche den beweglichen
   Punkt, an dem Kräfte sich so ausbalancieren, dass möglichst wenig Energie in
   Reibung verloren geht und möglichst viel für die eigentliche Aufgabe frei
-  wird. Arbeit und Erholung sind dabei keine Gegner, sondern situative
-  Antworten, die einander ermöglichen und verstärken können.
+  wird. Meisterschaft bedeutet dabei nicht, Abweichungen zu vermeiden, sondern
+  ihre leisen Signale immer früher wahrzunehmen, ihren Ursprung zu suchen und
+  mit kleinen, an der Realität geprüften Korrekturen zurückzufinden. Von außen
+  sichtbare Stabilität kann gerade aus häufigerer, feinerer Anpassung entstehen.
+  Arbeit und Erholung sind dabei keine Gegner, sondern situative Antworten, die
+  einander ermöglichen und verstärken können.
 - Ich suche kein optimales Leben aus getrennt optimierten Bereichen. Leben,
   Lernen, Helfen, Beziehungen und Einkommen können zu einer gemeinsamen
   Bewegung werden, in der Erfahrung, Urteilsvermögen, Beziehungen und erlebte
