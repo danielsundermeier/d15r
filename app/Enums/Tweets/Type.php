@@ -6,4 +6,5 @@ enum Type: string
 {
     case DAYLY = 'dayly';
     case POST = 'post';
+    case PUBLISH = 'publish';
 }

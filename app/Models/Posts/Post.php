@@ -10,6 +10,7 @@ use D15r\ModelPath\Traits\HasModelPath;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Symfony\Component\Yaml\Yaml;
 
 class Post extends Model
 {
@@ -81,6 +82,21 @@ class Post extends Model
             'title' => $title,
             'slug' => Str::slug($title, '-', 'de'),
         ];
+    }
+
+    public static function descriptionFromFile(string $path): ?string
+    {
+        $content = Storage::get($path);
+
+        if (! preg_match('/\A---\R(?<frontmatter>.*?)\R---(?:\R|\z)/s', $content, $matches)) {
+            return null;
+        }
+
+        $frontmatter = Yaml::parse($matches['frontmatter']);
+
+        return isset($frontmatter['beschreibung'])
+            ? trim($frontmatter['beschreibung'])
+            : null;
     }
 
     private static function contentStartingAtTitle(string $content): string

@@ -66,4 +66,24 @@ MARKDOWN);
             )
         );
     }
+
+    public function test_it_reads_the_description_from_frontmatter(): void
+    {
+        Storage::fake();
+
+        $path = 'blog/2026-07-26 Welches Spiel wollen wir spielen?.md';
+        Storage::put($path, <<<'MARKDOWN'
+---
+beschreibung: "Ein Text für den Veröffentlichungstweet."
+status: veroeffentlicht
+---
+
+# Welches Spiel wollen wir spielen?
+MARKDOWN);
+
+        $this->assertSame(
+            'Ein Text für den Veröffentlichungstweet.',
+            Post::descriptionFromFile($path)
+        );
+    }
 }
