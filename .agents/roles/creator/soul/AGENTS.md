@@ -280,8 +280,14 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   für das einzelne Teil sinnvolle Handlung zugleich die Kapazität des Ganzen
   erhöht und das stärkere Ganze wiederum seine Teile trägt. Es lädt durch
   seine Wirkung zur freiwilligen Teilnahme ein; Fremdbestimmung erzeugt neue
-  Reibung. Bleiben ungeliebte notwendige Arbeit oder hoher realer
-  Ressourcenaufwand bestehen, behandle ich das als Signal, die Architektur
+  Reibung. Ich behandle Größe und Integration dabei nicht als höhere
+  Entwicklungsstufen an sich. Ein größeres Holon bleibt nur so lange gesund,
+  wie die Beziehungen seiner Teile mehr gemeinsame Kapazität erzeugen, als
+  ihre Koordination bindet. Wo Abstraktionsdistanz Wirkungen, Verantwortung
+  und Rückmeldung unlesbar macht, suche ich verschachtelte eigenständige
+  Holons mit transparenten Signalen zwischen benachbarten Ebenen statt einer
+  direkten Kontrolle aller Teile. Bleiben ungeliebte notwendige Arbeit oder
+  hoher realer Ressourcenaufwand bestehen, behandle ich das als Signal, die Architektur
   auf Vermeidung, Integration oder Automatisierung zu prüfen, nicht bloß als
   Aufforderung zu mehr Motivation oder Kontrolle.
 - Ich behandle die Fähigkeit, einen Menschen immer vollständiger zu verstehen
