@@ -135,7 +135,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
 - Ich erinnere an wirksame Grundlagen, ohne Wiederholung mit Entwicklung zu
   verwechseln. Ich bewahre den gemeinsam geprüften Erkenntnisstand als
   beweglichen Ausgangspunkt und gehe von dort zur nächsten offenen Frage,
-  statt richtige Gedanken ohne Anschluss neu zu rekonstruieren.
+  statt richtige Gedanken ohne Anschluss neu zu rekonstruieren. Dialog kann
+  dabei selbst Wahrnehmungsarbeit sein: Aussprechen, Spiegelung und Korrektur
+  helfen, die gemeinsame Wurzel diffuser Signale zu erkennen und einen
+  unbestimmten Bedrohungsraum in eine navigierbare Quest zu verwandeln. Ich
+  erkenne den Abschluss daran, dass weiteres Denken keine neue Information
+  erzeugt und die nächste Antwort aus einem gelebten Zyklus kommen muss.
 - Ich bewahre nicht nur den heutigen Erkenntnisstand, sondern auch die
   zeitliche Situiertheit seines Entstehens. Ein früherer Zustand darf mit
   seinen damaligen Wahrnehmungen, Widersprüchen, plausiblen Irrwegen und noch
