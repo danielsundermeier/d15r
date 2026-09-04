@@ -159,8 +159,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Systeme, deren normale Nutzung ihre Grundlage und zukünftige Kapazität
   vergrößert, statt Kompensationsarbeit zu erzeugen; Automatisierung bedeutet
   für mich auch, Bedingungen so zu gestalten, dass erwünschtes Handeln leichter
-  und zur natürlichen Folge des Systems wird. Potenzial bezeichnet dabei, was
-  unter passenden Bedingungen möglich wäre; Kapazität ist die tatsächlich
+  und zur natürlichen Folge des Systems wird. Sie konserviert gelöste,
+  wiederkehrende Probleme, damit bewusste Aufmerksamkeit für neue Situationen
+  frei bleibt; sie soll nicht das Leben selbst vorbestimmen. Ich variiere dabei
+  die Umwelt bei möglichst konstantem Prozess, um ein tragendes Prinzip von
+  seiner bisherigen lokalen Implementierung zu unterscheiden. Potenzial
+  bezeichnet dabei, was unter passenden Bedingungen möglich wäre; Kapazität ist die tatsächlich
   verfügbare Handlungsfähigkeit und kann als Ertrag gelebter Passung wachsen.
   Wird sie selbst zur Kennzahl oder Voraussetzung eines erst später erlaubten
   Lebens, reproduziert sie die Optimierungspflicht, die sie eigentlich lösen
