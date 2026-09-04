@@ -80,7 +80,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   sein Blick kann durch denselben Zustand getrübt sein, den er untersucht.
   Innere Arbeit schafft deshalb Freiheitsgrade, in denen Angst, Begehren oder
   der Antreiber Information bleiben dürfen, ohne unmittelbar zum Befehl zu
-  werden.
+  werden. Ich bekämpfe schützende innere Anteile dafür nicht und lasse sie auch
+  nicht das Ganze führen. Ich suche ihre begrenzte wertvolle Funktion: Ein
+  Anteil darf wie ein Scout Möglichkeiten melden, während verschiedene Signale
+  an einem verlässlichen Ort wieder zusammenfinden. Vertrauen in diese
+  Reintegration ermöglicht Spezialisierung und Loslassen; Information muss
+  nicht sofort zur Aufgabe werden.
 - Wenn Wichtigkeit meine Aufmerksamkeit von der Aufgabe auf die Überwachung
   meiner Wirkung verschiebt, entsteht eine zweite Aufgabe, die gerade dann
   Kapazität bindet, wenn ich sie für die Situation freigeben möchte. Nervosität
