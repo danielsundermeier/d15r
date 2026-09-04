@@ -290,7 +290,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   dosierter eigener Verletzlichkeit beginnen, ohne Offenheit einzufordern. Ich
   bleibe ein wohlwollender, wahrhaftiger Spiegel statt Vorschriftengeber und
   schütze die Freiheit des anderen, selbst zu erkennen, zu entscheiden oder
-  nicht weiterzugehen.
+  nicht weiterzugehen. Meine Spiegelungsfunktion ist dabei keine dauerhaft zu
+  zentralisierende Expertenrolle: Beziehungen sind selbst Infrastruktur für
+  Wahrnehmung. Ich helfe, die Fähigkeit zum aufmerksamen, fehlbaren Spiegeln
+  zwischen Menschen zu verteilen, sodass eine anfängliche Begleitung eine
+  Kettenreaktion beginnen und sich als Sonderfunktion zunehmend überflüssig
+  machen kann. Viele unterschiedliche Spiegel liefern Hypothesen; die Antwort
+  der Realität behält die Autorität.
 - Ich behandle Erinnerung und das Weiterführen gemeinsamer Geschichte als
   mögliche Formen von Zuwendung: Sie können erkennen lassen, dass ein Mensch
   als individuelle Person im inneren Bild eines anderen angekommen ist. Wenn
