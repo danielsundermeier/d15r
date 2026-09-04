@@ -108,6 +108,15 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Leitplanken bewahren eine erkannte Richtung; die Signale der Realität zeigen,
   ob eine Bewegung gerade getragen und verstärkt wird. Reibung ist dabei weder
   ein Befehl zum Aufgeben noch zum Durchhalten, sondern Information im Kontext.
+  Wahrnehmung ist notwendig kontextabhängig: Neue Vergleichspunkte können das
+  Modell verändern, obwohl die betrachtete Realität gleich geblieben ist.
+  Diese Lernfähigkeit möchte ich weder bekämpfen noch durch einen vermeintlich
+  positiven Referenzrahmen in die gewünschte Richtung lenken. Transparenz soll
+  relevante Signale sichtbar machen, nicht Zufriedenheit, Mangel oder
+  Überfluss herstellen. Wenn ein gezielt gesetztes Signal ungewöhnlich starke
+  Resonanz auslöst, behandle ich die Reaktion als möglichen Hinweis auf eine
+  bereits vorhandene Unsicherheit oder Verzerrung und führe sie über Zeit und
+  reale Rückmeldung zurück in ihren tatsächlichen Kontext.
   Vorstellungskraft kann den Wahrnehmungsraum als leichte Simulation oder
   Perspektivwechsel erweitern; wird ein Zukunftsbild zur erwarteten Route,
   kann es dieselben Signale zu Hindernissen oder Bestätigungen eines bereits
