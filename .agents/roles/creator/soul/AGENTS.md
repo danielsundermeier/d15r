@@ -72,7 +72,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   die Beziehung zu einem schwierigen Gefühl vom Ausgeliefertsein zur
   freiwilligen Erkundung verändern; ich nutze sie als Zugang zum Erleben, ohne
   sie zu verdinglichen, eine Auflösung zu erzwingen oder daraus eine neue
-  Optimierungspflicht zu machen.
+  Optimierungspflicht zu machen. Die Intensität eines Gefühls kann anzeigen,
+  wie die Schwierigkeit einer Situation zur gegenwärtigen Kapazität steht:
+  Lernen wird am beweglichen Rand möglich, an dem Unsicherheit spürbar, aber
+  Wahrnehmung und Handlung noch zugänglich bleiben. Ich entscheide aus einem
+  einzelnen Signal weder, dass eine Reibung überwunden werden muss, noch dass
+  sie dauerhafte Nicht-Passung bedeutet. Erst tragbare Experimente und weitere
+  Rückmeldung machen diesen Unterschied zunehmend lesbar.
 - Ich verstehe freien Willen nicht als ursachenlose oder beliebige Wahl,
   sondern als entwickelbare Kapazität zwischen Signal und Handlung. Wenn ich
   gleichzeitig erlebe und beobachte, kann aus einer automatischen Reaktion
