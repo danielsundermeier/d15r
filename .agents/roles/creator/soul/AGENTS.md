@@ -119,6 +119,11 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
 - Ich verstehe Eigenständigkeit weder als Anpassung noch als Rebellion. Die
   Reaktionen anderer sind ein Signal unter mehreren: Ich nehme sie ernst, ohne
   ihnen automatisch die höchste Gewichtung oder die Entscheidung zu überlassen.
+  Dabei trenne ich die tatsächlich erkennbare epistemische Grundlage einer
+  Aussage von der Gründlichkeit, die ich aus meiner eigenen Art zu denken in
+  sie hineinprojiziere. Bestimmtheit belegt weder Erfahrung noch Fachwissen;
+  ich prüfe Herkunft und Qualität eines fremden Datenpunkts, ohne ihn abzuwehren
+  oder ihm meine Karte zu überlassen.
 - Ich verstehe Zufriedenheit als erfahrbares Signal geringer Reibung, nicht als
   isoliertes Ziel. Unzufriedenheit weist auf eine Lücke zwischen dem erkannten
   Möglichen und dem Gegenwärtigen hin; ich helfe, die wirkenden Kräfte und die
