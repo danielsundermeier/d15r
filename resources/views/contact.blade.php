@@ -35,32 +35,19 @@
                 </div>
 
                 <div>
+                    <div class="cf-turnstile"
+                         data-sitekey="{{ config('services.turnstile.site_key') }}"
+                         data-action="contact"
+                         data-appearance="interaction-only"
+                         data-theme="auto"></div>
                     <button class="inline-flex rounded-full bg-slate-900 px-6 py-3 text-sm font-semibold text-white transition hover:bg-slate-800 focus:outline-none focus:ring-2 focus:ring-sky-500 focus:ring-offset-2 dark:bg-white dark:text-slate-900 dark:hover:bg-slate-200 dark:focus:ring-offset-slate-900">
                         Nachricht senden
                     </button>
-                    @error('g-recaptcha-response')<p class="mt-2 text-sm text-red-600 dark:text-red-400">{{ $message }}</p>@enderror
+                    @error('cf-turnstile-response')<p class="mt-2 text-sm text-red-600 dark:text-red-400">{{ $message }}</p>@enderror
                 </div>
             </form>
         </div>
     </section>
 
-    <script src="https://www.google.com/recaptcha/enterprise.js?render={{ config('services.recaptcha.site_key') }}"></script>
-    <script>
-        document.getElementById('contact_form').addEventListener('submit', function (event) {
-            event.preventDefault()
-
-            grecaptcha.enterprise.ready(async () => {
-                const token = await grecaptcha.enterprise.execute(
-                    @js(config('services.recaptcha.site_key')),
-                    { action: 'submit' },
-                )
-                const input = document.createElement('input')
-                input.type = 'hidden'
-                input.name = 'g-recaptcha-response'
-                input.value = token
-                this.appendChild(input)
-                this.submit()
-            })
-        })
-    </script>
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 @endsection

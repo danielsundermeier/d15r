@@ -23,34 +23,28 @@ class ContactController extends Controller
             'name' => ['required', 'string', 'max:255'],
             'mail' => ['required', 'email', 'max:255'],
             'message' => ['required', 'string', 'max:10000'],
-            'g-recaptcha-response' => ['required', 'string'],
+            'cf-turnstile-response' => ['required', 'string', 'max:2048'],
         ]);
 
+        $expectedHostnames = config('services.turnstile.hostnames', []);
+
         try {
-            $captchaAssessment = Http::withHeaders([
-                'X-Goog-Api-Key' => config('services.recaptcha.api_key'),
-            ])
-                ->timeout(5)
-                ->post(sprintf(
-                    'https://recaptchaenterprise.googleapis.com/v1/projects/%s/assessments',
-                    config('services.recaptcha.project_id'),
-                ), [
-                    'event' => [
-                        'token' => $attributes['g-recaptcha-response'],
-                        'siteKey' => config('services.recaptcha.site_key'),
-                        'expectedAction' => 'submit',
-                        'userIpAddress' => $request->ip(),
-                        'userAgent' => $request->userAgent(),
-                    ],
+            $turnstileResult = Http::asForm()
+                ->timeout(10)
+                ->post('https://challenges.cloudflare.com/turnstile/v0/siteverify', [
+                    'secret' => config('services.turnstile.secret'),
+                    'response' => $attributes['cf-turnstile-response'],
+                    'remoteip' => $request->ip(),
                 ])
                 ->throw()
                 ->json();
 
-            $captchaIsValid = data_get($captchaAssessment, 'tokenProperties.valid') === true
-                && data_get($captchaAssessment, 'tokenProperties.action') === 'submit'
-                && data_get($captchaAssessment, 'riskAnalysis.score', 0) >= config('services.recaptcha.minimum_score');
+            $captchaIsValid = $expectedHostnames !== []
+                && data_get($turnstileResult, 'success') === true
+                && data_get($turnstileResult, 'action') === 'contact'
+                && in_array(data_get($turnstileResult, 'hostname'), $expectedHostnames, true);
         } catch (Throwable $exception) {
-            Log::warning('The reCAPTCHA assessment failed.', [
+            Log::warning('The Turnstile assessment failed.', [
                 'exception' => $exception::class,
             ]);
             $captchaIsValid = false;
@@ -58,11 +52,11 @@ class ContactController extends Controller
 
         if (! $captchaIsValid) {
             throw ValidationException::withMessages([
-                'g-recaptcha-response' => 'Die CAPTCHA-Prüfung ist fehlgeschlagen. Bitte versuche es erneut.',
+                'cf-turnstile-response' => 'Die CAPTCHA-Prüfung ist fehlgeschlagen. Bitte versuche es erneut.',
             ]);
         }
 
-        unset($attributes['g-recaptcha-response']);
+        unset($attributes['cf-turnstile-response']);
 
         try {
             Mail::to(config('mail.from.address'))

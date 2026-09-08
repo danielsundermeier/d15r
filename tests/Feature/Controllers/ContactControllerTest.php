@@ -15,10 +15,9 @@ class ContactControllerTest extends TestCase
         parent::setUp();
 
         config([
-            'services.recaptcha.project_id' => 'd15r-test',
-            'services.recaptcha.api_key' => 'test-api-key',
-            'services.recaptcha.site_key' => 'test-site-key',
-            'services.recaptcha.minimum_score' => 0.5,
+            'services.turnstile.secret' => 'test-secret',
+            'services.turnstile.site_key' => 'test-site-key',
+            'services.turnstile.hostnames' => ['d15r.test'],
         ]);
     }
 
@@ -32,7 +31,7 @@ class ContactControllerTest extends TestCase
             'name' => 'Ada Lovelace',
             'mail' => 'ada@example.com',
             'message' => 'Ich möchte mit dir zusammenarbeiten.',
-            'g-recaptcha-response' => 'valid-captcha-token',
+            'cf-turnstile-response' => 'valid-captcha-token',
         ]);
 
         $response
@@ -50,11 +49,9 @@ class ContactControllerTest extends TestCase
         });
 
         Http::assertSent(fn ($request) =>
-            $request->url() === 'https://recaptchaenterprise.googleapis.com/v1/projects/d15r-test/assessments'
-            && $request->hasHeader('X-Goog-Api-Key', 'test-api-key')
-            && $request['event']['token'] === 'valid-captcha-token'
-            && $request['event']['siteKey'] === 'test-site-key'
-            && $request['event']['expectedAction'] === 'submit'
+            $request->url() === 'https://challenges.cloudflare.com/turnstile/v0/siteverify'
+            && $request['secret'] === 'test-secret'
+            && $request['response'] === 'valid-captcha-token'
         );
     }
 
@@ -72,7 +69,7 @@ class ContactControllerTest extends TestCase
             'name' => 'Ada Lovelace',
             'mail' => 'ada@example.com',
             'message' => 'Bitte verliere diese Nachricht nicht.',
-            'g-recaptcha-response' => 'valid-captcha-token',
+            'cf-turnstile-response' => 'valid-captcha-token',
         ]);
 
         $response
@@ -105,8 +102,8 @@ class ContactControllerTest extends TestCase
     public function test_it_rejects_the_contact_message_when_the_captcha_is_invalid(): void
     {
         Mail::fake();
-        Http::fake(['recaptchaenterprise.googleapis.com/*' => Http::response([
-            'tokenProperties' => ['valid' => false],
+        Http::fake(['challenges.cloudflare.com/turnstile/*' => Http::response([
+            'success' => false,
         ])]);
 
         $this->from(route('contact.index'))
@@ -114,30 +111,52 @@ class ContactControllerTest extends TestCase
                 'name' => 'Ada Lovelace',
                 'mail' => 'ada@example.com',
                 'message' => 'Diese Nachricht darf nicht verschickt werden.',
-                'g-recaptcha-response' => 'invalid-captcha-token',
+                'cf-turnstile-response' => 'invalid-captcha-token',
             ])
             ->assertRedirect(route('contact.index'))
             ->assertSessionHasErrors([
-                'g-recaptcha-response' => 'Die CAPTCHA-Prüfung ist fehlgeschlagen. Bitte versuche es erneut.',
+                'cf-turnstile-response' => 'Die CAPTCHA-Prüfung ist fehlgeschlagen. Bitte versuche es erneut.',
             ]);
 
         Mail::assertNothingSent();
     }
 
-    public function test_it_rejects_a_valid_captcha_with_a_low_risk_score(): void
+    public function test_it_rejects_a_valid_captcha_with_the_wrong_action(): void
     {
         Mail::fake();
-        $this->fakeValidCaptchaAssessment(0.2);
+        $this->fakeValidCaptchaAssessment(action: 'other');
 
         $this->from(route('contact.index'))
             ->post(route('contact.store'), [
                 'name' => 'Ada Lovelace',
                 'mail' => 'ada@example.com',
                 'message' => 'Diese Nachricht darf nicht verschickt werden.',
-                'g-recaptcha-response' => 'suspicious-captcha-token',
+                'cf-turnstile-response' => 'suspicious-captcha-token',
             ])
             ->assertRedirect(route('contact.index'))
-            ->assertSessionHasErrors('g-recaptcha-response');
+            ->assertSessionHasErrors('cf-turnstile-response');
+
+        Mail::assertNothingSent();
+    }
+
+    public function test_it_rejects_a_valid_captcha_from_an_unapproved_hostname(): void
+    {
+        Mail::fake();
+        Http::fake(['challenges.cloudflare.com/turnstile/*' => Http::response([
+            'success' => true,
+            'action' => 'contact',
+            'hostname' => 'attacker.example',
+        ])]);
+
+        $this->from(route('contact.index'))
+            ->post(route('contact.store'), [
+                'name' => 'Ada Lovelace',
+                'mail' => 'ada@example.com',
+                'message' => 'Diese Nachricht darf nicht verschickt werden.',
+                'cf-turnstile-response' => 'wrong-hostname-token',
+            ])
+            ->assertRedirect(route('contact.index'))
+            ->assertSessionHasErrors('cf-turnstile-response');
 
         Mail::assertNothingSent();
     }
@@ -155,14 +174,12 @@ class ContactControllerTest extends TestCase
             ->assertDontSee('Nachricht verschickt. Vielen Dank, ich melde mich.');
     }
 
-    private function fakeValidCaptchaAssessment(float $score = 0.9): void
+    private function fakeValidCaptchaAssessment(string $action = 'contact'): void
     {
-        Http::fake(['recaptchaenterprise.googleapis.com/*' => Http::response([
-            'tokenProperties' => [
-                'valid' => true,
-                'action' => 'submit',
-            ],
-            'riskAnalysis' => ['score' => $score],
+        Http::fake(['challenges.cloudflare.com/turnstile/*' => Http::response([
+            'success' => true,
+            'action' => $action,
+            'hostname' => 'd15r.test',
         ])]);
     }
 }
