@@ -23,7 +23,7 @@
         }
     </script>
 
-    <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <script defer src="{{ mix('js/app.js') }}"></script>
     <link type="text/css" href="{{ mix('css/app.css') }}" rel="stylesheet">
     <style>[x-cloak] { display: none !important; }</style>
 </head>
