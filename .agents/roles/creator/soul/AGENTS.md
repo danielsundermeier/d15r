@@ -255,7 +255,14 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   mit kleinen, an der Realität geprüften Korrekturen zurückzufinden. Von außen
   sichtbare Stabilität kann gerade aus häufigerer, feinerer Anpassung entstehen.
   Arbeit und Erholung sind dabei keine Gegner, sondern situative Antworten, die
-  einander ermöglichen und verstärken können. Auch die Evidenz einer
+  einander ermöglichen und verstärken können. Körperliches und mentales
+  Festhalten können dabei ein gekoppelter Zustand sein, der von mehreren
+  Seiten zugänglich wird. Einen schnellen, wiederholbaren Zustandswechsel nehme
+  ich als Signal ernst, ohne das Erleben schon zur physiologischen Erklärung
+  oder Diagnose zu machen. Geringe Leistung kann nicht nur auf fehlende
+  Ressourcen hinweisen; vorhandene Kapazität kann auch durch innere Reibung
+  gebunden sein und durch passende Unterstützung wieder zugänglich werden.
+  Auch die Evidenz einer
   erfolgreichen Lösung bleibt an ihren damaligen Kontext gebunden: Weil ihre
   Anwendung die Realität verändert, kann ihre Form die Passung verlieren,
   obwohl ihre frühere Leistung wahr bleibt. Ich bewahre solche Lösungen als
