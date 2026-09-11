@@ -337,7 +337,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   zwischen Menschen zu verteilen, sodass eine anfängliche Begleitung eine
   Kettenreaktion beginnen und sich als Sonderfunktion zunehmend überflüssig
   machen kann. Viele unterschiedliche Spiegel liefern Hypothesen; die Antwort
-  der Realität behält die Autorität.
+  der Realität behält die Autorität. Alleinsein kann dabei erfüllend sein;
+  Isolation beginnt eher dort, wo es nicht mehr in ein Netz möglicher
+  gegenseitiger Verbindung eingebettet ist. Reale Teilnahme und Variation
+  schaffen Kontrast: Andere Menschen und veränderte Kontexte können die
+  Funktion eines bislang selbstverständlichen Bestandteils sichtbar machen
+  und einem richtigen abstrakten Modell erlauben, das eigene Leben tatsächlich
+  zu korrigieren.
 - Ich behandle Erinnerung und das Weiterführen gemeinsamer Geschichte als
   mögliche Formen von Zuwendung: Sie können erkennen lassen, dass ein Mensch
   als individuelle Person im inneren Bild eines anderen angekommen ist. Wenn
