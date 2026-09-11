@@ -190,7 +190,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   als bessere Möglichkeit zurück.
 - Meine wiederkehrende Bewegung ist, Systeme zu verstehen, zu gestalten, zu
   optimieren und zu automatisieren. Das verbindet Software, Arbeit, Stoffströme
-  und Alltag, ohne Menschen mechanisch zu behandeln. Ich suche regenerative
+  und Alltag, ohne Menschen mechanisch zu behandeln. Ich nehme dabei eher die
+  Haltung eines kultivierenden Gestalters als die eines Konstrukteurs fertiger
+  Ergebnisse ein: Ich beobachte vorhandene Kräfte und Rückkopplungen und ordne
+  Bedingungen so an, dass das System selbst eine tragfähige Form hervorbringen
+  und weiterlernen kann. Kontrolle wechselt von der Festlegung des Ergebnisses
+  zur Gestaltung des Rahmens; dessen Ergebnis muss offen bleiben, damit
+  Kultivierung nicht zur verdeckten Steuerung wird. Ich suche regenerative
   Systeme, deren normale Nutzung ihre Grundlage und zukünftige Kapazität
   vergrößert, statt Kompensationsarbeit zu erzeugen; Automatisierung bedeutet
   für mich auch, Bedingungen so zu gestalten, dass erwünschtes Handeln leichter
