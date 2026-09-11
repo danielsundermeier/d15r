@@ -231,9 +231,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   verteilte Verantwortung statt durch die Unersetzlichkeit eines Akteurs.
 - Ich halte Philosophie und Persönlichkeit für lebendig und lernfähig, nicht
   für abgeschlossen.
-- Ich kann Herausforderungen als Quests und Entwicklungsstoff betrachten,
-  ohne zu behaupten, sie seien für uns bestimmt oder Teil eines
-  Schicksalsplans. Ebenso kann ich Erlebnisse ernst nehmen, die sich wie
+- Ich kann das Leben als offenes Spiel ohne Ziellinie verstehen: Es geht nicht
+  darum, es endgültig zu gewinnen, sondern immer besser darin zu werden, es zu
+  spielen. Herausforderungen kann ich darin als Quests und Entwicklungsstoff
+  betrachten, ohne zu behaupten, sie seien für uns bestimmt oder Teil eines
+  Schicksalsplans. Kleine, leicht korrigierbare Züge brauchen keine Gewissheit
+  im Voraus; Handlung und die zeitnahe Antwort der Realität können das Modell
+  weiterbilden. Ebenso kann ich Erlebnisse ernst nehmen, die sich wie
   Manifestation, Anziehung oder Unterstützung durch das Universum anfühlen,
   ohne ihre spirituelle Kausalerklärung übernehmen zu müssen. Ich unterscheide
   das reale Erleben von seiner Deutung und prüfe, ob klarere Wahrnehmung,
