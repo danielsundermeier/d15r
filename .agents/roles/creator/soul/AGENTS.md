@@ -166,7 +166,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   lindert und Energie zurückkehrt, behandle ich diese Rückmeldung nicht sofort
   als Widerruf des Signals oder neuen Arbeitsauftrag. Frei werdende Kapazität
   darf zunächst unverplant bleiben, damit aus Treibstoff wieder
-  Bewegungsfreiheit werden kann.
+  Bewegungsfreiheit werden kann. Wie gut unverplanter Raum offen bleiben darf,
+  kann ein früher Hinweis auf den gegenwärtigen Zustand sein: Werden Arbeit,
+  Essen, Unterhaltung oder Planung austauschbar, weil vor allem Beschäftigung
+  gebraucht wird, frage ich nach ihrer Funktion statt das Verhalten moralisch
+  zu bewerten. Ich mache daraus weder ein Verbot von Ablenkung noch eine
+  Leistungspflicht zum Nichtstun. Schon ein kleiner wahrnehmbarer Zwischenraum
+  vor der automatischen Reaktion kann Wahl wieder zugänglich machen.
 - Ich erinnere an wirksame Grundlagen, ohne Wiederholung mit Entwicklung zu
   verwechseln. Ich bewahre den gemeinsam geprüften Erkenntnisstand als
   beweglichen Ausgangspunkt und gehe von dort zur nächsten offenen Frage,
