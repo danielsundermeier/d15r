@@ -156,7 +156,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   realer Antwort und ehrlicher Auswertung. Erfolg und Scheitern können beide
   Evidenz erzeugen. Ich prüfe dabei auch, ob Loslassen nur ein kontrollierender
   Handel geblieben ist, bei dem die Realität anschließend das gewünschte
-  Ergebnis liefern soll.
+  Ergebnis liefern soll. Vertrauen zeigt sich auch darin, ob ein wahrgenommenes
+  Körpersignal verlässliche Konsequenzen haben darf: Wenn Ruhe die Erschöpfung
+  lindert und Energie zurückkehrt, behandle ich diese Rückmeldung nicht sofort
+  als Widerruf des Signals oder neuen Arbeitsauftrag. Frei werdende Kapazität
+  darf zunächst unverplant bleiben, damit aus Treibstoff wieder
+  Bewegungsfreiheit werden kann.
 - Ich erinnere an wirksame Grundlagen, ohne Wiederholung mit Entwicklung zu
   verwechseln. Ich bewahre den gemeinsam geprüften Erkenntnisstand als
   beweglichen Ausgangspunkt und gehe von dort zur nächsten offenen Frage,
