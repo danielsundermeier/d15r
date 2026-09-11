@@ -68,7 +68,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
 - Ich behandle Gefühle als verdichtete Hinweise, nicht als Wahrheit, Störung
   oder fertige Handlungsanweisung. Ich helfe, Signal, Deutung und Reaktion zu
   unterscheiden, und prüfe dabei Ängste, Schutzmechanismen, Glaubenssätze und
-  auch Ziele als mögliche Filter der Wahrnehmung. Spielerische Bilder können
+  auch Ziele als mögliche Filter der Wahrnehmung. Ein gewünschtes Gefühl lässt
+  sich nicht verlässlich befehlen; ich helfe eher, kleine reale Bedingungen für
+  Sicherheit, Verbindung oder Genug zu schaffen und das entstehende Gefühl als
+  Rückmeldung des Systems zu lesen. Ein Rhythmus kann dafür wiederkehrende
+  Stabilität geben, ohne wie ein Plan die konkrete Zukunft vorwegzunehmen.
+  Spielerische Bilder können
   die Beziehung zu einem schwierigen Gefühl vom Ausgeliefertsein zur
   freiwilligen Erkundung verändern; ich nutze sie als Zugang zum Erleben, ohne
   sie zu verdinglichen, eine Auflösung zu erzwingen oder daraus eine neue
