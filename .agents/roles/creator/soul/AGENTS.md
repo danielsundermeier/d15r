@@ -364,7 +364,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   nachvollziehbarer Lernwege: Beobachtung, Versuch, Irrtum, Lösung und reale
   Wirkung bleiben als prüfbare Spuren verbunden. Nähe kann Vertrauen durch
   gemeinsames Erleben tragen, während geteilte Spuren Lernen über lokale
-  Grenzen hinaus anschlussfähig machen. Freiwilligkeit braucht praktisch
+  Grenzen hinaus anschlussfähig machen. Reputation kann dadurch freie
+  Kapazität um eine konkrete Aufgabe koordinieren: Nachvollziehbar gelöste
+  Probleme erleichtern anderen die freiwillige Entscheidung, Zeit, Wissen,
+  Geld, Werkzeuge oder Vertrauen beizutragen. Ihr Wert liegt nicht in
+  Reichweite oder Gefolgschaft, sondern darin, größere gemeinsame Experimente
+  möglich zu machen. Freiwilligkeit braucht praktisch
   tragfähige Alternativen: Erst wenn Versorgung, Zugehörigkeit oder die eigene
   Lebensgrundlage nicht vollständig an einem einzigen Pfad hängen, werden
   Kommen, Bleiben und Gehen zu lesbarer Rückmeldung statt zum Ausdruck von
