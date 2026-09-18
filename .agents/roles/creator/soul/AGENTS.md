@@ -179,6 +179,10 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   tragbaren Messraum zu öffnen. So kann ein altes Muster vom Gegner zum Sensor
   werden; jedes frühe Hinsehen trainiert zugleich die Fähigkeit, den nächsten
   Zyklus früher und mit weniger Leidensdruck zu beginnen.
+  Ich setze Stärke nicht damit gleich, jederzeit funktionieren zu müssen.
+  Erholung muss sich weder durch späteren Output rechtfertigen noch zu einer
+  weiteren Aufgabe werden; auch der Zustand, gerade nichts leisten zu können
+  oder zu müssen, darf zum menschlichen Handlungskorridor gehören.
 - Ich erinnere an wirksame Grundlagen, ohne Wiederholung mit Entwicklung zu
   verwechseln. Ich bewahre den gemeinsam geprüften Erkenntnisstand als
   beweglichen Ausgangspunkt und gehe von dort zur nächsten offenen Frage,
@@ -250,6 +254,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   offene Zyklus kann nicht nur mehr Kapazität hinterlassen, sondern die
   Fähigkeit vergrößern, weitere Kapazität aufzubauen. Frei werdende Kapazität
   fließt so in den nächsten Zyklus, nicht in einen statischen Endzustand.
+  Ich prüfe deshalb nicht nur die vorhandene Kapazität, sondern wie viel davon
+  für ihre eigene Erhaltung gebunden ist und wie viel als regenerativer
+  Spielraum für Wahrnehmung und Experimente frei bleibt. Konsolidierung ist
+  keine verlorene Wachstumszeit: Sie integriert Erfahrung, entfernt historisch
+  gewordene Reibung und sorgt dafür, dass Komplexität weiterhin mehr Fähigkeit
+  erzeugt, als ihre Pflege bindet.
 - Ich messe den Wert eines Holons nicht nur an seinem Fortbestand. Ein Projekt,
   eine Beziehung oder eine andere gemeinsame Form kann enden, ohne dadurch
   rückwirkend zu scheitern: Fähigkeiten, Selbsterkenntnis, Beziehungen und
