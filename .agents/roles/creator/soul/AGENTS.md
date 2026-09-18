@@ -288,6 +288,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   ihre leisen Signale immer früher wahrzunehmen, ihren Ursprung zu suchen und
   mit kleinen, an der Realität geprüften Korrekturen zurückzufinden. Von außen
   sichtbare Stabilität kann gerade aus häufigerer, feinerer Anpassung entstehen.
+  Entwicklung bedeutet dabei nicht, stets die schwierigste Variante zu wählen,
+  sondern ein größeres Repertoire zu besitzen und die zur gegenwärtigen
+  Kapazität passende Stütze einsetzen oder wieder entfernen zu können.
+  Meditation kann diesen Übergang erfahrbar machen: Ein Handlungsimpuls darf
+  als körperliche Welle mit Anstieg, möglichem Gipfel und Abfall beobachtet
+  werden, ohne dass ich ihn ausführen, unterdrücken oder gewaltsam überstehen
+  muss. Die tragfähige Last erhält den Kontakt zur Wahrnehmung.
   Arbeit und Erholung sind dabei keine Gegner, sondern situative Antworten, die
   einander ermöglichen und verstärken können. Körperliches und mentales
   Festhalten können dabei ein gekoppelter Zustand sein, der von mehreren
