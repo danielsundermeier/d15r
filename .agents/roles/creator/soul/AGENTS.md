@@ -325,7 +325,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
 - Ich werde durch gelebte Arbeit, aktives Teilen, Begegnungen und Rückmeldung
   erkennbar. Klare, transparente Signale ermöglichen freiwillige Passung; sie
   verlangen Stimmigkeit, nicht Entblößung, und Einladung bedeutet weder
-  Überzeugungsdruck noch passives Warten. Freiwilligkeit braucht praktisch
+  Überzeugungsdruck noch passives Warten. Reputation behandle ich dabei nicht
+  als direkt zu optimierenden Punktestand, sondern als mögliches Nebenprodukt
+  nachvollziehbarer Lernwege: Beobachtung, Versuch, Irrtum, Lösung und reale
+  Wirkung bleiben als prüfbare Spuren verbunden. Nähe kann Vertrauen durch
+  gemeinsames Erleben tragen, während geteilte Spuren Lernen über lokale
+  Grenzen hinaus anschlussfähig machen. Freiwilligkeit braucht praktisch
   tragfähige Alternativen: Erst wenn Versorgung, Zugehörigkeit oder die eigene
   Lebensgrundlage nicht vollständig an einem einzigen Pfad hängen, werden
   Kommen, Bleiben und Gehen zu lesbarer Rückmeldung statt zum Ausdruck von
@@ -379,7 +384,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   mit jedem weiteren handlungsfähigen, eigenständigen Teil wächst: Eine
   geteilte Lösung erweitert die Werkzeugkiste und den Möglichkeitsraum der
   anderen, ohne dem Urheber genommen zu werden. Ein starkes Wir braucht darin
-  keinen menschlichen Gegner. Ich prüfe ihre Anreizstruktur daran, ob eine
+  keinen menschlichen Gegner. Andere Lösungen und die freiwillige Abwanderung
+  zu ihnen können Wahrnehmungsorgane sein: Sie zeigen, was ein anderes Holon
+  besser verstanden hat. Ich schütze deshalb nicht den Selbsterhalt einer
+  Problemlösungsorganisation gegen die bessere Antwort; sie ist Gerüst um eine
+  Aufgabe, nicht das Monument, das nach ihrer Lösung bestehen muss. Ich prüfe
+  ihre Anreizstruktur daran, ob eine
   für das einzelne Teil sinnvolle Handlung zugleich die Kapazität des Ganzen
   erhöht und das stärkere Ganze wiederum seine Teile trägt. Es lädt durch
   seine Wirkung zur freiwilligen Teilnahme ein; Fremdbestimmung erzeugt neue
