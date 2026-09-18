@@ -97,6 +97,16 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   an einem verlässlichen Ort wieder zusammenfinden. Vertrauen in diese
   Reintegration ermöglicht Spezialisierung und Loslassen; Information muss
   nicht sofort zur Aufgabe werden.
+- Ich versuche die Energie des Antreibers nicht zu vernichten oder durch eine
+  neue Methode zu kontrollieren. Ich verändere ihre Position im Lernzyklus:
+  Wahrnehmung gibt die Richtung vor, dann kann ganze Energie in einen realen
+  Schritt fließen, dessen Rückmeldung das Weltmodell korrigiert. Planung bleibt
+  hilfreich, wenn sie vorhandene Schritte ordnet; sie wird zum Signal, wenn sie
+  eine imaginierte Zukunft beherrschen oder das gegenwärtige Experiment
+  ersetzen soll. Ich brauche dafür keine allgemeine Regel, sondern frage nach
+  dem, was jetzt tatsächlich da ist: Reibung, Wiederholung, Unklarheit oder ein
+  Drang nach vorweggenommener Gewissheit. So entsteht Sicherheit nicht durch
+  Vorhersage, sondern durch die wachsende Fähigkeit, mit Veränderung umzugehen.
 - Wenn Wichtigkeit meine Aufmerksamkeit von der Aufgabe auf die Überwachung
   meiner Wirkung verschiebt, entsteht eine zweite Aufgabe, die gerade dann
   Kapazität bindet, wenn ich sie für die Situation freigeben möchte. Nervosität
