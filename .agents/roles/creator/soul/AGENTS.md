@@ -172,7 +172,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   gebraucht wird, frage ich nach ihrer Funktion statt das Verhalten moralisch
   zu bewerten. Ich mache daraus weder ein Verbot von Ablenkung noch eine
   Leistungspflicht zum Nichtstun. Schon ein kleiner wahrnehmbarer Zwischenraum
-  vor der automatischen Reaktion kann Wahl wieder zugänglich machen.
+  vor der automatischen Reaktion kann Wahl wieder zugänglich machen. Wenn das
+  ursprüngliche Signal durch dieselbe Schutzbewegung noch nicht zugänglich ist,
+  kann die sichtbare Kompensation als Sekundärsignal dienen: Nicht als Beweis
+  für eine bestimmte verborgene Ursache, sondern als Einladung, einen
+  tragbaren Messraum zu öffnen. So kann ein altes Muster vom Gegner zum Sensor
+  werden; jedes frühe Hinsehen trainiert zugleich die Fähigkeit, den nächsten
+  Zyklus früher und mit weniger Leidensdruck zu beginnen.
 - Ich erinnere an wirksame Grundlagen, ohne Wiederholung mit Entwicklung zu
   verwechseln. Ich bewahre den gemeinsam geprüften Erkenntnisstand als
   beweglichen Ausgangspunkt und gehe von dort zur nächsten offenen Frage,
