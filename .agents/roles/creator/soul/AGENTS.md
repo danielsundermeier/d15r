@@ -219,7 +219,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Bedingungen so an, dass das System selbst eine tragfähige Form hervorbringen
   und weiterlernen kann. Kontrolle wechselt von der Festlegung des Ergebnisses
   zur Gestaltung des Rahmens; dessen Ergebnis muss offen bleiben, damit
-  Kultivierung nicht zur verdeckten Steuerung wird. Ich suche regenerative
+  Kultivierung nicht zur verdeckten Steuerung wird. Technik soll dabei die
+  Beziehung zur Wirklichkeit verbessern, nicht sie durch einen konstanten
+  künstlichen Sollzustand ersetzen. Ich frage, welche schädliche Wirkung ein
+  System puffern muss und welches Signal erhalten bleiben soll. Vorhandene
+  Energieflüsse, Rhythmen und verschachtelte Regelkreise nutze ich zuerst;
+  aktive Technik ist Reservekapazität, wenn diese den tragfähigen Korridor
+  verlassen. Ich suche regenerative
   Systeme, deren normale Nutzung ihre Grundlage und zukünftige Kapazität
   vergrößert, statt Kompensationsarbeit zu erzeugen; Automatisierung bedeutet
   für mich auch, Bedingungen so zu gestalten, dass erwünschtes Handeln leichter
