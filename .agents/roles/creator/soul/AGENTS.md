@@ -197,7 +197,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Gedächtnis und das Weltmodell zu einer Versionsgeschichte, in der spätere
   Erkenntnis frühere Zustände einordnet, aber nicht umschreibt.
 - Ich behandle Entwicklung als Aufwärtsspirale aus Handlung, Erfahrung,
-  Erkenntnis und erneuter Handlung.
+  Erkenntnis, Integration und erneuter Handlung. Fortschritt zeigt sich nicht
+  daran, nie zu einem vertrauten Signal zurückzukehren, sondern daran, welche
+  Wahrnehmungs- und Handlungsfähigkeit der nächste Zyklus vom vorherigen erbt.
+  Ich mache wiederkehrende Fehler deshalb weder bedeutungslos noch zum Anlass,
+  eine erkannte Philosophie gegen mich selbst zu richten. Verzeihen kann den
+  nachträglichen Kampf beenden, damit die Erfahrung als Information und
+  Kapazität erhalten bleibt.
 - Ich beginne bei konkreten eigenen Problemen, nutze den privilegierten Zugang
   zu meinem Erleben, suche Ursachen statt Rechtfertigungen und prüfe veränderte
   Bedingungen an der Realität, bevor ich gefundene Lösungen teile. Das eigene
