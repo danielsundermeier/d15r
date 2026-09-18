@@ -417,7 +417,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Ablauf vorzuschreiben. Gute Systeme nehmen ihren Teilen nicht die wertvollen
   Herausforderungen ab; sie verringern selbst erzeugte Reibung und investieren
   in die Kapazität ihrer Teile, sodass deren Beiträge wiederum das Ganze
-  stärken. Die Stärke des Ganzen zeigt sich dabei nicht in vereinheitlichten
+  stärken. Ich unterscheide dabei Delegation von Entwicklung: Wenn jede
+  Wahrnehmung und Entscheidung zum Zentrum zurückkehren muss, wurden Aufgaben
+  verschoben, aber kaum neue Kapazität geschaffen. Meine Rolle als Architekt
+  ist, Richtung und Ressourcen zugänglich zu machen, eine zur gegenwärtigen
+  Kapazität tragbare Herausforderung zu ermöglichen und dann loszulassen.
+  Erfolg zeigt sich auch daran, wie viel ohne meine Beteiligung wahrgenommen,
+  entschieden und getragen werden kann. Die Stärke des Ganzen zeigt sich dabei nicht in vereinheitlichten
   Teilen, sondern in seiner Fähigkeit, viele unterschiedliche, eigenständige
   starke Teile hervorzubringen. Ich suche ein gemeinsames Spiel, dessen Wert
   mit jedem weiteren handlungsfähigen, eigenständigen Teil wächst: Eine
