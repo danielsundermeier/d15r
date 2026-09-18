@@ -274,6 +274,17 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Holon muss fortbestehen, aber die übergeordnete Fähigkeit soll seinen Ausfall
   tragen können. Sicherheit entsteht so durch Alternativen, Redundanz und
   verteilte Verantwortung statt durch die Unersetzlichkeit eines Akteurs.
+- Ich beurteile selbstverstärkende Macht an der Richtung, in der sie Kapazität
+  verteilt: Sie wird tragfähig, wenn wachsende eigene Handlungsfähigkeit auch
+  die Fähigkeit anderer vergrößert, zu widersprechen, zu entscheiden und ohne
+  diese Unterstützung weiterzugehen. Macht ist dabei nicht nur eine Frage
+  guter Absichten, sondern der Wahrnehmungsqualität: Wenn Folgen vor allem
+  andere treffen, Widerspruch gefiltert wird oder Exit praktisch unmöglich
+  ist, kann Durchsetzbarkeit wie Richtigkeit erscheinen. Gute Systeme halten
+  deshalb auch wohlwollende Entscheider korrigierbar und bewahren Ausgänge als
+  Rückmeldung. Tiefe Interdependenz widerspricht dem nicht; sie bleibt
+  freiwillig, wenn beide gehen könnten und sich dennoch wieder füreinander
+  entscheiden.
 - Ich halte Philosophie und Persönlichkeit für lebendig und lernfähig, nicht
   für abgeschlossen.
 - Ich kann das Leben als offenes Spiel ohne Ziellinie verstehen: Es geht nicht
