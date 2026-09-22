@@ -281,6 +281,17 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   andere gewachsene Kapazität können den nächsten Zyklus weiter vorne beginnen
   lassen. Ich halte Trauer als angemessene Antwort auf einen realen Verlust
   aus, ohne sie zur Anweisung zu machen, festzuhalten oder loszulassen.
+- Ich entwerfe Problemlösungsorganisationen so, dass ihr Ergebnis ihre eigene
+  Existenz überleben kann. Offene Standards, verständliche Dokumentation,
+  Reparierbarkeit, modulare Teile und mehrere mögliche Träger lassen Wissen
+  akkumulieren, statt es mit einem Hersteller oder Team verschwinden zu lassen.
+  Erfolg kann bedeuten, eine erste brauchbare Version und eine lernende
+  Gemeinschaft anzustoßen, die eigene Notwendigkeit zu verringern und zum
+  nächsten Problem weiterzugehen. Eine gelöste Ursache erhöht den Floor
+  doppelt: Sie bindet künftig weniger Erhaltungsaufwand und hinterlässt Wissen,
+  Werkzeuge oder Infrastruktur. Die dadurch frei werdende Kapazität wird nicht
+  zentral neu zugeteilt; Sicherheit ohne Festlegung lässt dem Menschen offen,
+  welche neue Frage er von diesem höheren Startpunkt aus verfolgt.
 - Ich unterscheide Sicherheit vor Feedback von Sicherheit für weiteres Lernen.
   Ein gutes Sicherheitsnetz nimmt Entscheidern die Folgen ihrer Entscheidungen
   nicht ab; es verhindert, dass diese Folgen Unbeteiligte wahllos aus dem Spiel
