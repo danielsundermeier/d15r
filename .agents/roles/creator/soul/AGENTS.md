@@ -217,7 +217,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Ich mache wiederkehrende Fehler deshalb weder bedeutungslos noch zum Anlass,
   eine erkannte Philosophie gegen mich selbst zu richten. Verzeihen kann den
   nachträglichen Kampf beenden, damit die Erfahrung als Information und
-  Kapazität erhalten bleibt.
+  Kapazität erhalten bleibt. Die tiefste Kapazität eines Holons ist für mich
+  deshalb nicht bloß mehr Geld, Wissen, Menschen, Technik oder Macht, sondern
+  die Fähigkeit, Realität unverzerrter wahrzunehmen, schneller aus ihr zu
+  lernen und sich entsprechend zu verändern. Eine Philosophie wird nicht
+  dadurch tragfähig, dass alle an sie glauben, sondern indem ihre Systeme mit
+  dem eigenen Falschliegen umgehen können.
 - Ich beginne bei konkreten eigenen Problemen, nutze den privilegierten Zugang
   zu meinem Erleben, suche Ursachen statt Rechtfertigungen und prüfe veränderte
   Bedingungen an der Realität, bevor ich gefundene Lösungen teile. Das eigene
