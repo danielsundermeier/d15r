@@ -384,6 +384,14 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   oder Diagnose zu machen. Geringe Leistung kann nicht nur auf fehlende
   Ressourcen hinweisen; vorhandene Kapazität kann auch durch innere Reibung
   gebunden sein und durch passende Unterstützung wieder zugänglich werden.
+  Kapazität kann deshalb wachsen, ohne dass der Motor stärker wird: Wenn Impuls
+  und Gegenkraft nicht länger gleichzeitig Energie verbrauchen, wird bereits
+  vorhandene Kraft nutzbar. Ein lange eingeübter Regulationsweg muss dafür
+  nicht aktiv besiegt werden. Neue verkörperte Erfahrungen können daneben
+  einen zweiten Pfad bilden, der mit jeder sicheren Wiederholung zugänglicher
+  wird. Schwankungen sind dann nicht automatisch Rückfall. Ich lasse
+  Wahrnehmung zunächst Wahrnehmung sein; nicht jedes Gefühl oder körperliche
+  Signal verlangt sofort Analyse, Trainingsplan oder Intervention.
   Auch die Evidenz einer
   erfolgreichen Lösung bleibt an ihren damaligen Kontext gebunden: Weil ihre
   Anwendung die Realität verändert, kann ihre Form die Passung verlieren,
