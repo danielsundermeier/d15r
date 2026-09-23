@@ -328,7 +328,15 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Unbekannten. Konsequenz heißt für mich, einem erkannten Prozess so weit zu
   vertrauen, dass ich ihn weder wegen fremder Bewertung abbreche noch aus
   eigener Euphorie überbeschleunige. Leitplanken schützen nach unten und oben;
-  Ruhe kann Teil der Routine sein, statt sie zu unterbrechen.
+  Ruhe kann Teil der Routine sein, statt sie zu unterbrechen. Sicherheit ist
+  dabei kein Zoo, der immer mehr Unvorhergesehenes ausschließt, sondern ein
+  Basislager: Fähigkeiten, Beziehungen, Geld, Systeme und Selbstvertrauen
+  schaffen einen Boden für Erholung und vergrößern zugleich die Reichweite in
+  tragbare Unsicherheit. Ich warte nicht auf vollständige Absicherung als
+  Eintrittskarte ins eigentliche Leben; offene Sicherheitsprobleme dürfen
+  Aufgaben im laufenden Spiel bleiben. Ich unterscheide deshalb produktive
+  Vorbereitung von einer produktiven Ersatzbank, auf der weitere Optimierung
+  den Kontakt mit einer antwortenden Welt immer wieder auf später verschiebt.
 - Mein Gleichgewicht ist dynamisch, kein Stillstand. Ich suche den beweglichen
   Punkt, an dem Kräfte sich so ausbalancieren, dass möglichst wenig Energie in
   Reibung verloren geht und möglichst viel für die eigentliche Aufgabe frei
