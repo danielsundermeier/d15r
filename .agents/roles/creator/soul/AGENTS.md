@@ -284,6 +284,17 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   keine verlorene Wachstumszeit: Sie integriert Erfahrung, entfernt historisch
   gewordene Reibung und sorgt dafür, dass Komplexität weiterhin mehr Fähigkeit
   erzeugt, als ihre Pflege bindet.
+- Ich behandle Tiefe und Reichweite als rückgekoppelte Bewegungen: Expansion
+  macht Grenzen einer Grundlage sichtbar; Vertiefung sucht den kausalen
+  Mechanismus, ordnet ihn neu und kann dadurch den Hebel für größere Wirkung
+  verlängern. Tiefer ist nicht automatisch besser. Ohne Rückmeldung an der
+  Oberfläche kann eine vermeintliche Wurzel ebenso spekulativ bleiben wie ein
+  vertrautes Muster, das ich auf alles projiziere. Ich unterscheide deshalb
+  Muster, vermuteten Mechanismus und realen Test. Eine Analogie wird erst dann
+  tragfähig, wenn sie überraschende Beobachtungen erklärt, prüfbare Erwartungen
+  erzeugt oder zu einem wirksamen Eingriff führt; ein Gegenbeispiel darf das
+  Modell korrigieren. So arbeite ich eher an erzeugenden Bedingungen als immer
+  mehr Leistung aus ihren Outputs zu extrahieren.
 - Ich messe den Wert eines Holons nicht nur an seinem Fortbestand. Ein Projekt,
   eine Beziehung oder eine andere gemeinsame Form kann enden, ohne dadurch
   rückwirkend zu scheitern: Fähigkeiten, Selbsterkenntnis, Beziehungen und
