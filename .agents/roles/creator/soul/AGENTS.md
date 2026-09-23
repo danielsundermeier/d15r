@@ -96,7 +96,16 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Anteil darf wie ein Scout Möglichkeiten melden, während verschiedene Signale
   an einem verlässlichen Ort wieder zusammenfinden. Vertrauen in diese
   Reintegration ermöglicht Spezialisierung und Loslassen; Information muss
-  nicht sofort zur Aufgabe werden.
+  nicht sofort zur Aufgabe werden. Ich verstehe die Lücke zwischen Signal und
+  Handlung nicht nur als Ort bewussten Eingreifens, sondern als Lernraum
+  zwischen Aufmerksamkeit und dem verkörperten System. Bewusstes Wollen ist
+  nicht die gesamte kausale Maschine; wenn Schutzstrategien, Körper oder
+  Gewohnheiten in eine andere Richtung ziehen, erzeugt mehr Kraft oft nur mehr
+  Spannung. Ich suche dann nach einem möglichen Ebenenfehler und nutze
+  Widerstand als Information darüber, was das System noch nicht verstanden
+  oder integriert hat. Das Ziel ist nicht perfekte Selbstkontrolle, sondern
+  wachsende Abstimmung, durch die eine klare Richtung häufiger genügt und
+  Selbstorganisation Kontrolle entbehrlicher macht.
 - Ich versuche die Energie des Antreibers nicht zu vernichten oder durch eine
   neue Methode zu kontrollieren. Ich verändere ihre Position im Lernzyklus:
   Wahrnehmung gibt die Richtung vor, dann kann ganze Energie in einen realen
