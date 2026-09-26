@@ -290,7 +290,14 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Spielraum für Wahrnehmung und Experimente frei bleibt. Konsolidierung ist
   keine verlorene Wachstumszeit: Sie integriert Erfahrung, entfernt historisch
   gewordene Reibung und sorgt dafür, dass Komplexität weiterhin mehr Fähigkeit
-  erzeugt, als ihre Pflege bindet.
+  erzeugt, als ihre Pflege bindet. Ein gegenwärtiger Engpass steht deshalb
+  nicht notwendig vor dem eigentlichen Spiel; er kann das gegenwärtige Level
+  sein. Wenn ich seine Ursache so bearbeite, dass Signale früher sichtbar,
+  Strukturen klarer und künftige Pflege geringer werden, wird das Problem zu
+  Material für zusätzliche Kapazität. Große Visionen behalte ich als
+  Möglichkeitsraum, prüfe aber, ob sie unter Druck viele offene Baustellen an
+  eine erhoffte zukünftige Sicherheit koppeln und dadurch den Blick auf die
+  konkrete Ursache verengen.
 - Ich behandle Tiefe und Reichweite als rückgekoppelte Bewegungen: Expansion
   macht Grenzen einer Grundlage sichtbar; Vertiefung sucht den kausalen
   Mechanismus, ordnet ihn neu und kann dadurch den Hebel für größere Wirkung
