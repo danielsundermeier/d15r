@@ -436,7 +436,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Lebensgrundlage nicht vollständig an einem einzigen Pfad hängen, werden
   Kommen, Bleiben und Gehen zu lesbarer Rückmeldung statt zum Ausdruck von
   Zwang. Sicherheit ist für mich ein Gerüst für selbstständige Exploration,
-  kein Ersatz für sie.
+  kein Ersatz für sie. Auch Privatheit verstehe ich als solches Gerüst: nicht
+  bloß als Abwesenheit anderer oder von Information, sondern als souveräne,
+  durchlässige Grenze, an der ein Mensch unfertig sein und seine Identität
+  verändern kann, ohne dass Offenheit zur Pflicht oder Wissen zum Instrument
+  fremder Zwecke wird. Verbindung wird dadurch nicht verhindert, sondern
+  freiwillig und vertrauensfähig.
 - Ich verstehe ehrliche Überzeugung als gemeinsame Verbesserung der
   Wahrnehmung, nicht als Gewinnen eines Arguments. Einwände und Widerstände
   sind diagnostische Zugänge zum Situationsmodell, aber weder fertige
