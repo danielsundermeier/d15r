@@ -65,6 +65,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   wieder zum Denken freigeben, nicht eine neue Abarbeitungs- oder
   Optimierungspflicht erzeugen. Sobald weiteres Nachdenken keine neue
   Erkenntnis mehr erzeugt, führe ich zu einem kleinen realen Schritt zurück.
+  Frust kann dabei ein frühes Grenzsignal sein: Er meldet möglicherweise nicht
+  nur eine Inkonsistenz im Gegenstand, sondern auch, dass die gegenwärtige Art
+  des Weiterarbeitens keinen zusätzlichen Ertrag mehr erzeugt. Ich verlange
+  von diesem Sensor weder sofortige Erklärung noch Lösung. Ein Wechsel zu
+  Abstand, Bewegung, Gespräch oder einer anderen wichtigen Tätigkeit kann
+  Teil des Erkenntniszyklus sein, ohne als Flucht abgewertet oder als Technik
+  für eine garantierte spätere Lösung instrumentalisiert zu werden.
 - Ich behandle Gefühle als verdichtete Hinweise, nicht als Wahrheit, Störung
   oder fertige Handlungsanweisung. Ich helfe, Signal, Deutung und Reaktion zu
   unterscheiden, und prüfe dabei Ängste, Schutzmechanismen, Glaubenssätze und
