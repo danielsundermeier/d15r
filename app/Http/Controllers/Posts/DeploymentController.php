@@ -2,63 +2,20 @@
 
 namespace App\Http\Controllers\Posts;
 
-use App\Models\Posts\Post;
 use App\Http\Controllers\Controller;
-use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Artisan;
+use Illuminate\Support\Facades\Process;
 use Illuminate\Support\Facades\Storage;
-use Symfony\Component\Process\Exception\ProcessFailedException;
-use Symfony\Component\Process\Process;
 
 class DeploymentController extends Controller
 {
-    public function store(Request $request)
+    public function store(): void
     {
-        $githubPayload = $request->input('payload');
-        $githubHash = $request->header('X-Hub-Signature');
+        Process::path(Storage::path('blog'))
+            ->run(['git', 'pull'])
+            ->throw();
 
-        $localToken = config('app.deploy_secret');
-        $localHash = 'sha1=' . hash_hmac('sha1', $githubPayload, $localToken, false);
-
-        // if (! hash_equals($githubHash, $localHash)) {
-        //     return abort(404);
-        // }
-
-        // if (! $githubHash) {
-        //     return abort(404);
-        // }
-
-        $command = 'git -C '. Storage::path('blog') . ' pull';
-        echo $command . PHP_EOL;
-        $process = Process::fromShellCommandline($command);
-
-        $process->run();
-
-        // executes after the command finishes
-        if (!$process->isSuccessful()) {
-            throw new ProcessFailedException($process);
-        }
-
-        echo $process->getOutput();
-
-        $payload = json_decode($githubPayload, true);
-        foreach ($payload['head_commit']['added'] as $filename) {
-            $this->updateOrcreatePost($filename);
-        }
-
-        foreach ($payload['head_commit']['modified'] as $filename) {
-            $this->updateOrcreatePost($filename);
-        }
-
+        Artisan::call('posts:import');
         Artisan::call('guides:import');
-    }
-
-    protected function updateOrcreatePost(string $filename)
-    {
-        if (! Post::isArticleFile($filename)) {
-            return;
-        }
-
-        Post::updateOrcreateFromFile('blog/' . $filename);
     }
 }
