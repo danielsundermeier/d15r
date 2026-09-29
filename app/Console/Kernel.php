@@ -15,9 +15,9 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule)
     {
-        $schedule->command('tweets:publish:create')
-            ->dailyAt('08:00')
-            ->timezone('Europe/Berlin');
+        // $schedule->command('tweets:publish:create')
+        //     ->dailyAt('08:00')
+        //     ->timezone('Europe/Berlin');
     }
 
     /**
