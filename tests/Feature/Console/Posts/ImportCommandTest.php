@@ -2,7 +2,6 @@
 
 namespace Tests\Feature\Console\Posts;
 
-use App\Enums\Tweets\Type;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Carbon;
 use Illuminate\Support\Facades\DB;
@@ -59,32 +58,14 @@ class ImportCommandTest extends TestCase
         parent::tearDown();
     }
 
-    public function test_it_imports_one_publish_tweet_for_a_post_published_today_or_later(): void
+    public function test_it_imports_a_post_without_creating_a_tweet(): void
     {
         Carbon::setTestNow('2026-09-04 10:00:00 Europe/Berlin');
-        $this->putPost('2026-09-05 Ein neuer Gedanke.md', 'Die erste Beschreibung.');
+        $this->putPost('2026-09-05 Ein neuer Gedanke.md', 'Die Beschreibung.');
 
         $this->artisan('posts:import')->assertSuccessful();
 
-        $this->putPost('2026-09-05 Ein neuer Gedanke.md', 'Die neue Beschreibung.');
-        $this->artisan('posts:import')->assertSuccessful();
-
-        $this->assertDatabaseCount('tweets', 1);
-        $this->assertDatabaseHas('tweets', [
-            'type' => Type::PUBLISH->value,
-            'source' => '2026-09-05 Ein neuer Gedanke.md',
-            'scheduled_at' => '2026-09-05 00:00:00',
-            'text' => "Die neue Beschreibung.\n\nhttps://d15r.de/blog/ein-neuer-gedanke",
-        ]);
-    }
-
-    public function test_it_does_not_import_a_publish_tweet_for_a_past_post(): void
-    {
-        Carbon::setTestNow('2026-09-04 10:00:00 Europe/Berlin');
-        $this->putPost('2026-09-03 Ein alter Gedanke.md', 'Die Beschreibung.');
-
-        $this->artisan('posts:import')->assertSuccessful();
-
+        $this->assertDatabaseCount('posts', 1);
         $this->assertDatabaseCount('tweets', 0);
     }
 

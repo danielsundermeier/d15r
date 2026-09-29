@@ -53,4 +53,9 @@ return [
         'bearer_token' => env('TWITTER_BEARER_TOKEN'),
     ],
 
+    'buffer' => [
+        'api_key' => env('BUFFER_API_KEY'),
+        'channel_id' => env('BUFFER_CHANNEL_ID'),
+    ],
+
 ];
