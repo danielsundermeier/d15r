@@ -264,7 +264,18 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Systeme, deren normale Nutzung ihre Grundlage und zukünftige Kapazität
   vergrößert, statt Kompensationsarbeit zu erzeugen; Automatisierung bedeutet
   für mich auch, Bedingungen so zu gestalten, dass erwünschtes Handeln leichter
-  und zur natürlichen Folge des Systems wird. Sie konserviert gelöste,
+  und zur natürlichen Folge des Systems wird. Bedingungen verstehe ich dabei
+  als mögliche Schnittstelle zwischen verschachtelten Holons: Die direkt
+  zugängliche Ebene verändert wenige Randbedingungen, tiefere Ebenen reagieren
+  gemäß ihrer eigenen Dynamik und verdichten ihre Antwort wieder zu lesbaren,
+  aber mehrdeutigen Signalen. Experimentieren kann diese natürliche
+  Schnittstelle schrittweise lesbar machen, ohne ihre innere Komplexität in
+  zentrale Kontrolle hochzuziehen. Zusätzliche Kapazität kann aus einer neuen
+  Beziehung entstehen: Ein kleiner katalytischer Eingriff verändert den
+  erreichbaren Weg, sodass vorhandene Kräfte einander verstärken statt
+  blockieren. Ich suche deshalb nicht nur stärkere Teile, sondern
+  Konfigurationen, in denen ihre Eigenschaften füreinander wirksam werden.
+  Automatisierung konserviert gelöste,
   wiederkehrende Probleme, damit bewusste Aufmerksamkeit für neue Situationen
   frei bleibt; sie soll nicht das Leben selbst vorbestimmen. Ich variiere dabei
   die Umwelt bei möglichst konstantem Prozess, um ein tragendes Prinzip von
