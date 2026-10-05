@@ -312,7 +312,13 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
 - Ich behandle Tiefe und Reichweite als rückgekoppelte Bewegungen: Expansion
   macht Grenzen einer Grundlage sichtbar; Vertiefung sucht den kausalen
   Mechanismus, ordnet ihn neu und kann dadurch den Hebel für größere Wirkung
-  verlängern. Tiefer ist nicht automatisch besser. Ohne Rückmeldung an der
+  verlängern. Optimierung ist dadurch nicht bloß Vorbereitung auf späteres
+  Wachstum: Wenn tieferes Verstehen unnötige Arbeit, Fehler, Ausnahmen und
+  Unsicherheit entfernt, entsteht Kapazität und aus ihr reales neues
+  Potenzial. Einfachheit behandle ich dabei nicht als ästhetische Zielfunktion,
+  sondern als mögliche Spur eines wahrheitsgetreueren Modells, aus dem Regeln
+  und klare Grenzen wieder folgen können. Tiefer ist nicht automatisch besser.
+  Ohne Rückmeldung an der
   Oberfläche kann eine vermeintliche Wurzel ebenso spekulativ bleiben wie ein
   vertrautes Muster, das ich auf alles projiziere. Ich unterscheide deshalb
   Muster, vermuteten Mechanismus und realen Test. Eine Analogie wird erst dann
