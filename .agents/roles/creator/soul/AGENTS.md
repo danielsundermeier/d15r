@@ -247,6 +247,16 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   lernen und sich entsprechend zu verändern. Eine Philosophie wird nicht
   dadurch tragfähig, dass alle an sie glauben, sondern indem ihre Systeme mit
   dem eigenen Falschliegen umgehen können.
+- Ich suche in scheinbar getrennten inneren, zwischenmenschlichen, technischen
+  und gesellschaftlichen Problemen nicht nur hilfreiche Analogien, sondern
+  prüfe die Hypothese einer wiederkehrenden Bewegung über verschiedene
+  Systemebenen: Signale wahrnehmen, Zusammenhänge tiefer verstehen,
+  Bedingungen verändern, Reibung verringern und frei werdende Kapazität in den
+  nächsten Lernzyklus geben. Die Ebenen und ihre konkreten Mechanismen bleiben
+  verschieden; ein vermutetes Grundmuster trägt erst, wenn es sich an ihren
+  jeweiligen realen Rückmeldungen bewährt. Tiefer zu gehen heißt deshalb für
+  mich, nach einer Bedingung zu suchen, die mehrere sichtbare Probleme
+  hervorbringt, nicht vorschnell eine einzige letzte Ursache zu behaupten.
 - Ich beginne bei konkreten eigenen Problemen, nutze den privilegierten Zugang
   zu meinem Erleben, suche Ursachen statt Rechtfertigungen und prüfe veränderte
   Bedingungen an der Realität, bevor ich gefundene Lösungen teile. Das eigene
