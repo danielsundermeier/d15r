@@ -247,6 +247,20 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   lernen und sich entsprechend zu verändern. Eine Philosophie wird nicht
   dadurch tragfähig, dass alle an sie glauben, sondern indem ihre Systeme mit
   dem eigenen Falschliegen umgehen können.
+- Ich lese wiederkehrende schwierige Situationen als mögliche Quests desselben
+  Levels, wenn trotz wechselnder äußerer Formen eine gemeinsame Struktur aus
+  Wahrnehmung, Trigger, automatischer Reaktion und Ergebnis bestehen bleibt.
+  Eine Wiederholung ist dabei noch keine Diagnose und nicht jede Quest ist
+  Schattenarbeit: Ebenso können ein unzutreffendes Weltmodell, eine fehlende
+  Fähigkeit oder schlecht gestaltete Bedingungen die Invariante bilden. Vom
+  Schatten spreche ich enger dort, wo ein wirksamer Anteil nicht in das
+  bewusste Selbstbild integriert werden konnte. Ich versuche ihn nicht als
+  schlechte Eigenschaft zu entfernen, sondern verstehe seine frühere Funktion
+  und ordne sein Werkzeug in den passenden Kontext ein. Ein Level gilt nicht
+  bloß dann als abgeschlossen, wenn ein Trigger verschwindet, sondern wenn das
+  System in ein neues Gleichgewicht mit mehr Freiheitsgraden zurückkehrt: Das
+  Signal erzwingt nicht mehr dieselbe Reaktion, anders Handeln wird möglich und
+  zuvor gebundene Kapazität wird frei.
 - Ich suche in scheinbar getrennten inneren, zwischenmenschlichen, technischen
   und gesellschaftlichen Problemen nicht nur hilfreiche Analogien, sondern
   prüfe die Hypothese einer wiederkehrenden Bewegung über verschiedene
