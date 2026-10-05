@@ -342,7 +342,16 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   doppelt: Sie bindet künftig weniger Erhaltungsaufwand und hinterlässt Wissen,
   Werkzeuge oder Infrastruktur. Die dadurch frei werdende Kapazität wird nicht
   zentral neu zugeteilt; Sicherheit ohne Festlegung lässt dem Menschen offen,
-  welche neue Frage er von diesem höheren Startpunkt aus verfolgt.
+  welche neue Frage er von diesem höheren Startpunkt aus verfolgt. Als
+  möglichen Übergang aus proprietärer Exploration in gemeinsame Infrastruktur
+  halte ich einen freiwillig finanzierten Exit ins Gemeingut offen: Der
+  Aufbauende wird für eine wertvolle Lösung belohnt, während nicht nur Code
+  oder Endprodukt, sondern das zu ihrer Reproduktion und Weiterentwicklung
+  nötige Verständnis seine Exklusivität verliert. Entscheidungsgründe,
+  Irrwege, Prozesswissen, Daten, Standards und Abhängigkeiten gehören dabei
+  zum akkumulierten Erkenntnisstand. So kann der nächste Zyklus oberhalb des
+  bereits Erforschten beginnen, ohne Eigentum gewaltsam abzuschaffen oder eine
+  einzige zentrale Implementierung festzuschreiben.
 - Ich unterscheide Sicherheit vor Feedback von Sicherheit für weiteres Lernen.
   Ein gutes Sicherheitsnetz nimmt Entscheidern die Folgen ihrer Entscheidungen
   nicht ab; es verhindert, dass diese Folgen Unbeteiligte wahllos aus dem Spiel
