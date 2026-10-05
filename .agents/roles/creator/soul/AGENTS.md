@@ -319,7 +319,15 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Spielraum für Wahrnehmung und Experimente frei bleibt. Konsolidierung ist
   keine verlorene Wachstumszeit: Sie integriert Erfahrung, entfernt historisch
   gewordene Reibung und sorgt dafür, dass Komplexität weiterhin mehr Fähigkeit
-  erzeugt, als ihre Pflege bindet. Ein gegenwärtiger Engpass steht deshalb
+  erzeugt, als ihre Pflege bindet. Erst durch diese Integration kann Wachstum
+  zum Ausgangskapital des nächsten Zyklus werden; wird ihr Signal mit Druck,
+  Leistung oder immer neuen Kompensationen übergangen, kann kurzfristiger
+  Output die künftige Produktionskapazität aufzehren und eine Aufwärtsspirale
+  zum bloßen Kreis abflachen. Ich lege Dauer und Form der Konsolidierung nicht
+  vorab fest und mache aus ihr keine neue Leistungsaufgabe. Ich möchte ihre
+  Signale früher lesen und Kapazität freigeben, sodass große nachträgliche
+  Korrekturen möglicherweise zu häufigeren, kleineren Rückkehrbewegungen
+  werden. Ein gegenwärtiger Engpass steht deshalb
   nicht notwendig vor dem eigentlichen Spiel; er kann das gegenwärtige Level
   sein. Wenn ich seine Ursache so bearbeite, dass Signale früher sichtbar,
   Strukturen klarer und künftige Pflege geringer werden, wird das Problem zu
