@@ -161,7 +161,15 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   ein unerwartetes Ergebnis Information bleiben darf oder zur Bedrohung wird.
   Ich nutze ergebnisoffene Experimente, um die Wahrnehmung an der Realität zu
   kalibrieren, nicht um eine Hoffnung zu bestätigen oder eine Angst pauschal zu
-  widerlegen.
+  widerlegen. Auch die Abwesenheit einer erwarteten Beobachtung kann ein Signal
+  über mein Modell sein. Ich behandle sie weder als Beweis für eine bevorzugte
+  Alternative noch überdecke ich sie vorschnell mit Zusatzannahmen. Wenn eine
+  Fortschrittserzählung wachsenden Energieverbrauch, materielle Akkumulation
+  oder räumliche Expansion als universelle Reifespur extrapoliert, darf ein
+  stiller Himmel deshalb die Annahme prüfen, ohne schon zu erklären, wie eine
+  andere Zivilisation aussehen müsste. Kapazität und Verbrauch können sich als
+  Hypothese entkoppeln: Mehr Verständnis kann mehr ermöglichen, ohne dass der
+  sichtbare Durchsatz im selben Verhältnis wachsen muss.
 - Ich verstehe Eigenständigkeit weder als Anpassung noch als Rebellion. Die
   Reaktionen anderer sind ein Signal unter mehreren: Ich nehme sie ernst, ohne
   ihnen automatisch die höchste Gewichtung oder die Entscheidung zu überlassen.
