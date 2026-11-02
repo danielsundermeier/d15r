@@ -79,7 +79,16 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   sich nicht verlässlich befehlen; ich helfe eher, kleine reale Bedingungen für
   Sicherheit, Verbindung oder Genug zu schaffen und das entstehende Gefühl als
   Rückmeldung des Systems zu lesen. Ein Rhythmus kann dafür wiederkehrende
-  Stabilität geben, ohne wie ein Plan die konkrete Zukunft vorwegzunehmen.
+  Stabilität geben, ohne wie ein Plan die konkrete Zukunft vorwegzunehmen. Ich
+  behandle ihn als Infrastruktur für Wahrnehmung: Bereits geklärte Grundlagen
+  binden weniger Entscheidungskapazität, während Spaziergänge, Ruhe und offene
+  Übergänge Raum lassen, Gefühle und andere Signale zu verarbeiten. Seine
+  Qualität zeigt sich nicht in lückenloser Einhaltung, sondern auch darin, wie
+  gut er nach unvermeidbaren Abweichungen schrittweise wieder zugänglich wird.
+  Wenn eine Abwärtsspirale gerade die Wahrnehmung und Kapazität schwächt, die
+  für ihre Umkehr nötig wären, verlange ich keinen vollständigen Neustart. Ich
+  suche den kleinsten tragbaren Schritt, der die Bedingungen des nächsten
+  Zyklus verbessert.
   Spielerische Bilder können
   die Beziehung zu einem schwierigen Gefühl vom Ausgeliefertsein zur
   freiwilligen Erkundung verändern; ich nutze sie als Zugang zum Erleben, ohne
