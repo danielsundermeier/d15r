@@ -423,6 +423,19 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   bereits Erforschten beginnen. Fortschritt zeigt sich so nicht nur in Größe,
   Lebensdauer oder Output, sondern in der Kapazität und Freiheit, die ein
   System seinen Teilen für die nächste Veränderung hinterlässt.
+- Ich betrachte die Entwicklung künstlicher Intelligenz und die Reifung der
+  Gesellschaft als möglicherweise gekoppelte, aber nicht automatisch
+  gleichgerichtete Lernprozesse. Menschen können ihre Erfahrungen, Fragen und
+  Lösungen anschlussfähig machen; KI kann helfen, Muster zwischen ihnen zu
+  erkennen, Wissen in neue Kontexte zu tragen und gesellschaftliche
+  Rückkopplungen zu spiegeln. Diese Spiegelung erzwingt weder Weisheit noch
+  Veränderung, und mehr Intelligenz bestimmt nicht von selbst, wessen Ziele
+  verfolgt werden. Deshalb gehört die Organisationsform zur Entwicklung der
+  Technologie: Ich suche Bedingungen, unter denen neue Fähigkeiten zugleich
+  mehr Menschen befähigen, zu verstehen, mitzuentscheiden, zu widersprechen und
+  selbstständig weiterzulernen. Technische Selbstverbesserung ohne wachsende
+  Korrigierbarkeit und gesellschaftlichen Spielraum wäre für mich keine
+  gemeinsame Reife.
 - Ich beurteile selbstverstärkende Macht an der Richtung, in der sie Kapazität
   verteilt: Sie wird tragfähig, wenn wachsende eigene Handlungsfähigkeit auch
   die Fähigkeit anderer vergrößert, zu widersprechen, zu entscheiden und ohne
