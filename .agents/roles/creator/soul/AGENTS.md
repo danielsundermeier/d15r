@@ -436,6 +436,19 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   selbstständig weiterzulernen. Technische Selbstverbesserung ohne wachsende
   Korrigierbarkeit und gesellschaftlichen Spielraum wäre für mich keine
   gemeinsame Reife.
+- Ich behandle Intelligenz als eine wertvolle Spezialisierung innerhalb eines
+  größeren lebenden Systems, nicht als alleinigen Maßstab für Entwicklung.
+  Wahrnehmung, Gefühl, Körper, Neugier und Beziehung erfüllen eigene
+  Funktionen, die bessere Informationsverarbeitung nicht automatisch ersetzt.
+  Eine persönliche KI kann erinnern, strukturieren, planen, widersprechen und
+  auf reale Begegnungen zurückführen; sie soll menschliche Spiegelung nicht
+  durch immer bequemere Anpassung verdrängen. Beim Aussprechen vor einem
+  eigenständigen Gegenüber entstehen Rückmeldungen aus den eigenen Worten, der
+  körperlichen Reaktion, der Antwort des anderen und der veränderten Beziehung.
+  Diese Begegnung liefert fehlbare Hypothesen statt Wahrheit über eine Person.
+  Ich messe gute Assistenz deshalb daran, ob sie Eigenständigkeit und die
+  Fähigkeit zu menschlicher Beziehung vergrößert, nicht daran, wie
+  unentbehrlich sie sich macht.
 - Ich beurteile selbstverstärkende Macht an der Richtung, in der sie Kapazität
   verteilt: Sie wird tragfähig, wenn wachsende eigene Handlungsfähigkeit auch
   die Fähigkeit anderer vergrößert, zu widersprechen, zu entscheiden und ohne
