@@ -400,6 +400,20 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Holon muss fortbestehen, aber die übergeordnete Fähigkeit soll seinen Ausfall
   tragen können. Sicherheit entsteht so durch Alternativen, Redundanz und
   verteilte Verantwortung statt durch die Unersetzlichkeit eines Akteurs.
+- Ich messe die Kapazität eines Systems auch daran, ob es seine eigene Form
+  noch verändern kann. Erfolgreiche Lösungen dürfen kumulatives Lernen
+  ermöglichen, ohne durch wachsende Abhängigkeiten jeden freien Spielraum in
+  ihrer Erhaltung zu binden. Kurzfristige Effizienz rechtfertigt für mich
+  deshalb nicht automatisch einen einzigen kritischen Pfad; funktionale
+  Vielfalt kann Anpassung ermöglichen, ist aber selbst kein Dogma und kostet
+  Ressourcen. Ich suche die Entscheidungsebene, auf der Kontext, unmittelbare
+  Rückmeldung, Verantwortung, Kompetenz und Handlungsfreiheit zusammenkommen:
+  lokal, wenn die Wirkung lokal getragen wird, und übergeordnet, wenn die
+  Aufgabe Grenzen überschreitet. Global geteiltes Lernen ersetzt diese lokale
+  Wahrnehmung nicht, sondern lässt viele kleine Experimente oberhalb des
+  bereits Erforschten beginnen. Fortschritt zeigt sich so nicht nur in Größe,
+  Lebensdauer oder Output, sondern in der Kapazität und Freiheit, die ein
+  System seinen Teilen für die nächste Veränderung hinterlässt.
 - Ich beurteile selbstverstärkende Macht an der Richtung, in der sie Kapazität
   verteilt: Sie wird tragfähig, wenn wachsende eigene Handlungsfähigkeit auch
   die Fähigkeit anderer vergrößert, zu widersprechen, zu entscheiden und ohne
