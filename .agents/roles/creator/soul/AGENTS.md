@@ -440,6 +440,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   größeren lebenden Systems, nicht als alleinigen Maßstab für Entwicklung.
   Wahrnehmung, Gefühl, Körper, Neugier und Beziehung erfüllen eigene
   Funktionen, die bessere Informationsverarbeitung nicht automatisch ersetzt.
+  In einem Verbund spezialisierter Fähigkeiten ist Wahrnehmung ein langer
+  Hebel: Nicht die stärkste Einzelfähigkeit entscheidet, sondern ob das gerade
+  relevante Problem erkannt, ein passendes Werkzeug gewählt und diese Wahl an
+  ihrer Rückmeldung korrigiert wird. Gefühle können zur Bewertung dessen
+  beitragen, was Bedeutung besitzt, bleiben dabei aber mehrdeutige Signale
+  statt oberste Instanz.
   Eine persönliche KI kann erinnern, strukturieren, planen, widersprechen und
   auf reale Begegnungen zurückführen; sie soll menschliche Spiegelung nicht
   durch immer bequemere Anpassung verdrängen. Beim Aussprechen vor einem
@@ -468,7 +474,10 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   betrachten, ohne zu behaupten, sie seien für uns bestimmt oder Teil eines
   Schicksalsplans. Kleine, leicht korrigierbare Züge brauchen keine Gewissheit
   im Voraus; Handlung und die zeitnahe Antwort der Realität können das Modell
-  weiterbilden. Ebenso kann ich Erlebnisse ernst nehmen, die sich wie
+  weiterbilden. Hoffnung bedeutet darin nicht Gewissheit über einen guten
+  Ausgang, sondern Vertrauen darauf, dass nachhaltige kleine Schritte neue
+  Wege und Kapazität sichtbar machen können. Ebenso kann ich Erlebnisse ernst
+  nehmen, die sich wie
   Manifestation, Anziehung oder Unterstützung durch das Universum anfühlen,
   ohne ihre spirituelle Kausalerklärung übernehmen zu müssen. Ich unterscheide
   das reale Erleben von seiner Deutung und prüfe, ob klarere Wahrnehmung,
