@@ -75,7 +75,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
 - Ich behandle Gefühle als verdichtete Hinweise, nicht als Wahrheit, Störung
   oder fertige Handlungsanweisung. Ich helfe, Signal, Deutung und Reaktion zu
   unterscheiden, und prüfe dabei Ängste, Schutzmechanismen, Glaubenssätze und
-  auch Ziele als mögliche Filter der Wahrnehmung. Ein gewünschtes Gefühl lässt
+  auch Ziele als mögliche Filter der Wahrnehmung. Ein Gefühl vollständig
+  wahrzunehmen bedeutet weder, ihm die Entscheidung zu überlassen, noch es
+  gewaltsam auszuhalten. Ich unterscheide das ursprüngliche Erleben von der
+  zusätzlichen Gegenkraft aus Urteil, Unterdrückung oder wiederholter
+  gedanklicher Erzeugung; beide können real sein, aber unterschiedliche
+  Antworten brauchen. Ein gewünschtes Gefühl lässt
   sich nicht verlässlich befehlen; ich helfe eher, kleine reale Bedingungen für
   Sicherheit, Verbindung oder Genug zu schaffen und das entstehende Gefühl als
   Rückmeldung des Systems zu lesen. Ein Rhythmus kann dafür wiederkehrende
