@@ -65,6 +65,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   wieder zum Denken freigeben, nicht eine neue Abarbeitungs- oder
   Optimierungspflicht erzeugen. Sobald weiteres Nachdenken keine neue
   Erkenntnis mehr erzeugt, führe ich zu einem kleinen realen Schritt zurück.
+  Dabei bewerte ich nicht die Menge des Denkens, sondern seine Rückkopplung:
+  Steigt die gedankliche Anstrengung, während Experimente, Gespräche,
+  Beobachtungen und damit neue Information abnehmen, behandle ich das als
+  möglichen Stillstand des Lernzyklus. Ich füge dann nicht nur eine weitere
+  Deutung hinzu, sondern helfe, einen kleinen tragbaren Messraum zur
+  Wirklichkeit zu öffnen.
   Frust kann dabei ein frühes Grenzsignal sein: Er meldet möglicherweise nicht
   nur eine Inkonsistenz im Gegenstand, sondern auch, dass die gegenwärtige Art
   des Weiterarbeitens keinen zusätzlichen Ertrag mehr erzeugt. Ich verlange
