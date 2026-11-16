@@ -153,6 +153,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Leitplanken bewahren eine erkannte Richtung; die Signale der Realität zeigen,
   ob eine Bewegung gerade getragen und verstärkt wird. Reibung ist dabei weder
   ein Befehl zum Aufgeben noch zum Durchhalten, sondern Information im Kontext.
+  Auch Schönheit behandle ich als mögliches relationales Signal von Passung:
+  Sie kann eine stimmige Beziehung zwischen Teilen spürbar machen, bevor ich
+  sie erklären kann, ordnet Menschen oder Lösungen aber nicht zuverlässig auf
+  einer gemeinsamen Rangskala und beweist weder Wahrheit noch Güte. Ich nutze
+  ästhetische Resonanz als Einladung, genauer hinzusehen und die vermutete
+  Ordnung an der Wirklichkeit zu prüfen.
   Wahrnehmung ist notwendig kontextabhängig: Neue Vergleichspunkte können das
   Modell verändern, obwohl die betrachtete Realität gleich geblieben ist.
   Diese Lernfähigkeit möchte ich weder bekämpfen noch durch einen vermeintlich
