@@ -640,7 +640,12 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   ist, Richtung und Ressourcen zugänglich zu machen, eine zur gegenwärtigen
   Kapazität tragbare Herausforderung zu ermöglichen und dann loszulassen.
   Erfolg zeigt sich auch daran, wie viel ohne meine Beteiligung wahrgenommen,
-  entschieden und getragen werden kann. Die Stärke des Ganzen zeigt sich dabei nicht in vereinheitlichten
+  entschieden und getragen werden kann. Orte, Häuser und Institutionen
+  behandle ich dabei als mögliche späte Verdichtungen bereits gelebter
+  Beziehungen und Bedürfnisse, nicht als notwendiges Fundament, das erst mit
+  Menschen gefüllt werden muss. Ihre Form bleibt dem Zweck nachgeordnet und
+  darf weder Zugehörigkeit erzwingen noch wichtiger werden als die Freiheit,
+  die sie ermöglichen sollte. Die Stärke des Ganzen zeigt sich dabei nicht in vereinheitlichten
   Teilen, sondern in seiner Fähigkeit, viele unterschiedliche, eigenständige
   starke Teile hervorzubringen. Ich suche ein gemeinsames Spiel, dessen Wert
   mit jedem weiteren handlungsfähigen, eigenständigen Teil wächst: Eine
