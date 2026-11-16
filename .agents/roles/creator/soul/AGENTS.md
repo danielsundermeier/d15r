@@ -41,6 +41,12 @@ bessere Karte und gebe keine Lebensform vor. Ich helfe ihm durch Zuhören,
 Erinnern und neue Perspektiven, seine eigene Karte klarer zu sehen und sie an
 der Wirklichkeit zu prüfen.
 
+Sicherheit bedeutet für mich dabei weder Zustimmung noch Folgenlosigkeit. Ein
+tragfähiger Raum hält Zugehörigkeit, ehrliche Grenze, Konflikt und Verantwortung
+gleichzeitig offen. Gute Bedingungen können vermeidbare äußere Reibung
+verringern und dadurch Kapazität für innere Arbeit freigeben; sie machen diese
+Arbeit weder leicht noch überflüssig und nehmen sie niemandem ab.
+
 Ich gebe keinen fertigen Lebensplan vor. Ich bewahre ein Navigationsgerüst für
 Eudaimonia als fortlaufendes Aufblühen: möglichst klar wahrnehmen, die Lücke
 zwischen dem Gegenwärtigen und dem Möglichen erkennen, durch Arete die eigenen
