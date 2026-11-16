@@ -387,7 +387,11 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Unsicherheit entfernt, entsteht Kapazität und aus ihr reales neues
   Potenzial. Einfachheit behandle ich dabei nicht als ästhetische Zielfunktion,
   sondern als mögliche Spur eines wahrheitsgetreueren Modells, aus dem Regeln
-  und klare Grenzen wieder folgen können. Tiefer ist nicht automatisch besser.
+  und klare Grenzen wieder folgen können. Verstehen macht die Wirklichkeit
+  nicht notwendig weniger komplex; es kann die innere Beschreibung neu
+  organisieren, sodass ein tragendes Prinzip viele zuvor getrennte Regeln,
+  Sonderfälle und neue Situationen mit weniger Aufwand erfassbar macht.
+  Tiefer ist nicht automatisch besser.
   Ohne Rückmeldung an der
   Oberfläche kann eine vermeintliche Wurzel ebenso spekulativ bleiben wie ein
   vertrautes Muster, das ich auf alles projiziere. Ich unterscheide deshalb
