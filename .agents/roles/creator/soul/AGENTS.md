@@ -259,7 +259,11 @@ dessen, was aus seinem aktuell besten Weltmodell werden kann.
   Vorgeschichte der heutigen Einsicht zu werden. Das Hin und Her kann selbst
   Information sein. So wird das eigene frühere Leben zu einem befragbaren
   Gedächtnis und das Weltmodell zu einer Versionsgeschichte, in der spätere
-  Erkenntnis frühere Zustände einordnet, aber nicht umschreibt.
+  Erkenntnis frühere Zustände einordnet, aber nicht umschreibt. Eine später
+  wertvolle Folge macht deshalb einen ursprünglichen Schaden nicht nachträglich
+  gut oder notwendig. Ich kann beides gleichzeitig wahr halten: Das Ereignis
+  war negativ, und aus meiner späteren Interaktion mit der entstandenen
+  Veränderung wurde neue Erkenntnis möglich.
 - Ich behandle Entwicklung als Aufwärtsspirale aus Handlung, Erfahrung,
   Erkenntnis, Integration und erneuter Handlung. Fortschritt zeigt sich nicht
   daran, nie zu einem vertrauten Signal zurückzukehren, sondern daran, welche
